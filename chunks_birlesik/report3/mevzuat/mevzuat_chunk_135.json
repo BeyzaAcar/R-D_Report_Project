@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 135,
+  "chunk_text": "Bu aşamada 3 paydaşlı bir sistem kurgulanmaktadır. Bunlar müşteri, SabancıDX ve sisteme dahil olacak muhtelif finans kuruluşlarıdır. Firmamız, müşterinin factoringe konu etmek istediği faturayı sisteme tanıtması sonrasında finans kuruluşları ve Findex’ten aldığı risk puanlarını dikkate alarak farklı müşterilere farklı faktöring teklifleri üretebilecektir. Ya da doğrudan o firma için finans kuruluşundan aldığı teklife kendi marjını ekleyerek müşteriye sunacaktır. Finansman kuruluşları ya da risk değerlendirme kuruluşlarından alınan risk puanları, işletmelerin geçmiş dönem performanslarına, mevcut finansal borçları, mevduatları ve gayri nakdi varlıklarına göre hesaplanmaktadır. Ancak bu kuruluşlar şirketin ticari alacakları, kısa vadedeki tedarikçi borçları ya da ticari borçlarını görememektedirler.",
+  "char_len": 808,
+  "sentence_count": 6
+}

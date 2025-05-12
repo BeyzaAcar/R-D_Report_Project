@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 426,
+  "chunk_text": "Yukarıda belirtilmiş olan ana amaçlarımıza ulaşılabilmesi için mevcut İnsan Kaynakları Uygulamamızda (HR-Web) bulunmayan süreçlerimiz ve teknik eksikliklerimiz aşağıdaki gibidir; - Holding ve çoklu şirket yapıları yönetilememektedir. - İnsan Kaynakları süreçlerini kapsayacak tüm modüller arasında verisel akış sağlanamamaktadır. - Veriler tarihsel bazlı izlenememektedir. - Ücret, vb verilerde, dinamik veri şifreleme yapılamamaktadır. - Değer listeleri ve fonksiyonlar bazında yetkilendirme işlemleri yapılamamaktadır. - İş akışı mekanizması bulunmamaktadır, süreçler izlenememektedir. - Pozisyon ve organizasyon hiyerarşileri pozisyon değil kişi bazlı yapılmaktadır. - İş zekası çözümleri bulunmamaktadır, raporlamalar modüllerin içerisinden dinamik sorgulamalar yada özel statik raporlamalar bulunmaktadır. Amacımız yukarıda yer alan eksikliklerin giderileceği, kapsamlı iş zekası çözümleri sunan yenilikçi bir ürünün geliştirilmesidir.",
+  "char_len": 940,
+  "sentence_count": 2
+}

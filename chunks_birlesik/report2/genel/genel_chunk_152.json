@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 152,
+  "chunk_text": "Bu bakımdan projemiz alanında yenilikçi bir proje olarak öne çıkmaktadır. Her platformun kendi uzmanından alınacak danışmanlık ile firmamızın bu konudaki bilgi birikimi geliştirilecek ve yeni yeteneklerin firmamıza kazandırılması sağlanacaktır. Bunun yanında koordineli çalışma sonucunda başka firmaların veya hizmetlerin erişemediği yeni API’ler firmamıza sunulacak ve ekibimizin başka yazılım ve servis çözümleri ile entegrasyon ve ürün geliştirme kabiliyeti gelişecektir. Seçilen platformların farklı yazılım yöntemleri ile API’ler sunması sonucunda firmamızın ARGE ekibinin GraphQL ve benzeri farklı yöntemler ile olan bilgi birikimi de gelişecektir. Benzer şekilde her platformun kullandığı programlama dilleri, veri modelleri ve veri sorgulama yöntemleri farklılık göstermektedir.",
+  "char_len": 786,
+  "sentence_count": 5
+}

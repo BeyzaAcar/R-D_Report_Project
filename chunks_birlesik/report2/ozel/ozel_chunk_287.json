@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 287,
+  "chunk_text": "Platform analizi a. Belirlenen platformlar için teknik analiz b. Belirlenen platformlar için veri modeli analizi 2. Platform entegrasyon altyapısının belirlenmesi a. Veri modellerinin ve interfacelerin belirlenmesi b. Ortak veri modeli üzerinden interfacelerin tanımlanması ve public olarak sunulması ve dökümantasyonları c. Ortak yazılım kütüphanelerinin belirlenmesi d. Platform özel entegrasyonların ve translator katmanlarının belirlenmesi 3.",
+  "char_len": 446,
+  "sentence_count": 2
+}

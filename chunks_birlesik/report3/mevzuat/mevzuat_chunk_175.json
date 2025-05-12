@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 175,
+  "chunk_text": "Yaptığımız araştırmalarda ulusal piyasada bu kapsamda ticarileştirilen bir sistem bulunmamaktadır. Projede ayrıca, ARG ve aksiyonlar bazında panolar ve takvimler oluşturulabilmekte ve yapılması gereken işlemlere kısa yoldan erişim ve bilgilendirme sağlanmaktadır. Yani tüm bir GRC sistemi tek bir “Bilgilendirme” sistemi ile entegre edilip, aynı kanaldan sorumlular bilgilendirilecek, dolayısıyla her bir işlem tek bir tümleşik sistem üzerinde yürütülebilecektir. Proje sadece bir kuruluşun değil, varsa gruba bağlı birden fazla kuruluşun takibini yapabilecek, gerektiğinde grup bazında konsolide veriler üretebilecektir. Yani her bir kuruluş ayrı ayrı raporlanabileceği gibi, tek bir raporda, birden fazla kuruluşun bilgisine erişilebilecektir. Projedeki yetkilendirmeler, bu yapı dikkate alınarak hazırlanacak, her bir firma sadece kendi bilgilerine erişebilecek, bunun yanında yönetici olarak atanan kullanıcılar konsolide verilere erişebileceklerdir.",
+  "char_len": 954,
+  "sentence_count": 6
+}

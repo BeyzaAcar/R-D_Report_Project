@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 194,
+  "chunk_text": "Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır. Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. Operasyonel Uygulama kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: Java -Uygulama Çatısı: Java 1.7 / 1.8, MVC Framework, -Veri tabanı: SQL Server, MongoDB -Uygulama Sunucu: IBM WebSphere Application Server -Yazılım Araçları: Eclipse. Projemiz kapsamında, insan kaynağınızı etkin bir biçimde değerlendirmenizi sağlar. Uygulama alanı geniştir.",
+  "char_len": 866,
+  "sentence_count": 6
+}

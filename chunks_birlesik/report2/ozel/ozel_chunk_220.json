@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 220,
+  "chunk_text": "Bu amaçla bir zaman serisi (time series) analizi geliştirilecek olup ARIMA ve onun sezonsallık içeren versiyonu olan SARIMA uygulanması planlanmaktadır. Son olarak upsell ve cross-sell alanları için firmamızın daha önce geliştirmiş olduğu öneri sistemi baz alınacak ama tekrarlı satın almanın gerektirdiği şekilde yeniden düzenlenecektir.",
+  "char_len": 338,
+  "sentence_count": 2
+}

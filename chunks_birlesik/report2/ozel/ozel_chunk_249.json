@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 249,
+  "chunk_text": "Reklam platformlarının entegrasyonu a. Reklam Faaliyetler platformlarına veri aktarımı altyapısı (proje -> reklam platformları) b. Reklam platformlarından veri toplama altyapısı (reklam platformları - > proje) c. Reklam metrikleri raporlaması ve analitiği 3. Reklam hedef kitlesi müşteri segmentasyonu a. Mikro segment gruplarının belirlenmesi b. Segmentasyon sisteminin eğitim kümeleri ile eğitimi c. Segmentasyon sistemi geliştirmeleri ve optimizasyonu d. Segmentlerin reklam platformlarına aktarılması 4.",
+  "char_len": 507,
+  "sentence_count": 2
+}

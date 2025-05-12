@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 259,
+  "chunk_text": "Aynı şekilde hızın yeterli olmadığı durumlarda analizlerin paralel yapılabilmesi için MapReduce tarzı hızlı işlem imkanı veren teknikler kullanılacaktır. Bunun kararı ve ne seviyede kullanılacağı belli bir aşamaya gelindikten sonra verilecektir. - Yüksek oranda sınıflandırması doğru yapıldığı düşünülen girdiler(ihale adı, malzeme adı gibi) Elastic Search ortamlarına sokularak kullanıcının daha en baştan sınıflandırılmış veri ile girdi yapmasını sağlayacaktır.",
+  "char_len": 463,
+  "sentence_count": 2
+}

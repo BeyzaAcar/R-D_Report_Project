@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 433,
+  "chunk_text": "Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. - Uygulama geliştirme mimarisi olarak mikro servis / sunucusuz fonksiyonlarla geliştirme opsiyonları tercih edilecektir. - İş akışlarının ön yüzden dinamik bir şekilde kullanıcının oluşturabilmesi için dünyaca standart olarak kabul edilen BPMN formatına uygun motor geliştirilecek ve ön yüzden kontrol edilebilecektir. - İhtiyaç duyulan fonksiyonlar için önerme, öngörü, uyarı tarzı mesajlar uygulama dışında sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en yakın olabilecek performansta tekrar uygulamaya gönderilecektir. Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen sistemler oluşturulmalıdır. - Veri değişmezlik (immutable) özelliği içeren veritabanı özellikleri ile çalışılacaktır.",
+  "char_len": 890,
+  "sentence_count": 2
+}

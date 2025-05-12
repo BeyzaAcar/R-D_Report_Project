@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 80,
+  "chunk_text": "Bu sorumlulukları bir çok madde yazarak sıralayabiliriz ama devlet ve denetleyici kurumlar açısından en önemli olanı ERP ‘ler üzerinden aktarılan girdilerin tümüyle muhasebe şartlarına ve ilkelerine uygun şekilde kurgulanarak elektronik defter formatına dönüşmesini sağlama süreci olarak gösterilebiliriz. Yukarıda belirtilen zorunluluklar kapsamında kurumların ERP’leri tarafında oluşturulan defter datalarını muhasebe ilkeleri ve kuralları paralelinde öğretilmiş bir kurgu içerisinde analiz edecek, hatalı ve eksik olan noktaları bularak yönlendirmesini yaparak defterin en sağlıklı haliyle GİB’e gönderilmesini sağlayan bir kurguya ihtiyaç duyulmaktadır. E-defterlerin denetimi belli kurallar çerçevesinde olmakla beraber farklı iş kollarındaki işletmelerde faaliyet alanı gereği doğal farklılaşmalar olduğu gibi farklı işletmelerin ya da denetim şirketlerinin denetim süreçlerindeki metrik setleri de birbirinden farklı olabilmektedir. Bu sebeple standart bir e-defter denetim çözümünün olduğu gibi bütün işletmelerde kullanılması mümkün değildir. Projemiz ile e-defter denetim süreçlerinde firmaların kendi kural setlerini oluşturabilecekleri, belli rasyoları basit matematiksel ifadelerle ya da daha karmaşık modeller kurarak inceleyebilecekleri bir sistem geliştirilecektir. Hali hazırda öngörülen sistemin bir örneği tespit edilememiştir.",
+  "char_len": 1346,
+  "sentence_count": 6
+}

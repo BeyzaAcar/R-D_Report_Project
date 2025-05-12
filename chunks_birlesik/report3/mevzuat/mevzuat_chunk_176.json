@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 176,
+  "chunk_text": "Yani tüm bir GRC sistemi tek bir “Bilgilendirme” sistemi ile entegre edilip, aynı kanaldan sorumlular bilgilendirilecek, dolayısıyla her bir işlem tek bir tümleşik sistem üzerinde yürütülebilecektir. Proje sadece bir kuruluşun değil, varsa gruba bağlı birden fazla kuruluşun takibini yapabilecek, gerektiğinde grup bazında konsolide veriler üretebilecektir. Yani her bir kuruluş ayrı ayrı raporlanabileceği gibi, tek bir raporda, birden fazla kuruluşun bilgisine erişilebilecektir. Projedeki yetkilendirmeler, bu yapı dikkate alınarak hazırlanacak, her bir firma sadece kendi bilgilerine erişebilecek, bunun yanında yönetici olarak atanan kullanıcılar konsolide verilere erişebileceklerdir. Projenin Projemiz sonucunda elde edilecek kazanımlar aşağıdaki gibi olması beklenmektedir: -GRC takibi tek bir Beklenen sisteme toplanacağı için daha az efor ve daha kaliteli bir takip sağlanabilecektir, -Mevzuat değişikliklerine Çıktıları ve tam entegrasyon sağlanacağından, olası mevzuat değişiklik/eklemelerinin ilgili risk/uyum girdilerine olan Faydaları etkileri rahatlıkla saptanabilecektir. -Dağıtık ve farklı biçemlerde toplanan veriler, tek bir sistemde ve daha stabil olacak, bunun sonucunda da kuruluşların aldıkları riskler azalacak ve uyum süreleri/eforları azalacaktır. -Mevzuat entegrasyonu ile birden fazla ekibin yürüttüğü bir çalışma otomatize edilerek hem hata oranı azalacak, farkındalık oranı artacaktır. Bu durum kuruluşun aldığı risklerin daha hızlı giderilmesini ve uyum için yapılan planlamaların daha efektif olmasını sağlayacaktır.",
+  "char_len": 1549,
+  "sentence_count": 6
+}

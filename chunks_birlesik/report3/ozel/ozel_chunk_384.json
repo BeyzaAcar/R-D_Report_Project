@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 384,
+  "chunk_text": "Proje maliyet takibi Mevcut HR-WEB sisteminde aylık bazda çalışanların proje dağılımları orantısal olarak tanımlanabilmekte, bu tanımlama yapılırken gerçek dağılım oranları saptanamadığı için belirli kabullerden hareket edilmektedir. Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir.",
+  "char_len": 467,
+  "sentence_count": 2
+}

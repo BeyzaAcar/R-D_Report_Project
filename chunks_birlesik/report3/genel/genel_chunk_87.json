@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 87,
+  "chunk_text": "Entegrasyon tarafında firmanın ham defter bilgileri ERP sistemlerinden portale ERP bağımsız şekilde yüklenir. Firmalar kendi muhasebel ve finansal süreçlerine göre portal üzerinde kurallarını oluşturur. Sonrasında firmanın defter bilgileri incelenerek kayıtlar analiz edilir. Oluşturmuş olduğu kurallar kapsamında defter bilgileri düzeltilerek ilgili raporlar üreritilip berat alınması için GIB’e göndermeye hazır hale getirilir. Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir.",
+  "char_len": 663,
+  "sentence_count": 5
+}

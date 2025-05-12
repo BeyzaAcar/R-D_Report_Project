@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 332,
+  "chunk_text": "Veri hareketleri için dask, pandas ve veri tabanı arayüzü sağlayan paketler kullanılacaktır. Temel veri işleme operasyonları için numpy, scipy, pandas gibi paketler kullanılacak, bu işlemlerin hızlandırılması gerektiğinde ise numba gibi derleme hızlandırma paketleri veya cython gibi C arayüzleri kullanılabilecektir.",
+  "char_len": 317,
+  "sentence_count": 2
+}

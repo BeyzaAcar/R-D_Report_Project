@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 173,
+  "chunk_text": "Projenin yenilikçi yönlerinden biri, Ge Niteliği yayımlanan tüm mevzuatı, entegre olduğu online sistemlerden güncelleyerek kullanıcının hizmetine sunabilmesidir. Bu noktada, mevzuata bağlı Uyum ve Risk girdileri konusunda özel takipler ve bilgilendirmeler yapılabilecektir, istendiği noktada mevzuat detaylarına erişim sağlanabilecektir. Bu özellik ile mevzuata bağlı oluşan uyum ve risklerin takibi otomatik olarak yapılabilecek ve konuyla ilgili kişiler, hiçbir manuel işlem gerekmeden bilgilendirilebilecektir. Özetle, mevzuat ve GRC sistemi entegrasyonu yapılabilecek ve aradaki birden fazla ekibin dahil olduğu operasyonlar kaldırılabilecektir. Yaptığımız araştırmalarda ulusal piyasada bu kapsamda ticarileştirilen bir sistem bulunmamaktadır. Projede ayrıca, ARG ve aksiyonlar bazında panolar ve takvimler oluşturulabilmekte ve yapılması gereken işlemlere kısa yoldan erişim ve bilgilendirme sağlanmaktadır.",
+  "char_len": 913,
+  "sentence_count": 6
+}

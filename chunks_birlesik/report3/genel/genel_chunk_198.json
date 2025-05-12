@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 198,
+  "chunk_text": "Bu kişiler, işi atayacağı personelin ilgili göreve uygunluğunu ölçmek için bir takım parametreler kullanır. Bu parametrelere ulaşmak için bir takım sorular sorulur: 1- Personelin bu iş ile ilgili geçmiş tecrübesi var mıdır? 2- İş, yeni bir öğrenme alanı içerir mi? Eğer içeriyorsa hangi personelin bu konuya ilgisi veya yatkınlığı vardır? 3- Personel iş süresince zamansal olarak uygun mudur? 4- Personelin bu iş için maliyeti nedir? 5- İş ne kadar karmaşıktır? Diğer işlere etkisi nedir? 6- Acaba yetkin bir kişi tarafından ne kadar sürede tamamlanabilir? Projemizde bu sorulara çözüm bulmayı hedefleyen teknik geliştirmeler yapılmaktadır.",
+  "char_len": 640,
+  "sentence_count": 5
+}

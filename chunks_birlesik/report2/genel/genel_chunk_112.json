@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 112,
+  "chunk_text": "Projenin Proje sonucunda e-ticaret firmalarının ürün kataloğu ve satış verilerine bağlanıp, bunları analiz edecek ve sonucunda her bir müşteri için Beklenen tekrarlı satın alma raporu ve tahminleri üretecek, bu tahminleri kampanyalarda kullanabilmek için dışarıya yazılım servisleri (API) sunacak Çıktıları ve bir yazılım çözümü ortaya çıkacaktır. Bu yazılım çözümü firmamızın diğer hizmetleri gibi bulut yazılım (cloud solution) olarak Faydaları konumlanacak ve SaaS modeli ile piyasaya sürülmesi hedeflenmektedir. Proje sonucunda ortaya çıkacak yazılım çözümünün iki önemli çıktısı/faydası olacaktır: 1. Müşterilerin tekrarlı alışverişlerinin belirlenmesinin ardından doğru zamanda doğru öneriler ile müşterilere özel alışveriş deneyimi yaşatmak ve müşteri sadakatini yükseltmek. 2. Sanal mağaza envanter ve stok yönetiminde optimizasyon sağlayabilecek değerli verileri oluşturmak E-ticaret yöneticileri müşteri sadakatini artırmak ve sadık müşteri sayısını en üst seviyede tutabilmek için hem zaman hem de efor harcamaktadırlar.",
+  "char_len": 1031,
+  "sentence_count": 5
+}

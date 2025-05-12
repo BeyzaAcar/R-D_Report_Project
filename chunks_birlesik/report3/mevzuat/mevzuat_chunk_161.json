@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 161,
+  "chunk_text": "Aynı şekilde uyumsuzluk durumundaki olası etkiler belirlenebilecek ve etki seviyesine bağlı olarak bilgilendirme ve takipleri sağlanabilecektir. - Risk Modülü Kurumun mevcut risklerinin kontrol/takip edildiği modüldür. Modül içinde riskin temel bilgi girişleri, kök nedenleri, sonuçları, etki-olasılık değerleri ve sonucunda hesaplanmış risk Sayfa 49 / 74 seviyesi, varsa maddi etkileri girilebilecektir. Her bir riskin sahibi ve sorumluları olacak, veri girişlerini ilgili kullanıcılar yapacaktır. Her bir risk için sınırsız sayıda “Anahtar Risk Göstergesi - ARG” girilebilecek, tolerans limitleri ile beraber risk içindeki ağırlıkları da belirlenebilecektir. ARG değerleri periyodik olarak, risk sorumluları tarafından güncellenecek ve gösterge bazında riskin eğilimi (trendi) belirlenerek raporlanabilecektir. Her bir ARG güncelleme periyodunda risk trendleri yeniden hesaplanarak “Bilgilendirme” modülü ile, risk sahibi ve diğer ilgililerin bilgilendirilmesi sağlanarak riskin kontrol altında tutulması sağlanacaktır. - Onaylar Modülü Risk ve Uyum girdileri için iş akışları belirlenebilecek, bu akışlar çerçevesinde veri girişleri bir onay akışından geçirilerek verinin doğruluğu daha güvenilir hale getirilebilecektir.",
+  "char_len": 1224,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 128,
+  "chunk_text": "Burada gördüğümüz fırsat ile başlattığımız projemizde kişi seviyesinde analiz ve kişiselleştirmeye odaklanarak fark yaratmayı hedefliyoruz. E-ticaret alanında bu kavramı projemiz ile ispat edebilirsek, bundan sonra benzer uygulamaları medya, içerik, bankacılık, finans ve oyun gibi farklı sektör grupları içine de uygulayabilmek mümkün olacak ve yeni projelerin oluşmasına imkan sağlayacaktır. Reklam hedef kitlelerinin otomatik çıkarımı için kümeleme tabanlı segmentasyon uygulamayı düşünmekteyiz. Burada temel alacağımız kümeleme algoritması k-means clustering olacaktır ve bunun üzerine gerekli düzenlemeleri ve optimizasyonları yapacağız. Bunlar arasında iki önemli noktada inovasyon ve yöntem optimizasyonu öne çıkmaktadır: 1) küme/segment sayıları (k-means algoritmasındaki k değerinin belirlenişi ve hedef değerler için optimizasyonu) 2) kümelerin ayrışacağı kesim noktaları (cut-off points). Bu iki madde kümeleme işleminin kalitesini belirleyecek ve proje kapsamında yapılacak inovasyonların önemli bir kısmı bu iki alana odaklanacaktır.",
+  "char_len": 1046,
+  "sentence_count": 6
+}

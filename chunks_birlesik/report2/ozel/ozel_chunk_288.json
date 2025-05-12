@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 288,
+  "chunk_text": "Platform entegrasyon altyapısının belirlenmesi a. Veri modellerinin ve interfacelerin belirlenmesi b. Ortak veri modeli üzerinden interfacelerin tanımlanması ve public olarak sunulması ve dökümantasyonları c. Ortak yazılım kütüphanelerinin belirlenmesi d. Platform özel entegrasyonların ve translator katmanlarının belirlenmesi 3. Platform entegrasyon sistemi a. Ortak yazılım kütüphanelerinin geliştirilmesi b. Platform özel entegrasyonlarının geliştirilmesi c. Yazılım testleri (sistem ve entegrasyon testleri) d. Sistemin canlıya alınması Projenin Pandemi sürecinin daha da hızlandırdığı bir şekilde e-ticaret alanında çok büyük değişiklikler yaşanmaktadır.",
+  "char_len": 660,
+  "sentence_count": 2
+}

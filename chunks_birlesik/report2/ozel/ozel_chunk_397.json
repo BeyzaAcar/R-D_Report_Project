@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 397,
+  "chunk_text": "Bu yöntemde, state machine yapısını daha adaptif hale getiriyoruz. Adaptif state machine, gerçek zamanlı veriye ve makine öğrenimi algoritmalarına dayanarak kendini optimize edebilir ve yeniden yapılandırabilir.",
+  "char_len": 211,
+  "sentence_count": 2
+}

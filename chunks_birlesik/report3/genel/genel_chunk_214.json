@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 214,
+  "chunk_text": "Amacımız yukarıda yer alan eksikliklerin giderileceği, kapsamlı iş zekası çözümleri sunan yenilikçi bir ürünün geliştirilmesidir. Bu ürün ile kazandırılacak ana fonksiyonların listesi şu şekilde belirlenmiştir: - Konektör yapısı (plug and play yapısı) - Zaman tarihçeli kayıt yapısı (time series veritabanları) - Dinamik iş akışı uygulaması - Yazılım robot altyapıları Analitik ve esnek raporlama altyapısı ile makine öğrenmesi algoritmaları kullanılarak akıllı ücretlendirme ve yedekleme çözümleri - Data encryption - Organizasyon Ağacı (Diagrammer) - Çalışan Süreç Yolculuğu Altyapısı Sayfa 57 / 74 Proje Geliştirilecek bilgi sistemi uygulaması, uygulama geliştirme metodolojisine uygun olarak; ihtiyaç analiz, Kapsamında fonksiyonel tasarım, programlama ve birim test, sistem testi aşamalarından geçilerek gerçekleştirilecektir. Yapılacak Geliştirilen uygulama pilot olarak seçilecek müşterilerde uyarlanacak hedeflenen faydayı sağladığı Faaliyetler gözlenecek ve daha sonra pazara sürülecektir. Ek olarak Uygulama uygulama geliştirme metodolojisine uygun olarak dokümante edilecektir. Uygulama tamamlandığında İhtiyaç Analiz, Fonksiyonel ve Teknik Tasarım dokümanları oluşacaktır.",
+  "char_len": 1184,
+  "sentence_count": 5
+}

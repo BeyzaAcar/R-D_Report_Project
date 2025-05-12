@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 379,
+  "chunk_text": "Gerçekleşen proje sürelerinin takip edilmesi Kapı giriş çıkış sisteminden alınan çalışma süreleri kullanılarak, proje bazında gerçekleşen çalışma sürelerinin tanımlanabilmesi geliştirilecek yeni bir fonksiyon aracılığı ile sağlanacaktır. Jira gibi bir proje takip uygulamasının kullanılması durumunda, bu sistemden gelen proje çalışma verileri yazılacak Restful servisleri ile okunacaktır.",
+  "char_len": 389,
+  "sentence_count": 2
+}

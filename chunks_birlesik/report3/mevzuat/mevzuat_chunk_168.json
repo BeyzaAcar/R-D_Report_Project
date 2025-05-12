@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 168,
+  "chunk_text": "Projemizin hedefi, şirketlerin yasal yükümlülüklere tam uyumlu olmalarını sağlamaktır. Bu kapsamda geliştirilen projemizin gelişimi aşağıda açıklanmıştır. 1- Uyum veri tabanı oluşturulmuştur. Uyum Veri tabanı, şirketlerin uyması gereken, yasal mevzuat, anlaşmalar, iç politika ve yönetmelikler gibi tanımlı düzenlemeleri listeleyen, bu düzenlemelere uyulmayan faaliyetler yürütülmesi halinde maruz kalınabilecek yaptırımları ve güncel uyum durumunu içeren veri bütünüdür. 2- Uyum riskleri tanımlanmıştır. Uyum riski şirketlerin, yürürlükteki kanunlara, düzenlemelere, etik kurallara, iç politika ve yönetmelikler gibi tanımlı kurallara uyulmayan faaliyetler yürütmesi halinde maruz kalabileceği yasal, itibar, maddi vb. kayıplara yönelik unsurları ifade etmektedir. 3- Uyum raporu geliştirilmiştir. Bu raporla, şirketlerin uyması beklenen düzenlemelere uyum durumlarının, uymaması durumunda maruz kalabilecekleri yaptırımların, uyum için gerekli aksiyon planının ve sorumlulukların ilgili şirket yöneticilerine, bölümlerine ve üst yönetime sunulması sağlanmıştır. 4- Uyum risk raporu geliştirilmiştir. Bu raporla kapsam dâhilindeki şirketlerdeki uyum risklerinin, riski yönetmek için uygulanan yöntemlerin ve risklerle ilgili güncel gelişmelerin, ilgili şirket yöneticilerine ve üst yönetime sunulması sağlanmıştır. 5- Bir onay akışı tasarlanmıştır.",
+  "char_len": 1349,
+  "sentence_count": 6
+}

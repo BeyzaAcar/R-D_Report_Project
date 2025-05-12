@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 437,
+  "chunk_text": "Birim, fonksiyonel ve entegrasyon testleri bilgisayarlara yaptırılacaktır. - CI/CD süreçleri tasarlanarak uygulama özelliklerinin kullanıcıya ulaştırılma süresi kısaltılacaktır. - Graph algoritmalarından (BFS, DFS, KNN vs.) uygun olanı araştırılarak pozisyon - organizasyon bilgilerine göre karmaşık hierarşiler oluşturularak personel ve diğer süreçlerdeki iş akışı, yedekleme vs. süreçlerinin işletilmesi sağlanılacaktır. Projemiz kapsamında, çalışan süreç yolculuğunun tek bir sistem üzerinden yönetilmesinin sağlanarak İK süreçlerindeki 3 ana hususta yüksek performanslı bir karar destek sisteminin geliştirilmesi hedeflenmiştir. • Alternatif personel kümeleri içerisinden, kişinin iş deneyimleri, proje deneyimleri, performans değerlendirmeleri gibi çok boyutlu kriterler üzerinden işe uygun personelin önerilmesi • Personellerin çok boyutlu özgeçmiş kriterleri üzerinden benzerlikleri collaborative filtering veya singular value decomposition kullanılarak hesaplanacak, pozisyon açılan ilgili ekipte yer alan örnek personele benzerliği belirlenen oranın üzerinde olan personeller önerilecektir. • Şirket hedefleri ve pozisyonun gereklilikleri doğrultusunda alternatif personeller içerisinden terfi ettirilmesi uygun personellerin rasyonel olarak önceliklendirilmesi • Şirketin geçmiş yıllarda terfi kararı verme datası ve çok boyutlu özgeçmiş kriterleri üzerinden personelin güncellenen bilgilerine göre mevcut dönemde terfi etme olasılıkları makine öğrenmesiyle (logistic regression vb.) tahmin edilecek.",
+  "char_len": 1510,
+  "sentence_count": 2
+}

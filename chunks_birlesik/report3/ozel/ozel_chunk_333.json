@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 333,
+  "chunk_text": "Yönetici yetkisine sahip kullanıcılar dilerlerse panoya genel durumu gösteren grafikler (ARG Durumları, Aksiyon Durumları, Günü Geçen Aksiyonlar vb) ekleyebileceklerdir. Operasyonel Uygulama kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: MySQL 5 -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Team Foundation Server.",
+  "char_len": 446,
+  "sentence_count": 2
+}

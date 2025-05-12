@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 189,
+  "chunk_text": "Projenin zamanında teslimi için mevcut kaynakların yetersiz kalması durumunda, işe alım modülü ile entegrasyon sağlanarak aday havuzundaki maliyeti ve nitelikleri uygun adayların da belirlenebilmesi sağlanacaktır. Önerilen adaylar içerisinde daha önce başka projelerde çalışan kişiler varsa, bu adayların geçmiş projelerdeki başarı durumları da göz önüne alınarak, proje risk değerlendirmesi sistem tarafından yapılabilecektir. 4. Gerçekleşen proje sürelerinin takip edilmesi Kapı giriş çıkış sisteminden alınan çalışma süreleri kullanılarak, proje bazında gerçekleşen çalışma sürelerinin tanımlanabilmesi geliştirilecek yeni bir fonksiyon aracılığı ile sağlanacaktır. Jira gibi bir proje takip uygulamasının kullanılması durumunda, bu sistemden gelen proje çalışma verileri yazılacak Restful servisleri ile okunacaktır. Bu veriler okunduktan sonra MongoDb gibi NoSQL veri tabanlarında tutulacak ve kapı giriş çıkış sisteminden alınan çalışma süreleri ile karşılaştırılabilecektir. 5. Proje teslimlerinin takibi Devam eden projelerin zamanında teslim edilip edilemeyeceğinin anlık olarak analizinin yapılabilmesi yeni bir fonksiyon aracılığı ile sağlanacaktır.",
+  "char_len": 1160,
+  "sentence_count": 6
+}

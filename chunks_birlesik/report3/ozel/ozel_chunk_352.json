@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 352,
+  "chunk_text": "Proje sadece bir kuruluşun değil, varsa gruba bağlı birden fazla kuruluşun takibini yapabilecek, gerektiğinde grup bazında konsolide veriler üretebilecektir. Yani her bir kuruluş ayrı ayrı raporlanabileceği gibi, tek bir raporda, birden fazla kuruluşun bilgisine erişilebilecektir.",
+  "char_len": 281,
+  "sentence_count": 2
+}

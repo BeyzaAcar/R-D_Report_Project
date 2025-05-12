@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 365,
+  "chunk_text": "Kullanıcı Segmentasyonu • Kullanıcı Profilleri: Kullanıcı davranışlarına ve demografik bilgilere dayalı olarak kullanıcı profilleri oluşturma. • Hedefleme Kriterleri: Belirli kullanıcı gruplarını hedeflemek için kriterler tanımlama (örneğin, son 30 günde alışveriş yapanlar, belirli ürünleri satın alanlar, vb.). 5. Otomasyon ve Zamanlama • Otomatik Tetikleyiciler: Belirli olaylara veya tarih/saat aralıklarına göre otomatik kampanya tetikleyicileri oluşturma. • Zamanlama: Kampanyaların belirli zaman aralıklarında otomatik olarak başlatılması ve durdurulması. 6.",
+  "char_len": 565,
+  "sentence_count": 2
+}

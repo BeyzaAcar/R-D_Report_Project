@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 328,
+  "chunk_text": "Öngörülen tüm aşamaların sağlıklı olarak birbirini takip edebilmesi için, alanda sıklıkla kullanılan bir veri akış yönetimi çerçevesi kullanılacaktır. Burada tercih edilen, alandaki en güvenilir çerçevelerden biri olan Airflow çerçevesi olacaktır.",
+  "char_len": 247,
+  "sentence_count": 2
+}

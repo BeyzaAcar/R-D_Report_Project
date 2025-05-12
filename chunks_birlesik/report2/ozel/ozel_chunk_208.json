@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 208,
+  "chunk_text": "Stok optimizasyonu a. Trend analizi b. Mevsimsellik (seasonality) ve gürültü azaltma/uç değer temizleme (noise cancellation/outlier elimination) c. Muadil ve ürün benzerliği analizi (alternative products and product similarity) d. Stok tahminleme e. Uyarı sistemi 4. Yazılım Geliştirme a. Veri toplama altyapısı yazılım geliştirmeleri b. Tekrarlı ürün öneri sistemi geliştirmeleri c. Stok optimizasyon geliştirmeleri d. Raporlama arayüz geliştirmeleri e. Yazılım testleri f. Sistemin canlıya alınması Projenin E-ticaret alanında tekrarlı satın alma analistler ve piyasa uzmanları tarafından önemi vurgulanmak ile birlikte bu alandaki çalışmalar sadece Yenilikçi firmaların uygulaması gereken yönergeler (guidelines) seviyesinde kalmaktadır.",
+  "char_len": 740,
+  "sentence_count": 2
+}

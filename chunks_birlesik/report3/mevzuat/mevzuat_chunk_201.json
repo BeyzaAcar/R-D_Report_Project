@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 201,
+  "chunk_text": "Böylelikle personelin ofis lokasyonundaki fiziksel varlığı garanti edilmiştir. 2- HRWEB uygulamızda hali hazırda bulunan insan kaynağımızın aktif ve etkin kullanılması amaçlanmıştır. Bu bağlamda her bir personele beceriler tanımlanmış ve bu beceriler puanlandırılmıştır. 3- Personelin saatlik maliyeti hesaplanmıştır. 4- Personelin tüm izinleri, tatilleri hesaplanmıştır. 5- Proje kapsamında bir görev modülü oluşturulmuştur. Görev modülünde, bir personelin iş yerinde yapmakla yükümlü olduğu görevlerin yöneticisi tarafından oluşturulması ve bu personele atanması yapılmıştır. Bu, atama işlemi kritiktir. Çünkü projemizin asıl amacı olan tanımlanan görevlere gerçekten başarabilecek personelin makine tarfından önerilmesi işi, atamanın merkezine oturur. Bunu başarabilmek için algoritmalar geliştirilip, doğruluğu test edilmiştir. 6- Birçok parametre kullanılarak personelin, görev performansı ölçülmüştür.",
+  "char_len": 907,
+  "sentence_count": 6
+}

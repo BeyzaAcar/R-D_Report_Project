@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 354,
+  "chunk_text": "Projedeki yetkilendirmeler, bu yapı dikkate alınarak hazırlanacak, her bir firma sadece kendi bilgilerine erişebilecek, bunun yanında yönetici olarak atanan kullanıcılar konsolide verilere erişebileceklerdir. Projenin Projemiz sonucunda elde edilecek kazanımlar aşağıdaki gibi olması beklenmektedir: -GRC takibi tek bir Beklenen sisteme toplanacağı için daha az efor ve daha kaliteli bir takip sağlanabilecektir, -Mevzuat değişikliklerine Çıktıları ve tam entegrasyon sağlanacağından, olası mevzuat değişiklik/eklemelerinin ilgili risk/uyum girdilerine olan Faydaları etkileri rahatlıkla saptanabilecektir. -Dağıtık ve farklı biçemlerde toplanan veriler, tek bir sistemde ve daha stabil olacak, bunun sonucunda da kuruluşların aldıkları riskler azalacak ve uyum süreleri/eforları azalacaktır. -Mevzuat entegrasyonu ile birden fazla ekibin yürüttüğü bir çalışma otomatize edilerek hem hata oranı azalacak, farkındalık oranı artacaktır.",
+  "char_len": 934,
+  "sentence_count": 2
+}

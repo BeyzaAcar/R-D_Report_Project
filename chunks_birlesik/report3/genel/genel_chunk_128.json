@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 128,
+  "chunk_text": "Örneğin, sınıflandırılmış kelimelerle birlikte kullanılan kelimeler aynı yoğunlukta kullanılmıyorsa –belli oran altında ise- kullanıcıdan teyit isteyebilecektir. Örneğin; mukavva kelimesi, Ambalaj ile mi ilgilidir, Kağıt/Selüloz ile mi, yoksa ikisi içinde mi? - Kelime yoğunluklarının ya da bilgi açısından değerlerinin belirlenebilmesi için kullanılabilecek yöntemler ile alakalı akademik ya da profesyonel destek alınacaktır. - Bu karar mekanizmasının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır. Kararsız kalındığı noktada, kullanıcıdan geri dönüş hızlıca alınabilmelidir. - Bu hızı sağlayabilmek için sürekli girdi çıktı sağlayan hızlı bir teknik altyapı oluşturulacaktır. Sınıflandırma işleminin ara adımlarında ortaya çıkan ve takip edilmesi gereken veriler ilişkisel veri tabanı(Şu anda SQL Server) hızı yeterli olmadığı durumda NoSQL tipteki(MongoDB, AWS Dynamo vb.) veri tabanlarında barındırılacaktır. Aynı şekilde hızın yeterli olmadığı durumlarda analizlerin paralel yapılabilmesi için MapReduce tarzı hızlı işlem imkanı veren teknikler kullanılacaktır.",
+  "char_len": 1086,
+  "sentence_count": 5
+}

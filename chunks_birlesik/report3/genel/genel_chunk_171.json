@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 171,
+  "chunk_text": "Bu akış, risk ve uyum girdileri için iş akışları belirlenebilmesi, bu akışlar çerçevesinde veri girişleri bir onay akışından geçirilerek verinin doğruluğu daha güvenilir hale getirilebilmesini sağlamıştır. 6- Mevzuatlar için entegrasyon yapılmıştır. Bu entegrasyonla, mevzuatların anlık olarak yayımlandığı bir mevzuat güncelleme sistemine bağlı olarak değişen ve yeni eklenen mevzuata erişim sağlanmıştır. 7- Takvim modülü oluşturulmuştur. Aksiyon ve AR-GE sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgileri, takvim ile gerçekleştireceklerdir. 8- Projemiz yaşarken, içinde hangi aksiyonların gerçekleştiğini kullanıcılarımıza bildirmek üzere bir bildirim sistemi tasarlanmıştır. Sayfa 50 / 74 Projenin Mevcut verilerimiz ve GRC dinamiklerine yönelik bilgi birikimimiz doğrultusunda özgün bir yazılım Yenilikçi geliştirilmesine karar verilmiş ve proje çıktımız bu doğrultuda küresel pazarlarda da diğer Risk ve Uyum takibi Yönü ve Ar- yapan kuruluşların da kullanabileceği bir sistem olarak planlanmıştır. Projenin yenilikçi yönlerinden biri, Ge Niteliği yayımlanan tüm mevzuatı, entegre olduğu online sistemlerden güncelleyerek kullanıcının hizmetine sunabilmesidir.",
+  "char_len": 1185,
+  "sentence_count": 5
+}

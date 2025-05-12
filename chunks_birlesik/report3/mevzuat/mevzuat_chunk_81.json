@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 81,
+  "chunk_text": "E-defterlerin denetimi belli kurallar çerçevesinde olmakla beraber farklı iş kollarındaki işletmelerde faaliyet alanı gereği doğal farklılaşmalar olduğu gibi farklı işletmelerin ya da denetim şirketlerinin denetim süreçlerindeki metrik setleri de birbirinden farklı olabilmektedir. Bu sebeple standart bir e-defter denetim çözümünün olduğu gibi bütün işletmelerde kullanılması mümkün değildir. Projemiz ile e-defter denetim süreçlerinde firmaların kendi kural setlerini oluşturabilecekleri, belli rasyoları basit matematiksel ifadelerle ya da daha karmaşık modeller kurarak inceleyebilecekleri bir sistem geliştirilecektir. Hali hazırda öngörülen sistemin bir örneği tespit edilememiştir. Bu sebeple nedenle gerçekleştirilecek detaylı analizlerle, kavramsal tasarım sürecinden başlayan kapsamlı bir ar-ge alışmasının yapılmasını gerektirmektedir. Proje Bu proje kapsamında kurgulanacak sistemin hangi verileri kontrol etmesi gerektiği, veriler içerisinde Kapsamında gönderilen tutarların değerlendirilmesi, hesap bakiyelerinin doğruluğunun araştırılması gibi major nitelikli Yapılacak kurguların uygulanması uzman kadro ve danışmanlık firmaları ile ortak çalışma ortamı oluşturularak Faaliyetler planlanacaktır.",
+  "char_len": 1211,
+  "sentence_count": 6
+}

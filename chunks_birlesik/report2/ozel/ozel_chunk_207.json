@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 207,
+  "chunk_text": "Tekrarlı ürün öneri modeli ve analiz sistemi a. Ürün ve davranış veri Yapılacak modelinin belirlenmesi b. Veri toplama altyapısının hazırlanması c. Frekans analizi ve satın alma tahmin sistemi d. Up-sell ve cross-sell öneri Faaliyetler sistemi 3. Stok optimizasyonu a. Trend analizi b. Mevsimsellik (seasonality) ve gürültü azaltma/uç değer temizleme (noise cancellation/outlier elimination) c. Muadil ve ürün benzerliği analizi (alternative products and product similarity) d. Stok tahminleme e. Uyarı sistemi 4.",
+  "char_len": 513,
+  "sentence_count": 2
+}

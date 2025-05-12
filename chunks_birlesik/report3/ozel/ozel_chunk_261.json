@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 261,
+  "chunk_text": "Bu sayede sistemin gitgide daha az sınıflandırma yapması hedeflenecektir. - Mevcut Pratis.Net web uygulaması büyük ölçüde aynı kalacak, sınıflandırma sorularına yanıt, elasticsearch kullanımı, sınıflandırma motoru ile aralarındaki entegrasyon sağlanacaktır. - Sınıflandırma algoritmaları ihtiyaç halinde açılıp kapanabilen, yatay/dikey büyüyüp küçülebilen işlem gücü ortamlarında çalıştırılacaktır. - Olası proje ekibinin yetkin olduğu alanlar Microsoft teknolojileri olduğu için geliştirme ortamları yine .Net ve C# dili olarak öngörülebilir. Tüm bileşenler Amazon AWS public bulut ortamında çalıştırılması planlanmaktadır. - Proje kaynaklarına yeni teknik ekipmanların ya da akademik çalışmaların sonucunda edinilecek yeni bakış açılarına göre gerekli eğitimlerin aldırılması sağlanacaktır.",
+  "char_len": 792,
+  "sentence_count": 2
+}

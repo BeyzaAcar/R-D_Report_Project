@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 364,
+  "chunk_text": "State Machine İhtiyaçları • Durum Tanımları: Kampanyaların çeşitli durumlarını (başlatıldı, devam ediyor, durduruldu, tamamlandı, vb.) tanımlama yeteneği. • Geçiş Kuralları: Kampanya durumları arasındaki geçiş kurallarını belirleme ve uygulama yeteneği. • Olay Tetikleme: Belirli olayların (satın alma işlemi, kullanıcı kaydı, belirli bir tarih, vb.) kampanya durumlarını tetikleme yeteneği. 3. Kullanıcı Segmentasyonu • Kullanıcı Profilleri: Kullanıcı davranışlarına ve demografik bilgilere dayalı olarak kullanıcı profilleri oluşturma. • Hedefleme Kriterleri: Belirli kullanıcı gruplarını hedeflemek için kriterler tanımlama (örneğin, son 30 günde alışveriş yapanlar, belirli ürünleri satın alanlar, vb.). 5.",
+  "char_len": 710,
+  "sentence_count": 2
+}

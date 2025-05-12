@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 149,
+  "chunk_text": "Bundan sonra her bir platform ve veri modeli için uyumluluk katmanları (translator) hazırlanacak ve bu veri modellerinin gelecek uyumluluğunu garanti altına alabilmek için arayüzler (interface) tanımlanacaktır. Bu arayüzler aynı zamanda data entegratör servisleri (Segment, Zapier, vb.) üzerinden public olarak duyurularak sadece firmamızın değil başka kurum veya kişilerin de bu arayüzlere katkı yapabilmelerine olanak verilecektir. Bu aşamada bir tane örnek implementasyon da GitHub üzerinden public repo olarak sunulacaktır. Firmamız içindeki bilgi birikimi eksikliğini harici danışmanlık hizmetleri alarak kapatmayı hedefliyoruz. Bunun yanında her bir platformun teknik ekipleri ile entegre bir çalışma planı çıkarılmış ve sadece entegrasyonu sağlayan bir ara katman sağlamak yerine o platform ile firmamızın sunduğu hizmetleri hibritleyerek bütünleşik ve komple çözümler sunmak projenin yenilikçi yönüdür.",
+  "char_len": 910,
+  "sentence_count": 5
+}

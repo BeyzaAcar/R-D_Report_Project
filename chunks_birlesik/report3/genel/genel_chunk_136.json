@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 136,
+  "chunk_text": "Firmamız, müşterinin factoringe konu etmek istediği faturayı sisteme tanıtması sonrasında finans kuruluşları ve Findex’ten aldığı risk puanlarını dikkate alarak farklı müşterilere farklı faktöring teklifleri üretebilecektir. Ya da doğrudan o firma için finans kuruluşundan aldığı teklife kendi marjını ekleyerek müşteriye sunacaktır. Finansman kuruluşları ya da risk değerlendirme kuruluşlarından alınan risk puanları, işletmelerin geçmiş dönem performanslarına, mevcut finansal borçları, mevduatları ve gayri nakdi varlıklarına göre hesaplanmaktadır. Ancak bu kuruluşlar şirketin ticari alacakları, kısa vadedeki tedarikçi borçları ya da ticari borçlarını görememektedirler. Bu sebeple bir firmanın mevcut pozisyonu oluşturulan risk puanından pozitif ya da negatif yönde sapmaya eğilim göstermiş olabilmektedir.",
+  "char_len": 812,
+  "sentence_count": 5
+}

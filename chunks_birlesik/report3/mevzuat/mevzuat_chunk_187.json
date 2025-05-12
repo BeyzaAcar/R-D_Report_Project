@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 187,
+  "chunk_text": "Proje bazında detaylandırılan işlerin planlanan başlangıç ve bitiş tarihleri, çalışma süreleri ve birbirleriyle olan etkileşimleri dikkate alınarak sistem üzerinde tanımlanması sağlanacaktır. Analiz ve geliştirme süreçlerinde proje süresini etkileyecek olumsuzlukların yaşanması durumunda, bu etkenlerin sisteme tanımlanabilmesi de sağlanacaktır. 3. Proje kaynak planlaması Sisteme tanımlanan yeni projeler, mevcut çalışanların deneyim, yetkinlik, izin süreleri ve mevcut sicil özlük bilgileri ile karşılaştırılacak ve en uygun adayların sistem tarafından belirlenmesi sağlanacaktır. Projede belirtilen tarihler Sayfa 53 / 74 arasında uygun adaylar belirlenemezse, en uygun başlangıç/bitiş tarihleri sistem tarafından önerilecektir. Projenin zamanında teslimi için mevcut kaynakların yetersiz kalması durumunda, işe alım modülü ile entegrasyon sağlanarak aday havuzundaki maliyeti ve nitelikleri uygun adayların da belirlenebilmesi sağlanacaktır. Önerilen adaylar içerisinde daha önce başka projelerde çalışan kişiler varsa, bu adayların geçmiş projelerdeki başarı durumları da göz önüne alınarak, proje risk değerlendirmesi sistem tarafından yapılabilecektir. 4.",
+  "char_len": 1163,
+  "sentence_count": 6
+}

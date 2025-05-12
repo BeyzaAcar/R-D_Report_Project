@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 318,
+  "chunk_text": "Modül içinde uyumun temel bilgi girişleri, kategorizasyonu, etkilendiği mevzuat(lar) girilebilecektir. Her bir uyum girdisinin sahibi ve sorumluları olacak, veri girişlerini ilgili kullanıcılar yapacaktır.Detayı “Mevzuat Entegrasyonu” modülünde de açıklanacağı gibi uyumun günlük olarak mevzuat değişikliklerinden/eklemelerinden etkilenip etkilenmediği kontrol edilecek ve olası bir etkilenme durumunda tüm ilgililer “Bildirimler Modülü” içinde detaylandırılacağı gibi bilgilendirileceklerdir.",
+  "char_len": 493,
+  "sentence_count": 2
+}

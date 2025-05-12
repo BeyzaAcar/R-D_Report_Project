@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 218,
+  "chunk_text": "Stok optimizasyonu alanında satış tahminlemesi (demand prediction) ve ürünlerin tedarik süreleri dikkate alınacaktır. Burada stok adetinin yani stok bulundurma maliyetini minimize ederken satış kaçırmayacak şekilde gelirin maximize edilmesi gerekmektedir.",
+  "char_len": 255,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 190,
+  "chunk_text": "Gerçekleşen proje sürelerinin takip edilmesi Kapı giriş çıkış sisteminden alınan çalışma süreleri kullanılarak, proje bazında gerçekleşen çalışma sürelerinin tanımlanabilmesi geliştirilecek yeni bir fonksiyon aracılığı ile sağlanacaktır. Jira gibi bir proje takip uygulamasının kullanılması durumunda, bu sistemden gelen proje çalışma verileri yazılacak Restful servisleri ile okunacaktır. Bu veriler okunduktan sonra MongoDb gibi NoSQL veri tabanlarında tutulacak ve kapı giriş çıkış sisteminden alınan çalışma süreleri ile karşılaştırılabilecektir. 5. Proje teslimlerinin takibi Devam eden projelerin zamanında teslim edilip edilemeyeceğinin anlık olarak analizinin yapılabilmesi yeni bir fonksiyon aracılığı ile sağlanacaktır. Toplam proje süresi, harcanan süre ve backlogtaki işler bu analizde kullanılabileceği gibi, aynı zamanda geçmiş proje risk değerlendirme sonuçları da bu analizin yapılmasında dikkate alınacaktır. 6.",
+  "char_len": 928,
+  "sentence_count": 5
+}

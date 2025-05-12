@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 331,
+  "chunk_text": "Aksiyon ve ARG sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgilerin takvimi ile ilgili planlamayı bu modül üzerinden takip edeceklerdir. - Bildirimler Modül Sistem içindeki tüm olaylar (mevzuat değişikliği, günü gelen/geçen veri girişleri, genel bilgilendirmeler vb) ile ilgili bilgilendirme ve uyarılar, bu modül üzerinden yapılabilecektir. Bilgilendirme yazılım içinde gösterilecek uyarılar, e-posta, SMS gibi yollar ile yapılabilecektir. - Pano Modülü Her bir kullanıcı, sisteme giriş yaptığında, yetkisi çerçevesinde görebileceği genel bilgilere (Bugün Yapılması Gerekenler, Günü Geçen İşlerim vb) pano yoluyla erişebilecektir.Pano kişiselleştirilebilecek, kullanıcılar sadece kendi istedikleri verilere kısa yoldan erişebileceklerdir.",
+  "char_len": 756,
+  "sentence_count": 2
+}

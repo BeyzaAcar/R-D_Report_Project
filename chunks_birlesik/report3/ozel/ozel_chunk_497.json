@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 497,
+  "chunk_text": "Planlanan uygulama üzerinde Faydaları Yıllık ortalama 500.000 Pazarlık ( İhale,teklif toplama,teklif vs. ) , 5.000.000 Adet pazarlık kalemi , 600.000 Sipariş, Günlük ortalama 10.000.000 İşlem sayısı ( tetiklenen her bir fonksiyon ortalaması tüm kapsam için ) ,toplam 100.000 Tedarikçi firma, 500 Alıcı firma ve 300.000 kullanıcıyı destekleyecek seviyede altyapıda çalışması planlanmıştır. Ek olarak raporlama altyapısı için modüler , görsel olarak ekleme yapılabilir, Sistem yöneticisi tarafından dizayn edilen ana şablonlar üzerinden kullanıcılara atanabilen anlık hızlı raporlama altyapısına sahip olacaktır.",
+  "char_len": 610,
+  "sentence_count": 2
+}

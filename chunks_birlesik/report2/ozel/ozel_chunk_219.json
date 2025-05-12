@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 219,
+  "chunk_text": "Burada stok adetinin yani stok bulundurma maliyetini minimize ederken satış kaçırmayacak şekilde gelirin maximize edilmesi gerekmektedir. Bu amaçla bir zaman serisi (time series) analizi geliştirilecek olup ARIMA ve onun sezonsallık içeren versiyonu olan SARIMA uygulanması planlanmaktadır.",
+  "char_len": 290,
+  "sentence_count": 2
+}

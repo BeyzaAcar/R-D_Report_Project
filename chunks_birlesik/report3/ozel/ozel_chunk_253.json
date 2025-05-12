@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 253,
+  "chunk_text": "Burada dilbilimi açısından destek alınabilir ya da hazır doğal dil işleme API leri kullanılabilir. - Bu kelimeler benzerliklerine göre varsayılan olarak belli sınıflara bağlanacaktır. İlk etapta elle yapılacak müdahale ile bu varsayımlar düzeltilecektir. - Sistem bundan sonraki yeni ihale verilerinde, mevcut sınıflandırılmış verileri de göz önünde bulundurarak olması gereken sınıflandırmayı yeni kelimeler için sağlayacaktır. - Bundan sonraki adımda daha önce sınıflandırılmamış kelimeler Naive Bayes gibi olasılık hesaplayan algoritmalarla, birlikte kullanıldıkları daha önceden sınıflandırılmış kelimelerle en yakın olasılığı kullanarak aynı sınıflandırmaya tabi tutulacaklar. - Sistem buradaki kendi başarı oranını hesaplayarak, kullanıcılardan bazen destek isteyecektir.",
+  "char_len": 777,
+  "sentence_count": 2
+}

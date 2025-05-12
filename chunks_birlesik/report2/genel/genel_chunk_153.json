@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 153,
+  "chunk_text": "Bunun yanında koordineli çalışma sonucunda başka firmaların veya hizmetlerin erişemediği yeni API’ler firmamıza sunulacak ve ekibimizin başka yazılım ve servis çözümleri ile entegrasyon ve ürün geliştirme kabiliyeti gelişecektir. Seçilen platformların farklı yazılım yöntemleri ile API’ler sunması sonucunda firmamızın ARGE ekibinin GraphQL ve benzeri farklı yöntemler ile olan bilgi birikimi de gelişecektir. Benzer şekilde her platformun kullandığı programlama dilleri, veri modelleri ve veri sorgulama yöntemleri farklılık göstermektedir. Bunların hepsini tek bir potada eritebilecek şekilde ucu açık bir mimari kurmak da hem projeye önemli bir teknik zorluk eklemekte hem de proje ekibinin bu alandaki yetkinliklerini geliştirebilme imkanı sağlamaktadır. Projenin Projenin beklenen çıktısı firmamızın hem proje kapsamında belirlenen platformlar hem de gelecekte bu listeye eklenebilecek yeni Beklenen platformlar ile kolayca ve verimli bir şekilde entegre olmasını sağlayabilecek bir veri modeli, veri sorgulama altyapısı ve sunulan hizmetlerin Çıktıları ve uçtan uca bağlanabilme kabiliyeti ortaya konulacaktır.",
+  "char_len": 1116,
+  "sentence_count": 5
+}

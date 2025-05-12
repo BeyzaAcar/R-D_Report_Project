@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 147,
+  "chunk_text": "Bu amaçla yeni çözümler ile entegrasyon amacı ile başlayan projemiz içine genel bir entegrasyon modeli ve bu süreci basitleştirilmesi ve optimizasyonunu da ekledik. Amacımız gelecekte olabilecek projeler için bir altyapı sağlamak ve bu projelerin geliştirilme ve canlıya çıkarılma zamanlarını azaltabilmektir. Bu amaçla proje kapsamında bütün veri modelleri incelenecek, ve diğer platformların uzmanları ile birlikte bir ortak veri yapısı ortaya çıkarılacaktır. Bu yöntemi başarı ile uygulayabilmek için pilot çalışmalar yapılacak ve veri modellerinin açık standartlar (open data standards) ile uyumluluğuna önem verilecektir. Bundan sonra her bir platform ve veri modeli için uyumluluk katmanları (translator) hazırlanacak ve bu veri modellerinin gelecek uyumluluğunu garanti altına alabilmek için arayüzler (interface) tanımlanacaktır.",
+  "char_len": 837,
+  "sentence_count": 5
+}

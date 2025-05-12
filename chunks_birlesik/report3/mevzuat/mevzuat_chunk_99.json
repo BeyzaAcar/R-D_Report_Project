@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 99,
+  "chunk_text": "Platform üzerinde; talep, ihale, teklif toplama, fiyat İhtiyaçlar değerlendirme, katalogtan alım, sipariş, teslimat süreçleri sürdürülmekte ve bununla ilgili veriler süreçlerin devamında kaydedilmektedir. Mevcut Pratis.Net topolojisi, operasyonel ortamı sağlıklı bir şekilde destekleyen, standart tipteki raporlar için veri analizlerinde başarılı bir yapıdadır. Ancak mevcut sistemlerimiz firmaların karar süreçlerini etkileyecek kapsamlı raporlar planlayarak oluşturabilmelerini desteklememektedir. Sisteme, kullanıcılar tarafından esnek raporların oluşturulabileceği bir yapı kazandırılabilmesi için 2 boyutlu bir çalışmanın yapılması gerekmektedir. Bunlardan ilki sistem üzerinden yapılan işlemlerde oluşan verilerin anlamlandırılması sınıflandırılması ve kullanıcıya raporlanabilir bir veri tabanına dönüştürülmesi, ikincisi ise sistemin altyapı ve ilgili servislerinin geliştirilmesidir. Platform üzerinde biriken veriler, ilgili anlık süreçler için iki tarafın ihtiyacı olan verileri iletmekte kullanılmaktadır.",
+  "char_len": 1017,
+  "sentence_count": 6
+}

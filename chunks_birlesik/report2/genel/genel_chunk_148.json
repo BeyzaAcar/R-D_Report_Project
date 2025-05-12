@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 148,
+  "chunk_text": "Bu amaçla proje kapsamında bütün veri modelleri incelenecek, ve diğer platformların uzmanları ile birlikte bir ortak veri yapısı ortaya çıkarılacaktır. Bu yöntemi başarı ile uygulayabilmek için pilot çalışmalar yapılacak ve veri modellerinin açık standartlar (open data standards) ile uyumluluğuna önem verilecektir. Bundan sonra her bir platform ve veri modeli için uyumluluk katmanları (translator) hazırlanacak ve bu veri modellerinin gelecek uyumluluğunu garanti altına alabilmek için arayüzler (interface) tanımlanacaktır. Bu arayüzler aynı zamanda data entegratör servisleri (Segment, Zapier, vb.) üzerinden public olarak duyurularak sadece firmamızın değil başka kurum veya kişilerin de bu arayüzlere katkı yapabilmelerine olanak verilecektir. Bu aşamada bir tane örnek implementasyon da GitHub üzerinden public repo olarak sunulacaktır.",
+  "char_len": 844,
+  "sentence_count": 5
+}

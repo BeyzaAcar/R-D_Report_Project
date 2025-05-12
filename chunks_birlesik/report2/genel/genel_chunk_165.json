@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 165,
+  "chunk_text": "Burada tercih edilen, alandaki en güvenilir çerçevelerden biri olan Airflow çerçevesi olacaktır. Airflow çerçevesi hem farklı analitik görevlerin birbiriyle uyumlu şekilde gerçekleşmesini sağlarken, hem de ileri düzey zamanlama ve kaynak yönetme kapasitesine de sahiptir. Modüllerin kendisinde ise kullanılacak yöntemler, Python veri işleme ve bilimsel hesaplama dünyasından paketler olacaktır. Veri hareketleri için dask, pandas ve veri tabanı arayüzü sağlayan paketler kullanılacaktır. Temel veri işleme operasyonları için numpy, scipy, pandas gibi paketler kullanılacak, bu işlemlerin hızlandırılması gerektiğinde ise numba gibi derleme hızlandırma paketleri veya cython gibi C arayüzleri kullanılabilecektir.",
+  "char_len": 712,
+  "sentence_count": 5
+}

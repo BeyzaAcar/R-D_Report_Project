@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 113,
+  "chunk_text": "Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen sistemler oluşturulmalıdır. Bunun için AWS ya da GCP gibi public bulut sistemleri kullanılacaktır. - Olası proje ekibi .Net yetkinliği daha çok olan kişiler olduğu için belli bir kısım .Net geliştirilebilir. Ancak, kullanılacak big data ile ilgili teknolojilere en yakın diller referans edilebilecektir. Örneğin Java. - Geliştirme sürecinde kullanılacak araçlar, izlenecek yöntemlerle ilgili proje ekibinin bilinçlenmesini sağlayacak eğitimler aldırılacaktır. Projemiz kapsamında 2018 yılı içerisinde yapılan faaliyetler: Veri temizleme, sınıflandırma ve büyük veri analizi için gerekli olan uygulamalar public cloud sağlayıcılar üzerinde incelenmiş ve öncelikle uygulamanın bulut uyumlu bir hale getirilmesi, bulut servislerine göre uyarlanması ve proje konularında ilerleme sağlayacak bulut servislerinin kullanımına olanak verecek şekilde taşınması, yapısının değiştirilmesi ve uygulama geliştirme çalışmalarının uygulanması, projelendirilmesi ve yürütülmesi işlemleri gerçekleştirilmiştir.",
+  "char_len": 1060,
+  "sentence_count": 5
+}

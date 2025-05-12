@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 335,
+  "chunk_text": "Doğrusal programlama için öncelikle COIN-OR Linear Programming (CLP), GNU Linear Programming Kit (GLPK), lp_solve, MINOS gibi açık kaynaklı yazılımlar kullanılacak, gerekli performans yakalanamazsa, Cplex ve Gurobi gibi ticari yazılımlar denenecektir. Sütun üretme ana algoritması Python dili üzerinde geliştirilecektir.",
+  "char_len": 320,
+  "sentence_count": 2
+}

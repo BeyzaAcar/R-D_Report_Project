@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 332,
+  "chunk_text": "Bilgilendirme yazılım içinde gösterilecek uyarılar, e-posta, SMS gibi yollar ile yapılabilecektir. - Pano Modülü Her bir kullanıcı, sisteme giriş yaptığında, yetkisi çerçevesinde görebileceği genel bilgilere (Bugün Yapılması Gerekenler, Günü Geçen İşlerim vb) pano yoluyla erişebilecektir.Pano kişiselleştirilebilecek, kullanıcılar sadece kendi istedikleri verilere kısa yoldan erişebileceklerdir. Yönetici yetkisine sahip kullanıcılar dilerlerse panoya genel durumu gösteren grafikler (ARG Durumları, Aksiyon Durumları, Günü Geçen Aksiyonlar vb) ekleyebileceklerdir.",
+  "char_len": 567,
+  "sentence_count": 2
+}

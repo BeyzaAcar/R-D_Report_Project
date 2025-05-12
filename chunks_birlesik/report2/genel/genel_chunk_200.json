@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 200,
+  "chunk_text": "Örneğin, kullanıcı davranışlarına ve kampanya performansına göre yeni durumlar ve geçiş kuralları oluşturabilir. 2. Kendi Kendine Optimizasyon Yeteneği: Sistem, kampanyaların performansını sürekli olarak izler ve makine öğrenimi algoritmaları ile optimize eder. Başarısız olan kampanya adımları veya geçiş kuralları otomatik olarak düzeltilir veya yeniden yapılandırılır. Örneğin, belirli bir kampanya adımı yeterli dönüşüm sağlamıyorsa, sistem alternatif adımlar veya teşvikler önerir ve uygular. 3. Görsel Kampanya Tasarım Aracı: Kullanıcıların kampanyaları kolayca tasarlayabilmesi için gelişmiş bir görsel kampanya tasarım aracı sunuyoruz. Bu araç, sürükle-bırak özelliği ile state machine durumlarını ve geçiş kurallarını görsel olarak oluşturma imkanı sağlar.",
+  "char_len": 765,
+  "sentence_count": 5
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 110,
+  "chunk_text": "Bu veri akışının gerçek zamanlı olacak şekilde tasarlanması. - Bu veri yığını ilişkisel veri tabanı konseptinin yeterli olmayacağı öngörüldüğü taktirde, analiz işleri için kullanılabilen yatayda otomatik büyüyebilen veri kaynaklarına dönüştürülmesi gerçekleştirilecektir. Örneğin Google Cloud Platform’da çalışan BigQuery gibi. Bu tip bir veri kümesine bu verileri sürekli olarak beslemek için yine Google’ın Dataflow ürünü gibi bir ara birim yardımı ile gerçek zamanlı veri akışı, seçilmesi, değiştirilmesi ve saklanması süreci işletilecektir. Bu yöntemlere uygun algoritmalar yazılacaktır. - Analitik ile ilgili statik ya da dinamik algoritmaların araştırılması, uygunluklarının belirlenmesi ve geliştirilmesi. Bu algoritmalar sonucunda elde edilebilecek veri benzerlikleri ya da farklılıklarının tekrar nasıl girdi olarak kullanılabileceğinin araştırılması. Bu konular ile ilgili akademik/profesyonel destek alınması. - Alım profiline göre sistem içinde uygun yönlendirmelerin yapılması, örneğin sık yapılan alımlara uygun reklamların ya da alımına etki edecek uygun diğer yöntemlerin alıcılarla buluşturulması sağlanacaktır. - Operasyonel süreçlerde kullanıcının atacağı adımlara yönlendirmede bulunmak. Örneğin; “ilk verdiğiniz teklif bu seviyede olduğunda girdiğiniz ihaleleri 78% oranında kazanamadınız!!” gibi öngörüler sunmak. - Bu tip önerme, öngörü, uyarı tarzı mesajlar uygulama dışında sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en yakın olabilecek performansta tekrar uygulamaya gönderilecektir.",
+  "char_len": 1538,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 174,
+  "chunk_text": "Bu özellik ile mevzuata bağlı oluşan uyum ve risklerin takibi otomatik olarak yapılabilecek ve konuyla ilgili kişiler, hiçbir manuel işlem gerekmeden bilgilendirilebilecektir. Özetle, mevzuat ve GRC sistemi entegrasyonu yapılabilecek ve aradaki birden fazla ekibin dahil olduğu operasyonlar kaldırılabilecektir. Yaptığımız araştırmalarda ulusal piyasada bu kapsamda ticarileştirilen bir sistem bulunmamaktadır. Projede ayrıca, ARG ve aksiyonlar bazında panolar ve takvimler oluşturulabilmekte ve yapılması gereken işlemlere kısa yoldan erişim ve bilgilendirme sağlanmaktadır. Yani tüm bir GRC sistemi tek bir “Bilgilendirme” sistemi ile entegre edilip, aynı kanaldan sorumlular bilgilendirilecek, dolayısıyla her bir işlem tek bir tümleşik sistem üzerinde yürütülebilecektir. Proje sadece bir kuruluşun değil, varsa gruba bağlı birden fazla kuruluşun takibini yapabilecek, gerektiğinde grup bazında konsolide veriler üretebilecektir.",
+  "char_len": 933,
+  "sentence_count": 6
+}

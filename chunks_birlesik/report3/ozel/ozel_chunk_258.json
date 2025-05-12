@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 258,
+  "chunk_text": "Sınıflandırma işleminin ara adımlarında ortaya çıkan ve takip edilmesi gereken veriler ilişkisel veri tabanı(Şu anda SQL Server) hızı yeterli olmadığı durumda NoSQL tipteki(MongoDB, AWS Dynamo vb.) veri tabanlarında barındırılacaktır. Aynı şekilde hızın yeterli olmadığı durumlarda analizlerin paralel yapılabilmesi için MapReduce tarzı hızlı işlem imkanı veren teknikler kullanılacaktır.",
+  "char_len": 388,
+  "sentence_count": 2
+}

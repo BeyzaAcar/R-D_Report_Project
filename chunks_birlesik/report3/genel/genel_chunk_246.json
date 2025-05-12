@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 246,
+  "chunk_text": "Geliştirilecek uygulama özellikle malzeme ihtiyaç planlama süreciyle ile entegre çalışma özelliği sayesinde ihtiyaçların zamanında karşılanmasına hizmet edecektir. Her iş ya da ürünün satın alma, tedarik süreleri ve bunlara ilişkin riskler farklılık gösterebilmektedir. Geliştirilecek sistem her iş – sipariş için değişen risklerin zaman planına etkisini değerlendirerek bununla ilgili uyarı ve alarmlar üretecektir. Sistemde birim fiyat sözleşmelerinden faydalanılarak malzeme ihtiyaç planlaması süreci veya iş akış sistemleri tarafından onaylanan talepler otomatik olarak siparişe dönüştürülerek satın alma sürecinde otomasyon sağlanacaktır. Projenin Proje ihtiyaçtan başlayarak, tüm satın alma sürecinin şeffaf bir şekilde elektronik ortamda gerçekleştirmeye Beklenen hizmet edecek bilgi sistemi geliştirme projesidir.",
+  "char_len": 821,
+  "sentence_count": 5
+}

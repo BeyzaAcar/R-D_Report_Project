@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 180,
+  "chunk_text": "Özellikle proje bazlı çalışan firmalarda kaynak planlamasının mevcut çalışan yetkinlikleri ve deneyimlerinin birleştirilerek doğru proje eforlarının hesaplanabilmesi son derece önemlidir. Mevcutta kullanılan sistemlerde giriş çıkış bilgileri ”A yazılımı”, puantaj kayıtları ve izin verileri “B yazılımı”, çalışan proje dağılımları ”C yazılımı” ve proje kaynak planlaması “D yazılımı” ile sağlanmakta ve bu sistemler tarafından sağlanan verilerin birleştirilmesi farklı sistemlerin birbirleriyle entegrasyonunu gerektirmektedir. Bu entegrasyonlar teknik olarak gerçekleştirilse bile, veri uyuşmazlıkları, entegrasyon kaynaklı sorunların tespiti, gelen verilerin doğruluğunun test edilmesindeki güçlükler hedeflenen sonuçların alınmasında sorunlara sebep olabilmektedir. Bunun yanı sıra örneğin “D yazılımı” kaynak planlamasını yaparken sadece giriş yapılan yetkinlik ve deneyim kriterlerini dikkate almakta, mevcut IK uygulamalarında yer alan çalışana ait organizasyon, pozisyon, ücret, yan haklar ve izin gibi kişi özelinde son derece değerli ve maliyete etkisi olan bilgilerin farklı gerekliliklere göre birleştirilmesini sağlayamamaktadır. Ayrıca mevcut kaynakların yetersiz olduğu durumlarda işe alım süreçlerine entegre olarak uygun adayların belirlenmesi sağlanamamaktadır.",
+  "char_len": 1278,
+  "sentence_count": 5
+}

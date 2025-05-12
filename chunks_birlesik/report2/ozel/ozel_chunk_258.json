@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 258,
+  "chunk_text": "Burada temel alacağımız kümeleme algoritması k-means clustering olacaktır ve bunun üzerine gerekli düzenlemeleri ve optimizasyonları yapacağız. Bunlar arasında iki önemli noktada inovasyon ve yöntem optimizasyonu öne çıkmaktadır: 1) küme/segment sayıları (k-means algoritmasındaki k değerinin belirlenişi ve hedef değerler için optimizasyonu) 2) kümelerin ayrışacağı kesim noktaları (cut-off points).",
+  "char_len": 400,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 142,
+  "chunk_text": "Sayfa 40 / 66 Proje Seçilen platformlar için analizler uygulanacak ve her bir platform için geliştirilecek ara-katman çözümünün sunacağı kabiliyet setleri Kapsamında analistlerimiz tarafından ortaya konulacaktır. Şirket dışından alınan danışmanlık hizmeti ile analiz son haline getirilecek ve yazılım Yapılacak geliştirme ekibi için teknik gereksinimlere dönüştürülecektir. Daha sonra yazılım geliştirme ekibi çıkarılan kabiliyetlere uygun şekilde Faaliyetler yazılımı geliştirecek ve her bir platformun kendi pazarlama alanında sunulması için satış ve pazarlama ekiplerine aktarılacaktır. Proje 3 ana faaliyet grubunda oluşturulacaktır, bunlar şu şekilde olacaktır: 1. Platform analizi a. Belirlenen platformlar için teknik analiz b. Belirlenen platformlar için veri modeli analizi 2. Platform entegrasyon altyapısının belirlenmesi a. Veri modellerinin ve interfacelerin belirlenmesi b. Ortak veri modeli üzerinden interfacelerin tanımlanması ve public olarak sunulması ve dökümantasyonları c. Ortak yazılım kütüphanelerinin belirlenmesi d. Platform özel entegrasyonların ve translator katmanlarının belirlenmesi 3.",
+  "char_len": 1116,
+  "sentence_count": 6
+}

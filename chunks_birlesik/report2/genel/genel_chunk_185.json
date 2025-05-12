@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 185,
+  "chunk_text": "Güvenlik ve Uyum • Veri Güvenliği: Kullanıcı verilerini güvenli bir şekilde saklama ve işleme. • Yasal Uyum: GDPR, KvKK ve diğer veri koruma düzenlemelerine uyumluluk. 9. Geribildirim ve Optimizasyon • Geribildirim Mekanizmaları: Kullanıcılardan ve sistemden gelen geribildirimleri toplama ve değerlendirme yeteneği. • Optimizasyon: Kampanya performansını izleme ve sürekli iyileştirme için optimizasyon araçları. Proje Projede yapılacak faaliyetler aşağıdaki gibi listelenebilir: 1. Proje Kapsamının ve Teknik İhtiyaçların Belirlenmesi • Pazarlama faaliyetleri ve Kapsamında içeriklerinin çıkarılması • Pazarlama kanalları üzerinden mesajların iletileceği altyapının oluşturulması (e-posta ve push bildirimleri) • Yapılacak Müşteri bilgilerinin ve davranışlarının toplanması 2. Pazarlama Kurguları ve Yöntemleri • Müşterilere sunulacak pazarlama kurgularının Faaliyetler çıkarılması • Karışık kurguların çalışmasını sağlayacak state machine altyapısını geliştirilmesi • Müşterilerin pazarlama mesajlarına verdiği pozitif veya negatif geri bildirimlerin toplanması • Sonuçların raporlanması ve başarım analizleri 3.",
+  "char_len": 1115,
+  "sentence_count": 5
+}

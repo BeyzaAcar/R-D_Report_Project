@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 166,
+  "chunk_text": "Aksiyon ve ARG sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgilerin takvimi ile ilgili planlamayı bu modül üzerinden takip edeceklerdir. - Bildirimler Modül Sistem içindeki tüm olaylar (mevzuat değişikliği, günü gelen/geçen veri girişleri, genel bilgilendirmeler vb) ile ilgili bilgilendirme ve uyarılar, bu modül üzerinden yapılabilecektir. Bilgilendirme yazılım içinde gösterilecek uyarılar, e-posta, SMS gibi yollar ile yapılabilecektir. - Pano Modülü Her bir kullanıcı, sisteme giriş yaptığında, yetkisi çerçevesinde görebileceği genel bilgilere (Bugün Yapılması Gerekenler, Günü Geçen İşlerim vb) pano yoluyla erişebilecektir.Pano kişiselleştirilebilecek, kullanıcılar sadece kendi istedikleri verilere kısa yoldan erişebileceklerdir. Yönetici yetkisine sahip kullanıcılar dilerlerse panoya genel durumu gösteren grafikler (ARG Durumları, Aksiyon Durumları, Günü Geçen Aksiyonlar vb) ekleyebileceklerdir. Operasyonel Uygulama kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: MySQL 5 -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Team Foundation Server. Projemizin hedefi, şirketlerin yasal yükümlülüklere tam uyumlu olmalarını sağlamaktır. Bu kapsamda geliştirilen projemizin gelişimi aşağıda açıklanmıştır. 1- Uyum veri tabanı oluşturulmuştur.",
+  "char_len": 1395,
+  "sentence_count": 6
+}

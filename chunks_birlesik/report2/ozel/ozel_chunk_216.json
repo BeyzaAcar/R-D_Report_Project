@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 216,
+  "chunk_text": "Tekrarlı satın alma analizinde kullanılacak trend analizi için “Random Forest”, “Decisiton Tree” “Support Vector” ve “Logistic Regression” uygulanması ve en uygun yöntem bulunduktan sonra bunun hiper-parametrelerine göre optimize edilmesi planlanmaktadır. Bu da var olan bir algoritmanın yeni bir alan ve veri kümesi üzerine uygulanıp optimize edilmesinden dolayı bir yöntem iyileştirme olarak ele alınmalıdır.",
+  "char_len": 410,
+  "sentence_count": 2
+}

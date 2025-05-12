@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 122,
+  "chunk_text": "İhale verilerinin sınıflandırılması kendi içerisinde birçok teknik belirsizlik barındırmaktadır. Bunların başında da ürün tanımlamalarının birbirinden farklı olmasına karşın aslında aynı olan ürünlerin yüksek bir güven aralığında tespit edilebilmesi gelmektedir. Bu sınıflandırmanın yapılabilmesi için firmaların benzerlik durumları, geçmiş ihaleler, ihalelerin büyüklükleri, teklif veren tedarikçileri, müşteri ve tedarikçinin büyüklükleri, aynı ürünün konu edildiği farklı ihaleler, ürün açıklamalarının benzerlik oranları gibi çok boyutlu bir değerlendirmenin yapılması gerekmektedir. Bu projenin başarıyla tamamlanması sonrasında oluşturulan veri tabanı, bir diğer projemiz olan Pratis.Net raporlama aracı vasıtasıyla farklı raporlar ve karar destek araçlarına dönüştürülebilecektir. Proje - Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel Kapsamında teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a Yapılacak geçilmesi hedeflenmektedir.",
+  "char_len": 1050,
+  "sentence_count": 5
+}

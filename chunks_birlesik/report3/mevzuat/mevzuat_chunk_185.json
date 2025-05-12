@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 185,
+  "chunk_text": "Bununla birlikte devam kontrol sistemlerinin yaptığı şekilde bordrosal verilerin oluşturulması sağlanacak, belirli parametreler ile çalışma saatleri, fazla mesailer ve eksik çalışmaların da belirlenmesi amacıyla kullanılacaktır. Çalışma sürelerinin hesaplanmasında izin modülünde oluşturulan bir kayıt (günlük, saatlik izin, hastalık, eğitim vb.) varsa bu kaydın çalışmama nedeni olarak hareket verileri ile birleştirilmesi sağlanacaktır. 2. Proje tanımlama ve proje detaylarının belirlenmesi Her yeni proje için kaynak planlaması yapılabilmesi amacıyla belirli verilerin sisteme tanımlanması gerekmektedir. Bu amaçla mevcut uygulamaya ek bir fonksiyonalite eklenecek olup proje süresi, hedeflenen başlangıç ve bitiş tarihi, personel sayısı, personel yetkinlik ve deneyim süreleri ile projenin alt çalışma bileşenleri de tanımlanabilecektir. Proje bazında detaylandırılan işlerin planlanan başlangıç ve bitiş tarihleri, çalışma süreleri ve birbirleriyle olan etkileşimleri dikkate alınarak sistem üzerinde tanımlanması sağlanacaktır. Analiz ve geliştirme süreçlerinde proje süresini etkileyecek olumsuzlukların yaşanması durumunda, bu etkenlerin sisteme tanımlanabilmesi de sağlanacaktır. 3.",
+  "char_len": 1191,
+  "sentence_count": 6
+}

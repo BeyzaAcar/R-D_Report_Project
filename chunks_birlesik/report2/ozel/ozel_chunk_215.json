@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 215,
+  "chunk_text": "Bunlar arasında tekrarlı satın alma analizinin farklı yöntemleri ile çalıştırılıp optimize edilmesi, stok optimizasyonu ve upsell/cross-sell öneri kısımları bulunmaktadır. Tekrarlı satın alma analizinde kullanılacak trend analizi için “Random Forest”, “Decisiton Tree” “Support Vector” ve “Logistic Regression” uygulanması ve en uygun yöntem bulunduktan sonra bunun hiper-parametrelerine göre optimize edilmesi planlanmaktadır.",
+  "char_len": 427,
+  "sentence_count": 2
+}

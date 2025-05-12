@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 109,
+  "chunk_text": "Bu da var olan bir algoritmanın yeni bir alan ve veri kümesi üzerine uygulanıp optimize edilmesinden dolayı bir yöntem iyileştirme olarak ele alınmalıdır. Stok optimizasyonu alanında satış tahminlemesi (demand prediction) ve ürünlerin tedarik süreleri dikkate alınacaktır. Burada stok adetinin yani stok bulundurma maliyetini minimize ederken satış kaçırmayacak şekilde gelirin maximize edilmesi gerekmektedir. Bu amaçla bir zaman serisi (time series) analizi geliştirilecek olup ARIMA ve onun sezonsallık içeren versiyonu olan SARIMA uygulanması planlanmaktadır. Son olarak upsell ve cross-sell alanları için firmamızın daha önce geliştirmiş olduğu öneri sistemi baz alınacak ama tekrarlı satın almanın gerektirdiği şekilde yeniden düzenlenecektir. Bu düzenleme ile firmamızın var olan bir algoritma ve sistemine yeni bir ek kabiliyet kazandırılmış olacaktır.",
+  "char_len": 860,
+  "sentence_count": 6
+}

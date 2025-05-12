@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 200,
+  "chunk_text": "Projemizde bu sorulara çözüm bulmayı hedefleyen teknik geliştirmeler yapılmaktadır. Geliştirme süreci zarfında: 1- Personel devam kontrol sisteminden (PDKS) gelen kayıtlar tek tek işlenmek suretiyle projemiz kapsamında geliştirilen uygulamamızın veri tabanına yazılmıştır. Böylelikle personelin ofis lokasyonundaki fiziksel varlığı garanti edilmiştir. 2- HRWEB uygulamızda hali hazırda bulunan insan kaynağımızın aktif ve etkin kullanılması amaçlanmıştır. Bu bağlamda her bir personele beceriler tanımlanmış ve bu beceriler puanlandırılmıştır. 3- Personelin saatlik maliyeti hesaplanmıştır. 4- Personelin tüm izinleri, tatilleri hesaplanmıştır. 5- Proje kapsamında bir görev modülü oluşturulmuştur. Görev modülünde, bir personelin iş yerinde yapmakla yükümlü olduğu görevlerin yöneticisi tarafından oluşturulması ve bu personele atanması yapılmıştır. Bu, atama işlemi kritiktir.",
+  "char_len": 878,
+  "sentence_count": 6
+}

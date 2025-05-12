@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 184,
+  "chunk_text": "Kapı giriş çıkış sistemlerinden gelen Kapsamında verinin HR-WEB sistemine aktarılması Kapı giriş çıkış sistemlerinden gelen metin dosyalarının okunarak Yapılacak çalışan bazında günlük çalışma saatlerinin HR-WEB sisteminde tutulması sağlanacaktır. Bu veriler ile proje Faaliyetler bazında çalışma saatlerinin belirlenmesi de mümkün olacaktır. Bununla birlikte devam kontrol sistemlerinin yaptığı şekilde bordrosal verilerin oluşturulması sağlanacak, belirli parametreler ile çalışma saatleri, fazla mesailer ve eksik çalışmaların da belirlenmesi amacıyla kullanılacaktır. Çalışma sürelerinin hesaplanmasında izin modülünde oluşturulan bir kayıt (günlük, saatlik izin, hastalık, eğitim vb.) varsa bu kaydın çalışmama nedeni olarak hareket verileri ile birleştirilmesi sağlanacaktır. 2. Proje tanımlama ve proje detaylarının belirlenmesi Her yeni proje için kaynak planlaması yapılabilmesi amacıyla belirli verilerin sisteme tanımlanması gerekmektedir. Bu amaçla mevcut uygulamaya ek bir fonksiyonalite eklenecek olup proje süresi, hedeflenen başlangıç ve bitiş tarihi, personel sayısı, personel yetkinlik ve deneyim süreleri ile projenin alt çalışma bileşenleri de tanımlanabilecektir.",
+  "char_len": 1184,
+  "sentence_count": 6
+}

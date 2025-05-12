@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 252,
+  "chunk_text": "Örneğin kelime, ardarda aynı harfi içermiyorsa, belli oranda harf/rakam karışıklığı içeriyorsa, ingilizceye çevrilme ve Sayfa 43 / 74 ingilizceden geri çevrildiğinde aynı kelimenin bulunabilmesi başarısı belli bir oranın üzerindeyse anlamlı kullanılabilecek bir kelime olarak varsayılabilir gibi örneklemeler araştırılarak ortaya çıkartılacaktır. Burada dilbilimi açısından destek alınabilir ya da hazır doğal dil işleme API leri kullanılabilir. - Bu kelimeler benzerliklerine göre varsayılan olarak belli sınıflara bağlanacaktır.",
+  "char_len": 530,
+  "sentence_count": 2
+}

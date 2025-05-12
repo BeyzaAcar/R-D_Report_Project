@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 360,
+  "chunk_text": "Mevcutta kullanılan sistemlerde giriş çıkış bilgileri ”A yazılımı”, puantaj kayıtları ve izin verileri “B yazılımı”, çalışan proje dağılımları ”C yazılımı” ve proje kaynak planlaması “D yazılımı” ile sağlanmakta ve bu sistemler tarafından sağlanan verilerin birleştirilmesi farklı sistemlerin birbirleriyle entegrasyonunu gerektirmektedir. Bu entegrasyonlar teknik olarak gerçekleştirilse bile, veri uyuşmazlıkları, entegrasyon kaynaklı sorunların tespiti, gelen verilerin doğruluğunun test edilmesindeki güçlükler hedeflenen sonuçların alınmasında sorunlara sebep olabilmektedir.",
+  "char_len": 580,
+  "sentence_count": 2
+}

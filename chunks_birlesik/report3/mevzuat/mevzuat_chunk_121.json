@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 121,
+  "chunk_text": "Ancak fiyat tahmini, tedarikçi önerme vb. servislerin geliştirilebilmesi için bunların ötesinde ihalenin içeriğinin analiz edilmesi ve içeriklerin birbiriyle ilişkilendirilebilmesi gerekmektedir. Projemizde bu sebeple ihale verilerini sınıflandıran bir sistemin geliştirilmesi hedeflenmiştir. İhale verilerinin sınıflandırılması kendi içerisinde birçok teknik belirsizlik barındırmaktadır. Bunların başında da ürün tanımlamalarının birbirinden farklı olmasına karşın aslında aynı olan ürünlerin yüksek bir güven aralığında tespit edilebilmesi gelmektedir. Bu sınıflandırmanın yapılabilmesi için firmaların benzerlik durumları, geçmiş ihaleler, ihalelerin büyüklükleri, teklif veren tedarikçileri, müşteri ve tedarikçinin büyüklükleri, aynı ürünün konu edildiği farklı ihaleler, ürün açıklamalarının benzerlik oranları gibi çok boyutlu bir değerlendirmenin yapılması gerekmektedir. Bu projenin başarıyla tamamlanması sonrasında oluşturulan veri tabanı, bir diğer projemiz olan Pratis.Net raporlama aracı vasıtasıyla farklı raporlar ve karar destek araçlarına dönüştürülebilecektir.",
+  "char_len": 1080,
+  "sentence_count": 6
+}

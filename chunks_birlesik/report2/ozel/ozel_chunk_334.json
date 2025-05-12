@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 334,
+  "chunk_text": "Kümeleme algoritmaları için ise scikit-learn, statstools ve PyMC3 gibi hesaplama kütüphaneleri kullanılacak, bu kütüphaneler gerektikçe PyTorch gibi derin öğrenme ve özgün algoritma kütüphanelerince desteklenecektir. Doğrusal programlama için öncelikle COIN-OR Linear Programming (CLP), GNU Linear Programming Kit (GLPK), lp_solve, MINOS gibi açık kaynaklı yazılımlar kullanılacak, gerekli performans yakalanamazsa, Cplex ve Gurobi gibi ticari yazılımlar denenecektir.",
+  "char_len": 468,
+  "sentence_count": 2
+}

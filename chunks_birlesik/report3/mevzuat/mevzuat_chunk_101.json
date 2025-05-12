@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 101,
+  "chunk_text": "Bunlardan ilki sistem üzerinden yapılan işlemlerde oluşan verilerin anlamlandırılması sınıflandırılması ve kullanıcıya raporlanabilir bir veri tabanına dönüştürülmesi, ikincisi ise sistemin altyapı ve ilgili servislerinin geliştirilmesidir. Platform üzerinde biriken veriler, ilgili anlık süreçler için iki tarafın ihtiyacı olan verileri iletmekte kullanılmaktadır. Süreç tamamlandıktan sonra (alıcı firmaların bazı dönemler aldıkları raporlar dışında) atıl olarak sistemde tutulmaktadır. Elle sistem üzerinde yoğunluk yaratan veriler belli zamanlarda arşive alınmıştır. Veri örneklemeleri; - 58 bini 2017 de olmak üzere 315000 ayrı pazarlık oluşturulmuştur. Her yıl 10 bin adet daha fazla pazarlık açılma trendi vardır. - Bu pazarlıklarda; 260 bini 2017 yılında olmak üzere 1milyon 400 bin kalem ihtiyaç satınalma süreçleri tarafında platform üzerinde süreçlere sokulmuştur. - 160 bin katalog kalemi sisteme yüklenmiş ve alıcıların alımlarına sunulmuştur. - Bu süreçler sonucunda 45 bini 2017 yılında olmak üzere 240 bin satınalma siparişi tedarikçilere iletilmiş, 660 bin kalem malzeme tedarik ettirilmiştir.",
+  "char_len": 1110,
+  "sentence_count": 6
+}

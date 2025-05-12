@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 341,
+  "chunk_text": "Aşağıda teklif edilen Ge Niteliği yöntemin bu yöntemlerle farkları ayrıntılı olarak ortaya konmaktadır. Mevcut yöntem, otomatik özellik üretimi ve özellik temizlemesi önermesi açısından, özellik ön işlemesi / seçimini hiper parametre optimizasyonunun bir aşaması yapmış olması açısından, kümelerin anlamlı bir şekilde yorumlanabilmesini sağlayacak bir son işleme süreci öngörmesi açısından ve segmentler üzerinden alınacak aksiyonlara dair teklif üretmesi açısından bu yöntemlerden ayrışmaktadır: 1)Var olan sistemler mevcut görev için yeterli bir otomatik özellik işleme süreci barındırmamaktadır Yukarıda tarif edildiği üzere, mevcut proje için özellik ön işlemesi kritik önem taşımakta ve kümeleme algoritmalarının çalışmaları için temel bir şekilde belirleyici olduklarından, model/hiper parametre ile beraber optimize ediliyor olmaları kritik önem taşımaktadır.",
+  "char_len": 866,
+  "sentence_count": 2
+}

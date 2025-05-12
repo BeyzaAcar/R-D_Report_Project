@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 120,
+  "chunk_text": "Pratis.net sisteminin hem müşteri hem de tedarikçi tarafında büyük önemi olan, yüksek katmadeğerli servislerin geliştirilebilmesi için sistem üzerinde oluşan ihalelerin içeriklerinin anlamlandırılması, sınıflandırılması ve farklı kullanıcı taleplerine göre raporlanabilir bir veri tabanına dönüştürülmesi gerekmektedir. Hali hazırda ihalelere ilişkin raporlamalar lokasyon, firma büyüklüğü, sektör gibi temel kırılımlarlarda yapılabilmektedir. Ancak fiyat tahmini, tedarikçi önerme vb. servislerin geliştirilebilmesi için bunların ötesinde ihalenin içeriğinin analiz edilmesi ve içeriklerin birbiriyle ilişkilendirilebilmesi gerekmektedir. Projemizde bu sebeple ihale verilerini sınıflandıran bir sistemin geliştirilmesi hedeflenmiştir. İhale verilerinin sınıflandırılması kendi içerisinde birçok teknik belirsizlik barındırmaktadır. Bunların başında da ürün tanımlamalarının birbirinden farklı olmasına karşın aslında aynı olan ürünlerin yüksek bir güven aralığında tespit edilebilmesi gelmektedir.",
+  "char_len": 999,
+  "sentence_count": 6
+}

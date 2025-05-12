@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 326,
+  "chunk_text": "Her bir ARG güncelleme periyodunda risk trendleri yeniden hesaplanarak “Bilgilendirme” modülü ile, risk sahibi ve diğer ilgililerin bilgilendirilmesi sağlanarak riskin kontrol altında tutulması sağlanacaktır. - Onaylar Modülü Risk ve Uyum girdileri için iş akışları belirlenebilecek, bu akışlar çerçevesinde veri girişleri bir onay akışından geçirilerek verinin doğruluğu daha güvenilir hale getirilebilecektir. Risk ve Uyum girdilerindeki tüm aksiyon ve ARG periyodik güncellemeleri benzer iş akışlarına tabi tutulabilecek ve girilen bilgilerin tutarlı olduğu onaylandıktan sonra raporlanması sağlanabilecektir.Onaya gönderilen tüm girdiler ile ilgili uyarılar, “Bilgilendirme” modülü ile onaycılara iletilecek ve aksiyon almaları sağlanacaktır. - Mevzuat Entegrasyonu Modülü Sistem, mevzuatların anlık olarak yayımlandığı bir mevzuat güncelleme sistemine bu modül ile entegre olacaktır.",
+  "char_len": 888,
+  "sentence_count": 2
+}

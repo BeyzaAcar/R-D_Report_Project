@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 164,
+  "chunk_text": "Analitik aşamaların mimarisi, makine öğrenme sistemlerinin tasarımında sıklıkla kullanılan Python dilinde gerçeklenecektir. Öngörülen tüm aşamaların sağlıklı olarak birbirini takip edebilmesi için, alanda sıklıkla kullanılan bir veri akış yönetimi çerçevesi kullanılacaktır. Burada tercih edilen, alandaki en güvenilir çerçevelerden biri olan Airflow çerçevesi olacaktır. Airflow çerçevesi hem farklı analitik görevlerin birbiriyle uyumlu şekilde gerçekleşmesini sağlarken, hem de ileri düzey zamanlama ve kaynak yönetme kapasitesine de sahiptir. Modüllerin kendisinde ise kullanılacak yöntemler, Python veri işleme ve bilimsel hesaplama dünyasından paketler olacaktır.",
+  "char_len": 669,
+  "sentence_count": 5
+}

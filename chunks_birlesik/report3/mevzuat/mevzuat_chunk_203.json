@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 203,
+  "chunk_text": "Çünkü projemizin asıl amacı olan tanımlanan görevlere gerçekten başarabilecek personelin makine tarfından önerilmesi işi, atamanın merkezine oturur. Bunu başarabilmek için algoritmalar geliştirilip, doğruluğu test edilmiştir. 6- Birçok parametre kullanılarak personelin, görev performansı ölçülmüştür. Tamamlanan her görevde tanımlanan becerilere, ilgili personel için bir puan atanmıştır. Böylece personele ait gelişim gözlenebilecektir. 7- Proje maliyetlerinin kontrol altında tutulması önemlidir. Bu maliyetin büyük bir kısmını insan kaynağı oluşturmaktadır. İşte projemizde planlanan insan kaynağı ile gerçekleşen iş kıyaslamaları yapılmış, insan kaynağı maliyet takibine olanak sunulmuştur.",
+  "char_len": 695,
+  "sentence_count": 6
+}

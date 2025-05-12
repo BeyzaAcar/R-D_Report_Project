@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 155,
+  "chunk_text": "Projenin Projenin beklenen çıktısı firmamızın hem proje kapsamında belirlenen platformlar hem de gelecekte bu listeye eklenebilecek yeni Beklenen platformlar ile kolayca ve verimli bir şekilde entegre olmasını sağlayabilecek bir veri modeli, veri sorgulama altyapısı ve sunulan hizmetlerin Çıktıları ve uçtan uca bağlanabilme kabiliyeti ortaya konulacaktır. Bu sebeple projenin çıktısı gelecekte kullanılabilecek ortak bir entegrasyon model ve Faydaları şablonu (blueprint) ile başlamakta ve seçilen 4 platform için bu modelin başarılı implementasyonları ile devam etmektedir. Bu entegrasyon şablonu firmamızın sunduğu hizmetlerin hem şu an seçilen platformlar hem de gelecekte eklenebilecek platformlar ile kapsamlı entegrasyon sürecinin basitleştirecek ve verimini arttıracaktır. Hem firmamızda hem de piyasadaki diğer firmalarda böyle bir entegrasyon 6 ay civarında bir projelendirme ve ciddi adam aylar süren iş gücü gerektirmektedir. Bunun yanında bu projelerin başarı oranları da zorlukla %50’lere ulaşabilmektedir. Projemiz ile biz bu süreyi 1 aya ve başarı oranını %90’lara çıkarmayı hedeflemekteyiz.",
+  "char_len": 1108,
+  "sentence_count": 6
+}

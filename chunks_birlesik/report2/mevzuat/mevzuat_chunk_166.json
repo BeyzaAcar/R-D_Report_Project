@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 166,
+  "chunk_text": "Modüllerin kendisinde ise kullanılacak yöntemler, Python veri işleme ve bilimsel hesaplama dünyasından paketler olacaktır. Veri hareketleri için dask, pandas ve veri tabanı arayüzü sağlayan paketler kullanılacaktır. Temel veri işleme operasyonları için numpy, scipy, pandas gibi paketler kullanılacak, bu işlemlerin hızlandırılması gerektiğinde ise numba gibi derleme hızlandırma paketleri veya cython gibi C arayüzleri kullanılabilecektir. Kümeleme algoritmaları için ise scikit-learn, statstools ve PyMC3 gibi hesaplama kütüphaneleri kullanılacak, bu kütüphaneler gerektikçe PyTorch gibi derin öğrenme ve özgün algoritma kütüphanelerince desteklenecektir. Doğrusal programlama için öncelikle COIN-OR Linear Programming (CLP), GNU Linear Programming Kit (GLPK), lp_solve, MINOS gibi açık kaynaklı yazılımlar kullanılacak, gerekli performans yakalanamazsa, Cplex ve Gurobi gibi ticari yazılımlar denenecektir. Sütun üretme ana algoritması Python dili üzerinde geliştirilecektir.",
+  "char_len": 978,
+  "sentence_count": 6
+}

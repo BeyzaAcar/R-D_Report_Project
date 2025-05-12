@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 330,
+  "chunk_text": "Bu modül ile kullanıcılar, ilgilendikleri tüm mevzuat detayına erişebilecekler, gerekiyorsa yine istedikleri tüm mevzuatlardaki değişikliklerden anlık olarak haberdar olacaklardır. - Raporlar Modülü Sistem içindeki tüm bilgilerden derlenecek olan raporlar bu modül içeriğinde yer alacaktır. - Takvim Modülü Risk ve Uyum girdilerindeki tüm aksiyon/ARG ile ilgili yapılması gereken periyodik girişlere bu modül ile erişim sağlanabilecektir. Aksiyon ve ARG sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgilerin takvimi ile ilgili planlamayı bu modül üzerinden takip edeceklerdir. - Bildirimler Modül Sistem içindeki tüm olaylar (mevzuat değişikliği, günü gelen/geçen veri girişleri, genel bilgilendirmeler vb) ile ilgili bilgilendirme ve uyarılar, bu modül üzerinden yapılabilecektir.",
+  "char_len": 797,
+  "sentence_count": 2
+}

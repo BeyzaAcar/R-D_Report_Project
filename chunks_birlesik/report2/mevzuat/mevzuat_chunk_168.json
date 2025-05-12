@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 168,
+  "chunk_text": "Doğrusal programlama için öncelikle COIN-OR Linear Programming (CLP), GNU Linear Programming Kit (GLPK), lp_solve, MINOS gibi açık kaynaklı yazılımlar kullanılacak, gerekli performans yakalanamazsa, Cplex ve Gurobi gibi ticari yazılımlar denenecektir. Sütun üretme ana algoritması Python dili üzerinde geliştirilecektir. Hem doğrusal programlama hem karar ağacı üretmek için ilgili yazılımların Python kütüphaneleri kullanılacaktır. Projenin Alanyazındaki değerlendirmelerin de gösterdiği üzere, AutoML yöntemleri son zamanlardaki artan kullanımına rağmen, gözetimsiz Yenilikçi öğrenme alanında epey yetersiz bir noktadadır. Bu bağlamda var olan birçok platform gözetimli öğrenme problemlerine yöneliktir Yönü ve Ar- (regresyon, sınıflandırma). Son birkaç yılda üç adet dikkate değer AutoML bazlı kümeleme çerçevesi teklif edilmiştir.",
+  "char_len": 834,
+  "sentence_count": 6
+}

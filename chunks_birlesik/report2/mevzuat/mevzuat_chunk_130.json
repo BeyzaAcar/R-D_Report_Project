@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 130,
+  "chunk_text": "Bunlar arasında iki önemli noktada inovasyon ve yöntem optimizasyonu öne çıkmaktadır: 1) küme/segment sayıları (k-means algoritmasındaki k değerinin belirlenişi ve hedef değerler için optimizasyonu) 2) kümelerin ayrışacağı kesim noktaları (cut-off points). Bu iki madde kümeleme işleminin kalitesini belirleyecek ve proje kapsamında yapılacak inovasyonların önemli bir kısmı bu iki alana odaklanacaktır. Farklı e-ticaret sektörleri (elektronik, moda ve giyim, mobilya, pazaryerleri, vb.) için reklam kurguları ve müşteri davranışları arasında değişiklik olacaktır. Kullanacağımız kümeleme yönteminin bu farklılıklara göre düzenlenmesi yani context-aware olması gerekmektedir. Bunu sağlayabilmek için müşteri davranışları ve aynı zamanda dijital platformlardan alınacak ek verilerin zenginleştirilip yeni boyutların eklenmesi ve hesaplanması sağlanacaktır. Bu konu ile de literatüre farklı e-ticaret dikeylerinde kullanılabilecek boyutların tanımlanması, zenginleştirilmesi ve boyut birleştirme ile yeni boyutların hesaplanması alanında katkıda bulunacağız.",
+  "char_len": 1056,
+  "sentence_count": 6
+}

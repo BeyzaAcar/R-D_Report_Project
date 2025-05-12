@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 82,
+  "chunk_text": "Projemiz ile e-defter denetim süreçlerinde firmaların kendi kural setlerini oluşturabilecekleri, belli rasyoları basit matematiksel ifadelerle ya da daha karmaşık modeller kurarak inceleyebilecekleri bir sistem geliştirilecektir. Hali hazırda öngörülen sistemin bir örneği tespit edilememiştir. Bu sebeple nedenle gerçekleştirilecek detaylı analizlerle, kavramsal tasarım sürecinden başlayan kapsamlı bir ar-ge alışmasının yapılmasını gerektirmektedir. Proje Bu proje kapsamında kurgulanacak sistemin hangi verileri kontrol etmesi gerektiği, veriler içerisinde Kapsamında gönderilen tutarların değerlendirilmesi, hesap bakiyelerinin doğruluğunun araştırılması gibi major nitelikli Yapılacak kurguların uygulanması uzman kadro ve danışmanlık firmaları ile ortak çalışma ortamı oluşturularak Faaliyetler planlanacaktır. Şuanki yapı içerisinde SabancıDX bünyesinden servis edilen e-defter sistemi ERP bağımsız olarak kurgulanmış bir yapıya sahip olup, gönderilecek verileri muhasebesel akış içerisindeki belli kurallar dizilerine göre sorgulayabilecek bir altyapıya sahip değildir.",
+  "char_len": 1078,
+  "sentence_count": 5
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 104,
+  "chunk_text": "Tekrarlı ürün öneri modeli ve analiz sistemi a. Ürün ve davranış veri Yapılacak modelinin belirlenmesi b. Veri toplama altyapısının hazırlanması c. Frekans analizi ve satın alma tahmin sistemi d. Up-sell ve cross-sell öneri Faaliyetler sistemi 3. Stok optimizasyonu a. Trend analizi b. Mevsimsellik (seasonality) ve gürültü azaltma/uç değer temizleme (noise cancellation/outlier elimination) c. Muadil ve ürün benzerliği analizi (alternative products and product similarity) d. Stok tahminleme e. Uyarı sistemi 4. Yazılım Geliştirme a. Veri toplama altyapısı yazılım geliştirmeleri b. Tekrarlı ürün öneri sistemi geliştirmeleri c. Stok optimizasyon geliştirmeleri d. Raporlama arayüz geliştirmeleri e. Yazılım testleri f. Sistemin canlıya alınması Projenin E-ticaret alanında tekrarlı satın alma analistler ve piyasa uzmanları tarafından önemi vurgulanmak ile birlikte bu alandaki çalışmalar sadece Yenilikçi firmaların uygulaması gereken yönergeler (guidelines) seviyesinde kalmaktadır. Bu alanda yapılmış bir yöntem analizi ve ürünleşmiş bir Yönü ve Ar- yazılım sistemi bulunmamaktadır. Projedeki ilk amacımız piyasa uzmanlarının tanımladığı yönergelerin (best practice) doğruluğunu test Ge Niteliği etmek ve bunları her bir firmanın kolayca uygulayabileceği bir yazılım çözümüne dönüştürmektir. Detayları ve matematiksel modeli netleştirilmemiş ve adım adım uygulanabilecek bir yönteme dönüştürülmemiş bir alanı projemiz ile detaylı bir şekilde tanımlamak istiyoruz.",
+  "char_len": 1469,
+  "sentence_count": 6
+}

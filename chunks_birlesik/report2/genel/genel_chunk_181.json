@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 181,
+  "chunk_text": "Burada firmaların ihtiyaçları pazarlama faaliyetlerinin başarımını arttırmak, müşterilerin ihtiyaçları ise pazarlama mesajlarını yüksek hacimde ve rahatsız edecek şekillerde değil doğru zamanda, kişiselleştirilmiş ve hedefli olarak almaktır. Bu ihtiyaçları kategorize etmek gerekirse aşağıdaki gibi verilebilir: 1. Kampanya Yönetimi İhtiyaçları • Kampanya Türleri: Farklı kampanya türlerini (indirim, sadakat programları, çapraz satış, yükseltme teklifleri, vb.) destekleme yeteneği. • Dinamik Kurallar: Kampanya kurallarını ve koşullarını dinamik olarak tanımlayabilme ve değiştirebilme yeteneği. • Geçerlilik Süreleri: Kampanyaların başlangıç ve bitiş tarihlerini belirleme yeteneği. 2. State Machine İhtiyaçları • Durum Tanımları: Kampanyaların çeşitli durumlarını (başlatıldı, devam ediyor, durduruldu, tamamlandı, vb.) tanımlama yeteneği. • Geçiş Kuralları: Kampanya durumları arasındaki geçiş kurallarını belirleme ve uygulama yeteneği. • Olay Tetikleme: Belirli olayların (satın alma işlemi, kullanıcı kaydı, belirli bir tarih, vb.) kampanya durumlarını tetikleme yeteneği. 3. Kullanıcı Segmentasyonu • Kullanıcı Profilleri: Kullanıcı davranışlarına ve demografik bilgilere dayalı olarak kullanıcı profilleri oluşturma. • Hedefleme Kriterleri: Belirli kullanıcı gruplarını hedeflemek için kriterler tanımlama (örneğin, son 30 günde alışveriş yapanlar, belirli ürünleri satın alanlar, vb.). 5.",
+  "char_len": 1399,
+  "sentence_count": 5
+}

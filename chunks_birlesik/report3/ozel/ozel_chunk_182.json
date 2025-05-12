@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 182,
+  "chunk_text": "Operasyonel Uygulama kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: SQL Server -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Visual Studio 2013 -Yazılım Yaşam Döngüsü Araçları: Microsoft Team Foundation Server, GIT . E-doksis e- Analiz hizmeti, e-Defter'in standart şematron kontrolleri dışında, mali analiz kontrolleri gibi daha detaylı finansal ve muhasebesel kontrollerini yaparak, e-Defter'i GİB'e beyan etmeden önce olası tüm finansal riskleri ortadan kaldırılması için ilgili raporlamaları sağlar.",
+  "char_len": 634,
+  "sentence_count": 2
+}

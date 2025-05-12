@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 371,
+  "chunk_text": "Proje tanımlama ve proje detaylarının belirlenmesi Her yeni proje için kaynak planlaması yapılabilmesi amacıyla belirli verilerin sisteme tanımlanması gerekmektedir. Bu amaçla mevcut uygulamaya ek bir fonksiyonalite eklenecek olup proje süresi, hedeflenen başlangıç ve bitiş tarihi, personel sayısı, personel yetkinlik ve deneyim süreleri ile projenin alt çalışma bileşenleri de tanımlanabilecektir.",
+  "char_len": 399,
+  "sentence_count": 2
+}

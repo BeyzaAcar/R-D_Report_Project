@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 104,
+  "chunk_text": "Bu rakam 2017 de şu ana kadar 20 bin kalem artış göstermiş ve ileriki yıllarda da daha da artması öngörülmektedir. Bu veriler alıcı firmaların isteği doğrultusunda bir kaç statik boyutta analize sunulmaktadır. Bu veri yığınının içinde değişen ihtiyaçlara göre rapor metriklerinin bilinmesi, tahmin edilmesi gittikçe zorlaşmaktadır. Bunun yerine, yığındaki verilerin esnek veri analizi yapacak araçlara uygun şekilde, gerçek zamanlı olarak gönderilmesi ve bu araçların uyarlanarak profile göre uygun raporlamanın sunulması ihtiyacı vardır. Gönderilen bu verilerin üzerinde çalışacak akıllı kontrollerin devreye girerek, kullanıcılara çeşitli önerme, öngörü, uyarı mekanizmaları olarak geri gelmesi sağlanmalıdır.",
+  "char_len": 711,
+  "sentence_count": 5
+}

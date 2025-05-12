@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 431,
+  "chunk_text": "Uygulama tamamlandığında İhtiyaç Analiz, Fonksiyonel ve Teknik Tasarım dokümanları oluşacaktır. Aşağıda proje geliştirme sürecinde yapılacak çalışmalar belirtilmiştir. - Scrum metodolojisi kullanılarak çevik proje gerçekleştirimi sağlanacaktır. - Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir. - Geliştirme aşamasında işlerin takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. - Geliştirme sürecinde kullanılacak araçlar, izlenecek yöntemlerle ilgili proje ekibinin bilinçlenmesini sağlayacak eğitimler aldırılacaktır. - Olası proje ekipleri yetkinliğine bağlı olarak açık kaynak kodlaması tercih edilecektir(.Net Core, Java, Groovy, Go vs.). - Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır.",
+  "char_len": 1044,
+  "sentence_count": 2
+}

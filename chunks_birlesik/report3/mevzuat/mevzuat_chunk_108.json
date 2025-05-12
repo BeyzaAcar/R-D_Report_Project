@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 108,
+  "chunk_text": "Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için Faaliyetler gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır. Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. - Büyük veri analizinin - muhtemel raporlama formatları ve alım analizi ve diğer proje çıktısı olarak beklenen otonom sistemleri Sayfa 40 / 74 sağlayacak şekilde- yapılması ve değerli verilerin neler olabileceğinin çıkartılması. - Operasyonel verinin, analiz yapılabilecek ya da raporlanabilecek veri yığını haline getirilecek modelin oluşturulması. Bu veri akışının gerçek zamanlı olacak şekilde tasarlanması. - Bu veri yığını ilişkisel veri tabanı konseptinin yeterli olmayacağı öngörüldüğü taktirde, analiz işleri için kullanılabilen yatayda otomatik büyüyebilen veri kaynaklarına dönüştürülmesi gerçekleştirilecektir. Örneğin Google Cloud Platform’da çalışan BigQuery gibi. Bu tip bir veri kümesine bu verileri sürekli olarak beslemek için yine Google’ın Dataflow ürünü gibi bir ara birim yardımı ile gerçek zamanlı veri akışı, seçilmesi, değiştirilmesi ve saklanması süreci işletilecektir.",
+  "char_len": 1511,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 107,
+  "chunk_text": "Bu yönüyle projemiz iş isterleri (business requirements) seviyesinde best practice olarak verilen bir süreci matematiksel ve teknik yönden tanımlayarak (technical requirements / defined methodology and algorithm) yeni bir uygulama olarak değerlendirilmelidir. Projenin içinde birden farklı alanda geliştirme ve metodolojinin araştırılıp netleştirilmesine ihtiyaç bulunmaktadır. Bunlar arasında tekrarlı satın alma analizinin farklı yöntemleri ile çalıştırılıp optimize edilmesi, stok optimizasyonu ve upsell/cross-sell öneri kısımları bulunmaktadır. Tekrarlı satın alma analizinde kullanılacak trend analizi için “Random Forest”, “Decisiton Tree” “Support Vector” ve “Logistic Regression” uygulanması ve en uygun yöntem bulunduktan sonra bunun hiper-parametrelerine göre optimize edilmesi planlanmaktadır. Bu da var olan bir algoritmanın yeni bir alan ve veri kümesi üzerine uygulanıp optimize edilmesinden dolayı bir yöntem iyileştirme olarak ele alınmalıdır. Stok optimizasyonu alanında satış tahminlemesi (demand prediction) ve ürünlerin tedarik süreleri dikkate alınacaktır.",
+  "char_len": 1078,
+  "sentence_count": 6
+}

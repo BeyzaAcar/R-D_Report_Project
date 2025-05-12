@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 325,
+  "chunk_text": "ARG değerleri periyodik olarak, risk sorumluları tarafından güncellenecek ve gösterge bazında riskin eğilimi (trendi) belirlenerek raporlanabilecektir. Her bir ARG güncelleme periyodunda risk trendleri yeniden hesaplanarak “Bilgilendirme” modülü ile, risk sahibi ve diğer ilgililerin bilgilendirilmesi sağlanarak riskin kontrol altında tutulması sağlanacaktır. - Onaylar Modülü Risk ve Uyum girdileri için iş akışları belirlenebilecek, bu akışlar çerçevesinde veri girişleri bir onay akışından geçirilerek verinin doğruluğu daha güvenilir hale getirilebilecektir.",
+  "char_len": 563,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 245,
+  "chunk_text": "Bu sınıflandırmanın yapılabilmesi için firmaların benzerlik durumları, geçmiş ihaleler, ihalelerin büyüklükleri, teklif veren tedarikçileri, müşteri ve tedarikçinin büyüklükleri, aynı ürünün konu edildiği farklı ihaleler, ürün açıklamalarının benzerlik oranları gibi çok boyutlu bir değerlendirmenin yapılması gerekmektedir. Bu projenin başarıyla tamamlanması sonrasında oluşturulan veri tabanı, bir diğer projemiz olan Pratis.Net raporlama aracı vasıtasıyla farklı raporlar ve karar destek araçlarına dönüştürülebilecektir.",
+  "char_len": 524,
+  "sentence_count": 2
+}

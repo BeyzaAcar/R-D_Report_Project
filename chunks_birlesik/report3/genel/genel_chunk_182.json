@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 182,
+  "chunk_text": "Ayrıca mevcut kaynakların yetersiz olduğu durumlarda işe alım süreçlerine entegre olarak uygun adayların belirlenmesi sağlanamamaktadır. Yukarıda belirlenen hedefe ulaşılması durumunda proje kaynak planlaması, kapı giriş çıkış bilgileri, puantaj kayıtları, izin verileri ve gerçekleşen proje eforlarının tek bir yazılım üzerinde veri girişi, hesaplama ve raporlama amacıyla birleştirilmesi sağlanacaktır. Bu sayede birçok operasyonun kolaylaşması, otomatikleşmesinin yanında proje yürütücüleri, projelerinin öngörülen tamamlanma süreleri ve maliyetlerindeki sapma riskleri kolaylıkla görebilecek ve kaynak değişimine yönelik simülasyonların bu risklere etkilerini inceleyebilecektir. Proje Proje kapsamında teknik ve fonksiyonel olarak yapılacak geliştirmeler; 1. Kapı giriş çıkış sistemlerinden gelen Kapsamında verinin HR-WEB sistemine aktarılması Kapı giriş çıkış sistemlerinden gelen metin dosyalarının okunarak Yapılacak çalışan bazında günlük çalışma saatlerinin HR-WEB sisteminde tutulması sağlanacaktır.",
+  "char_len": 1011,
+  "sentence_count": 5
+}

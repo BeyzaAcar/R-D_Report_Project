@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 85,
+  "chunk_text": "Bu proje kapsamında belirtilen kurallar dizilerinin kurgulanması ve hatalı bir defter üretmenin risklerinden kurtulmak ve berat iptalinin zorlukları ile uğraşmamak için, defterlerin hatasız bir şekilde oluşturulması sağlanacaktır. Planlanan diğer önemli bir faliyet ise kurgulanacak yapının günümüz finansal ve muhasebesel süreçleri tabanında Sayfa 37 / 74 oluşacak olan değişikliklere hızlı şekilde adapte olma esnekliğine sahip olacak şekilde tasarlanacak olmasıdır. Kontrol edilmesi gereken kurallar, geliştirilecek ekranlar üzerinden parametrik olarak girilecektir. Varsayılan verileri ilk olarak SabancıDX standartlara uygun olarak oluşturacak ve kullanıcılar bu standartlara uymak kaydı ile kendi muhasebesel şartlarına göre bu kuralları kendilerine uyarlayabileceklerdir. Entegrasyon tarafında firmanın ham defter bilgileri ERP sistemlerinden portale ERP bağımsız şekilde yüklenir. Firmalar kendi muhasebel ve finansal süreçlerine göre portal üzerinde kurallarını oluşturur.",
+  "char_len": 981,
+  "sentence_count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 159,
+  "chunk_text": "Proje Proje kapsamında öncelikli olarak kuruluşumuzun mevcut faaliyetleri, benzer uygulamalar ve müşteri talepleri Kapsamında de dikkate alınarak mevcut sistem ve veri yapıları hakkında bilgiler toplanacaktır.Proje kapsamında yer alacak Yapılacak olan modüller ve özetle fonksiyonaliteleri aşağıdaki gibi olacaktır; - Uyum Evreni Modülü Kurumun, mevcut Faaliyetler mevzuata olan uyumunun kontrol edildiği modüldür. Modül içinde uyumun temel bilgi girişleri, kategorizasyonu, etkilendiği mevzuat(lar) girilebilecektir. Her bir uyum girdisinin sahibi ve sorumluları olacak, veri girişlerini ilgili kullanıcılar yapacaktır.Detayı “Mevzuat Entegrasyonu” modülünde de açıklanacağı gibi uyumun günlük olarak mevzuat değişikliklerinden/eklemelerinden etkilenip etkilenmediği kontrol edilecek ve olası bir etkilenme durumunda tüm ilgililer “Bildirimler Modülü” içinde detaylandırılacağı gibi bilgilendirileceklerdir. İlgili her mevzuat değişikliği durumunda, ilgili uyumda aksiyonlar oluşturulacak ve mevzuata uyumun sağlanabilmesi için bu aksiyonun tamamlanması beklenecektir.Uyumun durumu, istenen periyodda belirlenebilecek, periyodik bilgi girişi yapılabilmesi sağlanacaktır. Aynı şekilde uyumsuzluk durumundaki olası etkiler belirlenebilecek ve etki seviyesine bağlı olarak bilgilendirme ve takipleri sağlanabilecektir. - Risk Modülü Kurumun mevcut risklerinin kontrol/takip edildiği modüldür.",
+  "char_len": 1390,
+  "sentence_count": 5
+}

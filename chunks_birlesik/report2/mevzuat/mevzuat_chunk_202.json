@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 202,
+  "chunk_text": "Bu araç, sürükle-bırak özelliği ile state machine durumlarını ve geçiş kurallarını görsel olarak oluşturma imkanı sağlar. Ayrıca, makine öğrenimi tabanlı öneri sistemi, kullanıcıya en etkili kampanya tasarımını önerir. 4. Kampanya Şablonları ve A/B Testleri: Sistem, çeşitli kullanıma hazır kampanya şablonları sunar ve kullanıcıların bu şablonları özelleştirmesine olanak tanır. Ayrıca, A/B testleri ile farklı kampanya stratejilerini karşılaştırma ve en etkili stratejiyi belirleme imkanı sağlar. Makine öğrenimi algoritmaları, A/B testlerinin sonuçlarını analiz eder ve en iyi performans gösteren kampanya tasarımını önerir. Sayfa 45 / 66 Projenin Bu projede geliştirilen state machine tabanlı kampanya otomasyon sisteminin beklenen çıktıları, e-ticaret platformlarının pazarlama Beklenen faaliyetlerini daha etkili, verimli ve kişiselleştirilmiş hale getirmektir.",
+  "char_len": 867,
+  "sentence_count": 6
+}

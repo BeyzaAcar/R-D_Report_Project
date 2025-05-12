@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 292,
+  "chunk_text": "Operasyonel Uygulama kullanılması planlanan yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: SQL Server -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Visual Studio 2013 -Yazılım Yaşam Döngüsü Araçları: Microsoft Team Foundation Server, GIT . Projenin Öncelikle e-fatura portal üzerinde firmaların faturalarını ödeyemedikleri durumda bankadan (anlaşmalı) kredi Yenilikçi isteme talebi gerçekleştirilecektir.",
+  "char_len": 522,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 183,
+  "chunk_text": "Kullanıcı Segmentasyonu • Kullanıcı Profilleri: Kullanıcı davranışlarına ve demografik bilgilere dayalı olarak kullanıcı profilleri oluşturma. • Hedefleme Kriterleri: Belirli kullanıcı gruplarını hedeflemek için kriterler tanımlama (örneğin, son 30 günde alışveriş yapanlar, belirli ürünleri satın alanlar, vb.). 5. Otomasyon ve Zamanlama • Otomatik Tetikleyiciler: Belirli olaylara veya tarih/saat aralıklarına göre otomatik kampanya tetikleyicileri oluşturma. • Zamanlama: Kampanyaların belirli zaman aralıklarında otomatik olarak başlatılması ve durdurulması. 6. Kullanıcı Deneyimi ve Arayüz Tasarımı • Kullanıcı Dostu Arayüz: Kolay anlaşılır ve kullanımı kolay bir yönetim paneli. • Görsel Düzenleyici: Kampanya kurallarını ve durum makinelerini görsel olarak düzenleyebilme yeteneği. • Bildirimler: Kampanyaların durumu hakkında yöneticilere bildirim ve uyarı gönderme yeteneği. 7. Performans ve Ölçeklenebilirlik • Yüksek Performans: Yüksek trafikte bile performans düşüklüğü yaşamayacak şekilde optimize edilmiş sistem. • Ölçeklenebilirlik: Kullanıcı ve kampanya sayısındaki artışa uyum sağlayabilecek bir altyapı. 8. Güvenlik ve Uyum • Veri Güvenliği: Kullanıcı verilerini güvenli bir şekilde saklama ve işleme. • Yasal Uyum: GDPR, KvKK ve diğer veri koruma düzenlemelerine uyumluluk. 9. Geribildirim ve Optimizasyon • Geribildirim Mekanizmaları: Kullanıcılardan ve sistemden gelen geribildirimleri toplama ve değerlendirme yeteneği. • Optimizasyon: Kampanya performansını izleme ve sürekli iyileştirme için optimizasyon araçları.",
+  "char_len": 1538,
+  "sentence_count": 6
+}

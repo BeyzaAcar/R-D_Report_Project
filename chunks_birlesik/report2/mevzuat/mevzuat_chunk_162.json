@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 162,
+  "chunk_text": "Sayfa 42 / 66 Proje Bilindiği üzere, çözümümüz önce ham müşteri verisinden, alan bilgisin ve istatistiksel en iyi pratikler kullanılarak verinin temizlenmesi, Kapsamında özelliklerin üretilmesi ve temel önişlemlerin yapılması gerçekleştirilecektir. Bunun ardından ise veriye uygulanacak önişleme, hangi Yapılacak kümeleme modelinin uygulanacağı ve bunun hiper parametreleri, bir Bayesçi optimizasyon döngüsü içerisinde, kümelerin birbirinden ne Faaliyetler kadar iyi ayrıldığını belirten bir geçerlik kriteri kullanılarak seçilecektir. Seçilecek kümelemenin gerçekleşmesinin ardından, kümelerin bu analizden faydalanacak kullanıcı tarafından anlaşılabilir olması için kümelere atanan örnekleri kapsayan kuralları mümkün olduğu kadar basitleştirme amacıyla kapsayan kural kümesini en küçükleyen sütun üretme algoritmasına dayalı bir optimizasyon yapılacaktır. Bunu ise, geçmiş kampanya bilgileri kullanılarak her bir küme için ideal kampanya seçimlerinin yapılmasını sağlayan modül takip edecektir. Analitik aşamaların mimarisi, makine öğrenme sistemlerinin tasarımında sıklıkla kullanılan Python dilinde gerçeklenecektir. Öngörülen tüm aşamaların sağlıklı olarak birbirini takip edebilmesi için, alanda sıklıkla kullanılan bir veri akış yönetimi çerçevesi kullanılacaktır.",
+  "char_len": 1272,
+  "sentence_count": 6
+}

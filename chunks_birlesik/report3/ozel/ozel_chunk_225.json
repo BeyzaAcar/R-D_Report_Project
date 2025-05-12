@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 225,
+  "chunk_text": "Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen sistemler oluşturulmalıdır. Bunun için AWS ya da GCP gibi public bulut sistemleri kullanılacaktır. - Olası proje ekibi .Net yetkinliği daha çok olan kişiler olduğu için belli bir kısım .Net geliştirilebilir.",
+  "char_len": 274,
+  "sentence_count": 2
+}

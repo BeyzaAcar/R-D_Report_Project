@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 482,
+  "chunk_text": "Alıcıya seçtiklerine benzer tedarikçiler veya tedarikçiye teklif yaptığı benzer alıcılar önerilebilecektir. • Yukarıdaki analizlerin sonucunda çıkacak benzerlik dereceleri, müşterilerin seçtiği kritere göre (benzer tedarikçiler, benzer ürünler, birlikte alınan ürünler, geçmişte aldığım ürünler vb.) hızlı bir şekilde sıralama yapılmasını sağlayacaktır. • Benzer ihalelerdeki kazanımların analizleri ile tüm alıcı ve vericilere önerme algoritmaları kullanılarak ihale şekil önerileri verilebilecektir. • İhaleler benzerliklerine göre “supervised / unsupervised classification” (gözetimli / gözetimsiz sınıflandırma) yöntemiyle sınıflandırılacak / segmente edilecektir. • Tedarikçilerin geçmiş aksiyonları, bilgileri, ve teklif sundukları / kazandıkları ihalelere göre yeni açılan / teklif sundukları ihaleyi kazanma olasılıkları makine öğrenmesiyle (logistic regression vb.) tahmin edilecektir. • İlgili ihaleyi kazanma olasılığı yüksek olan tedarikçiler alıcıya önerilecektir, aynı zamanda tedarikçilere de teklif sunmaları için öneri yapılacaktır. Projenin Projemizde ele alındığı kapsamda, bütünleşik bir esatınalma ve teklif yönetim sistemi, yerli bir çözüm olarak Yenilikçi bulunmamaktadır.",
+  "char_len": 1195,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 102,
+  "chunk_text": "E-ticaret literatüründe upsell olarak geçen bu durumun yanında doğru teklifler ile o müşteriye yeni bir ek ürün de satabilmek (cross-sell) ortalama sepet tutarını yukarı çekecektir. Pandemi sonrası e-ticaretin artan rekabeti içinde firmaların karlılığı arttırabilmeleri için tekrarlı satın alma işlemlerini teşvik edebilmek ve burada ortalama sepet tutarlarını upsell veya cross-sell ile arttırabilmek projenin diğer ihtiyaçlarından biridir. Proje Proje kapsamında 4 ana faaliyet grubu oluşturuldu, bunlar şu şekildedir; 1. Literatür taraması a. Tekrarlı ürün önerileri algoritmalarının Kapsamında incelenmesi b. Stok optimizasyonu algoritmalarının incelenmesi 2. Tekrarlı ürün öneri modeli ve analiz sistemi a. Ürün ve davranış veri Yapılacak modelinin belirlenmesi b. Veri toplama altyapısının hazırlanması c. Frekans analizi ve satın alma tahmin sistemi d. Up-sell ve cross-sell öneri Faaliyetler sistemi 3.",
+  "char_len": 910,
+  "sentence_count": 5
+}

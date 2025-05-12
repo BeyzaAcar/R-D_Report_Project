@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 333,
+  "chunk_text": "Temel veri işleme operasyonları için numpy, scipy, pandas gibi paketler kullanılacak, bu işlemlerin hızlandırılması gerektiğinde ise numba gibi derleme hızlandırma paketleri veya cython gibi C arayüzleri kullanılabilecektir. Kümeleme algoritmaları için ise scikit-learn, statstools ve PyMC3 gibi hesaplama kütüphaneleri kullanılacak, bu kütüphaneler gerektikçe PyTorch gibi derin öğrenme ve özgün algoritma kütüphanelerince desteklenecektir.",
+  "char_len": 441,
+  "sentence_count": 2
+}

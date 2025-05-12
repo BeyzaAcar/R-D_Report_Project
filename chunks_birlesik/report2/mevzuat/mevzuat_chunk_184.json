@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 184,
+  "chunk_text": "Kullanıcı Deneyimi ve Arayüz Tasarımı • Kullanıcı Dostu Arayüz: Kolay anlaşılır ve kullanımı kolay bir yönetim paneli. • Görsel Düzenleyici: Kampanya kurallarını ve durum makinelerini görsel olarak düzenleyebilme yeteneği. • Bildirimler: Kampanyaların durumu hakkında yöneticilere bildirim ve uyarı gönderme yeteneği. 7. Performans ve Ölçeklenebilirlik • Yüksek Performans: Yüksek trafikte bile performans düşüklüğü yaşamayacak şekilde optimize edilmiş sistem. • Ölçeklenebilirlik: Kullanıcı ve kampanya sayısındaki artışa uyum sağlayabilecek bir altyapı. 8. Güvenlik ve Uyum • Veri Güvenliği: Kullanıcı verilerini güvenli bir şekilde saklama ve işleme. • Yasal Uyum: GDPR, KvKK ve diğer veri koruma düzenlemelerine uyumluluk. 9. Geribildirim ve Optimizasyon • Geribildirim Mekanizmaları: Kullanıcılardan ve sistemden gelen geribildirimleri toplama ve değerlendirme yeteneği. • Optimizasyon: Kampanya performansını izleme ve sürekli iyileştirme için optimizasyon araçları. Proje Projede yapılacak faaliyetler aşağıdaki gibi listelenebilir: 1. Proje Kapsamının ve Teknik İhtiyaçların Belirlenmesi • Pazarlama faaliyetleri ve Kapsamında içeriklerinin çıkarılması • Pazarlama kanalları üzerinden mesajların iletileceği altyapının oluşturulması (e-posta ve push bildirimleri) • Yapılacak Müşteri bilgilerinin ve davranışlarının toplanması 2.",
+  "char_len": 1337,
+  "sentence_count": 6
+}

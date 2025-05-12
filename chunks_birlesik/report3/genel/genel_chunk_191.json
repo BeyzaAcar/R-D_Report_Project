@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 191,
+  "chunk_text": "Bu veriler okunduktan sonra MongoDb gibi NoSQL veri tabanlarında tutulacak ve kapı giriş çıkış sisteminden alınan çalışma süreleri ile karşılaştırılabilecektir. 5. Proje teslimlerinin takibi Devam eden projelerin zamanında teslim edilip edilemeyeceğinin anlık olarak analizinin yapılabilmesi yeni bir fonksiyon aracılığı ile sağlanacaktır. Toplam proje süresi, harcanan süre ve backlogtaki işler bu analizde kullanılabileceği gibi, aynı zamanda geçmiş proje risk değerlendirme sonuçları da bu analizin yapılmasında dikkate alınacaktır. 6. Proje maliyet takibi Mevcut HR-WEB sisteminde aylık bazda çalışanların proje dağılımları orantısal olarak tanımlanabilmekte, bu tanımlama yapılırken gerçek dağılım oranları saptanamadığı için belirli kabullerden hareket edilmektedir. Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir.",
+  "char_len": 1006,
+  "sentence_count": 5
+}

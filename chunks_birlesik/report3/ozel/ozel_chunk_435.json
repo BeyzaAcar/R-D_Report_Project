@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 435,
+  "chunk_text": "Hiçbir veri üzerinde güncelleme olmadan zaman damgalı bir şekilde veriler tutulacaktır. Geçmişe yönelik her hangi bir zamandaki verilere anlık olarak ulaşılabilinecektir. - Konektor yapısı ile her fonksiyonun tek başına çalışabilirliği sağlanacak olup, oluşturulacak API’lar ile uygulama içine modüller(plug-and-play) eklenebilecektir. - Test otomasyonu süreçleri kullanılacak.",
+  "char_len": 377,
+  "sentence_count": 2
+}

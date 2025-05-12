@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 111,
+  "chunk_text": "Bu yöntemlere uygun algoritmalar yazılacaktır. - Analitik ile ilgili statik ya da dinamik algoritmaların araştırılması, uygunluklarının belirlenmesi ve geliştirilmesi. Bu algoritmalar sonucunda elde edilebilecek veri benzerlikleri ya da farklılıklarının tekrar nasıl girdi olarak kullanılabileceğinin araştırılması. Bu konular ile ilgili akademik/profesyonel destek alınması. - Alım profiline göre sistem içinde uygun yönlendirmelerin yapılması, örneğin sık yapılan alımlara uygun reklamların ya da alımına etki edecek uygun diğer yöntemlerin alıcılarla buluşturulması sağlanacaktır. - Operasyonel süreçlerde kullanıcının atacağı adımlara yönlendirmede bulunmak. Örneğin; “ilk verdiğiniz teklif bu seviyede olduğunda girdiğiniz ihaleleri 78% oranında kazanamadınız!!” gibi öngörüler sunmak. - Bu tip önerme, öngörü, uyarı tarzı mesajlar uygulama dışında sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en yakın olabilecek performansta tekrar uygulamaya gönderilecektir. Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen sistemler oluşturulmalıdır. Bunun için AWS ya da GCP gibi public bulut sistemleri kullanılacaktır. - Olası proje ekibi .Net yetkinliği daha çok olan kişiler olduğu için belli bir kısım .Net geliştirilebilir.",
+  "char_len": 1268,
+  "sentence_count": 6
+}

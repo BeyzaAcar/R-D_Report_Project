@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 181,
+  "chunk_text": "Bu entegrasyonlar teknik olarak gerçekleştirilse bile, veri uyuşmazlıkları, entegrasyon kaynaklı sorunların tespiti, gelen verilerin doğruluğunun test edilmesindeki güçlükler hedeflenen sonuçların alınmasında sorunlara sebep olabilmektedir. Bunun yanı sıra örneğin “D yazılımı” kaynak planlamasını yaparken sadece giriş yapılan yetkinlik ve deneyim kriterlerini dikkate almakta, mevcut IK uygulamalarında yer alan çalışana ait organizasyon, pozisyon, ücret, yan haklar ve izin gibi kişi özelinde son derece değerli ve maliyete etkisi olan bilgilerin farklı gerekliliklere göre birleştirilmesini sağlayamamaktadır. Ayrıca mevcut kaynakların yetersiz olduğu durumlarda işe alım süreçlerine entegre olarak uygun adayların belirlenmesi sağlanamamaktadır. Yukarıda belirlenen hedefe ulaşılması durumunda proje kaynak planlaması, kapı giriş çıkış bilgileri, puantaj kayıtları, izin verileri ve gerçekleşen proje eforlarının tek bir yazılım üzerinde veri girişi, hesaplama ve raporlama amacıyla birleştirilmesi sağlanacaktır. Bu sayede birçok operasyonun kolaylaşması, otomatikleşmesinin yanında proje yürütücüleri, projelerinin öngörülen tamamlanma süreleri ve maliyetlerindeki sapma riskleri kolaylıkla görebilecek ve kaynak değişimine yönelik simülasyonların bu risklere etkilerini inceleyebilecektir.",
+  "char_len": 1297,
+  "sentence_count": 5
+}

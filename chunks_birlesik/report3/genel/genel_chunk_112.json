@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 112,
+  "chunk_text": "Bu konular ile ilgili akademik/profesyonel destek alınması. - Alım profiline göre sistem içinde uygun yönlendirmelerin yapılması, örneğin sık yapılan alımlara uygun reklamların ya da alımına etki edecek uygun diğer yöntemlerin alıcılarla buluşturulması sağlanacaktır. - Operasyonel süreçlerde kullanıcının atacağı adımlara yönlendirmede bulunmak. Örneğin; “ilk verdiğiniz teklif bu seviyede olduğunda girdiğiniz ihaleleri 78% oranında kazanamadınız!!” gibi öngörüler sunmak. - Bu tip önerme, öngörü, uyarı tarzı mesajlar uygulama dışında sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en yakın olabilecek performansta tekrar uygulamaya gönderilecektir. Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen sistemler oluşturulmalıdır. Bunun için AWS ya da GCP gibi public bulut sistemleri kullanılacaktır. - Olası proje ekibi .Net yetkinliği daha çok olan kişiler olduğu için belli bir kısım .Net geliştirilebilir. Ancak, kullanılacak big data ile ilgili teknolojilere en yakın diller referans edilebilecektir.",
+  "char_len": 1048,
+  "sentence_count": 5
+}

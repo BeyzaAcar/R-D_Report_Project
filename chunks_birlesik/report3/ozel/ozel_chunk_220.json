@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 220,
+  "chunk_text": "Örneğin Google Cloud Platform’da çalışan BigQuery gibi. Bu tip bir veri kümesine bu verileri sürekli olarak beslemek için yine Google’ın Dataflow ürünü gibi bir ara birim yardımı ile gerçek zamanlı veri akışı, seçilmesi, değiştirilmesi ve saklanması süreci işletilecektir. Bu yöntemlere uygun algoritmalar yazılacaktır. - Analitik ile ilgili statik ya da dinamik algoritmaların araştırılması, uygunluklarının belirlenmesi ve geliştirilmesi.",
+  "char_len": 440,
+  "sentence_count": 2
+}

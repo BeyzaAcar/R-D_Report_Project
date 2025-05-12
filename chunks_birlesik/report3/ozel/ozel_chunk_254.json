@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 254,
+  "chunk_text": "İlk etapta elle yapılacak müdahale ile bu varsayımlar düzeltilecektir. - Sistem bundan sonraki yeni ihale verilerinde, mevcut sınıflandırılmış verileri de göz önünde bulundurarak olması gereken sınıflandırmayı yeni kelimeler için sağlayacaktır. - Bundan sonraki adımda daha önce sınıflandırılmamış kelimeler Naive Bayes gibi olasılık hesaplayan algoritmalarla, birlikte kullanıldıkları daha önceden sınıflandırılmış kelimelerle en yakın olasılığı kullanarak aynı sınıflandırmaya tabi tutulacaklar. - Sistem buradaki kendi başarı oranını hesaplayarak, kullanıcılardan bazen destek isteyecektir. Örneğin, sınıflandırılmış kelimelerle birlikte kullanılan kelimeler aynı yoğunlukta kullanılmıyorsa –belli oran altında ise- kullanıcıdan teyit isteyebilecektir.",
+  "char_len": 755,
+  "sentence_count": 2
+}

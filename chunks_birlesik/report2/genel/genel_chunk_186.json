@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 186,
+  "chunk_text": "Proje Projede yapılacak faaliyetler aşağıdaki gibi listelenebilir: 1. Proje Kapsamının ve Teknik İhtiyaçların Belirlenmesi • Pazarlama faaliyetleri ve Kapsamında içeriklerinin çıkarılması • Pazarlama kanalları üzerinden mesajların iletileceği altyapının oluşturulması (e-posta ve push bildirimleri) • Yapılacak Müşteri bilgilerinin ve davranışlarının toplanması 2. Pazarlama Kurguları ve Yöntemleri • Müşterilere sunulacak pazarlama kurgularının Faaliyetler çıkarılması • Karışık kurguların çalışmasını sağlayacak state machine altyapısını geliştirilmesi • Müşterilerin pazarlama mesajlarına verdiği pozitif veya negatif geri bildirimlerin toplanması • Sonuçların raporlanması ve başarım analizleri 3. Makine Öğrenmesi Yardımı ile Otomasyon • Mesaj içeriklerinin müşteri geçmişine göre kişiselleştirilmesi. Her bir mesaj içinde sunulacak ürün ve kampanyaların collaborative filtering yöntemi ile belirlenmesi • Pazarlama mesajlarının gönderim zamanlarının müşteri geçmişindeki bildirimlere göre optimize edilmesi • Bir mesajın birden çok versiyonun içinden en başarılı çalışanının akıllı bir şekilde optimize edilmesi • Sistemin akıllı bir şekilde yeni pazarlama kurguları önermesi, başarılı çalışmayanları yayından kaldırması Projenin Bu projenin yenilikçi yönü, state machine tabanlı bir kampanya otomasyon sistemi geliştirerek e-ticaret platformlarının pazarlama Yenilikçi faaliyetlerini daha esnek ve dinamik bir şekilde yönetmelerine olanak sağlamaktır.",
+  "char_len": 1458,
+  "sentence_count": 5
+}

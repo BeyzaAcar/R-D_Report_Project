@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 257,
+  "chunk_text": "Reklam hedef kitlelerinin otomatik çıkarımı için kümeleme tabanlı segmentasyon uygulamayı düşünmekteyiz. Burada temel alacağımız kümeleme algoritması k-means clustering olacaktır ve bunun üzerine gerekli düzenlemeleri ve optimizasyonları yapacağız.",
+  "char_len": 248,
+  "sentence_count": 2
+}

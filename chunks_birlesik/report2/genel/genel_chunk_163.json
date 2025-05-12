@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 163,
+  "chunk_text": "Seçilecek kümelemenin gerçekleşmesinin ardından, kümelerin bu analizden faydalanacak kullanıcı tarafından anlaşılabilir olması için kümelere atanan örnekleri kapsayan kuralları mümkün olduğu kadar basitleştirme amacıyla kapsayan kural kümesini en küçükleyen sütun üretme algoritmasına dayalı bir optimizasyon yapılacaktır. Bunu ise, geçmiş kampanya bilgileri kullanılarak her bir küme için ideal kampanya seçimlerinin yapılmasını sağlayan modül takip edecektir. Analitik aşamaların mimarisi, makine öğrenme sistemlerinin tasarımında sıklıkla kullanılan Python dilinde gerçeklenecektir. Öngörülen tüm aşamaların sağlıklı olarak birbirini takip edebilmesi için, alanda sıklıkla kullanılan bir veri akış yönetimi çerçevesi kullanılacaktır. Burada tercih edilen, alandaki en güvenilir çerçevelerden biri olan Airflow çerçevesi olacaktır.",
+  "char_len": 833,
+  "sentence_count": 5
+}

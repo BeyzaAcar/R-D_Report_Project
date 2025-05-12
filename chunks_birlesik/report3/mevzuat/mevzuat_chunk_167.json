@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 167,
+  "chunk_text": "Yönetici yetkisine sahip kullanıcılar dilerlerse panoya genel durumu gösteren grafikler (ARG Durumları, Aksiyon Durumları, Günü Geçen Aksiyonlar vb) ekleyebileceklerdir. Operasyonel Uygulama kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: MySQL 5 -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Team Foundation Server. Projemizin hedefi, şirketlerin yasal yükümlülüklere tam uyumlu olmalarını sağlamaktır. Bu kapsamda geliştirilen projemizin gelişimi aşağıda açıklanmıştır. 1- Uyum veri tabanı oluşturulmuştur. Uyum Veri tabanı, şirketlerin uyması gereken, yasal mevzuat, anlaşmalar, iç politika ve yönetmelikler gibi tanımlı düzenlemeleri listeleyen, bu düzenlemelere uyulmayan faaliyetler yürütülmesi halinde maruz kalınabilecek yaptırımları ve güncel uyum durumunu içeren veri bütünüdür. 2- Uyum riskleri tanımlanmıştır. Uyum riski şirketlerin, yürürlükteki kanunlara, düzenlemelere, etik kurallara, iç politika ve yönetmelikler gibi tanımlı kurallara uyulmayan faaliyetler yürütmesi halinde maruz kalabileceği yasal, itibar, maddi vb. kayıplara yönelik unsurları ifade etmektedir. 3- Uyum raporu geliştirilmiştir.",
+  "char_len": 1245,
+  "sentence_count": 6
+}

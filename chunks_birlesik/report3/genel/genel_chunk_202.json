@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 202,
+  "chunk_text": "Görev modülünde, bir personelin iş yerinde yapmakla yükümlü olduğu görevlerin yöneticisi tarafından oluşturulması ve bu personele atanması yapılmıştır. Bu, atama işlemi kritiktir. Çünkü projemizin asıl amacı olan tanımlanan görevlere gerçekten başarabilecek personelin makine tarfından önerilmesi işi, atamanın merkezine oturur. Bunu başarabilmek için algoritmalar geliştirilip, doğruluğu test edilmiştir. 6- Birçok parametre kullanılarak personelin, görev performansı ölçülmüştür. Tamamlanan her görevde tanımlanan becerilere, ilgili personel için bir puan atanmıştır.",
+  "char_len": 569,
+  "sentence_count": 5
+}

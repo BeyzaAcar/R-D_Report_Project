@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 164,
+  "chunk_text": "Risk ve Uyum girdilerindeki tüm aksiyon ve ARG periyodik güncellemeleri benzer iş akışlarına tabi tutulabilecek ve girilen bilgilerin tutarlı olduğu onaylandıktan sonra raporlanması sağlanabilecektir.Onaya gönderilen tüm girdiler ile ilgili uyarılar, “Bilgilendirme” modülü ile onaycılara iletilecek ve aksiyon almaları sağlanacaktır. - Mevzuat Entegrasyonu Modülü Sistem, mevzuatların anlık olarak yayımlandığı bir mevzuat güncelleme sistemine bu modül ile entegre olacaktır. Entegrasyon sonucunda, değişen ve yeni eklenen mevzuata erişim sağlanabilecektir. Risk ve Uyum girdilerinin bağlı bulundukları mevzuat ile ilgili tüm değişiklikler, entegrasyon modülü ile saptanacak, “Bilgilendirme” modülü ile tüm ilgililerin uyarılması sağlanacaktır. Bu modül ile kullanıcılar, ilgilendikleri tüm mevzuat detayına erişebilecekler, gerekiyorsa yine istedikleri tüm mevzuatlardaki değişikliklerden anlık olarak haberdar olacaklardır. - Raporlar Modülü Sistem içindeki tüm bilgilerden derlenecek olan raporlar bu modül içeriğinde yer alacaktır. - Takvim Modülü Risk ve Uyum girdilerindeki tüm aksiyon/ARG ile ilgili yapılması gereken periyodik girişlere bu modül ile erişim sağlanabilecektir. Aksiyon ve ARG sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgilerin takvimi ile ilgili planlamayı bu modül üzerinden takip edeceklerdir. - Bildirimler Modül Sistem içindeki tüm olaylar (mevzuat değişikliği, günü gelen/geçen veri girişleri, genel bilgilendirmeler vb) ile ilgili bilgilendirme ve uyarılar, bu modül üzerinden yapılabilecektir.",
+  "char_len": 1543,
+  "sentence_count": 5
+}

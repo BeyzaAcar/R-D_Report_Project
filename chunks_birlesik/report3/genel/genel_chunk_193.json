@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 193,
+  "chunk_text": "Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir. Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır. Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır.",
+  "char_len": 838,
+  "sentence_count": 5
+}

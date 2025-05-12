@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 86,
+  "chunk_text": "Kontrol edilmesi gereken kurallar, geliştirilecek ekranlar üzerinden parametrik olarak girilecektir. Varsayılan verileri ilk olarak SabancıDX standartlara uygun olarak oluşturacak ve kullanıcılar bu standartlara uymak kaydı ile kendi muhasebesel şartlarına göre bu kuralları kendilerine uyarlayabileceklerdir. Entegrasyon tarafında firmanın ham defter bilgileri ERP sistemlerinden portale ERP bağımsız şekilde yüklenir. Firmalar kendi muhasebel ve finansal süreçlerine göre portal üzerinde kurallarını oluşturur. Sonrasında firmanın defter bilgileri incelenerek kayıtlar analiz edilir. Oluşturmuş olduğu kurallar kapsamında defter bilgileri düzeltilerek ilgili raporlar üreritilip berat alınması için GIB’e göndermeye hazır hale getirilir.",
+  "char_len": 739,
+  "sentence_count": 6
+}

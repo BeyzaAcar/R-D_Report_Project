@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 195,
+  "chunk_text": "Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. Operasyonel Uygulama kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: Java -Uygulama Çatısı: Java 1.7 / 1.8, MVC Framework, -Veri tabanı: SQL Server, MongoDB -Uygulama Sunucu: IBM WebSphere Application Server -Yazılım Araçları: Eclipse. Projemiz kapsamında, insan kaynağınızı etkin bir biçimde değerlendirmenizi sağlar. Uygulama alanı geniştir. Çünkü proje temelli çalışan birçok kurum projelerini parçalara bölerek yönetir. Bu parçalar P9 için projeyi geliştirenlere atanan görevleri ifade eder. Genellikle projelerde görev(iş) atama uygulaması ilgili iş parçası hakkında yetkin kişilerce yapılır.",
+  "char_len": 823,
+  "sentence_count": 6
+}

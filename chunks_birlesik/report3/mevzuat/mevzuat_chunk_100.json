@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 100,
+  "chunk_text": "Ancak mevcut sistemlerimiz firmaların karar süreçlerini etkileyecek kapsamlı raporlar planlayarak oluşturabilmelerini desteklememektedir. Sisteme, kullanıcılar tarafından esnek raporların oluşturulabileceği bir yapı kazandırılabilmesi için 2 boyutlu bir çalışmanın yapılması gerekmektedir. Bunlardan ilki sistem üzerinden yapılan işlemlerde oluşan verilerin anlamlandırılması sınıflandırılması ve kullanıcıya raporlanabilir bir veri tabanına dönüştürülmesi, ikincisi ise sistemin altyapı ve ilgili servislerinin geliştirilmesidir. Platform üzerinde biriken veriler, ilgili anlık süreçler için iki tarafın ihtiyacı olan verileri iletmekte kullanılmaktadır. Süreç tamamlandıktan sonra (alıcı firmaların bazı dönemler aldıkları raporlar dışında) atıl olarak sistemde tutulmaktadır. Elle sistem üzerinde yoğunluk yaratan veriler belli zamanlarda arşive alınmıştır.",
+  "char_len": 860,
+  "sentence_count": 6
+}

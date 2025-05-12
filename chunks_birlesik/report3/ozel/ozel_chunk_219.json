@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 219,
+  "chunk_text": "Bu veri akışının gerçek zamanlı olacak şekilde tasarlanması. - Bu veri yığını ilişkisel veri tabanı konseptinin yeterli olmayacağı öngörüldüğü taktirde, analiz işleri için kullanılabilen yatayda otomatik büyüyebilen veri kaynaklarına dönüştürülmesi gerçekleştirilecektir. Örneğin Google Cloud Platform’da çalışan BigQuery gibi. Bu tip bir veri kümesine bu verileri sürekli olarak beslemek için yine Google’ın Dataflow ürünü gibi bir ara birim yardımı ile gerçek zamanlı veri akışı, seçilmesi, değiştirilmesi ve saklanması süreci işletilecektir.",
+  "char_len": 544,
+  "sentence_count": 2
+}

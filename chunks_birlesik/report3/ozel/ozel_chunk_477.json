@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 477,
+  "chunk_text": "Birileriyle entegre olarak çalışan pazaryerlerinden oluşan bir hub oluşturulabilir.) kullanımına yönelik entegrasyon kabiliyetlerinin süreç ve teknolojik açıdan tasarımı -Ürün üzerindeki tüm fonksiyonalitenin Türkiye içindeki ticaret/ithalat/ihracat mevzuatına uygunluğunun sağlanmasıdır. Proje geliştirme sürecimizde aşağıdaki faaliyetlerin gerçekleştirilmesi planlanmıştır: • Takım/İş Yönetimi - Scrum metodolojisi kullanılarak çevik proje gerçekleştirimi sağlanacaktır. - Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir. - Geliştirme aşamasında işlerin takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. - Geliştirme sürecinde kullanılacak araçlar, izlenecek yöntemlerle ilgili proje ekibinin bilinçlenmesini sağlayacak eğitimler aldırılacaktır. - Olası proje ekipleri yetkinliğine bağlı olarak açık kaynak kodlaması tercih edilecektir(.Net Core, Java, Groovy, Go vs.). • Mimari Altyapı - Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır.",
+  "char_len": 1289,
+  "sentence_count": 2
+}

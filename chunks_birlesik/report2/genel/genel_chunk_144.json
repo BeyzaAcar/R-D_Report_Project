@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "genel",
+  "chunk_index": 144,
+  "chunk_text": "Platform analizi a. Belirlenen platformlar için teknik analiz b. Belirlenen platformlar için veri modeli analizi 2. Platform entegrasyon altyapısının belirlenmesi a. Veri modellerinin ve interfacelerin belirlenmesi b. Ortak veri modeli üzerinden interfacelerin tanımlanması ve public olarak sunulması ve dökümantasyonları c. Ortak yazılım kütüphanelerinin belirlenmesi d. Platform özel entegrasyonların ve translator katmanlarının belirlenmesi 3. Platform entegrasyon sistemi a. Ortak yazılım kütüphanelerinin geliştirilmesi b. Platform özel entegrasyonlarının geliştirilmesi c. Yazılım testleri (sistem ve entegrasyon testleri) d. Sistemin canlıya alınması Projenin Pandemi sürecinin daha da hızlandırdığı bir şekilde e-ticaret alanında çok büyük değişiklikler yaşanmaktadır. Bu değişim süreçleri bizim gibi Yenilikçi bu sektöre yazılım çözülümleri sunan firmaları daha da fazla entegrasyon yapmaya ve bu entegrasyonları daha da derinleştirmeye Yönü ve Ar- itmektedir. Stok ve envanter yönetimi (ERP), müşteri ilişkileri yönetimi (CRM), e-ticaret kanalları yönetimi (retail platform) gibi oturmuş Ge Niteliği alanlarda bile pek çok değişiklik olmakta, popüler olan ve yaygın kullanılan çözümler bile son dönemde önemli değişikliklere gitmekte ve bu alanlarda yeni çözümler ortaya çıkmaktadır.",
+  "char_len": 1293,
+  "sentence_count": 5
+}

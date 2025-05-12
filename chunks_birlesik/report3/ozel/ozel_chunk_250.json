@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 250,
+  "chunk_text": "Sistemin çalışması ile ilgili metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır. Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. - Sınıflandırmayı yaparken metin olarak girilmiş ihale adı, ihale içinde kullanılan malzemelerin kısa metinleri ve hatta yararlı olabileceği düşünülürse ihale kapsamında alıcı ve tedarikçi arasında geçen mesajlaşmalar, ihaleye doküman olarak eklenen dokümanların tipleri kullanılabilecektir. - Bu veri alanlarında kullanılan kelimelerin, anlamlı veya işe yarar kelimeler olup olmadığı çeşitli algoritma ya da hazır API ler kullanılarak değerlendirilecektir.",
+  "char_len": 788,
+  "sentence_count": 2
+}

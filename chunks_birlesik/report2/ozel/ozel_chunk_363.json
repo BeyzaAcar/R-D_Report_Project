@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 363,
+  "chunk_text": "Kampanya Yönetimi İhtiyaçları • Kampanya Türleri: Farklı kampanya türlerini (indirim, sadakat programları, çapraz satış, yükseltme teklifleri, vb.) destekleme yeteneği. • Dinamik Kurallar: Kampanya kurallarını ve koşullarını dinamik olarak tanımlayabilme ve değiştirebilme yeteneği. • Geçerlilik Süreleri: Kampanyaların başlangıç ve bitiş tarihlerini belirleme yeteneği. 2. State Machine İhtiyaçları • Durum Tanımları: Kampanyaların çeşitli durumlarını (başlatıldı, devam ediyor, durduruldu, tamamlandı, vb.) tanımlama yeteneği. • Geçiş Kuralları: Kampanya durumları arasındaki geçiş kurallarını belirleme ve uygulama yeteneği. • Olay Tetikleme: Belirli olayların (satın alma işlemi, kullanıcı kaydı, belirli bir tarih, vb.) kampanya durumlarını tetikleme yeteneği. 3.",
+  "char_len": 768,
+  "sentence_count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "ozel",
+  "chunk_index": 380,
+  "chunk_text": "Jira gibi bir proje takip uygulamasının kullanılması durumunda, bu sistemden gelen proje çalışma verileri yazılacak Restful servisleri ile okunacaktır. Bu veriler okunduktan sonra MongoDb gibi NoSQL veri tabanlarında tutulacak ve kapı giriş çıkış sisteminden alınan çalışma süreleri ile karşılaştırılabilecektir. 5.",
+  "char_len": 315,
+  "sentence_count": 2
+}

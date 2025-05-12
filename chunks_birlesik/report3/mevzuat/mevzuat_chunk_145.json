@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "mevzuat",
+  "chunk_index": 145,
+  "chunk_text": "Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in- memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak Sayfa 46 / 74 raporlanacaktır. Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. Operasyonel Uygulama kullanılması planlanan yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: SQL Server -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Visual Studio 2013 -Yazılım Yaşam Döngüsü Araçları: Microsoft Team Foundation Server, GIT . Projenin Öncelikle e-fatura portal üzerinde firmaların faturalarını ödeyemedikleri durumda bankadan (anlaşmalı) kredi Yenilikçi isteme talebi gerçekleştirilecektir. Bu talebi gerçekleştirdiklerinde arka tarafta firma risk analizi yapılarak Yönü ve Ar- bankaya (anlaşmalı) sunulacak ve bu kapsamda firmaya dönüş yapılacaktır.",
+  "char_len": 1185,
+  "sentence_count": 6
+}

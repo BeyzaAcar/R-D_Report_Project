@@ -1,0 +1,8 @@
+{
+  "source_file": "report3.txt",
+  "category": "genel",
+  "chunk_index": 105,
+  "chunk_text": "Bu veri yığınının içinde değişen ihtiyaçlara göre rapor metriklerinin bilinmesi, tahmin edilmesi gittikçe zorlaşmaktadır. Bunun yerine, yığındaki verilerin esnek veri analizi yapacak araçlara uygun şekilde, gerçek zamanlı olarak gönderilmesi ve bu araçların uyarlanarak profile göre uygun raporlamanın sunulması ihtiyacı vardır. Gönderilen bu verilerin üzerinde çalışacak akıllı kontrollerin devreye girerek, kullanıcılara çeşitli önerme, öngörü, uyarı mekanizmaları olarak geri gelmesi sağlanmalıdır. Örneğin; teklif verilen bir ihale için aynı kategorideki önceki ihalelerde ki davranış tarzına göre tedarikçinin ihaleyi alıp/alamayacağı ile ilgili belli doğruluk rakamı ile bir öngörü sunulabilir. Bu veri yığını içindeki alım profillerine göre aynı alımı daha kısa şekilde gerçekleştirebilecekleri diğer platform imkanlarının önerilmesi satınalma personelinin hızını arttıracak ve maliyet kazancı sağlayacaktır.",
+  "char_len": 915,
+  "sentence_count": 5
+}

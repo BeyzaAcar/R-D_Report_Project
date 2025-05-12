@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 223,
+  "chunk_text": "Projenin Proje sonucunda e-ticaret firmalarının ürün kataloğu ve satış verilerine bağlanıp, bunları analiz edecek ve sonucunda her bir müşteri için Beklenen tekrarlı satın alma raporu ve tahminleri üretecek, bu tahminleri kampanyalarda kullanabilmek için dışarıya yazılım servisleri (API) sunacak Çıktıları ve bir yazılım çözümü ortaya çıkacaktır. Bu yazılım çözümü firmamızın diğer hizmetleri gibi bulut yazılım (cloud solution) olarak Faydaları konumlanacak ve SaaS modeli ile piyasaya sürülmesi hedeflenmektedir.",
+  "char_len": 515,
+  "sentence_count": 2
+}

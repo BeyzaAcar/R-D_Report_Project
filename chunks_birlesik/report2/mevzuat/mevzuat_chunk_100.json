@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 100,
+  "chunk_text": "Özellikle projenin hedef aldığı sektörlerde e-ticaret sitesinin envanterinin %50’den fazlası 6 aydan kısa bir süre içinde değişebilmekte ve ortalama bir ürünün satışta kaldığı süreler de 3 ayın altında inebilmektedir. Bu durumlarda hedef tahminleme ve envanter optimizasyonu yapabilmek için ürünlerin muadillik ve benzerlik analizleri önem kazanmaktadır. Son olarak, araştırmaların gösterdiği üzere tekrarlı satın alma yapan müşteriler, daha önce satın aldıkları bir ürünün üst modeli ve üst fiyat segmentindeki benzerini almaya en yatkın kullanıcılardır. Burada düzenli olarak alışveriş yapan bir müşteriyi %25 daha yüksek fiyat grubundaki bir ürüne yönlendirebilmek ortalama alışveriş döngüsü 60 gün olduğu durumda bir yıl içinde gelir ihtimalini %50’nin üzerine taşıyabilmektedir. E-ticaret literatüründe upsell olarak geçen bu durumun yanında doğru teklifler ile o müşteriye yeni bir ek ürün de satabilmek (cross-sell) ortalama sepet tutarını yukarı çekecektir. Pandemi sonrası e-ticaretin artan rekabeti içinde firmaların karlılığı arttırabilmeleri için tekrarlı satın alma işlemlerini teşvik edebilmek ve burada ortalama sepet tutarlarını upsell veya cross-sell ile arttırabilmek projenin diğer ihtiyaçlarından biridir.",
+  "char_len": 1225,
+  "sentence_count": 6
+}

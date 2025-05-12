@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "ozel",
+  "chunk_index": 325,
+  "chunk_text": "Seçilecek kümelemenin gerçekleşmesinin ardından, kümelerin bu analizden faydalanacak kullanıcı tarafından anlaşılabilir olması için kümelere atanan örnekleri kapsayan kuralları mümkün olduğu kadar basitleştirme amacıyla kapsayan kural kümesini en küçükleyen sütun üretme algoritmasına dayalı bir optimizasyon yapılacaktır. Bunu ise, geçmiş kampanya bilgileri kullanılarak her bir küme için ideal kampanya seçimlerinin yapılmasını sağlayan modül takip edecektir.",
+  "char_len": 461,
+  "sentence_count": 2
+}

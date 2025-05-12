@@ -1,0 +1,8 @@
+{
+  "source_file": "report2.txt",
+  "category": "mevzuat",
+  "chunk_index": 198,
+  "chunk_text": "Bunun yanında projenin sunmaya çalışacağı yenilikler aşağıda verilmiştir: 1. Adaptif State Machine Yapısı: Klasik state machine yapısı, belirli durumlar ve geçiş kurallarına dayanır. Bu yöntemde, state machine yapısını daha adaptif hale getiriyoruz. Adaptif state machine, gerçek zamanlı veriye ve makine öğrenimi algoritmalarına dayanarak kendini optimize edebilir ve yeniden yapılandırabilir. Örneğin, kullanıcı davranışlarına ve kampanya performansına göre yeni durumlar ve geçiş kuralları oluşturabilir. 2. Kendi Kendine Optimizasyon Yeteneği: Sistem, kampanyaların performansını sürekli olarak izler ve makine öğrenimi algoritmaları ile optimize eder. Başarısız olan kampanya adımları veya geçiş kuralları otomatik olarak düzeltilir veya yeniden yapılandırılır.",
+  "char_len": 766,
+  "sentence_count": 6
+}
