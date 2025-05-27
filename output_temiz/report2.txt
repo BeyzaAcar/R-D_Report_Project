@@ -1,0 +1,2056 @@
+T.C. SANAYİ VE TEKNOLOJİ BAKANLIĞI
+Ar-Ge Teşvikleri Genel Müdürlüğü
+Segmentify Yazılım Anonim Şirketi Ar-Ge Merkezi
+2023 Faaliyet Raporu
+(1.1.2023 - 31.12.2023) Dönemi
+(İstanbul)
+Sayfa 1 / 66
+İçindekiler
+Başlıklar
+AR-GE MERKEZİ YILLIK FAALİYET RAPORUNA İLİŞKİN KABUL TAAHHÜT VE BEYANLAR
+YILLIK FAALİYET RAPORUNDAKİ BİLGİLERİN DOĞRULUĞUNDAN SORUMLU YETKİLİLERİN İLETİŞİM BİLGİLERİ
+1. İŞLETME GENEL BİLGİLERİ
+1.1. İşletme Tanıtıcı Bilgileri
+1.1.1. İşletmenin Bağlı Olduğu Holding/ Grup Bilgileri
+1.1.2. İşletme Bilgileri
+1.2. İşletme Organizasyon Şeması
+1.3. Faaliyet Dönemi Sonu İşletmenin Eğitim Durumuna Göre Personel Dağılımı
+1.4. Son 3 Yıl İtibariyle İşletmenin Mali ve Finansal Bilgileri
+1.5. İşletme Sermayesinin %10 Veya Daha Fazlasına Sahip Ortaklar
+1.6. İşletmenin Kısa, Orta ve Uzun Vadede Ar-Ge Stratejileri
+2. AR-GE MERKEZİ GENEL BİLGİLERİ
+2.1. Ar-Ge Merkezi Bilgileri
+2.2. Ar-Ge Merkezi’nin İşletme Binası Ya da Yerleşke İçindeki Yer / Yerlerini Gösteren Şema
+2.3. Ar-Ge Merkezi Vaziyet Planı
+2.4. Ar-Ge Merkezi Organizasyon Şeması
+2.5. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezinde Çalışan Personel Listesi
+2.6. Ar-Ge Merkezi Personelinin Görev ve Eğitim Durumları
+2.7. Ar-Ge Merkezi Personel Değişim Gösterim Tablosu
+2.8. Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri
+2.9. Ar-Ge Faaliyetlerinin Özendirilmesi, Performans Değerlendirme ve Ödül Sistemi
+2.10. Ar-Ge Merkezi Proje Yönetim Süreci
+2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar)
+3. AR-GE MERKEZİ DETAYLANDIRILMIŞ MALİ BİLGİLER
+3.1. Belge tarihi itibariyle Ar-Ge İndirimine konu olan Ar-Ge ve Yenilik Harcamalarının Kapsamı
+3.2. Belge tarihi itibariyle 5746 Sayılı Kanun Kapsamında Yararlanılan İndirim, İstisna, Muafiyet, vb. Teşvik Tutarı
+4.AR-GE MERKEZİNİN BİLGİ KAYNAKLARI
+4.1. Ar-Ge Merkezinin Üye Olduğu Ulusal / Uluslararası Bilimsel Kütüphaneler ve Veri Tabanları (Science Direct, Nature, Elsevier, EPO, gibi)
+4.2. Faaliyet Dönemi İçinde Katılım Sağlanan Sempozyum, Kongre, Konferanslar
+4.3. Son İki Faaliyet Dönemine İlişkin Fikri ve Sınai Mülkiyet Hakları Genel Durumu
+5.AR-GE MERKEZİNİN İNSAN KAYNAKLARI YÖNETİMİ VE GELİŞTİRİLMESİ
+5.1. Faaliyet Döneminde Ar-Ge Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı Eğitimler ve Sertifika Programları
+6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI
+6.1. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezi Mevcut Cihaz ve Ekipman Listesi
+6.2. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi
+7. AR-GE MERKEZİ PROJELERİ
+7.1. Tamamlanan Projeler Listesi
+7.2. Devam Eden Projeler Listesi
+7.3. Devam Eden Proje Detayları
+8. DIŞARIDA GEÇİRİLEN SÜRELERE İLİŞKİN BİLGİLER
+8.1. Faaliyet Kapsamında Doktora/Yüksek Lisans Eğitimi İçin Dışarıda Geçirilen Sürelere İlişkin Bilgiler
+8.2. Faaliyet Kapsamında Dışarda Geçirilen Sürelere İlişkin Bilgiler
+8.3. Faaliyet Kapsamında Mentörlük ve Ders Verme İçin Dışarıda Geçirilen Sürelere İlişkin Bilgiler
+Sayfa 2 / 66
+9. BİR ÖNCEKİ FAALİYET DEĞERLENDİRME TOPLANTISINDA ALINAN KARARLARA İLİŞKİN YAPILAN ÇALIŞMALAR
+10. AR-GE MERKEZİ İLAVE AR-GE İNDİRİMİ UYGULAMASI
+10.1. İlave Ar-Ge İndirimi Kriterlerine ilişkin Bilgiler
+10.2. Belge Tarihi İtibariyle İlave Ar-Ge İndirimi Tutarı
+11. ENDEKS VERİLERİ
+11.1. Ar-Ge Personeli İstihdamına Dair Bilgiler
+11.2. Ar-Ge Harcama Yoğunluğuna Dair Bilgiler
+11.3. Proje Kapasitelerine Dair Bilgiler
+11.4. İşbirliği ve Etkileşime Dair Bilgiler
+11.5. Ticarileşmeye Dair Bilgiler
+11.6. Fikri Mülkiyet Yetkinliğine Dair Bilgiler
+11.7. Diğer Bilgiler
+Sayfa 3 / 66
+AR-GE/TASARIM MERKEZİ BELGESİ BAŞVURU DİLEKÇESİ
+SANAYİ VE TEKNOLOJİ BAKANLIĞI
+Ar-Ge Teşvikleri Genel Müdürlüğüne
+5746 sayılı Araşştrma ve Gelişmerme Faaliyetlerinin Desteklenmesi Hakkında Kanun ve bu Kanun 10.08.2016 tarih ve 29797 sayılı Resmi Gazetede
+yayımlanan "Araşştrma, Gelişmerme ve Tasarım Faaliyetlerinin Desteknlenmesine İlişkin Uygulama ve Denemem Yönetmeliği" hükümleri çerçevesinde
+dönemsel Ar-Ge/Tasarım faaliyetleri ile ilgili bilgileri içeren Ar-Ge/Tasarım Merkezi 2023 Yılı Faaliyet Raporu ekte sunulmaktadır."
+İşletme Yetkilisi
+T.C Kimlik No/Yabancı Kimlik No : 50716630480
+Adı Soyadı : MU*** SO***
+Tarih: 25.7.2024
+AR-GE MERKEZİ YILLIK FAALİYET RAPORUNA İLİŞKİN KABUL TAAHHÜT VE BEYANLAR
+KABUL, TAAHHÜT VE BEYANLAR
+5746 Sayılı “Araşştrma ve Gelişmerme Faaliyetlerinin Desteklenmesi Hakkında Kanun” ile 10.08.2016 tarih ve 29797 sayılı Resmi Gazetede yayımlanan
+“Araşştrma, Gelişmerme ve Ar-Ge/Tasarım Faaliyetlerinin Desteklenmesine İlişkin Uygulama ve Denemem Yönetmeliği” uyarınca belge alan ve faaliyet
+raporu sunulan Ar-Ge Merkezi değerlendirme ve denetlenmesi ile ilgili bütün kural, şart ve düzenlemelere uyacağımızı ve uyulmasını sağlayacağımızı,
+Sanayi ve Teknoloji Bakanlığı tara ndan görevlendirilen izleyiciler veya görevlilerin gerekli inceleme, denetim ve izlemeleri yapabilmesi için gerekli ortam ve
+imkânları sağlayacağımızı, İstenen her türlü bilgi ve belgeyi talep edilen süre içerisinde temin edeceğimizi, Sanayi ve Teknoloji Bakanlığı tarafndan istenen
+belgelerin sunulmasında tarafmızdan kaynaklanan gecikmelerden dolayı değerlendirme süresinin uzamasından işletmemizin sorumlu olacağını, Ar-Ge
+Merkezi Faaliyet dokümanlarında yazılı bulunan teknik ve mali bilgilerin doğruluğundan başvuru sahibi işletmeyi temsile yetkili kişi ile Ar-Ge Merkezinin
+sorumlusunun müştereken ve müteselsilen sorumlu olacağını, bu faaliyetin değerlendirilmesi neticesinde işletmenin Ar-Ge Merkezi faaliyetlerine verilen
+desteğin devam etmesi kararı alınması halinde yukarıda yazılan tüm hususlar ile Ar-Ge Merkezinin denetlenmesi süreçlerinde Bakanlık tarafn dan istenen
+bilgilerin doğru ve zamanında verilmesini, görevlendirilecek izleyici veya görevlilere gerekli kolaylığı sağlayacağımızı, tüm dosyalarda sunulan bilgilerin aynı
+içeriğe sahip olduğunu Kabul taahhüt ve beyan ederiz.
+Yukarıdaki hususları okuduğumuzu ve kabul ettiğimizi beyan ederiz.
+İşletme Yetkilisi Adı Soyadı Ar-Ge/Tasarım Merkezi Sorumlusu Adı Soyadı
+MU*** SO*** (50716630480) ER*** ER*** (18082730920)
+Sayfa 4 / 66
+YILLIK FAALİYET RAPORUNDAKİ BİLGİLERİN DOĞRULUĞUNDAN SORUMLU YETKİLİLİLERİN İLETİŞİM BİLGİLERİ
+Unvanı T.C Kimlik No/Yabancı Kimlik Adı Soyadı Telefonu E-posta Adresi
+No
+Genel Müdür / Genel Direktör (İşletme Yetkilisi) 50716630480 MU*** +44 7765 murat.soysal@segmentify.com
+SO*** 611849
+Ar-Ge Merkezi Direktör (Sorumlusu) (Ar-Ge Merkezi 18082730920 ER*** ER*** 0530 420 0054 ergin.eroglu@segmentify.com
+Yetkilisi)
+Ar-Ge Merkezi Portal / Raporlama Sorumlusu 29953274146 İR*** AT*** 537 635 42 52 irem.atay@segmentify.com
+1. İŞLETME GENEL BİLGİLERİ
+1.1. İşletme Tanıtıcı Bilgileri
+“Segmentify Yazılım A.Ş.” yazılım alanında sunduğu çözümler ile müşterisi olan firmaların salış ve pazarlama alanlarındaki verimliliklerini arşirmak ve bu
+alana yaplıkları yalırımlarından en yüksek oranda geri dönüşü sağlamalarını sağlamak amacıyla Temmuz 2015 yılında faaliyetlerine başladı. Firmamız; Ar-
+Ge’si bünyemizde şekillenen ve akademik kökleri olan gerçek zamanlı kümeleme (clustering) yapan yapay zeka algoritması ve geliştirdiğimiz yazılım
+çözümleri ile insanların farklı mecralarda yaplığı tercih, davranış ve tüketimlerinin analiz ve ölçümlerini yapmaktadır. Geliştirdiği yazılımlar ile bu analizler
+ve ölçümler gerçek zamanlı olarak raporlanmakta ve pek çok sektörden firmalardaki karar alıcılar için karar destek ve otomasyon konusunda hizmet
+sunmaktadır.
+Dijitalleşen ve internet ile mobilin girmediği sektör kalmayan dünyamızda firmaların en büyük problemlerinden biri, kendi ziyaretçi ve müşterilerinin
+davranışlarını takip edebilmek, ölçümlemek ve sonunda bunları anlamlandırabilmektir. Bu sayede müşterilere ulaşmak için kullandıkları salış kanallarındaki
+bütün aktivitelerinin (kampanya, duyuru, reklam, v.b.) verimleri artmakta ve bu aktiviteleri salışa dönüştürmedeki başarımları yükselmektedir. Sektörel
+veriler, herhangi bir firmanın internet sitesi veya mobil uygulamasına gelen her 100 ziyaretçiden 98’inin başarıya dönüşmeden (salın alma, kayıt olma, v.b.)
+uygulamadan ayrıldığını gösteriyor. Bu da düşük dönüşüm oranı, düşük salış ve gelir, yüksek müşteri kazanım maliyetleri olarak yansıyor. Bu sebepler ile
+dijital ekonomi hacimsel olarak çok hızlı büyümekte ama bu alanda faaliyet gösteren firmaların verimlilik ve karlılıkları çok düşük kalmaktadır, ekonomimiz
+için önemli kayıplara sebep olmaktadır.
+Bu problemin temelinde, kişilerin aradıkları, ilgilendikleri ve beğendikleri ürün, içerik veya hizmetin öne çıkarılmasında yaşanan yetersizlikler yatmaktadır.
+Kendi beğenisine uygun ve aradığı ürün veya içerikleri göremeyen kişiler çok kısa bir süre için herhangi bir salın alma yapmadan mobil uygulamayı veya
+internet sitesini terk etmekte ya da kendisine sunulan ürün/içerik/kampanya ile ilgilenmemektedir.
+Bu temel sorunu çözmeyi hedefleyerek faaliyete geçen Segmentify, yapay zeka ve makine öğrenmesi teknolojilerini kullanarak geliştirdiği kişiselleştirme
+hizmeti ile farklı sektörlerden firmaların müşterilerinin her birine özel bir deneyim yaşalıyor. Ziyaretçilerin mobil uygulama, internet sitesindeki geçmiş ve
+anlık davranışlarını (bunun içinde ürün/içerik görüntüleme, lıklama, sayfada kalma süreleri, sepet ve salın alma v.b. hareketleri bulunmaktadır) takip
+etmekte ve her bir ziyaretçi için gerçek zamanlı davranış profili çıkarmaktadır. Bu profil ile her bir ziyaretçi için o kişiye kendi ilgi alanındaki
+ürünleri/içerikleri/kampanyaları sunuyor ve bunu gerçek zamanlı olarak yapabiliyor. Bu şekilde her bir kişi için kendisi ile en alakalı, tüketilme veya salın
+alınma potansiyeli yüksek olan ürünleri/içerikleri/kampanyaların önerilmesini sağlıyor.
+Segmentify, yukarıda anlalılan probleme getirdiği gerçek zamanlı yenilikçi yaklaşımı ile müşterilerinin yaşadığı sıkınlılara çok kısa sürelerde çözüm
+getirebiliyor ve oluşan yeni frsatları da frsatlar ortadan kalkmadan hızlıca değerlendirebilmesini sağlıyor. Geliştirdiğimiz teknoloji ve algoritmalarla
+müşterilerin sanal (online) ve/veya fiziksel satış gelirlerine iki hafta gibi kısa bir zaman içerisinde minimum %10 katkı sağlıyor.
+Halihazırda Segmentify 35’in üzerinde ülkeden 300’den fazla firmaya Türkiye, Almanya, İngiltere ofislerinde faaliyet gösteren 75 personeli ile hizmet
+vermektedir. 2021 sonu itibari ile gelirinin %70’inden fazlasını yazılım ihracalı olarak yapmaktadır. ARGE merkezi olduktan sonra temel odağını teknoloji
+ihraç etmeye kaydırmış ve bu doğrultuda güçlü bir şekilde ilerlemektedir.
+Firmamızın kuruluşundan bu yana katıldığı programlar ve aldığı ödüller aşağıda listelenmiştir:
+* Hayal Et Yarışması - 2015: Vodafone ve Boğaziçi Üniversitesi’nin desteklediği Hayal Et yarışmasında kişiselleştirme ürünü projemiz ile birinci seçildik ve
+yarışma sonucunda Boğaziçi Teknopark içinde bir yıllık ofis kullanım hakkı kazandık, burası firmanın ilk ofisi olmuştur.
+* Innogate Programı - 2015: Türkiye’deki yazılım firmalarının Amerika pazarına açılmasını sağlamak amacı güden bu program her sene yüzlerce başvuru
+arasından 8-10 arası firma seçmekte ve 3 aylık pazar ve rakip analizi sonrasında bir aylık Amerika programı uygulamaktadır. Türk yazılım dünyasının dev
+firmaları arasında programa kabul edilmek ve Amerika pazarında 1 aylık geri bildirim toplamak firmamızın şu anki ürünlerinin ve AR-GE projelerinin
+gelişmesinde çok önemli rol oynadı. (Programın eski adı İtügate, sonra Innogate olarak değiştirildi)
+*Startupbootcamp İstanbul- 2015: Dünyanın önde gelen hızlandırma programlarından Startupbootcamp’ın Istanbul ayağında kalılımcılar arasında birinci
+seçilerek 4 aylık bir kuluçka süreci geçirdik. Bu programda ilk AR-GE çalışmalarımızın ürünleşmesi tamamlandı ve ilk müşterilerimizi edindik
+* Webrazzi Arena - 2015: Girişimci firmaların sahnede jüri üyelerine ve ziyaretçilere ürünlerini ve projelerini sundukları yarışmada finallere seçilip 3. olduk.
+Bu sayede Avrupa’nın en büyük girişim yarışması olan Techcrunch Disrupt Londra yarışmasına katılım hakkı kazandık.
+* Webrazzi Yılın SaaS Girişimleri - 2016: Webrazzi okuyucuları tarafından seçilen Yılın SaaS (Software as a Service) girişimi alanında ilk 10’a seçildik
+* Startup 100 - 2017: Türkiye’nin önde gelen firmaları ve girişimcilerinin önde gelen 100 girişimci firmayı seçtiği yarışmada 9. seçildik ve ödül aldık.
+* Webrazzi Yılın SaaS Girişimleri - 2017: Webrazzi okuyucuları tarafından seçilen Yılın SaaS (Software as a Service) girişimi alanında ilk 10’a seçildik.
+* Seedstars Global 2017: 65 farklı ülkede yerel yarışmalardan sonra Dünya çapında başarılı girişimci firmaların seçildiği yarışmada Türkiye birincisi olup,
+Lozan’da finalist 10 ekipten biri olarak seçildik.
+* TİM Dubai ve Londra Bilişim - 2017: Türkiye İhracatçılar Meclisi tarafndan Dubai ve Londra pazarlarına açılım için desteklenen ilk 10 yazılım firmasından
+biri olarak seçildik. Bu sayede Dubai ve Londra ofislerimizi açtık ve bu pazarlara yazılım ihracatına başlayabildik.
+* Startup 100 - 2018: Türkiye’nin önde gelen firmaları ve girişimcilerinin önde gelen 100 girişimci firmayı seçtiği yarışmada 8. seçildik ve ödül aldık.
+* Veri Bilimi ve Isistatistik Paneli & 2.Veri Bilimi Yarısm̧ ası - 2018: Yıldız Teknik Üniversitesi çalısı allında yapılan bu etkinlik için ana sponsorlar arasında yer
+aldık ve etkinlikte yaplığımız sunum ile tecrübelerimizi bu alanda çalışan herkes ile paylaşlık. Bunun yanında Veri Bilimi Yarışması ana sponsoru olarak
+verdiğimiz ödül birinci olan ekibin firmamızda 3 ay boyunca ücretli staj olanağı oldu. Kazanan ekipten iki öğrenci 2018 yazında firmamızda Büyük Veri ve
+Analiz ekibimizde staj yapacaklardır.
+* Ernst and Young Dünya Yılın Girişimcisi – 2019: EY tarafından düzenlenen yarışmada Türkiye finalistleri içinde yer aldık.
+* Forbes Türkiye’nin 2019’un en başarılı 50 startup’ı listesinde yer aldık.
+Sayfa 5 / 66
+* G2 Summer 2020 raporunda e-ticaret kişiselleştirme alanında 3 farklı ödül almışlır: “Easisest To Do Business With”, “High Performer” ve “Fastest
+Implementation”
+* E-ticaret Teknolojileri alanında 2021 sonu itibari ile 8 ülkede en çok takip edilen sanal içeriklerden “eCommerce Growth Show”u yapmaktadır.
+(https://www.segmentify.com/ecommerce-growth-show#pll_switcher)
+* G2 tarafından “Personalisation Tech Solution in eCommerce” alanında 2022 yaz ve güz dönemlerinde lider olarak seçildik
+1.1.1. İşletmenin Bağlı Olduğu Holding/ Grup Bilgileri
+İşletme bir grup veya holdinge bağlı değil
+Sayfa 6 / 66
+1.1.2. İşletme Bilgileri
+İşletme Segmentify Yazılım Anonim Şirketi
+Unvanı
+Faaliyet 62.01.01 -- Bilgisayar programlama faaliyetleri (sistem, veri tabanı, network, web sayfası vb. yazılımları ile müşteriye özel yazılımların
+Kodu kodlanması vb)
+Adres Acıbadem Mahallesi Acıbadem Caddesi Tellioğlu İş Merkezi no 43 daire 5 Kadıköy/İstanbul
+İl İstanbul
+Telefon 0216 706 0796
+E-posta info@segmentify.com
+Adresi
+Yerli/Yabancı Yabancı
+Ortaklı
+Kuruluş 23.7.2015
+Tarihi
+Ticaret Sicil 29.7.2015
+Gazetesinde
+Yayımlanma
+Tarihi
+Sanayi / 984224-0
+Ticaret Sicil
+No
+Kayıtlı İTO
+Olduğu
+Sanayi /
+Ticaret Odası
+Vergi Dairesi Kadıköy / 7580283767
+/ No
+SGK İşyeri 26201070713566080341028000
+Sicil No
+Kuruluş 50.000,00
+Sermayesi
+Mevcut 74.530,00
+Sermaye
+KOBİ mi? Evet
+MERSİS No? 984224-0
+Kalite Firmamız Bilgi Güvenliği alanında yıllık olarak TSE onaylı firmalar tarafından denetlenmekte ve sertifikalandırılmaktadır. 2021 yılı için bu
+Standartları hizmeti BGA bilgi Güvenliği A.Ş. firmasından alınmıştır. 2023 yılında başlattığımız bilgi teknolojileri güvenliği çalışmaları kapsamında 2024
+Belgeleri başında ISO-27001 ve ISO-22301 sertifikaları alınmıştır.
+İşletme ve Segmentify Yazılım A.Ş. kendi geliştirdiği algoritma ve Ar-Ge’si kendine ait yazılımları ile insanların davranış (tercih, tüketim, sıklık, vb)
+Ar- analiz ve ölçümlerini yaparak içerik sunulan ve perakende satışın yapıldığı birçok sektöre hizmet vermektedir. Bu sebeple Ar-ge
+Ge/Tasarım merkezinde sanal ortamda (internet) ürün veya içerik satışı yapan herhangi bir firmaya ama ana odak olarak perakende sektörü için
+Merkezi üretilecek sözü edilen ürünlerin tasarım ve geliştirmesi, test çalışmaları ile bu ürünlere ait endüstriyelleşme süreçlerinin takibi ve üretimi
+Faaliyet ile ilgili çalışmalar gerçekleştirilmektedir.
+Alanları
+Sayfa 7 / 66
+1.2. İşletme Organizasyon Şeması
+Sayfa 8 / 66
+1.3. Faaliyet Dönemi Sonu İşletmenin Eğitim Durumuna Göre Personel Dağılımı
+Birim Doktora Üstü Doktora Yüksek Lisans Lisans Ön Lisans Lise ve Diğer TOPLAM
+İdari 0 0 5 24 2 5 36
+Mali 0 0 0 1 0 0 1
+Teknik 0 1 1 18 9 3 32
+TOPLAM 0 1 6 43 11 8 69
+1.4. Son 3 Yıl İtibariyle İşletmenin Mali ve Finansal Bilgileri
+Mali Veriler 2023 2022 2021
+Net Satışlar (TL) 25.616.193,41 10.642.430,65 7.582.006,83
+Toplam Bilanço (Aktifler Toplamı) (TL) 312.102.180,10 49.500.675,68 26.615.760,51
+Kısa Vadeli Borçlar (TL) 68.733.585,49 28.643.954,19 2.711.197,99
+Uzun Vadeli Borçlar (TL) 3.552.348,27 13.666,67 0,00
+Yurt İçi Satışlar (TL) 23.637.965,96 10.584.892,13 6.876.470,08
+Yurt Dışı Satışlar (TL) 1.000.233,77 307.984,64 5.100,00
+Toplam Ciro (Brüt Satışlar) (TL) 26.473.637,06 10.897.270,90 7.686.239,05
+Ar-Ge Harcaması (TL) 36.125.140,75 19.821.473,37 10.661.378,81
+Ar-Ge Sonucu Ortaya Çıkan Yeni Ürünlerden Elde Edilen Ciro (TL) 8.961.000,00 8.285.742,00 6.006.530,80
+1.5. İşletme Sermayesinin %10 Veya Daha Fazlasına Sahip Ortaklar
+Ortak Adı / Unvanı Uyruğu Pay (%) Pay Tutarı (TL)
+SEGMENTIFY UK HOLDING COMPANY LIMITED İngiltere 100 92.191,00
+Sayfa 9 / 66
+1.6. İşletmenin Kısa, Orta ve Uzun Vadede Ar-Ge / Tasarım Stratejileri
+Segmentify Yazılım A.Ş. olarak Arge Merkezi kurulduktan sonra ciromuzu 5 kalına çıkarmak olarak belirlediğimiz hedefimizin odağında katma değerli
+ürünler ve bunları destekleyecek süreç ve bilgi teknolojileri koymaklı. 2023 yılı sonunda bu hedefe emin adımlarda ilerlemekte ve hatta hedefi aşma
+yolunda önemli adımlar atmış bulunmaktayız.
+Temel amacımız Ar-Ge Merkezi koordinasyonunda tüm iş süreçlerimizi sistematik olarak sürekli iyileştirme kültürüyle geliştirmektir. Ar-Ge alanındaki
+stratejimiz ise ekonomimize ve ülkemize büyük katkılar sağlamak üzere yazılım ihracalına odaklanmak ve şirketimizin orta ve uzun vadeli hedefleri ile
+uyumlu olacak ve onları destekleyecek şekilde belirlenmektedir. Hedefimiz müşterilerimize en kaliteli, yenilikçi ve en rekabetçi ürünleri sunarak alanımızda
+lider ve öncü firma olmaklır. Bu bağlamda da sürekli önde olabilmek için çok güçlü bir Ar-Ge’ye sahip olmamız gerektiğinin ve her zaman rakiplerimizin
+önünde olmaya çabalamamız gerektiğinin bilincindeyiz.
+Ar-Ge’nin ve getirdiği kültürün şirketimizin varlığı, rekabet gücü ve geleceği açısından önemi tüm yönetim ekibimiz ve personelimiz tarafndan çok iyi
+kavranmış durumdadır ve bu konudaki çalışmaları büyük bir titizlikle devam etmekteyiz. Bu amaçla nitelikli personel istihdam ederek, onların sürekli
+gelişimini sağlamak, gerekli kaynakları sağlayarak müşterilerin ve pazarın ihtiyaç duyacağı yazılım ve uygulamaları gerçekleştirmek amacındayız. Bu
+doğrultuda ekibimizin ihtiyaç duyabileceği her türlü kaynağa ulaşabilmek için gerekli olan kurum ve kuruluşlarla işbirliğini geliştirme yönünde çalışmalar
+yapıyoruz.
+Üniversiteler ve Sivil Toplum Örgütleri ile işbirliği, TÜBİTAK ve Avrupa Birliği projeleri, faydalı model/patent ve yazılım tescilleri ile inovasyon yolculuğuna ve
+niteliği yüksek ürünlerimizle müşterilerimize çözüm ortağı olmaya devam ediyoruz. Uyguladığımız stratejinin satır başlarını özetlemek gerekirse:
+* Bu kapsamda Segmentify markasının geleceği ve büyümesine yönelik stratejilerin projeleri Ar-Ge merkezimizde şekillenecektir.
+* Darboğaz yaşanan teknik süreçler burada görüşülecek ve aksiyon alınmasına yönelik projeler başlatılacaktır.
+* Ar-Ge Merkez bünyesindeki yeni kadrolarımızı yüksek lisanslı/doktoralı; konusunda uzmanlaşmış adaylardan tercih edeceğiz.
+* Planladığımız projelerle ilgili üniversitelerle ortak çalışmalar yapacağız ve üniversitelerin doktora öğrencileri ile ortak projeler yürüteceğiz.
+* Mevcut çalışanlarımızı yüksek lisans ve doktora yapmaları için yönlendireceğiz.
+* TEYDEB ve Avrupa Birliği projelerimizin sayısını artıracağız.
+* Patent ve faydalı model sayımızı arlıracağız; personel alımını ve araşlırmalarımızı bu kapsamda yönlendireceğiz. Çalışanlarımız üzerinde farkındalık
+yaratacağız.
+* Ar-Ge merkezi kapsamında alınacak tüm teşvikler, araştırma ve geliştirme faaliyetlerimizde kullanılacaktır.
+Arge Merkezi Vizyonumuz:
+“Segmentify Ar-Ge Merkezi; gelişen teknolojiyi yerinde takip ederek proje ve ürünlerine uygulamak, hizmet verdiği sektörleri yerli yazılımlar ile
+desteklemek, yazılımda dışa bağımlılığı azaltmak, yurtdışı yazılım pazarına ihracat yaparak döviz kazandırıcı hizmet vermek ve global bir şirket olma
+hedefindedir.“
+Arge Merkezi Misyonumuz:
+“Segmentify Ar-Ge Merkezi, yazılım sektöründe geliştirilen projelerde uygulanan verimli geliştirme yöntemlerini kullanmak sureti ile; platform bağımsız,
+kişisel verilerin gizliliği ilkelerine riayet eden, güvenli, kullanıcı dostu, yazılım kalite standartları kapsamında geliştirilmiş, testleri başarı ile sonuçlanmış,
+çevresel faktörleri ön planda tutarak kaynak kullanımı konusunda özenli yazılımlar üretme vizyonu ile hareket eder. Bu hedef doğrultusunda
+müşterilerimize benzersiz bir alışveriş deneyimi sunmak amacıyla, büyük veri ve yapay zeka teknolojilerini kullanarak kişiselleştirme çözümlerinde öncü
+olmayı hedeflemekteyiz.“
+Kısa Vadeli Hedeflerimiz:
+- 2024 Yılında 2 Yeni Ar-Ge projesinin başlatılması
+- 1 Adet uluslararası destekli proje başlatılması
+- 1 Adet Üniversite - Sanayi İş Birliği Projesinin başlatılması
+- Ar-Ge Sonucu ortaya çıkan yeni ürünlerin ciroya oranını 2024 sonu itibariyle %45 seviyesine çıkarmak.
+- 2024 yılı sonuna kadar 10 adet bilimsel konferans, seminere katılım sağlanması
+- 2024 yılı sonuna kadar 1 adet Bilimsel Makale, Yayın üretmek
+Orta ve Uzun Vadeli Hedeflerimiz:
+- 2024-2028 arasında 6 yeni Ar-Ge projesinin başlatılması
+- Ar-Ge Sonucu ortaya çıkan yeni ürünlerin ciroya oranını %30’a yükseltmek.
+- Toplam araştırmacı sayısının Ar-Ge Personeline oranını %90 seviyesine yükseltmek.
+- Lisansüstü Dereceli Araştırmacı Sayısının Toplam Ar-Ge Personeli Sayısına Oranını %25 seviyesine çıkarmak.
+- 4 adet Bilimsel Makale, Yayın üretmek
+- Yeni gerçekleştirilebilir 100 proje fikri üretmek
+Sayfa 10 / 66
+2. AR-GE MERKEZİ GENEL BİLGİLERİ
+2.1. Ar-Ge Merkezi Bilgileri
+Unvanı Segmentify Yazılım Anonim Şirketi
+Adres Acıbadem Mahallesi Acıbadem Caddesi Tellioğlu İş Merkezi no 43 daire 5
+Kadıköy/İstanbul
+Lokasyon Diğer
+İl İstanbul
+Telefon 0216 706 0796
+E-Posta arge@segmentify.com
+SGK İşyeri Sicil No 26201070713566080341028000
+Ofis Alanı (m2) 400
+Laboratuvar, Test, Prototip, Atölyesi vb. Bölümlerin Alanı 0
+(m2)
+Toplam Alanı (m2) 400
+Sayfa 11 / 66
+2.2. Ar-Ge Merkezi'nin İşletme Binası Ya da Yerleşke İçindeki Yer / Yerlerini Gösteren Şema
+Sayfa 12 / 66
+2.3. Ar-Ge Merkezi Vaziyet Planı
+Sayfa 13 / 66
+2.4. Ar-Ge Merkezi Organizasyon Şeması
+Sayfa 14 / 66
+2.5. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezi Çalışan Personel Listesi
+Sıra T.C. / Yabancı Adı Soyadı Uyruğu Eğitim Mezun Olduğu Okul / Görevi SGK Sicil No Ar-Ge Ar-Ge
+No Kimlik No Durumu Bölümü (Araştırmacı, Biriminde Biriminde
+Teknisyen, İşe İşten
+Destek Başladığı Ayrıldığı
+Personeli) Tarih Tarih
+1 10082328510 CANDAN Türkiye Lisans ORTA DOĞU TEKNİK Araştırmacı 0602200723848 18.12.2015
+CEYLAN ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+2 33164388400 İBRAHİM HALİL Türkiye Lisans BOĞAZİÇİ ÜNİVERSİTESİ / Araştırmacı 7201200500105 2.2.2018
+ALTUN Bilişim Sistemleri
+Mühendisliği
+3 18082730920 ERGİN EROĞLU Türkiye Yüksek ORTA DOĞU TEKNİK Araştırmacı 0601200665628 1.8.2015
+Lisans ÜNİVERSİTESİ / İşletme
+4 31399977086 YASİN ONUR Türkiye Lisans ANKARA ÜNİVERSİTESİ / Araştırmacı 0602201435321 20.2.2019
+YALÇIN Bilgisayar Mühendisliği
+5 29953274146 İREM ATAY Türkiye Lisans MARMARA ÜNİVERSİTESİ / Destek Personeli 1601201219903 1.3.2020
+İşletme
+6 17861005334 OĞUZHAN GÜL Türkiye Lisans ESKİŞEHİR OSMANGAZİ Araştırmacı 3401201626068 13.8.2020 31.10.2023
+ÜNİVERSİTESİ / Matematik-
+Bilgisayar
+7 57790276092 CANER AKDAŞ Türkiye Ön PAMUKKALE ÜNİVERSİTESİ Teknisyen 3407200928505 16.10.2020
+Lisans / Bilgisayar Programcılığı
+8 65140292302 Rıfat Koçak Türkiye Lisans KOCAELİ ÜNİVERSİTESİ / Araştırmacı 6721201300551 2.8.2021 14.7.2023
+Bilişim Sistemleri
+Mühendisliği
+9 17329074148 Buğra Çelik Türkiye Lisans NİŞANTAŞI ÜNİVERSİTESİ / Araştırmacı 3435201619761 1.8.2021 7.7.2023
+Bilgisayar Mühendisliği
+10 61201081762 MÜCAHİD Türkiye Lisans KARADENİZ TEKNİK Araştırmacı 6125201903366 1.10.2021 28.7.2023
+DOĞAN ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+11 20207635454 Gökay Türkiye Ön TRAKYA ÜNİVERSİTESİ / Teknisyen 2201202100240 1.10.2021
+Kahraman Lisans Bilgisayar Programcılığı
+12 17270404230 BERKHAN Türkiye Lisans DOĞU AKDENİZ Araştırmacı 3407201240272 1.11.2021
+YAŞAR ÜNİVERSİTESİ / Yönetim
+Bilişim Sistemleri (Fakülte)
+13 28975915488 Selin Kurt Türkiye Lisans ÇANAKKALE ONSEKİZ MART Araştırmacı 3424201703841 22.11.2021 24.2.2023
+ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+14 52534373068 Murat Gökhan Türkiye Lisans İSTANBUL BİLGİ Araştırmacı 3408200429204 1.11.2021 31.1.2023
+Sevim ÜNİVERSİTESİ / İşletme
+Enformatiği
+15 18767775840 Yusuf Alper Türkiye Lisans İSTANBUL TEKNİK Araştırmacı 3421201800323 1.2.2022
+Berber ÜNİVERSİTESİ / Makine
+Mühendisliği
+16 47401297318 Bülent Partal Türkiye Lisans MARMARA ÜNİVERSİTESİ / Araştırmacı 3402200413769 19.2.2022 30.4.2023
+İşletme
+Enformatiği(Almanca)
+17 28954616214 Zeynep Büşra Türkiye Lisans YILDIZ TEKNİK ÜNİVERSİTESİ Araştırmacı 1601200824944 14.3.2022
+Ünal Mızrak / Mimarlık
+18 54262378254 MEHMET Türkiye Ön TRAKYA ÜNİVERSİTESİ / Teknisyen 2201202100229 15.11.2021
+TOPAKKAYA Lisans Bilgisayar Programcılığı
+19 11201529078 ESRA SANCAKLI Türkiye Lisans ORTA DOĞU TEKNİK Destek Personeli 3408200833380 1.9.2021 30.6.2023
+ALAN ÜNİVERSİTESİ / Sosyoloji
+20 28619444794 MERVE ALTUN Türkiye Lisans BAHÇEŞEHİR ÜNİVERSİTESİ / Destek Personeli 3407200731094 1.2.2022 31.1.2023
+İşletme
+Sayfa 15 / 66
+21 10019721742 Levent Mert Türkiye Ön KOCAELİ ÜNİVERSİTESİ / Teknisyen 4102201904781 16.5.2022
+Erçelik Lisans Bilgisayar Programcılığı
+22 14923689440 Cömert Türkiye Ön TRAKYA ÜNİVERSİTESİ / Teknisyen 3402201118041 19.12.2022
+Baldemir Lisans Bilgisayar Teknolojisi ve
+Bilişim Sistemleri
+23 44920204858 Cem Şakir Türkiye Ön İZMİR EKONOMİ Teknisyen 31012014088220 3.8.2022
+Lisans ÜNİVERSİTESİ / Bilgisayar
+Programcılığı
+24 64258004470 Merve Köprülü Türkiye Ön MEHMET AKİF ERSOY Teknisyen 4501201308395 2.11.2022
+Erdoğan Lisans ÜNİVERSİTESİ / Yönetim
+Bilişim Sistemleri
+25 57940270598 Akıncan Elmas Türkiye Lisans IŞIK ÜNİVERSİTESİ / Görsel Araştırmacı 3423202100720 11.5.2022 7.2.2023
+İletişim Tasarımı
+26 56938235472 Ayşen Alpaslan Türkiye Lisans ADNAN MENDERES Araştırmacı 3534201704735 1.8.2022
+ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+27 15319098242 Ayşe Melike Türkiye Lisans ÇANAKKALE ONSEKİZ MART Araştırmacı 1701201503912 5.5.2022 20.9.2023
+İdinak ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+28 29882085912 Burak İbaoğlu Türkiye Lisans KARADENİZ TEKNİK Araştırmacı 1701201503912 1.8.2022 22.9.2023
+ÜNİVERSİTESİ / Bilgisayar 4201201913563
+Mühendisliği
+29 20420605920 Erdem Çağlak Türkiye Lisans KARADENİZ TEKNİK Araştırmacı 6125202001412 1.8.2022 31.8.2023
+ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+30 55432299638 Halil Can Uğur Türkiye Lisans ANADOLU ÜNİVERSİTESİ / Araştırmacı 2623201707298 1.8.2022
+Endüstri
+Mühendisliği(İngilizce)
+31 55438299410 Hasan Hüseyin Türkiye Lisans ESKİŞEHİR OSMANGAZİ Araştırmacı 4501200907710 1.8.2022
+Uğur ÜNİVERSİTESİ / Matematik-
+Bilgisayar
+32 40561320292 Keremşah Türkiye Lisans SAKARYA ÜNİVERSİTESİ / Araştırmacı 3407201226076 11.8.2022 16.6.2023
+Koçoğlu Yönetim Bilişim Sistemleri
+(Fakülte)
+33 32107832130 Önder Açıkgöz Türkiye Lisans DÜZCE ÜNİVERSİTESİ / Araştırmacı 8101202100287 30.5.2022 8.11.2023
+Bilgisayar Mühendisliği
+34 12344997380 Uğur Kaan Yeşil Türkiye Lisans BAHÇEŞEHİR ÜNİVERSİTESİ / Araştırmacı 3436201701548 1.12.2022 24.5.2023
+Yazılım
+Mühendisliği(İngilizce)
+35 22903889674 Alper Bekir Türkiye Lise Anadoluhisarı Teknik Teknisyen 3427201602689 8.6.2022 14.7.2023
+Ekinci Meslek Lisesi / Web
+Programcılığı
+36 30967932458 Aycan Aleyna Türkiye Ön BEYKENT ÜNİVERSİTESİ / Teknisyen 3426202002406 24.6.2022
+Yerdelen Lisans Bilgisayar Programcılığı
+37 33094772386 Eren Kayacan Türkiye Lisans İSTANBUL AYDIN Araştırmacı 3409201223213 6.6.2022
+ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+38 40571104462 Haldun Bozkurt Türkiye Lisans İSTANBUL TEKNİK Araştırmacı 6701200701619 13.6.2022 7.2.2023
+ÜNİVERSİTESİ /
+Telekomünikasyon
+Mühendisliği
+39 17563953100 Hamza Bilici Türkiye Lisans SAKARYA ÜNİVERSİTESİ / Araştırmacı 3407202213481 20.7.2022 12.5.2023
+Bilgisayar Mühendisliği
+40 22199464906 Yasemin Ayvaz Türkiye Lisans CUMHURİYET ÜNİVERSİTESİ Araştırmacı 4601202101161 12.9.2022
+/ Yönetim Bilişim Sistemleri
+(Fakülte)
+41 39559298156 Burak Kocaoğlu Türkiye Lisans MARMARA ÜNİVERSİTESİ / Araştırmacı 3401201240453 26.9.2022
+Elektrik-Elektronik
+Mühendisliği
+Sayfa 16 / 66
+42 16598361188 Turgut Onur Türkiye Lisans DOĞUŞ ÜNİVERSİTESİ / Araştırmacı 3409200639599 1.9.2022
+Teler Endüstri Mühendisliği
+43 29368036018 Beyza Çağlar Türkiye Lisans HALİÇ ÜNİVERSİTESİ / Araştırmacı 721201708209 12.9.2022 16.6.2023
+İşletme Enformatiği
+44 46642453194 Emre Türkiye Lisans KOÇ ÜNİVERSİTESİ / Araştırmacı 3402201020190 3.10.2022 17.11.2023
+Bakkaloğlu Bilgisayar Mühendisliği
+45 36526488428 Serkan Zafer Türkiye Lisans İSTANBUL ÜNİVERSİTESİ / Araştırmacı 5901021839529 10.10.2022 12.5.2023
+Elgezen Bilgisayar Bilimleri
+Mühendisliği
+46 16789299078 Yasin Alper Türkiye Lisans MARMARA ÜNİVERSİTESİ / Araştırmacı 3407201907841 24.10.2022
+Bingül Elektrik-Elektronik
+Mühendisliği
+47 35515727814 Meftun Efe Türkiye Lisans İSTANBUL ÜNİVERSİTESİ / Araştırmacı 3407201711695 2.11.2022 16.6.2023
+Hekimci Jeoloji Mühendisliği
+48 64111009956 SEDA KANAR Türkiye Lisans ESKİŞEHİR OSMANGAZİ Araştırmacı 4501201307726 6.6.2022 31.1.2023
+ÜNİVERSİTESİ / Matematik-
+Bilgisayar
+49 16183503344 AYŞE CİLACI Türkiye Doktora BOĞAZİÇİ ÜNİVERSİTESİ / Araştırmacı 3402199629981 1.6.2023 31.8.2023
+TOMBUŞ Endüstri Mühendisliği
+50 42397442308 BERNA ŞİMŞEK Türkiye Lisans KOCAELİ ÜNİVERSİTESİ / Araştırmacı 4101202002424 1.8.2023
+Bilişim Sistemleri
+Mühendisliği
+51 27236449816 DUHAN MERİÇ Türkiye Lisans DÜZCE ÜNİVERSİTESİ / Araştırmacı 3408201806973 1.11.2023
+KORKMAZ Bilgisayar Mühendisliği
+52 18371917636 EZGİ Türkiye Lisans ÇUKUROVA ÜNİVERSİTESİ / Araştırmacı 127201901898 2.10.2023
+HOCAOĞLU Bilgisayar Mühendisliği
+53 56089108434 MUSTAFA Türkiye Lisans NECMETTİN ERBAKAN Araştırmacı 56089108434 19.12.2023
+BORA ÜNİVERSİTESİ / Bilgisayar
+Mühendisliği
+54 27745075186 ONUR KAPLAN Türkiye Lise Şişli Endüstri Meslek Lisesi / Teknisyen 3402200431986 16.7.2007
+Bilgisayar Yazılımı
+55 25957988058 ONUR UMUT Türkiye Lisans İSTANBUL BİLGİ Destek Personeli 3405200509147 1.2.2023
+ÇAKIT ÜNİVERSİTESİ / Reklamcılık
+56 35086561374 SEVGİ DENİZ US Türkiye Lisans İHSAN DOĞRAMACI Araştırmacı 602201442117 17.1.2023
+BİLKENT ÜNİVERSİTESİ /
+Endüstri Mühendisliği
+57 12097732450 UĞUR CEYLAN Türkiye Lise Bornova Mimar Sinan Teknisyen 3501201609033 10.5.2023
+Mesleki ve Teknik Anadolu
+Lisesi Haberleşme
+Sistemleri
+58 29864231184 ZEYNEP MELİSA Türkiye Lisans MARMARA ÜNİVERSİTESİ Destek Personeli 3407200887384 1.2.2023
+ELİZABETH
+ÇAKIR SUSKUN
+59 21595039442 KAAN KESKİN Türkiye Ön ANKARA ÜNİVERSİTESİ / Teknisyen 0101200115451 17.1.2023
+Lisans Makine
+**(1.1.2023 - 31.12.2023) Faaliyet Döneminde Çalışan Personellere ilişkin.
+Sayfa 17 / 66
+2.6. Ar-Ge Merkezi Personelinin Görev ve Eğitim Durumları
+Görev Nitelik Sayı
+Doktora Üstü 0
+Doktora 1
+Doktora Öğrenci 0
+Araştırmacı
+Yüksek Lisans 1
+Yüksek Lisans Öğrenci 0
+Lisans 40
+Teknisyen Meslek Yüksekokulu 9
+Meslek Lisesi 3
+Destek Personeli Yönetici, Laboratuvar, Teknik Eleman, Sekreter, İşçi vb. 5
+TOPLAM 59
+**(1.1.2023 - 31.12.2023) Faaliyet Döneminde Çalışan Personellere ilişkin.
+**Bu alanda eğitim durumu 'Lisans' ve üstü olan Teknisyen tablodaki hesaplamaya dahil edilmemektedir. Faaliyet döneminde çalışan personel listesi 2.5.
+başlığı altında yer almaktadır.
+2.7. Ar-Ge Merkezi Personel Değişim Gösterim Tablosu
+Görev Nitelik Başlayan Sayısı Ayrılan Sayısı
+Doktora Üstü 0 0
+Doktora 1 1
+Araştırmacı
+Yüksek Lisans 0 0
+Lisans 5 21
+Teknisyen Meslek Yüksekokulu 1 0
+Meslek Lisesi 1 1
+Destek Personeli Yönetici, Laboratuvar, Teknik Eleman, Sekreter, İşçi vb. 2 2
+TOPLAM 10 25
+Personel Devir Oranı (Yıllık)
+**(1.1.2023 - 31.12.2023) Faaliyet Döneminde Çalışan Personellere ilişkin.
+**Bu alanda eğitim durumu 'Lisans' ve üstü olan Teknisyen tablodaki hesaplamaya dahil edilmemektedir. Faaliyet döneminde çalışan personel listesi 2.5.
+başlığı altında yer almaktadır.
+Sayfa 18 / 66
+2.8. Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri
+İşbirliği İşbirliği Yapılan Kurum/Kişi Ülkesi İşbirliği Türü/Şekli
+Yapılan
+Diğer / Microsoft Türkiye Türkiye Yazılım geliştirme alanında Microsoft teknolojileri kullanarak ortak çözümler sunmaktayız
+Kurum, ve firmamızın geliştirdiği ürünler Microsoft'un bulut çözümler platformu Azure üzerinde
+Kuruluş, Microsoft müşterilerine sunulmaktadır
+Vakıf ve
+Fonlar
+Diğer / AdQuality Fransa Dijital reklam ajansı olan Adquality ile birlikte Avrupa'nın farklı ülkelerindeki müşterilere ve
+Kurum, potansiyel müşterilere firmamızın geliştirdiği yazılımları onların sunduğu hizmetler ile
+Kuruluş, beraber ortak çözümler olarak sunmaktayız. Bununla beraber ortak ürün geliştirme
+Vakıf ve faliyetlerimiz bulunmaktadır.
+Fonlar
+Diğer / Ideasoft Türkiye E-ticaret platformu olarak müşterilerine hizmet sunmakta olan Ideasoft'a özel olarak
+Kurum, firmamızın sunduğu yazılım çözümleri entegre edilmiştir, bu sayede ürün ve satış ortaklığı
+Kuruluş, kurulmuştur.
+Vakıf ve
+Fonlar
+Diğer / T-soft Türkiye Türkiye'nin önde gelen hizmet sağlayacılarından olan T-soft'un, e-ticaret müşterilerine
+Kurum, firmamızın sunduğu kişiselleştirme hizmetleri entegre bir şekilde sunulmaktadır. Bu sebeple
+Kuruluş, iki firmanın yazılım ekipleri ortak çalışarak entegre bir çözüm ortaya koymuştur.
+Vakıf ve
+Fonlar
+Diğer / House of Apps Türkiye Mobil yazılımlar alanında Türkiye'nin önde gelen ajanslarından olan House of Apps ile
+Kurum, firmamızın sunduğu yazılım çözümlerini iOS ve Android platformlarında çalıştıracak projeler
+Kuruluş, uygulanmıştır.
+Vakıf ve
+Fonlar
+Diğer / TİM (Türkiye İhracatçılar Meclisi) Türkiye Yazılım ihracatı için TİM'in Londra & Dubai ofislerinde faaliyet gösteriyoruz. Yazılım
+Kurum, alanında ihracatı arttırmayı amaçlayan TİM’in yüzlerce başvuru arasından iki şehir için de
+Kuruluş, seçilen 10 şirketten biri olduk. 2019 yılı içinde TİM Amerika ofislerinde de faaliyete
+Vakıf ve geçmeyi hedeflemekteyiz.
+Fonlar
+Üniversiteler Yıldız Teknik Üniversitesi / Doç. Türkiye İş Zekası (Insights) ve modelleme alanlarında bize akademik danışmanlıkta bulunmuş ve
+Dr. Mehmet Güray Güler doktora öğrencileri ile AR-GE projelerimizde kavram geliştirme ve prototip hazırlama
+safhalarında aktif görev almıştır.
+Üniversiteler Boğaziçi Üniversitesi Türkiye Firmamız ilk kuruluş aşamasında Boğaziçi TTO’nun sunduğu ofis alanını kullanmış ve ilk Ar-
+Ge çalışmalarını burada gerçekleştirmiştir. Ofis desteğinin yanında Boğaziçi Üniversitesi
+özellikle Bilgisayar Mühendisliği’ndeki akademisyenlerden danışmanlık desteği de
+sunmuştur.
+Üniversiteler İstanbul Teknik Üniversitesi Türkiye 2015 yılında İTÜ ile Innogate programı ile başlayan ilişkimiz, projelerde bize gösterdikleri
+destek ile günümüze kadar devam etmiştir. Firmamız bir Ar-Ge personeline ihtiyaç
+duyduğumuzda ilk başvuru kaynağımız olmuştur ve üniversite içinden adayları bize
+yönlendirmektedirler.
+Üniversiteler Bahçeşehir Üniversitesi Türkiye Yüksek lisans programlarında “E-ticaret Alanında Yenilikler” ve “E-ticaret Yönetimi”
+derslerinde firmamızın tanıtıldığı sunum ve workshoplar yapılmıştır. Bu dersleri almakta
+olan öğrenciler için staj imkanları sunulmuş ve geçen yıllarda bir öğrenci yaz stajını
+firmamızda yapmıştır.
+Ar-Ge / Anadolu Teknoloji Araştırma Parkı Türkiye Ulusal alanda yazılım geliştirme ve Ar-Ge çalışmalarımızı desteklemek için Eskişehir
+Tasarım Teknoloji Geliştirme Bölgesi'nde ofisimiz bulunmaktadır. Bu ofiste üniversite öğrencileri ile
+Merkezleri birlikte mühendislerimiz yazılım geliştirme ve Ar-Ge çalışmalarına devam etmektedirler.
+Üniversiteler Yıldız Teknik Üniversitesi / Türkiye “Veri Bilimi ve Isistatistik Paneli” & “2.Veri Bilimi Yarısm̧ ası” için ana sponsorlar arasında yer
+İstatistiksel Düşünce Topluluğu aldık ve etkinlikte yaptığımız sunum ile tecrübelerimizi bu alanda çalışan herkes ile
+paylaştık. Yarışmada birinci olan ekibe firmamızda 3 ay boyunca ücretli staj olanağı sunduk.
+Üniversiteler Bahçeşehir Üniversitesi Bilgisayar Türkiye TEYDEB Projeleri kapsamında danışmanlık alınmaktadır
+Mühendisliği Bölümünden Dr.
+Öğretim Üyesi Tevfik Aytekin
+Sayfa 19 / 66
+Diğer / BigCommerce İngiltere US ve EU’nın en büyük eticaret altyapı sağlayacılarından BigCommerce eticaret
+Kurum, müşterilerine çözümlerimiz entegre bir şekilde sunulmaktadır.
+Kuruluş,
+Vakıf ve
+Fonlar
+Diğer / T-Soft Türkiye T-soft'un e-ticaret müşterilerine kişiselleştirme hizmetlerimiz entegre bir şekilde
+Kurum, sunulmaktadır.
+Kuruluş,
+Vakıf ve
+Fonlar
+Diğer / Bilgi Teknolojileri ve İletişim Türkiye Bilgi Teknolojileri ve İletişim Kurumu, Bilgi Üniversitesi ve Teknoloji Hukuku Enstitüsü'nün
+Kurum, Kurumu, Bilgi Üniversitesi, ortak "BULUT BİLİŞİM VE VERİ DOLAŞIMI KONFERANSI" nda konuşmacı olarak katılım
+Kuruluş, Teknoloji Hukuku Enstitüsü sağlanmıştır.
+Vakıf ve
+Fonlar
+Diğer / "Randem Group İngiltere BigCommerce entegrasyonunda destek olmanın yanı sıra İngiltere ve Avustralya'daki
+Kurum, https://www.randemgroup.com/" müşterilerine çözümlerimizin sunulmasının sağlanması
+Kuruluş,
+Vakıf ve
+Fonlar
+Üniversiteler Çukurova Üniversitesi Bilgisayar Türkiye Proje yarışmasında jüri olarak yer alınması ve birinci olan öğrenciye staj hakkı sağlanması.
+Mühendisliği Bölümü Doç. Dr.
+Fatih Akay
+Üniversiteler Çukurova Üniversitesi Bilgisayar Türkiye E-ticarette Yükselen Trendler ve Ar-Ge konulu sempozyumda konuşmacı olarak katılım
+Mühendisliği Bölümü sağlandı.
+Diğer / Soft Away (TOBB) Türkiye Yazılım sektöründe çalışan Türk firmalarının küreselleşmesi için başlatılan 25 firmanın
+Kurum, eğitimi ve yurtdışına açılım desteklerinden yararlanmasını içeren ve TOBB tarafından
+Kuruluş, yönetilen program
+Vakıf ve
+Fonlar
+Diğer / "Awin https://www.awin.com/" Türkiye E-ticaret alanında faaliyet gösteren Awin firması ile birlikte ürün geliştirmek için işbirliğine
+Kurum, gidilmiştir
+Kuruluş,
+Vakıf ve
+Fonlar
+Diğer / "Klaviyo Türkiye E-posta pazarlama alanında ffaliyet gösteren Klaviyo firması ile ortak ürün geliştirmek için
+Kurum, https://www.klaviyo.com/" işbirliğine gidilmiştir
+Kuruluş,
+Vakıf ve
+Fonlar
+Diğer / Group M Türkiye Covid'in e-ticaret üzerine etkileri için ortak bir çalışma yürütüldü ve rapor yayınlandı
+Kurum,
+Kuruluş,
+Vakıf ve
+Fonlar
+Ar-Ge / Dengage İnteraktif Dijital Türkiye E-posta pazarlama alanında ffaliyet gösteren Klaviyo firması ile ortak ürün geliştirmek için
+Tasarım Teknoloji Hizmetleri ve Pazarlama işbirliğine gidilmiştir
+Merkezleri A.Ş
+Diğer / Patika.dev Türkiye Yazılım geliştirici adaylarının kariyer yolculuklarının başında eğitim ve sonrasında işe alım
+Kurum, konusunda birliktelik kuruldu
+Kuruluş,
+Vakıf ve
+Fonlar
+Diğer / Harvard Business Review Türkiye Türkiye Teknoloji girişimciliği alanında başarı ve Pazar dinamikleri üzerine saha araştırmasına
+Kurum, destek verildi
+Kuruluş,
+Vakıf ve
+Fonlar
+Diğer / Kadın Emeğini Destekleme Vakfı Türkiye Sosyal Yardım projesi kapsamında İstanbul Yarı Maratonu'na Segmentify ARGE Ekibi olarak
+Kurum, katılım gösterildi ve bağış toplandı. Derneğin seçtiği kadınlara iki farklı seansta yazılıma
+Kuruluş, giriş eğitimleri verildi ve workshoplar yapıldı.
+Vakıf ve
+Fonlar
+Sayfa 20 / 66
+Diğer / Facebook İngiltere Facebook Business Accelerator programına kabul alarak kişiselleştirilmiş reklam
+Kurum, hedeflemesi ve gösterimi alanında 4 aylık prgorama katılım gösterildi, yeni ARGE
+Kuruluş, projelerine start verildi
+Vakıf ve
+Fonlar
+Ar-Ge / Arute Solutions Yazılım A.Ş. Türkiye Yeni ARGE projelerinde birlikte çalışmak için işbirliğine gidildi. Uzmanlık alanları olan
+Tasarım AutoML üzerine çalışılmaya başlandı
+Merkezleri
+Ar-Ge / Testinium Teknoloji Yazılım A.Ş. Türkiye Sistem Yazılım Testleri kalitesini arttırmak için ortak bir proje için işbirliğine gidildi
+Tasarım
+Merkezleri
+Üniversiteler Yıldız Teknik Üniversitesi, Düzce Türkiye Internify programı ile seçilen üniversiteler ile iletişime geçildi ve dönemlik uzun staj
+Üniversitesi, Erciyes Üniversitesi, programları başlatıldı
+Süleyman Demirel Üniversitesi
+Ar-Ge / Arute Solutions Yazılım A.Ş. Türkiye Segmentasyon, AutoML ve Kümeleme alanlarında ortak projeler yürütebilmek için
+Tasarım birliktelik kuruldu
+Merkezleri
+Diğer / Meta Accelerator Amerika Reklam kişiselleştirme için Facebook ve Instagram üzerinde ek analizler ve APIlere erişim
+Kurum, Birleşik için Accelerator programına katılındı
+Kuruluş, Devletleri
+Vakıf ve
+Fonlar
+Üniversiteler Maltepe Üniversitesi Endüstri Türkiye ARGE projelerinde destek almak için danışmanlık hizmeti alınmaya başlandı
+Mühendisliği Bölümü Dr. Öğr.
+Üyesi Ayşe CİLACI TOMBUŞ
+Diğer / Zonecta SAS Türkiye Firmamız ürünlerini Latin Amerika'da yaygın olarak kullanılan Vtex.io platformu ile
+Kurum, entegrasyon ve yeni ürünler geliştirilmesi alanında teknik ortaklık başlatıldı.
+Kuruluş,
+Vakıf ve
+Fonlar
+Sayfa 21 / 66
+2.9. Ar-Ge/Tasarım Faaliyetlerinin Özendirilmesi, Performans Değerlendirme ve Ödül Sistemi
+Ar-Ge personelimizin gerçekleştirmiş olduğu her yeni performans bizim için büyük bir önem ifade etmektedir. Personelimizin göstermiş olduğu başarıyı
+kendisini ödüllendirerek taçlandırmaktayız. Ödüllendirme noktasında dikkat ettiğimiz hususlar şunlardır:
+Ar-Ge personelimizin gercȩ klesti̧ rmis ̧olduğu her yeni performans bizim ici̧n büyük bir önem ifade etmektedir. Personelimizin göstermis ̧olduğu basa̧ rıyı
+kendisini ödüllendirerek tacļandırmaktayız. Oşdüllendirme noktasında dikkat eğğimiz hususlar su̧ nlardır:
+Oşdül sistematiğimiz doğrultusunda iki ana modeli kullanmaktayız. Personele maas ̧arlısļarı, ödül izinler verilmesi ve si̧rket ici̧nde performansından dolayı
+onurlandırılması yanında basa̧ rı ile uyguladığımız bir ödül yöntemi de personelin yurtdısı̧ ofislerimize kısa süreli gönderilmesidir. Bu ödül yöntemimiz
+personel tarafndan co̧ k olumlu karsı̧lanmıs ̧ve genc ̧ personel tarafndan farklı bir ülke deneyimlemek sure yle cazip hale gelmis ̧ r. Oşrneğin 2017 yılı
+icȩ risinde iki personelimiz ürünlesȩ n bir Ar-Ge projesi sonucunda bir ay boyunca Almanya’daki Berlin ofisimizde görevlendirilmisti̧ r. Personel bu sürede hem
+yeni bir ülke deneyimlemis ̧hem de Almanya’daki personel ile birlikte ca̧ lısm̧ a varsa bularak kendilerini gelisti̧ rebilmisļerdir. Benzer sȩ kilde bir personelimiz
+ITis Uş TTO’nun sağladığı program ile 3 aylık bir süre boyunca ABD’de San Francisco’daki ortak ca̧ lısm̧ a alanından ca̧ lısm̧ ıs ̧ve orada Ar-Ge yapan diğer girisi̧mci
+firmalar ile deneyim paylasa̧ bilmisti̧ r.
+Eğitim Tesv̧ iki: Ar-Ge merkezinin olmazsa olmazları olarak, yüksek lisans ve doktoralı personelleri nitelendirmekteyiz. Bu sebeple personellerimizi yüksek
+lisans ve doktora yapmaları konusunda tesv̧ ik etmekteyiz. Bu kapsamda Eğitim tesv̧ ik programını uygulamaya basļadık. Esas olarak Y.Lisans ve doktora tez
+ca̧ lısm̧ alarının Ar-Ge Merkezi faaliyetleriyle ve ca̧ lıslı̧ ğı alanlarla uyumluluğu göz önüne alınmakta. Eğitim Tesv̧ iki kapsamında su̧ ödüller sağlanmaktadır:
+● Uşniversitelerimizde Y.Lisans yapanlara- basa̧ rılı olması durumunda- 1 maas ̧tesv̧ ik verilir. Eğer tez Ar-Ge merkezleri projelerine direk katkıda bulunursa
+tesv̧ ik 2 maas ̧olarak arşirılacaklır. Yapılan tez ca̧ lısm̧ ası Arge Merkezi onaylı olmalıdır.
+● Uşniversitelerimizde doktora yapanlara- basa̧ rılı olması durumunda- 2 maas ̧ tesv̧ ik verilir. Eğer doktora tezi Ar-Ge merkezi projelerine direk katkı
+sağlıyorsa buradaki tesv̧ ik 4 maas ̧olarak arşirılacaklır. Yapılan tez ca̧ lısm̧ ası Arge Merkezi onaylı olmalıdır.
+● Yüksek Lisans eğitimini basa̧ rıyla sürdüren Ar-Ge Merkezi personeline ders ve tez asa̧ masında ha ada 1 gün ici̧n ücretli izin verilmektedir.
+● Doktora eğitimini basa̧ rıyla sürdüren Ar-Ge Merkezi personeline ders asa̧ masında ha ada 1 gün, tez asa̧ masında ise buna ek olarak ayda 2 gün daha
+ücretli izin verilmektedir.
+Patent Tesv̧ iki: Ar-Ge Merkezi personelimiz ulusal ve uluslararası patent basv̧ uruları ve patent sürecļerinde daha aktif olarak yer alabilmeleri amacıyla
+ödüllendirilmektedir. Patent tesv̧ iki kapsamında su̧ ödüller sağlanmaktadır:
+● Yurt ici̧ patent tescili: 35,000 TL
+● Uluslararası patent tescili: 50,000 TL
+Yayın Tesv̧ iki: Ar-Ge Merkezi ca̧ lısa̧ nların yayın yapmasını özendirmek amacıyla, ulusal düzeyde bildiriler, uluslararası düzeyde bildiriler ve hakemli
+dergilerde yayımlanacak makaleler, değisi̧k oranlarda ödüllendirilir; bildiri sunumlarına ilisķ in seyahat ve konaklama masraflarını firma tarafndan
+karsı̧lanır.
+● Ulusal bildiri kabulü: 25,000 TL
+● Uluslararası bildiri kabulü: 40,000 TL
+● Hakemli dergilerde makale yayımlanması: 60,000 TL
+Konferans ici̧n seyahat ve konaklama, kalılım masraflarını karsı̧lanır.
+Proje Tesv̧ iki: Proje Oşnerisi gelisti̧ ren ve önerisi TEYDEB projesine dönüsȩ nler ici̧n ödüller:
+● TUBITAK TEYDEB projeleri ici̧n 50,000 TL
+● AB projeleri ici̧n 75,000 TL
+Bunun yanında her 3 ayda bir projelere yaplığı katkıları en yüksek ca̧ lısa̧ nlar seci̧lmekte ve bu ca̧ lısa̧ nlara da ayrıca bir maas ̧prim verilmekte ve si̧rket ici̧n
+de duyurularak onore edilmektedir.
+*2023 yılı içerisinde personele verilen nakdi bir ödül bulunmamaktadır.*
+Sayfa 22 / 66
+2.10. Ar-Ge Merkezi Proje Yönetim Süreci
+Sayfa 23 / 66
+2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar)
+Kontrol Mekanizması Var / Sayısı
+Yok
+Turnike sayısı Yok 0
+RFID sayısı Var 1
+Personel giriş kartı sayısı Var 60
+Yüz tanıma, parmak İzi, vb. sayısı Var 1
+Kamera ve kayıtları sayısı Var 2
+Personel giriş çıkışları parmak okuma sistemi üzerinden yapılmaktadır. Sistemde arıza olması durumunda ise, kart okutularak PDKS Var 1
+aktarımı yapılmaktadır. Bu nedenle kart sayısı yazılmıştır.
+Puantaj için gerekli donanım ve proje yönetimi ve muhasebe ile entegre yazılım sayısı Var 1
+Sayfa 24 / 66
+3. AR-GE MERKEZİ DETAYLANDIRILMIŞ MALİ BİLGİLER
+3.1. Belge Tarihi İtibariyle Ar-Ge İndirimine Konu Olan Ar-Ge ve Yenilik Harcamalarının Kapsamı
+Faaliyet İlk Madde ve Malzeme Amortisman Net Personel Giderleri Genel Dışarıdan Sağlanan Fayda ve
+Dönemi Giderleri Tutarı Toplamı Giderler Hizmetler
+2018 0,00 117.294,64 627.482,00 0,00 196.920,19
+2019 0,00 1.516.360,81 2.981.471,76 0,00 1.339.636,31
+2020 0,00 1.531.571,57 2.636.616,32 0,00 2.002.582,99
+2021 0,00 2.842.663,05 4.641.276,89 0,00 3.157.004,87
+2022 0,00 5.408.608,81 9.566.691,29 0,00 4.567.167,71
+2023 0,00 8.150.037,22 20.600.848,69 0,00 6.580.064,84
+Faaliyet Vergi, Resim Ar-Ge ve / veya Sağlanan Ar-Ge ve Tasarım İndirimine Ar-Ge/Tasarım İndirimi Kapsamında Yararlanılan /
+Dönemi ve Harçlar Tasarım Harcaması Nakit Tabi Harcamalar Toplamı Yararlanılacak Kurumlar Vergisi İstisnası
+Destekler
+2018 0,00 941.696,83 0,00 941.696,83 207.173,30
+2019 0,00 5.837.468,88 0,00 5.837.468,88 1.284.243,15
+2020 0,00 6.170.770,88 405.687,00 5.765.083,88 1.268.318,45
+2021 0,00 10.640.944,81 0,00 10.640.944,81 2.660.236,20
+2022 0,00 19.542.467,81 0,00 19.542.467,81 4.494.767,60
+2023 0,00 35.330.950,75 0,00 35.330.950,75 8.832.737,69
+Sayfa 25 / 66
+3.2. Belge Tarihi İtibariyle 5746 Sayılı Kanun Kapsamında Yararlanılan İndirim, İstisna, Muafiyet vb. Teşvik Tutarı
+Faaliyet Ar-Ge ve Tasarım İndirimi Kapsamında Yararlanılan / Gelir Vergisi Sigorta Primi Damga Gümrük KDV İlave
+Dönemi Yaralanılacak Kurumları Vergisi İstisnası Stopaj Teşviği Desteği Vergisi Vergisi İstisnası Arge
+İstisnası İstisnası İndirimi
+2018 207.173,30 100.317,42 29.968,66 0,00 0,00 0,00 0,00
+2019 1.284.243,15 578.328,38 250.940,40 26.921,20 0,00 0,00 0,00
+2020 1.268.318,45 445.270,85 207.119,39 23.367,26 0,00 0,00 0,00
+2021 2.660.236,20 1.150.698,60 371.175,51 42.807,03 0,00 0,00 0,00
+2022 4.494.767,60 2.505.376,92 1.020.332,56 91.198,09 0,00 0,00 0,00
+2023 8.832.737,69 4.772.503,26 324.138,64 27.521,94 0,00 0 0
+Faaliyet Yararlanılan İndirim, İstisna, Muafiyeti vb. Ar-Ge İndirimine Tabi Harcamalar Yıllık Toplam Toplam Harcamanın Ciroya
+Dönemi Teşvik Tutarı Toplamı Ciro Oranı
+2018 337.459,38 941.696,83 3.880.338,20 0,2427
+2019 2.140.433,13 5.837.468,88 5.446.037,16 1,0719
+2020 1.944.075,95 5.765.083,88 6.738.781,89 0,8555
+2021 4.224.917,34 10.640.944,81 7.686.239,05 1,3844
+2022 8.111.675,17 19.542.467,81 10.897.270,90 1,7933
+2023 13.956.901,53 35.330.950,75 26.473.637,06 1,3346
+Sayfa 26 / 66
+4. Ar-Ge MerkeziNİN BİLGİ KAYNAKLARI
+4.1. Ar-Ge Merkezinin Üye Olduğu Ulusal / Uluslararası Bilimsel Kütüphaneler ve Veri Tabanları
+Firmamızda ve Ar-Ge merkezimizde projelerimizde kullanılacak olan bilgi kaynaklarına (akademik yayınlar, eğitimler, basılı ve dijital yayınlar, v.b.) erişimi
+kolaylaşlırmak için maddi desteklerimizin yanında ekibin kendini geliştirmesi için bilgi kaynaklarına ve eğitim programlarına erişimlerini özendirmekteyiz.
+Bunun yanında yeni projeler ve ürünlerin oluşturulmasında vizyon edinmek için Ar-Ge ekibimizi besleyebilecek seminerler, konferanslar ve workshoplar
+(çalıştay) katılımı desteklemekteyiz ve kendi alanımızdaki bu çalışmaların içinde aktif olarak yer almaktayız.
+Şirketimizde aktif olarak kullanılan bilgi kaynaklarını vermek istersek;
+* Uluslararası ve yurt içindeki sektörel dijital ve basılı yayınlar
+* Üniversiteler
+* Seminer, konferans, sempozyumlar
+* Mesleki Programlar (dil eğitimleri dahil)
+* Müşteri ile yapılan çalıştaylar
+* Benchmark çalışmaları
+* Normlar ve şartnameler
+Firmamız çalışanlarının işlenmiş bilgi ve veriye ulaşabilmeleri için gerekli kaynakları ayırmakta, bu bilgilerin toplandığı rapor ve analizleri düzenli olarak
+salın almakta (örnek olarak yenilikçi firmaların ve üzerinde çalışlığımız sektörlerin trendlerinin detaylıca incelendiği yıllık olarak açıklanan Gartner raporu)
+veya ücretsiz kaynaklar için de gerekli üyelik ve abonelik işlemlerini görmektedir. Ücret karşılığında sağlanabilecek bilgi ve dökümanlar şirketin salın alım
+prosedürlerine uygun olarak ilgili birimler tarafndan tedarik edilmekte ve ihtiyaç sahibine ulaşlırılmaktadır. Şirket içi haberleşmede kullanılan portalımızda
+düzenli olarak bu kaynaklar duyurulmakta ve onlara ulaşım özendirilmektedir.
+Ar-Ge merkezimizde çalışan personelimiz üzerinde çalışlıkları projelerde kendilerine gerekli olacak olan bilgi ve kaynağı gerek basılı yayınlardan gerekse
+elektronik ortamda araşlırıp bulabilecek beceri ve donanıma sahiptir. Yazılım firması olmamızın verdiği avantaj ile bilgi kaynaklarına erişimde tamamen
+elektronik ortamı tercih etmekteyiz.
+Ar-Ge çalışmaları sürecinde Science Direct veri tabanlarından faydalanmaktayız.
+4.2. Faaliyet Dönemi İçinde Katılım Sağlanan Sempozyum, Kongre, Konferanslar
+Sıra No Türü Katılım Sağlanan Konferans, Sempozyum, vb. Bilimsel Etkinlik Yurt İçi / Yurt Dışı Katılım Tarihi Aralığı Kişi Sayısı
+1 Konferans Java Day 2023 Yurt İçi 6.5.2023 - 6.5.2023 5
+2 Kongre SoftAway: Cubesat Vision Yurt İçi 14.12.2023 - 14.12.2023 1
+3 Kongre Türkiye Innovation Week Yurt İçi 23.11.2023 - 25.11.2023 3
+4 Fuar Yapay Zeka Çağında E-Ticaret Yurt İçi 23.12.2023 - 23.12.2023 4
+5 Fuar Gartner Connect - Personalisation Yurt Dışı 23.9.2023 - 23.9.2023 2
+6 Fuar Gitex 2023 Yurt Dışı 8.10.2023 - 11.10.2023 2
+7 Fuar Websummit 2023 Yurt Dışı 13.11.2023 - 16.11.2023 3
+8 Fuar E-Commerce Berlin Expo 2023 Yurt Dışı 23.2.2023 - 24.2.2023 1
+9 Konferans Gartner Data / Analytics Summit Yurt Dışı 22.5.2023 - 24.5.2023 2
+10 Konferans Sabancı Üniversitesi Araştırma Geliştirme ve Teknoloji Transfer (SUATT) Yurt İçi 13.6.2023 - 13.6.2023 1
+4.3. Son İki Faaliyet Dönemine İlişkin Fikri ve Sınai Mülkiyet Hakları Genel Durumu
+Fikri ve Sınai Mülkiyet ve Yayın Durumu 2022 2023
+Başvurusu Yapılan Patent Sayısı 0 0
+Tescil Edilen Ulusal veya Uluslararası Patent Sayısı 0 0
+Başvurusu Yapılan Tasarım Sayısı 0 0
+Tescillenen Tasarım Sayısı 0 0
+Tescillenen Marka Sayısı 0 0
+Yayın, Makale, Bildiri Sayısı 0 3
+Tescil Edilmiş Faydalı Model Sayısı 0 0
+Tescil Edilmiş Endüstriyel Tasarım Sayısı 0 0
+Tescil Edilmiş Yazılım Tescil Sayısı 1 0
+Tescil Edilmiş Triadik Patent Sayısı 0 0
+Sayfa 27 / 66
+Ulusal Yayın Sayısı 0 1
+Uluslararası Yayın Sayısı 0 2
+Sayfa 28 / 66
+5. Ar-Ge MerkeziNİN İNSAN KAYNAKLARI YÖNETİMİ VE GELİŞTİRİLMESİ
+5.1. Faaliyet Döneminde Ar-Ge/Tasarım Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı Eğitimler ve Sertifika Programları
+Sıra No Eğitimin Adı Yurt İçi / Yurt Dışı Katılımın Tarihi Kişi Sayısı
+1 ISO 27001 ve Bilgi Güvenliği Eğitimi Yurt İçi 10.7.2023 - 10.7.2023 15
+2 Certified Kubernetes Administrator (CKA) with Practice Tests Introduction to Apache Solr Yurt İçi 10.3.2023 - 10.3.2023 4
+3 Algorithms Session 1 (Segmentify İç Eğitimler Serisi) Yurt İçi 27.2.2023 - 27.2.2023 11
+4 Algorithms Session 2 (Segmentify İç Eğitimler Serisi) Yurt İçi 1.6.2023 - 1.6.2023 12
+5 Distributed Systems & Cloud Computing with Java Yurt İçi 11.1.2023 - 11.1.2023 7
+6 Ecommerce for Development Teams (Segmentify Icis ̧Eğitimler Serisi) Yurt İçi 26.8.2023 - 26.8.2023 35
+Sayfa 29 / 66
+6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI
+6.1. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezi Mevcut Cihaz ve Ekipman Listesi
+Sıra No Cihaz / Ekipman Adı Adet
+1 Lenovo V14 G2 ITL İ5 8GB 512 SSD 1
+2 iPhone 14 128 Gb Akıllı Telefon Kırmızı 1
+3 SAMSUNG MOBILE SM-S918B TELEFON 1
+4 Hewlett Packard Demirbaş Alımları - Server 1
+Sayfa 30 / 66
+6.2. Ar-Ge/Tasarım Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi
+Sıra No Cihaz / Yazılım Adı Adet
+1 APPLE BİLGİSAYAR 1
+2 LG 29UM68-P IPS LED MONİTÖR 8
+3 MBAIR LAPTOP 1
+4 KLAVYE,MOUSE,KULAKLIK 1
+5 IPHONE 7 1
+6 MACBOOK PRO13 1
+7 HP PAVILION 1
+8 MACBOOK PRO 15 1
+9 LG 25** SİYAH LED 1
+10 ASUS UX310UQ 1
+11 LG 239 MONİTÖR 1
+12 DELL 24 LED 1
+13 SAMSUNG NOTE 8 1
+14 LG MONİTÖR - 25 inch 4
+15 DELL 7370 INTEL CORE i7 8550U 8
+16 MACBOOK AİR 3
+17 IMAC 27 3.4 LAPTOP 1
+18 DELL LAPTOP 13
+19 APPLE MBP SPACE GREY LAPTOP 1
+20 LG 29UM68-P 29 5ms MONİTÖR 1
+21 IMAC 27 8GB 1 TB 1
+22 MBP 15.4 SL/2.8GHZ/RP APPLE MONİTÖR 1
+23 LG 43UJ630V 43 108 E 1
+24 MACBOOK PRO 13.3 1
+25 DELL INSPRIRON HBV0000099LZC 1
+26 MACBOOK PRO 13.3 SPACE GREY 1
+27 MACBOOK PRO 13.3 SPACE GREY MPXT2TU/A 1
+28 MACBOOK AIR 13.3 MQD32TU/A 1
+29 LG 29 29UM68-P MONITÖR 1
+30 ZOHO LİSANS 1
+31 MS OFFICE 15
+32 LUCID 1
+33 Liveplan 1
+34 g suıte GOOGLE 1
+35 LOGOSOFT 1
+36 MEDIANOVA 1
+37 Dell Vostro 5490 i7 1
+38 Dell Vostro 5490 i5 1
+39 DELL Lati 7410/Intel Core i7 2 adet 2
+40 Apple MacBook Pro Intel Core i5 8GB 2adet 2
+41 Dell Vostro 5490 Intel Core i5 1
+42 Apple MacBook Pro Intel Core i7 1
+Sayfa 31 / 66
+43 PDELL-LE5410-DELCW 1
+44 PDELL-LE7310-DESCR 6 Adet 6
+45 Dell 7501-S750WP161N i7 1
+46 Apple Macbook Air M1 Çip 8GB 256GB 1
+47 Apple MacBook Pro Intel Core i5 16GB 512 1
+48 Dell G515 6B750W 165C i7-10750H 16GB 512G 1
+49 Apple MacBook Pro Intel Core i5 16GB 1
+50 Samsung LC27R500FHMXUF 27 1
+51 DELL POR Ci5 10310U 1
+52 Apple MacBook Pro Intel Core i5 16GB 1
+53 APPLE MBP 13.3 M1 8C 16GB 1
+54 NGX H1000G2 System SERVER 1
+55 Macbook Klavye ve ToucPad Kasa 1
+56 Dell 7501-S750WP161N i7 4
+57 PDELL-LE7310-DESCR 6 Adet 2
+58 Apple MacBook Pro Intel Core i5 8GB 2adet 2
+59 Samsung LC27R500FHMXUF 27 1
+60 MacBook Pro 14 inc M1 Pro 8CPU 14GPU 1
+61 Macbook MGN63TU/A MBA 13.3 1
+62 MBP 13.3 SPG/8C CPU/8C GPU 1
+63 DELL VOSTRO 3400 INTEL CORE TAŞINABİLİR BİLGİSAYAR 1
+64 DELL INSPİRON TAŞINABİLİR BİLGİSAYAR 1
+65 MACBOOK PRO 8 GB 256 GB SSD 13.3 1
+66 DELL INSPİRON INTEL CORE 1
+67 DELL VOSTRO İ5 BİLGİSAYAR 1
+68 DELL VOSTRO 3400 INTEL CORE İ5 1
+69 SAMSUNG HW-A450 SİNEMA SİSTEMİ 1
+70 DELL VOSTRO INTEL CORE İ5 BİLGİSAYAR-2 ADET 2
+71 DELL VOSTRO INTEL CORE İ5 TAŞINABİLİR BİLGİSAYAR 1
+72 Apple MacBook Pro 13 BİLGİSAYAR 1
+73 DELL VOSTRO INTEL CORE İ5 TAŞINABİLİR BİLGİSAYAR 1
+74 APPLE MBP 14.2 TAŞINABİLİR BİLGİSAYAR 1
+75 APPLE MBP 13.3 SPG/8C TAŞINABİLİR BİLGİSAYAR 1
+76 DELL INSPİRON 5401 INTEL CORE i5 TAŞINABİLİR BİLGİ 1
+77 DELL VOSTRO 3400 INTEL CORE İ5 BİLGİSAYAR 1
+78 DELL VOSTRO INTEL CORE İ5 TAŞINABİLİR BİLG. 2 ADET 2
+79 MACBOOK AİR 256 GB 1
+80 DELL VOSTRO 3400 İ5 TAŞINABİLİR BİLGİSAYAR 2 ADET 2
+81 APPLE MACBOOK AİR M2 512GB TAŞINABİLİR BİLGİSAYAR 1
+82 DELL VOSTRO 3400 İ5 W10 PRO TAŞINABİLİR BİLGİSAYAR 1
+83 DELL LATİTUDE INTEL CORE TAŞINABİLİR BİLGİSAYAR 1
+84 APPLE MACBOOK AİR - GOLD 256GB 1
+85 IPHONE 12 64 GB TELEFON 1
+86 APPLE MACBOOK PRO 16 GB - 3 ADET 3
+Sayfa 32 / 66
+87 SAMSUNG GALAXY A12 64GB 1
+88 DELL VOSTRO INTEL CORE İ3 TAŞINABİLİR BİLGİSAYAR 1
+89 SAMSUNG GALAXY A12 1
+90 DELL VOSTRO 3400 İ5 PRO TAŞINABİLİR BİLGİSAYAR 1
+91 LG 29WP60G-B Full Hd IPS LED Monitör 1
+92 SAMSUNG GALAXY A12 TELEFON 1
+93 MacBook Air 13.6 inc Gümüş 1
+94 Apple Macbook Pro M1 Max Uzay Grisi Taşınabilir Bi 1
+95 DELL 27 FULL HD MONİTÖR 1
+96 SAMSUNG A127F BLACK TELEFON 1
+97 SAMSUNG A127F/DS A12 BLACK 1
+98 DELL VOSTRO 3400 INTEL CORE İ5 BİLGİSAYAR 2
+99 DELL VOSTRO 3400 INTEL BİLGİSAYAR 2 ADET 2
+100 SAMSUNG GALAXY S20 FE128 GK TELEFON 2 ADET 2
+101 SAMSUNG GALAXY AKILLI TELEFON 2 ADET 2
+102 DELL VOSTRO WİNDOWS 10 PRO TAŞINABİLİR BİLGİSAYAR 1
+103 LG 29WP60G 29 İNÇ TAŞINABİLİR BİLGİSAYAR 1 ADET 1
+104 DELL VOSTRO TAŞINABİLİR BİLGİSAYAR 2 ADET 2
+105 HBCV DELL VOSTRO TAŞINABİLİR BİLGİSAYAR 2 ADET 2
+106 APPLE IPHONE 12 64 GB 1
+107 MBP 13.3 M2S TAŞINABİLİR BİLGİSAYAR 1
+108 MBP 13.3 M2S 16 GB TAŞINABİLİR BİLGİSAYAR 2 ADET 2
+109 MBP 8 CPU 10 GPU16 GB TAŞINABİLİR BİLGİSAYAR 2 ADE 2
+110 SAMSUNG A12 64 GB CEP TELEFONU 1
+111 DELL VOSTRO BİLGİSAYAR 1 ADET 1
+112 Apple MacBook Pro M1 Pro 1
+113 SAMSUNG GALAXY A12 64 GB TELEFON 1
+114 MACBOOK AİR NOTEBOOK (2 ADET) 2
+115 LENOVO V14 INTEL CORE İ5 BİLGİSAYAR 1
+116 MACBOOK PRO 13.6 İNC M2 UZAY GRİSİ NOTEBOOK 1
+117 APPLE MACBOOK 13.3 M2 16 GB NOTEBOOK 1
+118 DELL VOSTRO INTEL CORE WINDOWS 10 PRO BİLGİSAYAR 1
+119 LENOVO THINKPAD TAŞINABİLİR BİLGİSAYAR 1
+120 LENOVO THINKPAD E14 İ5 TAŞINABİLİR BİLGİSAYAR 1
+121 LENOVO THINKPAD E14 16GB TAŞINABİLİR BİLGİSAYAR 1
+122 SAMSUNG GALAXY A12 64 GB 1 ADET 1
+123 Apple 13.3 MacBook Pro 1
+124 LENOVO THINKPAD İNTEL CORE TAŞINABİLİR BİLGİSAYAR 1
+125 LENOVO 1135G7 TAŞINABİLİR BİLGİSAYAR 1
+126 Apple MacBook Pro M1 Pro Bilgisayar 1
+Sayfa 33 / 66
+7. AR-GE MERKEZİ PROJELERİ
+7.1. Faaliyet Döneminde Tamamlanan Projeler Listesi
+Sıra Proje Proje Adı Özkaynakla Destek Ulusal Destek Uluslararası Destek Toplam Proje
+No Kodu Karşılanan Tutar Tutarı Programının Adı Programının Adı Bütçesi
+1 SGM- Kampanya Hedefleme ve A/B Test 9.773.138,08 0 9.773.138,08
+PER-014 Optimizasyon Sistemi
+Sayfa 34 / 66
+7.2. Faaliyet Döneminde Devam Eden Projeler Listesi
+Sıra Proje Proje Adı Özkaynakla Destek Ulusal Destek Uluslararası Toplam Proje
+No Kodu Karşılanan Tutarı Programının Adı Destek Bütçesi
+Tutar Programının
+Adı
+1 SGM- Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 7.963.105,20 0 7.963.105,20
+PER-
+016
+2 SGM- Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 8.104.367,00 0 8.104.367,00
+PER- Tanımlama Sistemi
+015
+3 SGM- Global E-Ticaret Platformları için Kişiselleştirme 7.004.812,65 0 7.004.812,65
+PER- Uygulamaları - Segmentify Personalisation Apps
+017 for Platforms
+4 SGM- E-Ticaret Kullanıcıları Otomatik Segmentasyonu 10.461.563,77 2.255.228,87 3.1.1. 1501 Sanayi Ar- 12.716.792,64
+PER- (ETİKOS) Ge Projeleri
+019 Destekleme Programı
+5 SGM- Kampanya Kurgusu Tasarım Sistemi - Segmentify 6.705.794,60 0 6.705.794,60
+PER- Campaign Manager
+018
+Sayfa 35 / 66
+7.3. Faaliyet Döneminde Devam Eden Proje Detayları
+Proje Kodu SGM-PER-016
+Proje Adı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi
+Proje 1.3.2022
+Başlama
+Tarihi
+Proje Bitiş 31.1.2024
+Tarihi
+Projede 18
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 120,00
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 7.963.105,20
+Proje
+Bütçesi (TL)
+Öz 7.963.105,20
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet
+Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 36 / 66
+Proje E-ticaret alanında artan rekabet ve sanal mağaza müşterilerinin giderek artan talepleri ile onlara daha kapsamlı ve uçtan uca bir alışveriş
+Konusunu deneyimi yaşatabilmek müşteri memnuniyeti ve rekabet üstünlüğü açısından önem arz etmektedir. Müşteri bağlılığı (customer loyalty)
+Belirleyen arttıkça müşterilerin aynı mağazadan aynı ürünleri alma ihtimali artmakta ve müşteriler bu noktada bu işlemin ya zamanında hatırlatmalar
+İhtiyaçlar ile ya da tamamen otomasyon üzerinde olmasını talep etmektedirler. Bu tekrarlı satın alım özellikle market, eczane, giyim ve sarf
+malzemeleri sektörlerinde satış hacminin %50’den fazlasını oluşturmakta ve bu doğru zamanda müşteri yakalanmazsa bu müşterinin
+sadece o satış için değil gelecekteki pek çok satış için bir rakip firmaya kaptırılmasına neden olmaktadır. Bu sebeple kişi özelinde satın
+alınma sıklığı, hacmi, fiyat aralığı gibi analizler ile tekrarlı satın almaya uygun müşterilere doğru zamanda doğru içerik ve ürünler ile
+ulaşmak bu sektörlerde faaliyet gösteren firmaların önemli bir ihtiyacıdır. Bu ihtiyacın içinde frekans analizi, satış hedef tahmini öne
+çıkmakla birlikte bu tahminler ve analizler sonucunda farklı pazarlama kanalları üzerinden yapılacak hatırlatma ve hedefleme
+kampanyalarını tetikleyebilecek bir otomasyon sistemine de ihtiyaç bulunmaktadır. Bu otomasyon sistemi her bir müşteri özelinde
+çalışabilmeli ve müşterinin doğru zamanında ona doğru yöntem, mesaj ve içerikler ile ulaşabilmektir. İkincil olarak tekrarlı satın alım
+yapılacak ürünlerin stok seviyeleri de kritik bir ihtiyaçtır. Doğru zamanda doğru stok seviyesini tutarak firmalar stok tutma maliyetleri ile
+stok eksikliğinden müşteri ve satış kaybından oluşacak zararı dengelemeleri gerekmektedir. Stok optimizasyonu alanında piyasada bulunan
+ürün ve servisler tekrarlı satın alım ve e-ticaretin spesifik sektörlerine göre özelleşmiş ve optimize edilmiş durumda değillerdir. Bu sistemler
+aynı zamanda çok fazla veriye ihtiyaç duymakta ve günümüzde e-ticaretin çok hızlı değişen envanterlerine ayak uyduramamaktadırlar.
+Özellikle projenin hedef aldığı sektörlerde e-ticaret sitesinin envanterinin %50’den fazlası 6 aydan kısa bir süre içinde değişebilmekte ve
+ortalama bir ürünün satışta kaldığı süreler de 3 ayın altında inebilmektedir. Bu durumlarda hedef tahminleme ve envanter optimizasyonu
+yapabilmek için ürünlerin muadillik ve benzerlik analizleri önem kazanmaktadır. Son olarak, araştırmaların gösterdiği üzere tekrarlı satın
+alma yapan müşteriler, daha önce satın aldıkları bir ürünün üst modeli ve üst fiyat segmentindeki benzerini almaya en yatkın
+kullanıcılardır. Burada düzenli olarak alışveriş yapan bir müşteriyi %25 daha yüksek fiyat grubundaki bir ürüne yönlendirebilmek ortalama
+alışveriş döngüsü 60 gün olduğu durumda bir yıl içinde gelir ihtimalini %50’nin üzerine taşıyabilmektedir. E-ticaret literatüründe upsell
+olarak geçen bu durumun yanında doğru teklifler ile o müşteriye yeni bir ek ürün de satabilmek (cross-sell) ortalama sepet tutarını yukarı
+çekecektir. Pandemi sonrası e-ticaretin artan rekabeti içinde firmaların karlılığı arttırabilmeleri için tekrarlı satın alma işlemlerini teşvik
+edebilmek ve burada ortalama sepet tutarlarını upsell veya cross-sell ile arttırabilmek projenin diğer ihtiyaçlarından biridir.
+Proje Proje kapsamında 4 ana faaliyet grubu oluşturuldu, bunlar şu şekildedir; 1. Literatür taraması a. Tekrarlı ürün önerileri algoritmalarının
+Kapsamında incelenmesi b. Stok optimizasyonu algoritmalarının incelenmesi 2. Tekrarlı ürün öneri modeli ve analiz sistemi a. Ürün ve davranış veri
+Yapılacak modelinin belirlenmesi b. Veri toplama altyapısının hazırlanması c. Frekans analizi ve satın alma tahmin sistemi d. Up-sell ve cross-sell öneri
+Faaliyetler sistemi 3. Stok optimizasyonu a. Trend analizi b. Mevsimsellik (seasonality) ve gürültü azaltma/uç değer temizleme (noise
+cancellation/outlier elimination) c. Muadil ve ürün benzerliği analizi (alternative products and product similarity) d. Stok tahminleme e.
+Uyarı sistemi 4. Yazılım Geliştirme a. Veri toplama altyapısı yazılım geliştirmeleri b. Tekrarlı ürün öneri sistemi geliştirmeleri c. Stok
+optimizasyon geliştirmeleri d. Raporlama arayüz geliştirmeleri e. Yazılım testleri f. Sistemin canlıya alınması
+Projenin E-ticaret alanında tekrarlı satın alma analistler ve piyasa uzmanları tarafından önemi vurgulanmak ile birlikte bu alandaki çalışmalar sadece
+Yenilikçi firmaların uygulaması gereken yönergeler (guidelines) seviyesinde kalmaktadır. Bu alanda yapılmış bir yöntem analizi ve ürünleşmiş bir
+Yönü ve Ar- yazılım sistemi bulunmamaktadır. Projedeki ilk amacımız piyasa uzmanlarının tanımladığı yönergelerin (best practice) doğruluğunu test
+Ge Niteliği etmek ve bunları her bir firmanın kolayca uygulayabileceği bir yazılım çözümüne dönüştürmektir. Detayları ve matematiksel modeli
+netleştirilmemiş ve adım adım uygulanabilecek bir yönteme dönüştürülmemiş bir alanı projemiz ile detaylı bir şekilde tanımlamak
+istiyoruz. Bu yönüyle projemiz iş isterleri (business requirements) seviyesinde best practice olarak verilen bir süreci matematiksel ve teknik
+yönden tanımlayarak (technical requirements / defined methodology and algorithm) yeni bir uygulama olarak değerlendirilmelidir.
+Projenin içinde birden farklı alanda geliştirme ve metodolojinin araştırılıp netleştirilmesine ihtiyaç bulunmaktadır. Bunlar arasında tekrarlı
+satın alma analizinin farklı yöntemleri ile çalıştırılıp optimize edilmesi, stok optimizasyonu ve upsell/cross-sell öneri kısımları
+bulunmaktadır. Tekrarlı satın alma analizinde kullanılacak trend analizi için “Random Forest”, “Decisiton Tree” “Support Vector” ve
+“Logistic Regression” uygulanması ve en uygun yöntem bulunduktan sonra bunun hiper-parametrelerine göre optimize edilmesi
+planlanmaktadır. Bu da var olan bir algoritmanın yeni bir alan ve veri kümesi üzerine uygulanıp optimize edilmesinden dolayı bir yöntem
+iyileştirme olarak ele alınmalıdır. Stok optimizasyonu alanında satış tahminlemesi (demand prediction) ve ürünlerin tedarik süreleri dikkate
+alınacaktır. Burada stok adetinin yani stok bulundurma maliyetini minimize ederken satış kaçırmayacak şekilde gelirin maximize edilmesi
+gerekmektedir. Bu amaçla bir zaman serisi (time series) analizi geliştirilecek olup ARIMA ve onun sezonsallık içeren versiyonu olan SARIMA
+uygulanması planlanmaktadır. Son olarak upsell ve cross-sell alanları için firmamızın daha önce geliştirmiş olduğu öneri sistemi baz
+alınacak ama tekrarlı satın almanın gerektirdiği şekilde yeniden düzenlenecektir. Bu düzenleme ile firmamızın var olan bir algoritma ve
+sistemine yeni bir ek kabiliyet kazandırılmış olacaktır.
+Projenin Proje sonucunda e-ticaret firmalarının ürün kataloğu ve satış verilerine bağlanıp, bunları analiz edecek ve sonucunda her bir müşteri için
+Beklenen tekrarlı satın alma raporu ve tahminleri üretecek, bu tahminleri kampanyalarda kullanabilmek için dışarıya yazılım servisleri (API) sunacak
+Çıktıları ve bir yazılım çözümü ortaya çıkacaktır. Bu yazılım çözümü firmamızın diğer hizmetleri gibi bulut yazılım (cloud solution) olarak
+Faydaları konumlanacak ve SaaS modeli ile piyasaya sürülmesi hedeflenmektedir. Proje sonucunda ortaya çıkacak yazılım çözümünün iki önemli
+çıktısı/faydası olacaktır: 1. Müşterilerin tekrarlı alışverişlerinin belirlenmesinin ardından doğru zamanda doğru öneriler ile müşterilere özel
+alışveriş deneyimi yaşatmak ve müşteri sadakatini yükseltmek. 2. Sanal mağaza envanter ve stok yönetiminde optimizasyon sağlayabilecek
+değerli verileri oluşturmak E-ticaret yöneticileri müşteri sadakatini artırmak ve sadık müşteri sayısını en üst seviyede tutabilmek için hem
+zaman hem de efor harcamaktadırlar. Proje sonucunda ortaya çıkan tekrarlı ürün frekansları ile e-ticaret yöneticileri hem müşterilerinin
+sadakatini yükseltecek hem de sanal mağaza envanter ve stok yönetiminde belirli optimizasyonlar elde etmiş olacaklar. Bunun yanında
+firmamızın diğer ürün ve hizmetleri ile de farklı kampanya kurguları uygulayarak müşterilerin memnuniyetini arttıracaktır. Hedeflerimiz
+tekrarlı satın alma analizi ile birlikte kişilerin bir sonraki satın alma davranışını %80 doğrulukla +- 15 gün ve +-%20 fiyat aralığı ile tahmin
+edebilmektir.
+Sayfa 37 / 66
+Proje Kodu SGM-PER-015
+Proje Adı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi Tanımlama Sistemi
+Proje 1.4.2022
+Başlama
+Tarihi
+Proje Bitiş 31.1.2024
+Tarihi
+Projede 16
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 120,00
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 8.104.367,00
+Proje
+Bütçesi (TL)
+Öz 8.104.367,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet
+Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 38 / 66
+Proje Pazarlama alanında reklamların gösterildiği müşteri gruplarının belirlenmesi ve bu gruplar için efektif reklam kampanyaların sunulması e-
+Konusunu ticaret alanında bütçenin doğru ve verimli şekilde kullanılıp bundan en büyük faydayı görerek rekabet avantajı yaratabilmek için zaruridir
+Belirleyen ve e-ticaretin büyümesi ile birlikte her geçen gün önemini artırmaktadır. Bu gereksinimler firmamızın hedef müşterisi olan sanal
+İhtiyaçlar perakendecilerin reklam kanallarına davranış tabanlı müşteri gruplarının beslenmesi ve reklam faaliyetleri için daha efektif bir sistem
+oluşturmaya yönlendirmiştir. Hedef gruplarının çıkarılması ve farklı reklam platformlarına aynı anda beslenebilmesi müşterilerimizin teknik
+yetkinliklerini aşmakta ve süreçleri uzatmaktadır. Bu ihtiyaçlar ve fırsatlar ışığında projenin başlatılmasına karar verilmiştir. Reklam
+bütçeleri pandemi sonrasında artan rekabet ile firmaların müşteri edinim maliyetleri içindeki payları %50 - %60’lara ulaşmıştır. Bu kanallar
+üzerinden harcanan reklam bütçesi üzerinden beklenen dönüşüm oranlarında müşteri edinimi sağlayabilmek sanal mağazaların karlılık,
+hatta hayatta kalmaları için önem taşımaktadır. Hedef müşteri kitlesinin belirlenmesi ve bu kitlenin kişiselleştirilmiş davranışlarının reklam
+platformlarına aktarılması ve bu şekilde reklam gösterilmesi büyük önem kazanmıştır. Yapılan araştırmalarda müşterilerin %71’i
+kişiselleştirilmiş ve davranış geçmişine göre özelleştirilmiş reklamları tercih ettiğini bildiriyor. Firmamızın diğer ürün ve servisleri ile
+müşterilerin eğilimleri ve davranışları belirlenip bu müşterilere daha fazla kişiselleştirilmiş reklamların gösterilmesi hem sanal mağaza
+gelirlerini artıracak hem reklam bütçelerini daha efektif kullanmalarına yardımcı olacak hem de son kullanıcıların daha alakalı
+içerikler/reklamlar görmelerini sağlayacaktır. Dijital reklam platformları aynı zamanda sosyal medya veya içerik platformları da oldukları
+için o platformların kişi verileri ve modelleri güçlü seviyede bulunmaktadır ve bu alanda tekelleşmişlerdir. Fakat bu platformların kişiler
+hakkındaki güçlü kişi modelleri temel olarak demografik veriler ve genel beğeniler üzerine oturmaktadır. Bunun üzerine sanal mağaza
+üzerinde yapılan davranışlar, ve son 6 ay içinde yaptığı davranışlar üzerinden kurulacak davranış tabanlı segmentleri eklediğimizde daha
+granüle ve daha başarılı hedefleme imkanı doğacaktır. Bu ikinin bir araya getirilmesinde dijital platformların benzer hedef kitle (look a like)
+özelliği kullanılacaktır. Sanal mağaza üzerinde bulunan başarılı segmentler önemli müşterileri etiketlemektedir (label), bu kitle dijital
+reklam alanında kullanılmak için hem küçük hem de sadece sanal mağazanın var olan müşteri kitlesi ile sınırlı kalmaktadır. Burada devreye
+giren look-a-like kitle özelliğinde dijital reklam platformuna sanal mağaza üzerindeki bu kitleyi, kuralları ve metrikleri ile aktarıldığında ona
+benzer ama reklam platformunun hedefleyebildiği milyarlarca farklı insan kitlesi arasından kişileri analizi edip hedefleyebilecektir. Bu
+sayede hedefleme için e-ticaret yöneticilerinin manuel kurallar girerek doğru kitleyi bulmaya çalışmasına gerek kalmadan bir otomasyon ile
+verim arttırılacaktır.
+Proje Proje kapsamında 5 ana faaliyet grubunda oluşacaktır, bunlar şu şekilde olacaktır: 1. Reklam platformlarının veri modelleri ve teknik analizi
+Kapsamında a. Reklam platformları kullanıcı veri modelleri analizi ve ortak bir modele dönüştürülmesi b. Reklam ve hedef kitle tanımlama modelleri
+Yapılacak analizi c. Yeni sistem ve reklam platformları veri modelinin nihai hale getirilmesi 2. Reklam platformlarının entegrasyonu a. Reklam
+Faaliyetler platformlarına veri aktarımı altyapısı (proje -> reklam platformları) b. Reklam platformlarından veri toplama altyapısı (reklam platformları -
+> proje) c. Reklam metrikleri raporlaması ve analitiği 3. Reklam hedef kitlesi müşteri segmentasyonu a. Mikro segment gruplarının
+belirlenmesi b. Segmentasyon sisteminin eğitim kümeleri ile eğitimi c. Segmentasyon sistemi geliştirmeleri ve optimizasyonu d.
+Segmentlerin reklam platformlarına aktarılması 4. Hedef kitle ve reklam yönetimi a. Benzer hedef kitle (look-a-like) analizi b. Reklam
+hedefleme kurgularının (audience) kurulması c. Hedefli reklam kişiselleştirilmesi (personalisation & recommendation) d. Reklam
+başarımlarının alınıp segmentasyona geril beslenmesi 5. Sistem testleri ve canlıya çıkış a. Yazılım birim testleri b. Yazılım sistem testleri c.
+Pilot çalışma d. Sistemin canlıya alınması
+Projenin Dijital reklam optimizasyonu ve hedefleme üzerinde yoğun çalışılan bir alan olmakla birlikte bu analizin başka alanlardan gelen veriler ile
+Yenilikçi birleştirilip zenginleştirilmesi üzerine kısıtlı miktarda çalışma bulunmaktadır ve bunun e-ticaret alanında otomasyon haline getirmiş komple
+Yönü ve Ar- bir çözüm bulunmamaktadır. Projemizde amacımız firmamızın uzman olduğu müşteri segmentasyonu ve öneri sistemi kabiliyet ve
+Ge Niteliği uzmanlığını kullanarak bu zenginleştirmeyi sunabilmek ve dijital reklam verimliliğinde iyileştirmeler sunabilmektir. Var olan yöntemler ve
+çözümler kişi seviyesine (1-to-1) inememekte ve bu işlemi çok daha büyük makro-segmentler ile yapmaktadırlar. Burada gördüğümüz fırsat
+ile başlattığımız projemizde kişi seviyesinde analiz ve kişiselleştirmeye odaklanarak fark yaratmayı hedefliyoruz. E-ticaret alanında bu
+kavramı projemiz ile ispat edebilirsek, bundan sonra benzer uygulamaları medya, içerik, bankacılık, finans ve oyun gibi farklı sektör grupları
+içine de uygulayabilmek mümkün olacak ve yeni projelerin oluşmasına imkan sağlayacaktır. Reklam hedef kitlelerinin otomatik çıkarımı
+için kümeleme tabanlı segmentasyon uygulamayı düşünmekteyiz. Burada temel alacağımız kümeleme algoritması k-means clustering
+olacaktır ve bunun üzerine gerekli düzenlemeleri ve optimizasyonları yapacağız. Bunlar arasında iki önemli noktada inovasyon ve yöntem
+optimizasyonu öne çıkmaktadır: 1) küme/segment sayıları (k-means algoritmasındaki k değerinin belirlenişi ve hedef değerler için
+optimizasyonu) 2) kümelerin ayrışacağı kesim noktaları (cut-off points). Bu iki madde kümeleme işleminin kalitesini belirleyecek ve proje
+kapsamında yapılacak inovasyonların önemli bir kısmı bu iki alana odaklanacaktır. Farklı e-ticaret sektörleri (elektronik, moda ve giyim,
+mobilya, pazaryerleri, vb.) için reklam kurguları ve müşteri davranışları arasında değişiklik olacaktır. Kullanacağımız kümeleme yönteminin
+bu farklılıklara göre düzenlenmesi yani context-aware olması gerekmektedir. Bunu sağlayabilmek için müşteri davranışları ve aynı zamanda
+dijital platformlardan alınacak ek verilerin zenginleştirilip yeni boyutların eklenmesi ve hesaplanması sağlanacaktır. Bu konu ile de
+literatüre farklı e-ticaret dikeylerinde kullanılabilecek boyutların tanımlanması, zenginleştirilmesi ve boyut birleştirme ile yeni boyutların
+hesaplanması alanında katkıda bulunacağız. Benzer hedef kitle (look-a-like audience) yaratımını tam bir otomasyona sokmak da projenin
+getireceği inovasyonlardan biri olacaktır. Bu işlem iyi bir veri analizi ekibi gerektirmekle birlikte pek çok e-ticaret firmasının sahip olmadığı
+bir uzmanlıktır. Bu işlemi proje kapsamında otomasyon haline getirerek hem daha fazla firmanın erişebileceği duruma getireceğiz hem de
+bu işlemi standart bir hale getirerek bir süreç iyileştirme yapacağız. Son olarak uygulanan dijital reklam sonuçlarının geri toplanıp
+segmentasyona geri beslenmesi ile zaman içinde kendi başarımını yukarı çekerek sürekli öğrenen bir sistem yaratmak istiyoruz. Buradaki
+amacımız hızla değişen piyasa koşulları, rekabet ve müşteri yönelimleri ile sürekli manuel modifikasyona ve iyileştirmeye ihtiyaç duymadan
+bunu kendi kendine yapabilen bir sistem ortaya çıkarabilmektir. Burada takviyeli öğrenme (reinforcement learning) kullanacağız.
+Projenin Projenin beklenen çıktısı firmamızın hem proje kapsamında belirlenen reklam platformları hem de gelecekte yeni eklenecek olan reklam
+Beklenen platformları ile kolayca ve hızlı bir şekilde entegre olmasını sağlayabilecek altyapının oluşturulması kabiliyetini sağlayacaktır. Bu altyapının
+Çıktıları ve sağlanması ile birlikte firmamızın diğer ürün ve kabiliyetleri ile müşterilerimizin reklam giderlerini azaltmak ve hedef kitleleri hızlıca
+Faydaları oluşturup tek bir platform altından yönetmelerine olanak sağlayacağız. Müşterilerimiz ile yaptığımız çalışmalar sonucunda reklamlar için
+doğru hedef kitlenin oluşturulması ve bu kitleye doğru reklamın gösterilmesi zaman ve efor yönünde ekstra yükler getirmektedir.
+Firmamızın diğer ürün ve hizmetleri ile (segmentasyon ürünü gibi) müşteriler hızlı bir şekilde ilgili reklamlar için tek bir platform altından
+hem hedef kitlesini oluşturacak hem de bu kitleyi yine aynı platform altından reklam platformlarına besliyor olacak. Burada müşterilerimiz
+için hem zaman kazanımı hem de reklam bütçelerinde iyileştirme söz konusu olacaktır. Reklamların doğru kitleye ve hızlı bir şekilde
+sunulması ve bu işlemlerin raporlanabiliyor olması sunmayı hedeflediğimiz faydalardandır. Proje kapsamında hedeflere ulaşılabilirse proje
+çıktılarından firmamızın sunduğu diğer hizmetlerin verimini arttırmada rol alacaktır.
+Sayfa 39 / 66
+Proje Kodu SGM-PER-017
+Proje Adı Global E-Ticaret Platformları için Kişiselleştirme Uygulamaları - Segmentify Personalisation Apps for Platforms
+Proje 1.10.2022
+Başlama
+Tarihi
+Proje Bitiş 31.1.2024
+Tarihi
+Projede 14
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 125,00
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 7.004.812,65
+Proje
+Bütçesi (TL)
+Öz 7.004.812,65
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet
+Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Şirketimizin yeni pazarlara açılması ve globalleşmesi için projemiz önemi bir yer tutmaktadır. Farklı ülkelerden farklı dinamikleri olan
+Konusunu müşteri gruplarına verimli şekilde ulaşmamızın yolu bu müşteri grupları tarafından ortak olarak kullanılan platformlar ile geliştirdiğimiz
+Belirleyen yazılımları uyumlu çalışacak hale getirmektir. E-ticaret alanında dünyada giderek popülerleşen headless commerce kavramına uygun olarak
+İhtiyaçlar e-ticaret firmaları online alanda çok farklı kanallar üzerinden satış yapabilmektedirler (bunlardan bazıları firmanın kendi web sitesi, mobil
+uygulamaları, pazaryeri uygulamaları, sosyal medya ağları içindeki mini mağazalar, vb.) Bu farklı kanalların hepsine firmamızın sunduğu
+yapay zeka hizmetlerini ulaştırmak için e-ticaret platformları ile detaylı ve güçlü entegrasyonlar gerekmektedir. Bu entegrasyonlar içinde
+hem ülkemizde hem de dünyada kısıtlı miktarda sunulabilen tekil bir müşterinin bütün kanallar üzerinde tekilleştirilmesi ve ona sunulan
+kişiselleştirilmiş alışveriş deneyiminin gerçek zamanlı devamlılığının sağlanabilmesi önem taşımaktadır. Bu projenin bir diğer amacı da proje
+kapsamında verilen platformlar için bu tekilleştirme ve öneri sistemlerinin bütünleştirilmesini (omni-channel personalization) sağlamaktır.
+Sayfa 40 / 66
+Proje Seçilen platformlar için analizler uygulanacak ve her bir platform için geliştirilecek ara-katman çözümünün sunacağı kabiliyet setleri
+Kapsamında analistlerimiz tarafından ortaya konulacaktır. Şirket dışından alınan danışmanlık hizmeti ile analiz son haline getirilecek ve yazılım
+Yapılacak geliştirme ekibi için teknik gereksinimlere dönüştürülecektir. Daha sonra yazılım geliştirme ekibi çıkarılan kabiliyetlere uygun şekilde
+Faaliyetler yazılımı geliştirecek ve her bir platformun kendi pazarlama alanında sunulması için satış ve pazarlama ekiplerine aktarılacaktır. Proje 3 ana
+faaliyet grubunda oluşturulacaktır, bunlar şu şekilde olacaktır: 1. Platform analizi a. Belirlenen platformlar için teknik analiz b. Belirlenen
+platformlar için veri modeli analizi 2. Platform entegrasyon altyapısının belirlenmesi a. Veri modellerinin ve interfacelerin belirlenmesi b.
+Ortak veri modeli üzerinden interfacelerin tanımlanması ve public olarak sunulması ve dökümantasyonları c. Ortak yazılım
+kütüphanelerinin belirlenmesi d. Platform özel entegrasyonların ve translator katmanlarının belirlenmesi 3. Platform entegrasyon sistemi a.
+Ortak yazılım kütüphanelerinin geliştirilmesi b. Platform özel entegrasyonlarının geliştirilmesi c. Yazılım testleri (sistem ve entegrasyon
+testleri) d. Sistemin canlıya alınması
+Projenin Pandemi sürecinin daha da hızlandırdığı bir şekilde e-ticaret alanında çok büyük değişiklikler yaşanmaktadır. Bu değişim süreçleri bizim gibi
+Yenilikçi bu sektöre yazılım çözülümleri sunan firmaları daha da fazla entegrasyon yapmaya ve bu entegrasyonları daha da derinleştirmeye
+Yönü ve Ar- itmektedir. Stok ve envanter yönetimi (ERP), müşteri ilişkileri yönetimi (CRM), e-ticaret kanalları yönetimi (retail platform) gibi oturmuş
+Ge Niteliği alanlarda bile pek çok değişiklik olmakta, popüler olan ve yaygın kullanılan çözümler bile son dönemde önemli değişikliklere gitmekte ve
+bu alanlarda yeni çözümler ortaya çıkmaktadır. Bu yüksek hızdaki ve giderek artan değişim, firmamızı da bu alanda daha esnek olmaya ve
+entegre edilebilirliğimizi arttırmaya itmiştir. Bu amaçla yeni çözümler ile entegrasyon amacı ile başlayan projemiz içine genel bir
+entegrasyon modeli ve bu süreci basitleştirilmesi ve optimizasyonunu da ekledik. Amacımız gelecekte olabilecek projeler için bir altyapı
+sağlamak ve bu projelerin geliştirilme ve canlıya çıkarılma zamanlarını azaltabilmektir. Bu amaçla proje kapsamında bütün veri modelleri
+incelenecek, ve diğer platformların uzmanları ile birlikte bir ortak veri yapısı ortaya çıkarılacaktır. Bu yöntemi başarı ile uygulayabilmek için
+pilot çalışmalar yapılacak ve veri modellerinin açık standartlar (open data standards) ile uyumluluğuna önem verilecektir. Bundan sonra her
+bir platform ve veri modeli için uyumluluk katmanları (translator) hazırlanacak ve bu veri modellerinin gelecek uyumluluğunu garanti altına
+alabilmek için arayüzler (interface) tanımlanacaktır. Bu arayüzler aynı zamanda data entegratör servisleri (Segment, Zapier, vb.) üzerinden
+public olarak duyurularak sadece firmamızın değil başka kurum veya kişilerin de bu arayüzlere katkı yapabilmelerine olanak verilecektir. Bu
+aşamada bir tane örnek implementasyon da GitHub üzerinden public repo olarak sunulacaktır. Firmamız içindeki bilgi birikimi eksikliğini
+harici danışmanlık hizmetleri alarak kapatmayı hedefliyoruz. Bunun yanında her bir platformun teknik ekipleri ile entegre bir çalışma planı
+çıkarılmış ve sadece entegrasyonu sağlayan bir ara katman sağlamak yerine o platform ile firmamızın sunduğu hizmetleri hibritleyerek
+bütünleşik ve komple çözümler sunmak projenin yenilikçi yönüdür. Platformlar ile yapılacak derinlemesine entegrasyonlar ile bu
+platformların kendilerinin ve yurtiçi/yurtdışı rakiplerimizin sunamadığı şekilde verimli ve derinlemesine çözümler üretilecektir. Bu
+bakımdan projemiz alanında yenilikçi bir proje olarak öne çıkmaktadır. Her platformun kendi uzmanından alınacak danışmanlık ile
+firmamızın bu konudaki bilgi birikimi geliştirilecek ve yeni yeteneklerin firmamıza kazandırılması sağlanacaktır. Bunun yanında koordineli
+çalışma sonucunda başka firmaların veya hizmetlerin erişemediği yeni API’ler firmamıza sunulacak ve ekibimizin başka yazılım ve servis
+çözümleri ile entegrasyon ve ürün geliştirme kabiliyeti gelişecektir. Seçilen platformların farklı yazılım yöntemleri ile API’ler sunması
+sonucunda firmamızın ARGE ekibinin GraphQL ve benzeri farklı yöntemler ile olan bilgi birikimi de gelişecektir. Benzer şekilde her
+platformun kullandığı programlama dilleri, veri modelleri ve veri sorgulama yöntemleri farklılık göstermektedir. Bunların hepsini tek bir
+potada eritebilecek şekilde ucu açık bir mimari kurmak da hem projeye önemli bir teknik zorluk eklemekte hem de proje ekibinin bu
+alandaki yetkinliklerini geliştirebilme imkanı sağlamaktadır.
+Projenin Projenin beklenen çıktısı firmamızın hem proje kapsamında belirlenen platformlar hem de gelecekte bu listeye eklenebilecek yeni
+Beklenen platformlar ile kolayca ve verimli bir şekilde entegre olmasını sağlayabilecek bir veri modeli, veri sorgulama altyapısı ve sunulan hizmetlerin
+Çıktıları ve uçtan uca bağlanabilme kabiliyeti ortaya konulacaktır. Bu sebeple projenin çıktısı gelecekte kullanılabilecek ortak bir entegrasyon model ve
+Faydaları şablonu (blueprint) ile başlamakta ve seçilen 4 platform için bu modelin başarılı implementasyonları ile devam etmektedir. Bu entegrasyon
+şablonu firmamızın sunduğu hizmetlerin hem şu an seçilen platformlar hem de gelecekte eklenebilecek platformlar ile kapsamlı
+entegrasyon sürecinin basitleştirecek ve verimini arttıracaktır. Hem firmamızda hem de piyasadaki diğer firmalarda böyle bir entegrasyon 6
+ay civarında bir projelendirme ve ciddi adam aylar süren iş gücü gerektirmektedir. Bunun yanında bu projelerin başarı oranları da zorlukla
+%50’lere ulaşabilmektedir. Projemiz ile biz bu süreyi 1 aya ve başarı oranını %90’lara çıkarmayı hedeflemekteyiz. Bu proje firmamızın SaaS
+modeli ile sunduğu 10 farklı yazılım hizmetinin daha verimli ve başarılı şekilde entegre edilebilmesini, kullanılabilmesini ve satılabilmesini
+sağlayacaktır. Bu sebeple proje çıktısı kendi başına direk satılabilecek bir ürüne dönmeyecektir ama firmamızın sunduğu hizmetlerin satış
+miktarını ve ticari başarımlarını arttıracaktır, yani o ürünler için ciddi bir iyileştirilme olacaktır. Bunun yanında rekabet üstünlüğü de
+sağlayarak seçilen platformları kullanan sanal mağaza tipindeki potansiyel müşterilerimize ulaşım noktasında yurtiçi ve yurtdışı
+rakiplerimize oranla ciddi üstünlük ve avantaj yaratacaktır.
+Sayfa 41 / 66
+Proje Kodu SGM-PER-019
+Proje Adı E-Ticaret Kullanıcıları Otomatik Segmentasyonu (ETİKOS)
+Proje 31.12.2022
+Başlama
+Tarihi
+Proje Bitiş 31.8.2024
+Tarihi
+Projede 8
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 125,00
+(Adam Ay)
+Ulusal 3.1.1. 1501 Sanayi Ar-Ge Projeleri Destekleme Programı
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 12.716.792,64
+Proje
+Bütçesi (TL)
+Öz 10.461.563,77
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 2.255.228,87
+Tutarı (TL)
+Hizmet
+Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Şirketimizin vizyonu dünyadaki en iyi kişiselleştirme motorları arasında olabilmek, ve e-ticaret müşterilerimize halihazırda sağladığımızdan
+Konusunu daha da yüksek katkı sağlayabilmektir. Bunun için son kullanıcılardan toplanan verilerin niteliğini ve büyüklüğünü artırarak daha akıllı
+Belirleyen algoritmalar kullanıp, son katkı olarak daha keskin önerilerde bulunmayı amaçlıyoruz. Bu amaç için Müşteri Segmentasyonu büyük önem
+İhtiyaçlar taşımaktadır. Proje ile bu alandaki yetkinliklerimizi ileri bir noktaya taşımayı ve yapılacak ARGE ile uluslararası pazarda fark yaratacak bir
+çözüme dönüştürmeyi amaçlıyoruz. Bu sayede firmamızın güçlü olduğu sanal mağaza deneyimi alanının yanına diğer pazarlama
+kanallarında da yenilikçi ve fark yaratan bir çözüm ekleyebileceğiz.
+Sayfa 42 / 66
+Proje Bilindiği üzere, çözümümüz önce ham müşteri verisinden, alan bilgisin ve istatistiksel en iyi pratikler kullanılarak verinin temizlenmesi,
+Kapsamında özelliklerin üretilmesi ve temel önişlemlerin yapılması gerçekleştirilecektir. Bunun ardından ise veriye uygulanacak önişleme, hangi
+Yapılacak kümeleme modelinin uygulanacağı ve bunun hiper parametreleri, bir Bayesçi optimizasyon döngüsü içerisinde, kümelerin birbirinden ne
+Faaliyetler kadar iyi ayrıldığını belirten bir geçerlik kriteri kullanılarak seçilecektir. Seçilecek kümelemenin gerçekleşmesinin ardından, kümelerin bu
+analizden faydalanacak kullanıcı tarafından anlaşılabilir olması için kümelere atanan örnekleri kapsayan kuralları mümkün olduğu kadar
+basitleştirme amacıyla kapsayan kural kümesini en küçükleyen sütun üretme algoritmasına dayalı bir optimizasyon yapılacaktır. Bunu ise,
+geçmiş kampanya bilgileri kullanılarak her bir küme için ideal kampanya seçimlerinin yapılmasını sağlayan modül takip edecektir. Analitik
+aşamaların mimarisi, makine öğrenme sistemlerinin tasarımında sıklıkla kullanılan Python dilinde gerçeklenecektir. Öngörülen tüm
+aşamaların sağlıklı olarak birbirini takip edebilmesi için, alanda sıklıkla kullanılan bir veri akış yönetimi çerçevesi kullanılacaktır. Burada
+tercih edilen, alandaki en güvenilir çerçevelerden biri olan Airflow çerçevesi olacaktır. Airflow çerçevesi hem farklı analitik görevlerin
+birbiriyle uyumlu şekilde gerçekleşmesini sağlarken, hem de ileri düzey zamanlama ve kaynak yönetme kapasitesine de sahiptir.
+Modüllerin kendisinde ise kullanılacak yöntemler, Python veri işleme ve bilimsel hesaplama dünyasından paketler olacaktır. Veri
+hareketleri için dask, pandas ve veri tabanı arayüzü sağlayan paketler kullanılacaktır. Temel veri işleme operasyonları için numpy, scipy,
+pandas gibi paketler kullanılacak, bu işlemlerin hızlandırılması gerektiğinde ise numba gibi derleme hızlandırma paketleri veya cython gibi
+C arayüzleri kullanılabilecektir. Kümeleme algoritmaları için ise scikit-learn, statstools ve PyMC3 gibi hesaplama kütüphaneleri kullanılacak,
+bu kütüphaneler gerektikçe PyTorch gibi derin öğrenme ve özgün algoritma kütüphanelerince desteklenecektir. Doğrusal programlama için
+öncelikle COIN-OR Linear Programming (CLP), GNU Linear Programming Kit (GLPK), lp_solve, MINOS gibi açık kaynaklı yazılımlar
+kullanılacak, gerekli performans yakalanamazsa, Cplex ve Gurobi gibi ticari yazılımlar denenecektir. Sütun üretme ana algoritması Python
+dili üzerinde geliştirilecektir. Hem doğrusal programlama hem karar ağacı üretmek için ilgili yazılımların Python kütüphaneleri
+kullanılacaktır.
+Projenin Alanyazındaki değerlendirmelerin de gösterdiği üzere, AutoML yöntemleri son zamanlardaki artan kullanımına rağmen, gözetimsiz
+Yenilikçi öğrenme alanında epey yetersiz bir noktadadır. Bu bağlamda var olan birçok platform gözetimli öğrenme problemlerine yöneliktir
+Yönü ve Ar- (regresyon, sınıflandırma). Son birkaç yılda üç adet dikkate değer AutoML bazlı kümeleme çerçevesi teklif edilmiştir. Aşağıda teklif edilen
+Ge Niteliği yöntemin bu yöntemlerle farkları ayrıntılı olarak ortaya konmaktadır. Mevcut yöntem, otomatik özellik üretimi ve özellik temizlemesi
+önermesi açısından, özellik ön işlemesi / seçimini hiper parametre optimizasyonunun bir aşaması yapmış olması açısından, kümelerin
+anlamlı bir şekilde yorumlanabilmesini sağlayacak bir son işleme süreci öngörmesi açısından ve segmentler üzerinden alınacak aksiyonlara
+dair teklif üretmesi açısından bu yöntemlerden ayrışmaktadır: 1)Var olan sistemler mevcut görev için yeterli bir otomatik özellik işleme
+süreci barındırmamaktadır Yukarıda tarif edildiği üzere, mevcut proje için özellik ön işlemesi kritik önem taşımakta ve kümeleme
+algoritmalarının çalışmaları için temel bir şekilde belirleyici olduklarından, model/hiper parametre ile beraber optimize ediliyor olmaları
+kritik önem taşımaktadır. Mevcut proje ise bu kısıtları kaldırmayı tasarlamaktadır. 2)Var olan sistemler dışsal, referans kümeler üzerinden
+meta-öğrenme gereksinimi ortaya çıkarabilmektedir Var olan sistemleri sınırlayan niteliklerden biri de, bazılarının başka referans kümeler
+üzerinden meta-öğrenme yoluyla öğrenme transferine ihtiyaç duymasıdır. Her ne kadar bu bazı alanlar için faydalı ve kullanışlı olabilse de,
+e-ticaret gibi, veri kümelerinin çok farklı nitelikler taşıyabildiği ve tüm verilerin sahipleri tarafından ticari bir değer olarak korunduğu bir
+alanda, tamamen engelleyici bir nitelik taşımaktadır. Projemiz, bu kısıtları taşımamakta ve özgün bir şekilde çalışabilmektedir. 3)Var olan
+sistemler ortaya çıkan segmentlerin yorumlanabilirliğini sağlayan bir işlev taşımamaktadır Otomatik kümeleme sistemleri olsalar da,
+müşteri segmentasyonuna özgü çalışmalar değillerdir. Bu sebeple, yorumlanabilirliğe dair herhangi bir işlev içermemektedirler. Projemiz,
+bu gibi analitik çalışmaların pazarlama alanında nasıl kullanılacağını gözeterek, sistemin potansiyel kullanıcıları açısından çok önemli olacak
+bu çıkarımları sağlamayı hedeflemektedir. Böylece sistem hem kümeleri yaratırken aynı zamanda kullanıcısının müşteri profili ve alt
+kümeleri hakkında bilgisinin artmasını ve buna dayanarak pazarlama çalışmaları yapabilmesini sağlayacaktır. 4)Var olan sistemler ortaya
+çıkan segmentlere dair alınabilecek aksiyonlar konusunda bir öngörüde bulunmamaktadır. Birçok e-ticaret şirketi, halihazırda müşterileriyle
+etkileşmekte ve onlara düzenlediği kampanyaların sonuçlarını veri havuzlarında barındırmaktadır. Bu ise kullanılmayı bekleyen çok değerli
+bir veri niteliği taşımaktadır. Mevcut otomatik kümeleme sistemleri, böyle bir analize dair herhangi bir işlev içermemektedir.
+Projenin E-ticaret alanında, son kullanıcıların iyi tanınıp, onlarla doğru amaç ve yöntemlerle iletişime geçilmesi modern pazarlamanın en önemli
+Beklenen işlevi olmuştur. Bu bağlamda müşteri segmentasyonu her zamankinden daha önemli hale gelmiştir. Ancak buna rağmen, artan veriyle
+Çıktıları ve beraber müşteri segmentasyonunun otomatik, sağlam ve esnek bir şekilde yapılabilmesine dair teknolojik gelişmeler henüz başlangıç
+Faydaları aşamasındadır. Makine öğrenmesini otomatikleştirerek, ölçeklenebilirliğini artırma konusunda büyük potansiyel vadeden otomatik yapay
+öğrenme (AutoML) yaklaşımları, segmentasyon veya kümeleme algoritmaları konusunda neredeyse hiçbir kullanıma uygun, erişilebilir bir
+alternatif üretmemiştir. Bu durumda bu proje, hem iş uygulamaları açısından karlı bir uygulamaya sebep olurken, hem de teknolojinin
+kendisinin de pazarlanabilmesini mümkün kılmaktadır. Proje çıktısı kişiselleştirme ve kampanya motorlarına konarak ticarileştirilecek,
+firmamızın kişiselleştirme alanında rekabet gücünü artıracaktır.. Başarı ölçütleri: Sistemin eldeki veride k-means, DBSCAN ve spektral
+kümeleme algoritmalarından daha iyi sonuç Vermesi : DB Indeksi >%10 iyileşme Kümeleme işlemlerinin zaman olarak sınırlı bir tarama
+süreci sonunda gerçekleşebilmesi : <72 saat Her kampanya özelinde seçilen hedef metriğin istatistiksel olarak arttırılabilmesi: p < .05
+(İstatistiksel anlamlılık) Kümeleme Sonuçlarının Hedef Müşteri Kitlesi içinde yüksek kapsama oranına sahip çıkması : > %80 Kümeleme
+sonuçlarının kendi içindeki tekrarının düşük olması : iki kümenin kesişimi her zaman %50'den küçük
+Sayfa 43 / 66
+Proje Kodu SGM-PER-018
+Proje Adı Kampanya Kurgusu Tasarım Sistemi - Segmentify Campaign Manager
+Proje 1.1.2023
+Başlama
+Tarihi
+Proje Bitiş 31.12.2024
+Tarihi
+Projede 9
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 150,00
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 6.705.794,60
+Proje
+Bütçesi (TL)
+Öz 6.705.794,60
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet
+Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 44 / 66
+Proje Firmalar müşterilerine yoğun bir şekilde pazarlama faaliyetinde bulunmaktadır ama burada koordinasyon ve hedef eksikliğinden dolayı
+Konusunu hem müşterilerini rahatsız etmekte hem de istedikleri başarı oranlarına ulaşamamaktadır. Yapılan pek çok araştırma müşterilerin
+Belirleyen kendilerini doğrudan hedef alan kişiselleştirilmiş ve doğru zamanda yollanmış pazarlama mesajlarından rahatsız olmadıklarını ve bu yönde
+İhtiyaçlar iletişim kanallarını kullanan firmaları tercih ettiklerini göstermektedir. Projemizin konusunu belirleyen ihtiyaç yapılan pek çok araştırma ile
+de doğrulanmıştır. Burada firmaların ihtiyaçları pazarlama faaliyetlerinin başarımını arttırmak, müşterilerin ihtiyaçları ise pazarlama
+mesajlarını yüksek hacimde ve rahatsız edecek şekillerde değil doğru zamanda, kişiselleştirilmiş ve hedefli olarak almaktır. Bu ihtiyaçları
+kategorize etmek gerekirse aşağıdaki gibi verilebilir: 1. Kampanya Yönetimi İhtiyaçları • Kampanya Türleri: Farklı kampanya türlerini
+(indirim, sadakat programları, çapraz satış, yükseltme teklifleri, vb.) destekleme yeteneği. • Dinamik Kurallar: Kampanya kurallarını ve
+koşullarını dinamik olarak tanımlayabilme ve değiştirebilme yeteneği. • Geçerlilik Süreleri: Kampanyaların başlangıç ve bitiş tarihlerini
+belirleme yeteneği. 2. State Machine İhtiyaçları • Durum Tanımları: Kampanyaların çeşitli durumlarını (başlatıldı, devam ediyor,
+durduruldu, tamamlandı, vb.) tanımlama yeteneği. • Geçiş Kuralları: Kampanya durumları arasındaki geçiş kurallarını belirleme ve
+uygulama yeteneği. • Olay Tetikleme: Belirli olayların (satın alma işlemi, kullanıcı kaydı, belirli bir tarih, vb.) kampanya durumlarını
+tetikleme yeteneği. 3. Kullanıcı Segmentasyonu • Kullanıcı Profilleri: Kullanıcı davranışlarına ve demografik bilgilere dayalı olarak kullanıcı
+profilleri oluşturma. • Hedefleme Kriterleri: Belirli kullanıcı gruplarını hedeflemek için kriterler tanımlama (örneğin, son 30 günde alışveriş
+yapanlar, belirli ürünleri satın alanlar, vb.). 5. Otomasyon ve Zamanlama • Otomatik Tetikleyiciler: Belirli olaylara veya tarih/saat
+aralıklarına göre otomatik kampanya tetikleyicileri oluşturma. • Zamanlama: Kampanyaların belirli zaman aralıklarında otomatik olarak
+başlatılması ve durdurulması. 6. Kullanıcı Deneyimi ve Arayüz Tasarımı • Kullanıcı Dostu Arayüz: Kolay anlaşılır ve kullanımı kolay bir
+yönetim paneli. • Görsel Düzenleyici: Kampanya kurallarını ve durum makinelerini görsel olarak düzenleyebilme yeteneği. • Bildirimler:
+Kampanyaların durumu hakkında yöneticilere bildirim ve uyarı gönderme yeteneği. 7. Performans ve Ölçeklenebilirlik • Yüksek
+Performans: Yüksek trafikte bile performans düşüklüğü yaşamayacak şekilde optimize edilmiş sistem. • Ölçeklenebilirlik: Kullanıcı ve
+kampanya sayısındaki artışa uyum sağlayabilecek bir altyapı. 8. Güvenlik ve Uyum • Veri Güvenliği: Kullanıcı verilerini güvenli bir şekilde
+saklama ve işleme. • Yasal Uyum: GDPR, KvKK ve diğer veri koruma düzenlemelerine uyumluluk. 9. Geribildirim ve Optimizasyon •
+Geribildirim Mekanizmaları: Kullanıcılardan ve sistemden gelen geribildirimleri toplama ve değerlendirme yeteneği. • Optimizasyon:
+Kampanya performansını izleme ve sürekli iyileştirme için optimizasyon araçları.
+Proje Projede yapılacak faaliyetler aşağıdaki gibi listelenebilir: 1. Proje Kapsamının ve Teknik İhtiyaçların Belirlenmesi • Pazarlama faaliyetleri ve
+Kapsamında içeriklerinin çıkarılması • Pazarlama kanalları üzerinden mesajların iletileceği altyapının oluşturulması (e-posta ve push bildirimleri) •
+Yapılacak Müşteri bilgilerinin ve davranışlarının toplanması 2. Pazarlama Kurguları ve Yöntemleri • Müşterilere sunulacak pazarlama kurgularının
+Faaliyetler çıkarılması • Karışık kurguların çalışmasını sağlayacak state machine altyapısını geliştirilmesi • Müşterilerin pazarlama mesajlarına verdiği
+pozitif veya negatif geri bildirimlerin toplanması • Sonuçların raporlanması ve başarım analizleri 3. Makine Öğrenmesi Yardımı ile
+Otomasyon • Mesaj içeriklerinin müşteri geçmişine göre kişiselleştirilmesi. Her bir mesaj içinde sunulacak ürün ve kampanyaların
+collaborative filtering yöntemi ile belirlenmesi • Pazarlama mesajlarının gönderim zamanlarının müşteri geçmişindeki bildirimlere göre
+optimize edilmesi • Bir mesajın birden çok versiyonun içinden en başarılı çalışanının akıllı bir şekilde optimize edilmesi • Sistemin akıllı bir
+şekilde yeni pazarlama kurguları önermesi, başarılı çalışmayanları yayından kaldırması
+Projenin Bu projenin yenilikçi yönü, state machine tabanlı bir kampanya otomasyon sistemi geliştirerek e-ticaret platformlarının pazarlama
+Yenilikçi faaliyetlerini daha esnek ve dinamik bir şekilde yönetmelerine olanak sağlamaktır. State machine mimarisi, kampanyaların farklı durumlar
+Yönü ve Ar- arasında geçiş yapmasını ve belirli olaylara göre tetiklenmesini mümkün kılar. Bu, kullanıcıların kampanyalarını daha hassas ve
+Ge Niteliği kişiselleştirilmiş bir şekilde yönetmelerine olanak tanır. Örneğin, bir kullanıcı belirli bir ürün grubunu görüntülediğinde veya sepetine
+eklediğinde, otomatik olarak bir indirim kampanyası tetiklenebilir. Bu tür dinamik ve anlık tepki veren kampanya yönetimi, müşteri
+deneyimini önemli ölçüde iyileştirir. Projenin yazılım çözümleri, büyük veri ve makine öğrenimi tekniklerini kullanarak gelişmiş
+segmentasyon kabiliyetlerini içerir. Kullanıcı davranışlarını ve demografik verilerini analiz eden bu sistem, müşterileri belirli segmentlere
+ayırarak her bir segment için en uygun kampanyaların oluşturulmasını sağlar. Bu segmentasyon sayesinde, kampanyalar daha hedefli ve
+etkili hale gelir. Örneğin, yeni müşterilere yönelik hoş geldin kampanyaları, sadık müşterilere özel sadakat programları veya belirli bir ürüne
+ilgi gösteren müşterilere yönelik çapraz satış teklifleri kolayca oluşturulabilir. Kampanya otomasyon sisteminin bir diğer yenilikçi yönü,
+kullanıcı dostu bir editör aracılığıyla kampanyaların kolayca yönetilebilmesidir. Bu görsel düzenleyici, kullanıcıların kampanya kurallarını,
+durum geçişlerini ve hedef kitleleri görsel olarak tanımlamalarına olanak tanır. Kullanıcılar, karmaşık kampanya kurgularını basit sürükle-
+bırak işlemleriyle oluşturabilir ve anında devreye alabilirler. Ayrıca, sistemde sunulan çeşitli kullanıma hazır şablonlar, kullanıcıların hızlı bir
+şekilde kampanyalar oluşturmasına yardımcı olur. Bu şablonlar, en yaygın kampanya türlerini kapsayarak kullanıcıların işlerini kolaylaştırır
+ve zaman kazandırır. Projenin Ar-Ge niteliği, sürekli gelişim ve inovasyon odaklı bir yaklaşım benimsemesidir. Büyük veri analitiği, makine
+öğrenimi ve yapay zeka alanlarında yapılan araştırmalar, kampanya otomasyon sisteminin yeteneklerini sürekli olarak iyileştirmeye
+yöneliktir. Geliştirilecek algoritmalar ve veri işleme teknikleri, kampanya performansını gerçek zamanlı olarak izlemeyi ve optimize etmeyi
+sağlar. Bu sayede, e-ticaret platformları sürekli değişen piyasa koşullarına ve müşteri beklentilerine hızlı bir şekilde uyum sağlayabilir.
+Sonuç olarak, state machine tabanlı kampanya otomasyon sistemi, e-ticaret platformlarının pazarlama stratejilerini daha dinamik,
+kişiselleştirilmiş ve etkili bir şekilde yönetmelerine olanak tanır. Gelişmiş segmentasyon kabiliyetleri, kullanıcı dostu arayüz ve sürekli
+inovasyon odaklı Ar-Ge çalışmaları, bu projenin yenilikçi ve ileri teknolojiye dayalı bir çözüm sunmasını sağlar. Bu sistem, e-ticaret
+platformlarının müşteri memnuniyetini artırarak rekabet avantajı elde etmelerine yardımcı olacaktır. Bunun yanında projenin sunmaya
+çalışacağı yenilikler aşağıda verilmiştir: 1. Adaptif State Machine Yapısı: Klasik state machine yapısı, belirli durumlar ve geçiş kurallarına
+dayanır. Bu yöntemde, state machine yapısını daha adaptif hale getiriyoruz. Adaptif state machine, gerçek zamanlı veriye ve makine
+öğrenimi algoritmalarına dayanarak kendini optimize edebilir ve yeniden yapılandırabilir. Örneğin, kullanıcı davranışlarına ve kampanya
+performansına göre yeni durumlar ve geçiş kuralları oluşturabilir. 2. Kendi Kendine Optimizasyon Yeteneği: Sistem, kampanyaların
+performansını sürekli olarak izler ve makine öğrenimi algoritmaları ile optimize eder. Başarısız olan kampanya adımları veya geçiş kuralları
+otomatik olarak düzeltilir veya yeniden yapılandırılır. Örneğin, belirli bir kampanya adımı yeterli dönüşüm sağlamıyorsa, sistem alternatif
+adımlar veya teşvikler önerir ve uygular. 3. Görsel Kampanya Tasarım Aracı: Kullanıcıların kampanyaları kolayca tasarlayabilmesi için
+gelişmiş bir görsel kampanya tasarım aracı sunuyoruz. Bu araç, sürükle-bırak özelliği ile state machine durumlarını ve geçiş kurallarını
+görsel olarak oluşturma imkanı sağlar. Ayrıca, makine öğrenimi tabanlı öneri sistemi, kullanıcıya en etkili kampanya tasarımını önerir. 4.
+Kampanya Şablonları ve A/B Testleri: Sistem, çeşitli kullanıma hazır kampanya şablonları sunar ve kullanıcıların bu şablonları
+özelleştirmesine olanak tanır. Ayrıca, A/B testleri ile farklı kampanya stratejilerini karşılaştırma ve en etkili stratejiyi belirleme imkanı sağlar.
+Makine öğrenimi algoritmaları, A/B testlerinin sonuçlarını analiz eder ve en iyi performans gösteren kampanya tasarımını önerir.
+Sayfa 45 / 66
+Projenin Bu projede geliştirilen state machine tabanlı kampanya otomasyon sisteminin beklenen çıktıları, e-ticaret platformlarının pazarlama
+Beklenen faaliyetlerini daha etkili, verimli ve kişiselleştirilmiş hale getirmektir. Bu sistem, kullanıcı davranışlarını gerçek zamanlı olarak izler ve analiz
+Çıktıları ve ederken, adaptif state machine yapısı sayesinde dinamik kampanya yönetimini mümkün kılar. Beklenen çıktılar arasında artan müşteri
+Faydaları memnuniyeti, yüksek dönüşüm oranları, daha etkin kullanıcı segmentasyonu ve optimize edilmiş kampanya performansı yer alır. E-ticaret
+yöneticileri için bu yazılım servisi, pazarlama stratejilerinin daha verimli yönetilmesini sağlar. Gelişmiş segmentasyon ve makine öğrenimi
+tabanlı analizler sayesinde, yöneticiler kullanıcılarını daha iyi tanıyarak, hedeflenmiş kampanyalar oluşturabilirler. Kampanyaların
+performansını gerçek zamanlı izleme ve optimize etme yeteneği, pazarlama bütçesinin daha etkili kullanılmasını sağlar. Örneğin, dönüşüm
+oranlarındaki %20'lik bir artış ve müşteri edinim maliyetindeki %15'lik bir azalma, bu sistemin getirdiği doğrudan faydalar arasında
+sayılabilir. Ayrıca, kullanıcı dostu arayüz ve görsel kampanya tasarım aracı, yöneticilerin kampanyaları hızlı ve kolay bir şekilde
+oluşturmasına olanak tanır. Kullanıcılar için ise bu sistem, daha kişiselleştirilmiş ve tatmin edici bir alışveriş deneyimi sunar. Gerçek zamanlı
+veri entegrasyonu ve dinamik kampanya yönetimi sayesinde, kullanıcılar ilgilerini çeken teklifler ve indirimlerle karşılaşırlar. Bu da kullanıcı
+sadakatini artırır ve tekrar alışveriş yapma olasılıklarını yükseltir. Örneğin, kişiselleştirilmiş kampanyalar sayesinde müşteri
+memnuniyetinde %25'lik bir artış ve tekrar alışveriş yapan müşteri oranında %30'luk bir iyileşme beklenebilir. Ayrıca, çeşitli pazarlama
+kanallarının entegre edilmesi, kullanıcıların farklı platformlarda da tutarlı bir deneyim yaşamalarını sağlar. Metriklerle desteklenen bu
+faydalar, sistemin etkinliğini ve getirdiği değerleri açıkça ortaya koyar. Kampanya dönüşüm oranları, müşteri edinim maliyetleri, müşteri
+memnuniyeti skorları ve tekrar alışveriş oranları gibi anahtar performans göstergeleri (KPI'lar) düzenli olarak izlenerek, sistemin sürekli
+olarak optimize edilmesi sağlanır. Örneğin, kampanya dönüşüm oranlarının %20 artması, müşteri edinim maliyetinin %15 azalması ve
+müşteri memnuniyeti skorlarının %25 yükselmesi gibi hedeflerle sistemin başarısı ölçülebilir ve sürekli iyileştirme sağlanabilir. Bu
+iyileştirme oranları, sistemin e-ticaret platformları için stratejik bir avantaj yaratmasını ve rekabet gücünü artırmasını sağlar. Projenin
+beklenen çıktısı üzerinde akıllı kurguların tanımlanabileceği ve müşterilere bu kurguların otomatik bir şekilde sunulabileceği bulut tabanlı
+bir yazılım çözümü olacaktır. Bu yazılım servisi minimal efor ile firmaların kullandığı pazarlama araçları ile entegre olabilecek (e-posta, push
+bildirimleri veya sms sağlayıcıları), bu sayede yaptıkları pazarlama faaliyetlerini ek bir efor koymadan daha verimli hale getirebileceklerdir.
+Bunun iki yönden faydası olacaktır: • Firmalar için pazarlama faaliyetleri daha verimli hale gelecek ve yaptıkları yatırımın karşılığını daha
+yüksek başarımlar ile alabileceklerdir. • Müşteriler için ise bu onları rahatsız edecek, bütün kitleye atılmış ve yüksek hacimdeki pazarlama
+mesajlarına maruz kalmaktansa onların ihtiyaçlarına doğru zamanda ve kişiselleştirilmiş olarak ulaşması olacaktır.
+Sayfa 46 / 66
+8. DIŞARIDA GEÇİRİLEN SÜRELERE İLİŞKİN BİLGİLER
+8.1. Faaliyet Kapsamında Doktora/Yüksek Lisans Eğitimi İçin Dışarıda Geçirilen Sürelere İlişkin Bilgiler
+Sıra No Personel TC Personel Adı Personel Unvan Lisansüstü Eğitim Türü Üniversitesi Üniversitede Geçirilen Süre(saat)
+Sayfa 47 / 66
+8.2. Faaliyet Kapsamında Dışarda Geçirilen Sürelere İlişkin Bilgiler
+Sıra Personel TC Personel Adı Personel Dışarıda Geçirilen Faaliyetin Projenin Adı Dışarıda
+No Unvan Türü Geçirilen
+Süre(saat)
+1 56938235472 Ayşen Alpaslan Araştırmacı 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 176
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+2 56938235472 Ayşen Alpaslan Araştırmacı 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 180
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+3 56938235472 Ayşen Alpaslan Araştırmacı 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 207
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+4 56938235472 Ayşen Alpaslan Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 157,50
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+5 56938235472 Ayşen Alpaslan Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 160
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+6 56938235472 Ayşen Alpaslan Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 140
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+7 56938235472 Ayşen Alpaslan Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 168
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+8 56938235472 Ayşen Alpaslan Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 160
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+9 17329074148 Buğra Çelik Araştırmacı 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 4
+Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+10 29882085912 Burak İbaoğlu Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 168
+Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma
+11 29882085912 Burak İbaoğlu Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 180
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+12 29882085912 Burak İbaoğlu Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 207
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+13 29882085912 Burak İbaoğlu Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 139,50
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+14 29882085912 Burak İbaoğlu Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 160
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+15 29882085912 Burak İbaoğlu Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 168
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+16 29882085912 Burak İbaoğlu Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 112
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+17 39559298156 Burak Kocaoğlu Araştırmacı 7103 sayılı Cumhurbaşkanı E-Ticaret Kullanıcıları Otomatik Segmentasyonu 4
+Kararı Kapsamında Uzaktan (ETİKOS) (SGM-PER-019)
+Çalışma (Bilişim Personeli)
+18 47401297318 Bülent Partal Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 27,04
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+Sayfa 48 / 66
+19 10082328510 CANDAN CEYLAN Araştırmacı 7103 sayılı Cumhurbaşkanı E-Ticaret Kullanıcıları Otomatik Segmentasyonu 3
+Kararı Kapsamında Uzaktan (ETİKOS) (SGM-PER-019)
+Çalışma (Bilişim Personeli)
+20 10082328510 CANDAN CEYLAN Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 1
+Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma (Bilişim Personeli)
+21 44920204858 Cem Şakir Teknisyen 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 176
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+22 44920204858 Cem Şakir Teknisyen 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 180
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+23 44920204858 Cem Şakir Teknisyen 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 207
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+24 44920204858 Cem Şakir Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 166,50
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+25 44920204858 Cem Şakir Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 72
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+26 44920204858 Cem Şakir Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 148
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+27 44920204858 Cem Şakir Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 176
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+28 44920204858 Cem Şakir Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 168
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+29 44920204858 Cem Şakir Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 176
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+30 14923689440 Cömert Baldemir Teknisyen 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 4
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+31 20420605920 Erdem Çağlak Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 4
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+32 18082730920 ERGİN EROĞLU Araştırmacı 7103 sayılı Cumhurbaşkanı E-Ticaret Kullanıcıları Otomatik Segmentasyonu 3
+Kararı Kapsamında Uzaktan (ETİKOS) (SGM-PER-019)
+Çalışma (Bilişim Personeli)
+33 18082730920 ERGİN EROĞLU Araştırmacı 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 1
+Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+34 20207635454 Gökay Kahraman Teknisyen 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 4
+Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+35 55432299638 Halil Can Uğur Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 176
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+36 55432299638 Halil Can Uğur Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 171
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+37 55432299638 Halil Can Uğur Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 207
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+Sayfa 49 / 66
+38 55432299638 Halil Can Uğur Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 166,50
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+39 55432299638 Halil Can Uğur Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 160
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+40 55432299638 Halil Can Uğur Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 148
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+41 55432299638 Halil Can Uğur Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 136
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+42 55432299638 Halil Can Uğur Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 168
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+43 55438299410 Hasan Hüseyin Araştırmacı 5806 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 176
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma
+44 55438299410 Hasan Hüseyin Araştırmacı 5806 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 171
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma
+45 55438299410 Hasan Hüseyin Araştırmacı 5806 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 207
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma
+46 55438299410 Hasan Hüseyin Araştırmacı 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 130,50
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+47 55438299410 Hasan Hüseyin Araştırmacı 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 168
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+48 55438299410 Hasan Hüseyin Araştırmacı 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 148
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+49 55438299410 Hasan Hüseyin Araştırmacı 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 176
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+50 55438299410 Hasan Hüseyin Araştırmacı 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 168
+Uğur Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+51 33164388400 İBRAHİM HALİL Araştırmacı 7103 sayılı Cumhurbaşkanı E-Ticaret Kullanıcıları Otomatik Segmentasyonu 3
+ALTUN Kararı Kapsamında Uzaktan (ETİKOS) (SGM-PER-019)
+Çalışma (Bilişim Personeli)
+52 33164388400 İBRAHİM HALİL Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 1
+ALTUN Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+53 21595039442 KAAN KESKİN Teknisyen 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 2
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+54 21595039442 KAAN KESKİN Teknisyen 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 2
+Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+55 10019721742 Levent Mert Teknisyen 7103 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 4
+Erçelik Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma (Bilişim Personeli)
+56 54262378254 MEHMET Teknisyen 5806 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 134,87
+TOPAKKAYA Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma
+Sayfa 50 / 66
+57 64258004470 Merve Köprülü Teknisyen 5806 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 176
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma for Platforms (SGM-PER-017)
+58 64258004470 Merve Köprülü Teknisyen 5806 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 180
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma for Platforms (SGM-PER-017)
+59 64258004470 Merve Köprülü Teknisyen 5806 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 207
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma for Platforms (SGM-PER-017)
+60 64258004470 Merve Köprülü Teknisyen 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 166,50
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+61 64258004470 Merve Köprülü Teknisyen 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 168
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+62 64258004470 Merve Köprülü Teknisyen 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 140
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+63 64258004470 Merve Köprülü Teknisyen 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 152
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+64 64258004470 Merve Köprülü Teknisyen 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 160
+Erdoğan Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+65 61201081762 MÜCAHİD Araştırmacı 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 2
+DOĞAN Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+66 61201081762 MÜCAHİD Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 2
+DOĞAN Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+67 17861005334 OĞUZHAN GÜL Araştırmacı 7103 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 4
+Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma (Bilişim Personeli)
+68 27745075186 ONUR KAPLAN Teknisyen 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 4
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+69 25957988058 ONUR UMUT Destek 5806 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 27,03
+ÇAKIT Personeli Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma
+70 25957988058 ONUR UMUT Destek 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 4
+ÇAKIT Personeli Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+71 32107832130 Önder Açıkgöz Araştırmacı 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 4
+Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+72 65140292302 Rıfat Koçak Araştırmacı 7103 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 2
+Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma (Bilişim Personeli) for Platforms (SGM-PER-017)
+73 65140292302 Rıfat Koçak Araştırmacı 7103 sayılı Cumhurbaşkanı E-Ticaret Kullanıcıları Otomatik Segmentasyonu 2
+Kararı Kapsamında Uzaktan (ETİKOS) (SGM-PER-019)
+Çalışma (Bilişim Personeli)
+74 36526488428 Serkan Zafer Araştırmacı 5806 sayılı Cumhurbaşkanı Global E-Ticaret Platformları için Kişiselleştirme 1
+Elgezen Kararı Kapsamında Uzaktan Uygulamaları - Segmentify Personalisation Apps
+Çalışma for Platforms (SGM-PER-017)
+75 35086561374 SEVGİ DENİZ US Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 2
+Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma (Bilişim Personeli)
+Sayfa 51 / 66
+76 35086561374 SEVGİ DENİZ US Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 2
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+77 16598361188 Turgut Onur Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 4
+Teler Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma (Bilişim Personeli)
+78 12097732450 UĞUR CEYLAN Teknisyen 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 4
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+79 12097732450 UĞUR CEYLAN Teknisyen 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 168
+Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+80 22199464906 Yasemin Ayvaz Araştırmacı 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 176
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+81 22199464906 Yasemin Ayvaz Araştırmacı 5806 sayılı Cumhurbaşkanı Tekrarlı Ürün Öneri ve Stok Optimizasyon Sistemi 180
+Kararı Kapsamında Uzaktan (SGM-PER-016)
+Çalışma
+82 22199464906 Yasemin Ayvaz Araştırmacı 5806 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 207
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma
+83 22199464906 Yasemin Ayvaz Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 166,50
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+84 22199464906 Yasemin Ayvaz Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 160
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+85 22199464906 Yasemin Ayvaz Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 148
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+86 22199464906 Yasemin Ayvaz Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 168
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+87 22199464906 Yasemin Ayvaz Araştırmacı 7103 sayılı Cumhurbaşkanı Kişiselleştirilmiş Reklam ve Hedef Müşteri Kitlesi 168
+Kararı Kapsamında Uzaktan Tanımlama Sistemi (SGM-PER-015)
+Çalışma (Bilişim Personeli)
+88 18767775840 Yusuf Alper Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Kurgusu Tasarım Sistemi - Segmentify 4
+Berber Kararı Kapsamında Uzaktan Campaign Manager (SGM-PER-018)
+Çalışma (Bilişim Personeli)
+89 28954616214 Zeynep Büşra Araştırmacı 5806 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 20,53
+Ünal Mızrak Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma
+90 28954616214 Zeynep Büşra Araştırmacı 7103 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 4
+Ünal Mızrak Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+Çalışma (Bilişim Personeli)
+91 29864231184 ZEYNEP MELİSA Destek 5806 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 26,76
+ELİZABETH ÇAKIR Personeli Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+SUSKUN Çalışma
+92 29864231184 ZEYNEP MELİSA Destek 7103 sayılı Cumhurbaşkanı Kampanya Hedefleme ve A/B Test Optimizasyon 4
+ELİZABETH ÇAKIR Personeli Kararı Kapsamında Uzaktan Sistemi (SGM-PER-014)
+SUSKUN Çalışma (Bilişim Personeli)
+Sayfa 52 / 66
+8.3. Faaliyet Kapsamında Mentörlük ve Ders Verme İçin Dışarıda Geçirilen Sürelere İlişkin Bilgiler
+Sıra Personel Personel Personel Personel Eğitim Dışarıda Geçirilen Faaliyetin Üniversite/Firma Dışarıda Geçirilen
+No TC Adı Unvan Durumu Türü Adı Süre(saat)
+Sayfa 53 / 66
+9. BİR ÖNCEKİ FAALİYET DEĞERLENDİRME TOPLANTISINDA ALINAN KARARLARA İLİŞKİN YAPILAN ÇALIŞMALAR
+Segmentify Yazılım Anonim Şirketi Ar-Ge Merkezi Faaliyet Değerlendirme Komisyonu (21.9.2022)
+Faaliyet Değerlendirme ve Denetim Komisyonu tarafndan; Ar-Ge Merkez yetkililerinin sunumları, izleyici raporları, faaliyet raporu ve bir önceki
+Değerlendirme Değerlendirme ve Denetim Komisyonu Karar Tutanağında verilen ödevlerin birlikte değerlendirilmesi sonucunda; işletmenin 5746 sayılı
+Toplantısında Kanun kapsamında Ar-Ge Merkezlerine sağlanan teşvik ve muafiyetlerden yararlanmaya oy çokluğu ile devam etmesi ve aşağıda
+Alınan Kararlar belirtilen hususların merkezde yürütülen faaliyetlerde göz önünde bulundurulmasına karar verilmiştir.
+1. Ar-Ge niteliği yüksek, rutin olmayan, yenilikçi, ulusal ve uluslararası proje başvurularının yapılması, yürütülen projelerde adam ay
+sayılarına dikkat edilmesi,
+2. Fikri ve sınai mülkiyet hakları konusunda üretkenliğin arlırılması için politikalar geliştirilmesi, bilimsel birikimlerin fikri sınai
+mülkiyet haklarına dönüşmesi konusunda daha aktif olmaları,
+3. Ar-Ge personeline, Ar-Ge faaliyetleri ile uyumlu olacak şekilde, özellikle proje hazırlama ve proje yönetimi ile ilgili eğitimler
+aldırılması, ulusal ve uluslararası sempozyum, kongre, seminer gibi etkinliklere aktif katılımın artırılması,
+4. Üniversite-Sanayi iş birliklerinin test, analiz, hizmet alımı şeklinde kalmayıp, proje bazında gerçekleştirilmesi, somut, net,
+sürdürebilir iş birlikleri yapılması,
+5. Personelin yüksek lisans/doktoraya teşvik edilmesi, yüksek lisans ve doktora tezlerinin firmanın çalışma alanı ile uyumlu olacak
+şekilde planlanması,
+gerektiği değerlendirmesi yapılmıştır.
+Faaliyet 1. Ar-Ge niteliği yüksek, rutin olmayan, yenilikçi, ulusal ve uluslararası proje başvurularının yapılması, yürütülen projelerde adam ay
+Değerlendirme sayılarına dikkat edilmesi,
+Toplantısında 2021 yılında aldığımız ödevimizle birlikte daha inovatif proje hazırlıklarına ve başvurularına odaklandık. Bunun sonucunda 3220954
+Alınan proje numarası ile “E-TİCARET KULLANICILARI OTOMATİK SEGMENTASYONU (ETİKOS)” isimli projemiz 1501 Sanayi Ar-Ge Projeleri
+Kararlara Destekleme Programı altında desteklenmeye değer görüldü ve 2023 yılı içinde proje başlangıcı ve destek sürecimiz başlamıştır. Bu
+İlişkin Yapılan projenin başlangıç aşamasında o zaman Maltepe Üniversitesi’nde görevli olan Dr. Öğr. Üyesi Ayşe CİLACI TOMBUŞ ile yakın bir şekilde
+Çalışmalar çalışma fırsatı bulduk ve bu sürecimizi 2023 yılı içinde part-time görevlendirme ile devam ettirdik. Bunun yanında bu projenin
+hazırlanması aşamasında işbirliği kurduğumuz “Arute Solutions Yazılım A.Ş.” tarafından da AutoML ve clustering konularında destek ve
+danışmanlık aldık. Bu süreç aşamasında hem Ar-Ge departmanımızın bu alandaki bilgi birikimi arttı hem de iki ekibin daha ortak
+çalışmasına (collaborative) uygun fırsatlar oluşmaya başladı. Bu birliktelik, yeni fikirlerin ve projelerin oluşmasına da önayak olmuştur.
+İki ekibin ortak çalışması sonucu 2023 yılı içinde başvurusu tamamlanacak bir Horizon programı projesi daha ortaya çıkmıştır. Bu proje
+e-ticaret alanında başlatılan Etikos projesinin üzerine doğal dil işleme ve generative AI özelliklerinin eklenerek daha farklı sektörlere
+aktarılmasını kapsayacaktır.
+2023 yılında gerçekleştirilen çalışmalar:
+2023 yılında, merkezimizde yürütülen projelerin Ar-Ge niteliği yüksek, yenilikçi ve rutin olmayan özellikler taşımasına özen
+gösterilmiştir. Bu doğrultuda, çeşitli teknolojik yenilikler ve çözüm önerileri sunan projeler geliştirilmiş ve uygulanmıştır. TÜBİTAK
+tarafından desteklenmeye hak kazanan projemiz 2023 yılının mart ayında uygulamaya başlanmış ve 31.08.2024 tarihine kadar
+geliştirme süreçleri devam edecektir. TÜBİTAK tarafından yürütülen projemiz, hem proje takip süreçlerimizin şeffaflaşması hem de
+projede görev alan personellerimizin isterlere uygun şekilde süreç yönetimi özellikleri kazanmasına destek olmuştur. Paralelde yürütmüş
+olduğumuz diğer Ar-Ge projelerimizin Adam/Ay oranları proje yapılabilirlik etüdü çalışmaları kapsamında optimize edilmiş ve
+uygulanmıştır.
+2. Fikri ve sınai mülkiyet hakları konusunda üretkenliğin artırılması için politikalar geliştirilmesi, bilimsel birikimlerin fikri sınai mülkiyet
+haklarına dönüşmesi konusunda daha aktif olmaları,
+Firmamızdaki Fikri ve sınai mülkiyet hakları konusundaki eksikliğimizi gidermek, bu alanda kendimizi geliştirebilmek için akademik bir
+danışman ile çalışmaya başladık. 2022 yılı içinde firmamıza akademik danışman olarak başlayan Dr. Öğr. Üyesi Ayşe CİLACI TOMBUŞ ile
+ortaklaşa olarak akademik yayın ve bildiriler yapmak için planlamamızı yapıp bu alanda çalışmaya başladık. Kendisi ilk önce şu ana
+kadar yaptığımız çalışmaları ve geliştirdiğimiz projeleri Ar-Ge ekibimiz ile birlikte detaylıca incelemiş, bu çalışmalar içinden yayına
+dönüştürülebilecek olanları ortaya çıkarmış, ve yayınların hazırlanıp başvuruların yapılması konusunda ekip ile birlikte çalışmaya
+başlamıştır. Bu çalışmalar sonucunda 2023 yılı içinde yayınlanması beklenen 3 tane Türkiye içinde makale ve 1 tane de uluslararası
+konferans yayını çalışmaları başlamıştır. Bu raporun hazırlandığı 2023 başı itibari ile “17th ACM Conference on Recommender Systems“
+konferansı için makale başvurusu yapılmış, Türkiye içinde de iki tane bildirinin yayınlanması beklenmektedir. Bu yayınlar içinden bir
+tanesi “Journal of Innovative Science and Engineering” dergisinin Haziran 2023 sayısında yayına hazırlanmaktadır.
+Bunun yanında yeni başlayan projeler ve gelecek projelerde bu yönde adım atılması ve bu sürecin tüm çalışanlarımız tarafından
+içselleştirilebilmesi için hocamız ile olan danışmanlığımızı üniversitesinden de izin alarak part-time akademik çalışan olarak değiştirdik.
+Yeni başlayan TEYDEB projemizde ve gelecek projelerimiz için konferans bildirimi ve paper çıkmasını da projenin başarı hedefleri arasına
+ekledik. Bunun yanında firmamızın bu alandaki ödül teşvik miktarlarını arttırarak bu alanda çalışacak çalışanlarımız için ek
+motivasyonlar yarattık.
+2023 yılı çalışmaları:
+2023 yılında özellikle fikri sınai ve mülkiyet hakları konularında personellerimizin üretkenliğinin artırılmasına yönelik teşvik miktarlarının
+artırılması sağlanmıştır. Bu alanda çalışma yapmayı düşünen personellerimizi hem teşvik etmek hem de bir çıktı ortaya konulmasını
+sağlayabilmek adına personel bilgilendirmeleri gerçekleştirilmiş ve bu alanda örnek çalışma programları personellere bildirilmiştir.
+TÜBİTAK Desteği almaya hak kazanan proje için proje personellerimizinden birine yapılması planlanan ödemenin miktarının artırılması
+kararlaştırılmıştır.
+Sayfa 54 / 66
+3. Ar-Ge personeline, Ar-Ge faaliyetleri ile uyumlu olacak şekilde, özellikle proje hazırlama ve proje yönetimi ile ilgili eğitimler
+aldırılması, ulusal ve uluslararası sempozyum, kongre, seminer gibi etkinliklere aktif katılımın artırılması,
+Yayın ve bildiri hazırlanması alanında yaptığımız değişim ve özendirmeyi aynı zamanda ulusal ve uluslararası kongrelere katılım ve
+buralarda bildiri ve sunumlara dönüşümü için de benzer şekilde planladık. Bu kapsamda 2023 yılı için başvurusunu yaptığımız öneri
+sistemleri üzerine olan uluslararası kongre bildirimizi Singapur’da düzenlenecek “17th ACM Conference on Recommender Systems“
+konferansına katılım ile birleştirip aynı zamanda sunmak hedefindeyiz. Bunun yanında yurtiçi de benzer bir çalışma yapmış ve
+çıkaracağımız paper ve bildirileri de doğru kongre ve seminerlerde sunumlar ve katılımlar ile zenginleştireceğiz.
+Proje yönetimi ve proje hazırlanması alanında kendimizi geliştirmek için iki farklı inisiyatifi başlatmış bulunmaktayız. Bunlardan birincisi
+işbirliği kurduğumuz ve Ar-Ge projesi geliştirme alanında bizden daha tecrübeli olan Arute Solutions firmasından ekibimize Ar-Ge
+projelendirmesi alanında bir eğitim verilmiştir. Bunun yanında 2023 yılı içinde başvurusunu tamamlayacağımız Horizon projesinde iki
+ekibin birlikte çalışma sürecinde onların uyguladığı best-practiceleri de ekibimizin deneyimlemesi sağlanmaktadır. Bu projenin
+yöneticiliğini (PM) Arute Solutions yürütmekte ve bu süreçte firmamızın yetkinlik seviyesi de arttırılmaktadır. İkincil olarak özellikle
+proje yönetim ekibimize 2022 yılı içinde “teknik liderlik” ve “Ar-Ge proje yönetimi” eğitimleri aldırdık. Bu eğitimlerde bulunan workshop
+ve uygulamalı alanlar ile proje yöneticilerinin ve proje ekip liderlerinin bu alandaki yetkinlik seviyesini yükselttik.
+4. Üniversite-Sanayi iş birliklerinin test, analiz, hizmet alımı şeklinde kalmayıp, proje bazında gerçekleştirilmesi, somut, net, sürdürebilir
+iş birlikleri yapılması,
+2022 yılı içinde firmamız başladığında Maltepe Üniversitesi’nde, faaliyet raporunun hazırlandığı zaman ise Gebze Teknik Üniversitesi’nde
+görevli olan Dr. Öğr. Üyesi Ayşe CİLACI TOMBUŞ ile akademik danışmanlık almaya başlamıştır. Bu danışmanlık sürecinde firmamızın Ar-
+Ge faaliyetleri ve projelerine destek aldığımız gibi kendisi ile de aynı zamanda lisans ve lisansüstü/doktora öğrencileri ile de ortaklaşa
+çalışmalar yürütmekteyiz. Şu an kendisinin lisans seviyesinde vermekte olduğu bir dersin proje ödevi firmamızın sunduğu kampanya
+verileri üzerinden veri madenciliği ve analizi olmaktadır. Bunun yanında bir doktora öğrencisi ile de tezinin firmamız ile ortaklaşa
+yürütülmesi alanında çalışılmaktadır.
+Bunun dışında Galatasaray Üniversitesi ve Fırat Üniversitesi ile şu an devam etmekte olan görüşmelerimiz bulunmaktadır. Bu
+görüşmelerden sonra da en az bir hocamız ile daha akademik danışmanlık ve ortak proje geliştirme alanında ilerlemek istemekteyiz.
+Bunun yanında başlatmış olduğumuz Internify programı ile de üniversitelerin mühendislik fakülteleri ile yaptığımız anlaşmalar ile uzun
+dönemli staj olanakları sağlamaktayız. Bu program içinde hem uzun dönemli stajyerlerin okul proje ve tezlerini firmamız üzerinden
+yapabilmelerine, hem de sonrasında firmamız tarafından uzun dönemli istihdamlarına olanak sağlamaktayız.
+Son olarak İTÜ Teknopark firması olan Arute Solutions ile başlattığımız birliktelik ile İTÜ ile daha yakın bir işbirliğine gitmeyi ve ortak
+projeler geliştirmeyi hedeflemekteyiz.
+5. Personelin yüksek lisans/doktoraya teşvik edilmesi, yüksek lisans ve doktora tezlerinin firmanın çalışma alanı ile uyumlu olacak
+şekilde planlanması,
+Bu alanda iki çalışma başlatmış bulunmaktayız. Bunlardan ilki bu alanda çalışmakta olan öğrencilerin tezlerini de firmamız ile de uyumlu
+olması durumunda tez sürecinde part-time olarak istihdam edilmesi, sonrasında bu kişilerin istemeleri halinde tam zamanlı kadroya
+dönüştürülmesi. Bunun için akademik danışmanlarımız ve yakın ilişkimizin bulunduğu üniversite ve teknoparklar ile iletişime geçip, bize
+uygun olan tez aşamasına yeni geçmiş veya tezinin başlangıcında olan adayları bize yönlendirmelerini istedik. Aldığımız 4 başvurunun iki
+tanesi ile tez konularının netleştirilip istihdam edilme aşamasının son noktasına geldik. Bu yöntemi destekleyebilmek için aynı zamanda
+üniversitelerin mühendislik bölümlerine tez destek bursları alanında da çalışmaya başladık. Bu sayede firmamızın Ar-Ge alanları ile
+uyumlu olabilecek tez çalışmalarını destekleyerek sonrasında bu öğrenciler ile birlikte çalışabilmeyi hedefliyoruz.
+İkinci olarak firma içinde akademik öğrenimi teşvik edebilmek için Bilgi, Koç ve Sabancı Üniversiteleri ile birlikte anlaşmalar yaptık. Bu
+anlaşmalar karşılığında özel üniversitelerden ciddi miktarda indirim ve burslar sağladık. Bu programlara katılıp, yüksek lisans tezini de
+bitirecek çalışanlarımıza da terfi ve ikramiye ödülleri ekleyerek bu alanda çalışabilmeyi daha cazip hale getirmeye çalıştık.
+Çalışmalarımız bu yönde artarak devam etmektedir.
+Sayfa 55 / 66
+10. AR-GE MERKEZİ İLAVE AR-GE İNDİRİMİ UYGULAMASI
+Sayfa 56 / 66
+10.1. İlave Ar-Ge İndirimi Kriterlerine ilişkin Bilgiler
+Kriterler 2022 2023
+Ar-Ge harcamasının toplam ciro içindeki payı 1,81894 1,36457
+Tescil edilen ulusal veya uluslararası patent sayısı 0 0
+Uluslararası destekli proje sayısı 0 0
+Lisansüstü dereceli araştırmacı sayısının toplam Ar-Ge personeli Bu alanın hesaplaması yapılmayacaktır, eğer varsa bir önceki 2 / 54
+sayısına oranı rapordan elde edilecektir.
+Toplam araştırmacı sayısının toplam Ar-Ge personeli sayısına Bu alanın hesaplaması yapılmayacaktır, eğer varsa bir önceki 42 / 54
+oranı rapordan elde edilecektir.
+Ar-Ge sonucu ortaya çıkan yeni ürünlerden elde edilen cironun 8.285.742,00 / 10.897.270,90 8.961.000,00 /
+toplam ciroya oranı (TL) 26.473.637,06
+Sayfa 57 / 66
+10.2. Belge tarihi itibariyle İlave Ar-Ge İndirimi Tutarı
+Faaliyet Yılı İlave Ar-Ge İndiriminden Faydalanılacak Kriterler İlave Ar-Ge İndirimi Tutarı
+2018 0,00
+2019 0,00
+2020 0,00
+2021 0,00
+2022 0,00
+2023 0,00
+Sayfa 58 / 66
+11. ENDEKS VERİLERİ
+11.1. Ar-Ge Merkezi Personeli İstihdamına Dair Bilgiler
+Belge Alış Tarihi 24.10.2018
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Doktora Mezunu Araştırmacı Sayısı* 0
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Yüksek Lisans Mezunu Araştırmacı Sayısı* 1
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Lisans Mezunu Araştırmacı Sayısı (Doktora veya Yüksek Lisans Öğrencisi Olmayanlar)* 19
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan ve Halen Doktora Yapmakta Olan Araştırmacı Sayısı* 0
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan ve Halen Yüksek Lisans Yapmakta Olan Araştırmacı Sayısı* 0
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Destek Programları Mezunu Araştırmacı Personeli Sayısı* 0
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Teknisyen Sayısı* 11
+Faaliyet Yılında Ar-Ge Merkezinde Yeni İstihdam Edilen Toplam ArGe Personeli Sayısı* 7
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Toplam Araştırmacı Sayısı* 20
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan Toplam Ar-Ge Personeli Sayısı* 31
+Faaliyet Yılında En az Yüksek Lisans Eğitimi Almış 25 Yaş ve üzeri Kadın Ar-Ge Merkezi Çalışan Sayısı* 0
+Faaliyet yılı içerisinde Ar-Ge Merkezinde çalıştırılan stajyer sayısı (lise düzeyi dahil) 3
+Faaliyet Yılında Ar-Ge Merkezinde Çalışan ve En Az 2 Yıl Yurtdışında Kaldıktan Sonra Son 2 yıl İçinde Yurtdışından Gelen Araştırmacı Sayısı* 1
+* 31 Aralık 2023 tarihinde çalışmakta olan personel sayıya dahil edilmiştir.
+Sayfa 59 / 66
+11.2. Ar-Ge Merkezi Harcama Yoğunluğuna Dair Bilgiler
+Faaliyet Yılında Ar-Ge Merkezinin Toplam Ar-Ge Harcaması (TL) (5746 Sayılı Kanun Kapsamında Ar-Ge Merkezi İçinde Yürütülen Projeler 35.330.950,75
+Bünyesinde)
+Bir Önceki Yılda Ar-Ge Merkezinin Toplam Ar-Ge Harcaması (TL) (5746 Sayılı Kanun Kapsamında Ar-Ge Merkezi İçinde Yürütülen Projeler 19.542.467,81
+Bünyesinde)
+Faaliyet Yılında Ar-Ge Merkezi İçinde Yürütülen Projeler Bazında Toplam Muafiyet Miktarı (TL) (5746 Sayılı Kanun Kapsamında) 13.956.901,53
+Sayfa 60 / 66
+11.3. Proje Kapasitelerine Dair Bilgiler
+Yürütülen (Devam Eden+Başlayan+Tamamlanan) Projelerin Dönemsel (Faaliyet Yılı) Harcaması (TL) 35.688.235,71
+Yürütülen (Devam Eden+Başlayan+Tamamlanan) Tüm Kamu Destekli Projelere Faaliyet Yılı İçindeki Toplam İşletme Katkısı (TL) 8.716.792,64
+Yürütülen (Devam Eden+Başlayan+Tamamlanan) Tüm Kamu Destekli Projelere Faaliyet Yılı İçindeki Toplam Kamu Katkısı (TL) 0,00
+Faaliyet Yılı İçinde Ar-Ge Merkezinin Kabul Edilen AB ve Uluslararası Destekli Proje Sayısı 0
+Faaliyet Yılı İçinde Ar-Ge Merkezinin Kabul Edilen Ulusal Destekli Proje Sayısı 1
+Sayfa 61 / 66
+11.4. İşbirliği ve Etkileşime Dair Bilgiler
+Faaliyet Yılında Ar-Ge Merkezinde Yürütülen (Devam Eden+Başlayan+Tamamlanan) Toplam Proje Sayısı 6
+Ar-Ge Merkezinde Yürütülen (Devam Eden+Başlayan+Tamamlanan) Kamu Destekli Üniversite-Sanayi İşbirliği Projelerinin Dönemsel 8.716.792,64
+Harcaması (TL)
+Ar-Ge Merkezinde Faaliyet Yılında Kamu Desteği Olmayan Ancak Üniversite-Sanayi İşbirliği Kapsamında Yürütülen (Devam 0,00
+Eden+Başlayan+Tamamlanan) Projelerin Dönemsel (Faaliyet Yılı) Harcaması
+Ar-Ge Merkezinde Yürütülen (Devam Eden+Başlayan+Tamamlanan) Firmalar Arası Ar-Ge İşbirliği Olan Projelerin Dönemsel (Faaliyet Yılı) 0,00
+Harcaması (TL)
+Faaliyet Yılında Ar-Ge Merkezinde Yürütülen (Devam Eden+Başlayan+Tamamlanan) Siparişe Dayalı Ar-Ge Proje Sayısı 0
+Sayfa 62 / 66
+11.5. Ticarileşmeye Dair Bilgiler
+Ürün Gelir Bilgisi Önceki Dönem (2022) Faaliyet Dönemi (2023)
+Faaliyet Yılı Toplam Ciro Miktarı (TL) Bu değer hesaplanmamaktadır. 26.473.637,06
+Geliştirilen (son 3 yıl içinde) yeni ürünlerden elde edilen Toplam Yurtiçi Satış Geliri (TL) 8.015.210,00 8.211.000,00
+Geliştirilen (son 3 yıl içinde) yeni ürünlerden elde edilen Toplam Yurtdışı Satış Geliri (TL) 270,53 750.000,00
+Sayfa 63 / 66
+11.6. Fikri Mülkiyet Yetkinliğine Dair Bilgiler
+Faaliyet Yılında Tescil Edilmiş Uluslararası Patent Sayısı* 0
+Faaliyet Yılında Tescil Edilmiş Ulusal Patent Sayısı* 0
+Faaliyet Yılında Başvuru Yapılan Uluslararası Patent Sayısı* 0
+Faaliyet Yılında Başvuru Yapılan Ulusal Patent Sayısı* 0
+Faaliyet Yılında Tescil Edilmiş Faydalı Model Sayısı* 0
+Faaliyet Yılında Tescil Edilmiş Tasarım Sayısı* 0
+Faaliyet Yılında Tescil Edilmiş Yazılım Tescil Sayısı* 0
+Tescil Edilmiş Triadik Patent Sayısı* 0
+Ulusal Yayın Sayısı* 1
+Uluslararası Yayın Sayısı* 2
+Faaliyet Yılında Yurt İçinde Katılım Gösterilen (Ar-Ge İle İlgili) Fuar, Konferans vb. Sayısı 11
+Faaliyet Yılında Yurt Dışında Katılım Gösterilen (Ar-Ge İle İlgili) Fuar, Konferans vb. Sayısı 5
+Bir Önceki Faaliyet Yılında Yurt İçinde Katılım Gösterilen (Ar-Ge İle İlgili) Fuar, Konferans vb. Sayısı 20
+Bir Önceki Faaliyet Yılında Yurt Dışında Katılım Gösterilen (Ar-Ge İle İlgili) Fuar, Konferans vb. Sayısı 3
+*Ar-Ge merkezinin verileri esas alınmıştır.
+Sayfa 64 / 66
+11.7. Diğer Bilgiler
+İşletmenin, Faaliyet yılında geçerli bir ISO 14001 belgesi var mı? Hayır
+İşletmenin, Faaliyet yılında geçerli bir ISO 9001 belgesi var mı? Hayır
+Sayfa 65 / 66
+İşbu Faaliyet Raporunda yer alan tüm verilerin;
+Doğru ve eksiksiz olarak tarafımdan girildiğini,
+Sanayi ve Teknoloji Bakanlığı tarafından gerçekleştirilecek olan Performans Endeksi çalışmasında kullanılacağı hakkında bilgilendirildiğimi,
+Yıl içerisinde herhangi bir zamanda yapılacak olan Performans Endeksi çalışması için herhangi bir ilave ya da değişiklik talebinde bulunmayacağımı,
+Sanayi ve Teknoloji Bakanlığı tarafından doğrulama ya da eksiklik giderme amaçlı olarak veri ya da bilgi talep edilebileceğini
+kabul, beyan ve taahhüt ederim.
+Sayfa 66 / 66

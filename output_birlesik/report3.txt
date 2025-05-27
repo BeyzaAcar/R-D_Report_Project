@@ -1,0 +1,2088 @@
+T.C. SANAYİ VE TEKNOLOJİ BAKANLIĞI
+Ar-Ge Teşvikleri Genel Müdürlüğü
+Sabancı Dijital Teknoloji Hizmetleri A.ş. Ar-Ge Merkezi
+2018 Faaliyet Raporu
+(1.1.2018 - 31.12.2018) Dönemi
+(Kocaeli)
+Sayfa 1 / 74
+İçindekiler
+Başlıklar
+AR-GE MERKEZİ YILLIK FAALİYET RAPORUNA İLİŞKİN KABUL TAAHHÜT VE BEYANLAR
+YILLIK FAALİYET RAPORUNDAKİ BİLGİLERİN DOĞRULUĞUNDAN SORUMLU YETKİLİLERİN İLETİŞİM BİLGİLERİ
+1. İŞLETME GENEL BİLGİLERİ
+1.1. İşletme Tanıtıcı Bilgileri
+1.1.1. İşletmenin Bağlı Olduğu Holding/ Grup Bilgileri
+1.1.2. İşletme Bilgileri
+1.2. İşletme Organizasyon Şeması
+1.3. Faaliyet Dönemi Sonu İşletmenin Eğitim Durumuna Göre Personel Dağılımı
+1.4. Son 3 Yıl İtibariyle İşletmenin Mali ve Finansal Bilgileri
+1.5. İşletme Sermayesinin %10 Veya Daha Fazlasına Sahip Ortaklar
+1.6. İşletmenin Kısa, Orta ve Uzun Vadede Ar-Ge Stratejileri
+2. AR-GE MERKEZİ GENEL BİLGİLERİ
+2.1. Ar-Ge Merkezi Bilgileri
+2.2. Ar-Ge Merkezi’nin İşletme Binası Ya da Yerleşke İçindeki Yer / Yerlerini Gösteren Şema
+2.3. Ar-Ge Merkezi Vaziyet Planı
+2.4. Ar-Ge Merkezi Organizasyon Şeması
+2.5. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezinde Çalışan Personel Listesi
+2.6. Ar-Ge Merkezi Personelinin Görev ve Eğitim Durumları
+2.7. Ar-Ge Merkezi Personel Değişim Gösterim Tablosu
+2.8. Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri
+2.9. Ar-Ge Faaliyetlerinin Özendirilmesi, Performans Değerlendirme ve Ödül Sistemi
+2.10. Ar-Ge Merkezi Proje Yönetim Süreci
+2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar)
+3. AR-GE MERKEZİ DETAYLANDIRILMIŞ MALİ BİLGİLER
+3.1. Belge tarihi itibariyle Ar-Ge İndirimine konu olan Ar-Ge ve Yenilik Harcamalarının Kapsamı
+3.2. Belge tarihi itibariyle 5746 Sayılı Kanun Kapsamında Yararlanılan İndirim, İstisna, Muafiyet, vb. Teşvik Tutarı
+Sayfa 2 / 74
+4.AR-GE MERKEZİNİN BİLGİ KAYNAKLARI
+4.1. Ar-Ge Merkezinin Üye Olduğu Ulusal / Uluslararası Bilimsel Kütüphaneler ve Veri Tabanları (Science Direct, Nature,
+Elsevier, EPO, gibi)
+4.2. Faaliyet Dönemi İçinde Katılım Sağlanan Sempozyum, Kongre, Konferanslar
+4.3. Son İki Faaliyet Dönemine İlişkin Fikri ve Sınai Mülkiyet Hakları Genel Durumu
+5.AR-GE MERKEZİNİN İNSAN KAYNAKLARI YÖNETİMİ VE GELİŞTİRİLMESİ
+5.1. Faaliyet Döneminde Ar-Ge Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı Eğitimler ve Sertifika
+Programları
+6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI
+6.1. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezi Mevcut Cihaz ve Ekipman Listesi
+6.2. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi
+7. AR-GE MERKEZİ PROJELERİ
+7.1. Tamamlanan Projeler Listesi
+7.2. Devam Eden Projeler Listesi
+7.3. Devam Eden Proje Detayları
+8. DIŞARIDA GEÇİRİLEN SÜRELERE İLİŞKİN BİLGİLER
+8.1. Faaliyet Kapsamında Doktora/Yüksek Lisans Eğitimi İçin Dışarıda Geçirilen Sürelere İlişkin Bilgiler
+8.2. Faaliyet Kapsamında Dışarda Geçirilen Sürelere İlişkin Bilgiler
+9. TASARIM MERKEZİ PERFORMANS KRİTERLERİNE İLİŞKİN BİLGİLER
+10. BİR ÖNCEKİ FAALİYET DEĞERLENDİRME TOPLANTISINDA ALINAN KARARLARA İLİŞKİN YAPILAN ÇALIŞMALAR
+Sayfa 3 / 74
+AR-GE/TASARIM MERKEZİ BELGESİ BAŞVURU DİLEKÇESİ
+SANAYİ VE TEKNOLOJİ BAKANLIĞI
+Ar-Ge Teşvikleri Genel Müdürlüğüne
+5746 sayılı Araş(cid:63)rma ve Geliş(cid:64)rme Faaliyetlerinin Desteklenmesi Hakkında Kanun ve bu Kanun 10.08.2016 tarih ve 29797
+sayılı Resmi Gazetede yayımlanan "Araş(cid:63)rma, Geliş(cid:64)rme ve Tasarım Faaliyetlerinin Desteknlenmesine İlişkin Uygulama ve
+Dene(cid:64)m Yönetmeliği" hükümleri çerçevesinde dönemsel Ar-Ge/Tasarım faaliyetleri ile ilgili bilgileri içeren Ar-Ge/Tasarım
+Merkezi 2018 Yılı Faaliyet Raporu ekte sunulmaktadır."
+İşletme Yetkilisi
+T.C Kimlik No/Yabancı Kimlik No : 49330122082
+Adı Soyadı : ME*** AK***
+Tarih: 2.7.2019
+AR-GE MERKEZİ YILLIK FAALİYET RAPORUNA İLİŞKİN KABUL TAAHHÜT VE BEYANLAR
+KABUL, TAAHHÜT VE BEYANLAR
+5746 Sayılı “Araş(cid:63)rma ve Geliş(cid:64)rme Faaliyetlerinin Desteklenmesi Hakkında Kanun” ile 10.08.2016 tarih ve 29797 sayılı
+Resmi Gazetede yayımlanan “Araş(cid:63)rma, Geliş(cid:64)rme ve Ar-Ge/Tasarım Faaliyetlerinin Desteklenmesine İlişkin Uygulama ve
+Dene(cid:64)m Yönetmeliği” uyarınca belge alan ve faaliyet raporu sunulan Ar-Ge Merkezi değerlendirme ve denetlenmesi ile ilgili
+bütün kural, şart ve düzenlemelere uyacağımızı ve uyulmasını sağlayacağımızı, Sanayi ve Teknoloji Bakanlığı tara ndan
+görevlendirilen izleyiciler veya görevlilerin gerekli inceleme, dene(cid:80)m ve izlemeleri yapabilmesi için gerekli ortam ve imkânları
+sağlayacağımızı, İstenen her türlü bilgi ve belgeyi talep edilen süre içerisinde temin edeceğimizi, Sanayi ve Teknoloji Bakanlığı
+tara(cid:82)ndan istenen belgelerin sunulmasında tara(cid:82)mızdan kaynaklanan gecikmelerden dolayı değerlendirme süresinin
+uzamasından işletmemizin sorumlu olacağını, Ar-Ge Merkezi Faaliyet dokümanlarında yazılı bulunan teknik ve mali bilgilerin
+doğruluğundan başvuru sahibi işletmeyi temsile yetkili kişi ile Ar-Ge Merkezinin sorumlusunun müştereken ve müteselsilen
+sorumlu olacağını, bu faaliye(cid:80)n değerlendirilmesi ne(cid:80)cesinde işletmenin Ar-Ge Merkezi faaliyetlerine verilen desteğin devam
+etmesi kararı alınması halinde yukarıda yazılan tüm hususlar ile Ar-Ge Merkezinin denetlenmesi süreçlerinde Bakanlık tara(cid:82)n
+dan istenen bilgilerin doğru ve zamanında verilmesini, görevlendirilecek izleyici veya görevlilere gerekli kolaylığı
+sağlayacağımızı, tüm dosyalarda sunulan bilgilerin aynı içeriğe sahip olduğunu Kabul taahhüt ve beyan ederiz.
+Yukarıdaki hususları okuduğumuzu ve kabul ettiğimizi beyan ederiz.
+Sayfa 4 / 74
+İşletme Yetkilisi Adı Soyadı Ar-Ge/Tasarım Merkezi Sorumlusu Adı Soyadı
+ME*** AK*** (49330122082) AH*** ÖZ*** ÇI*** (48889566958)
+Sayfa 5 / 74
+YILLIK FAALİYET RAPORUNDAKİ BİLGİLERİN DOĞRULUĞUNDAN SORUMLU YETKİLİLİLERİN İLETİŞİM BİLGİLERİ
+Unvanı T.C Kimlik Adı Soyadı Telefonu E-posta Adresi
+No/Yabancı Kimlik
+No
+Genel Müdür / Genel Direktör 49330122082 ME*** 0533 284 93 mehmet.akdag@sabancidx.com
+(İşletme Yetkilisi) AK*** 62
+Ar-Ge Merkezi Direktör 48889566958 AH*** 05322017177 ozgur.ciragiloglu@sabancidx.com
+(Sorumlusu) (Ar-Ge Merkezi ÖZ***
+Yetkilisi) ÇI***
+1. İŞLETME GENEL BİLGİLERİ
+1.1. İşletme Tanıtıcı Bilgileri
+Hacı Ömer Sabancı Holding A.Ş., Türkiye’nin en büyük topluluklarından biri olan Sabancı Topluluğu’na bağlı şirketleri temsil
+eden ana şirke(cid:85)r. Sabancı Topluluğu’nun temel ilgi alanları; finansal hizmetler, enerji, çimento, perakende ve sanayidir.
+Sabancı Holding’in kendi hisselerinin yanı sıra 11 iştirakinin hisseleri de Borsa İstanbul’da (BIST) işlem görmektedir.
+Sabancı Topluluğu’na bağlı şirketler; 16 ülkede faaliyetlerini sürdürmekte olup ürünlerini Avrupa, Orta Doğu, Asya, Kuzey Afrika,
+Kuzey ve Güney Amerika’da pazarlamaktadır. Sabancı Topluluğu sahip olduğu saygınlık, marka imajı, güçlü ortaklıkları, Türkiye
+piyasaları hakkındaki bilgi ve deneyimi sayesinde ana faaliyet alanlarında büyüyerek, Türkiye ekonomisinin gelişimine katkı
+sağlayan önemli bir güç haline gelmiştir.
+Sabancı Holding’in uluslararası iş ortakları arasında konularında dünyanın önde gelen isimleri; Ageas, Aviva, Bridgestone,
+Carrefour, E.ON, Heidelberg Cement, Marubeni ve Philip Morris yer almaktadır. Sabancı Holding; finansman, strateji, iş
+geliş(cid:80)rme ve insan kaynakları işlevlerinin koordine edilmesinin yanı sıra Topluluğun vizyon ve stratejilerinin belirlenmesinden,
+topluluk içinde yaratılacak sinerjiyle hissedarlara sağlanan değerin artırılmasından sorumludur.
+2016 yılında Sabancı Topluluğu, 54 milyar TL (17,8 milyar ABD doları) kombine sa(cid:88)ş geliri elde etmiş ve konsolide faaliyet kârı
+7,5 milyar TL (2,5 milyar ABD doları) olarak gerçekleşmiş(cid:80)r. Sabancı Holding’in en büyük hissedar grubunu %56,44 hisse
+oranıyla Sabancı Ailesi oluşturmaktadır. %40,2 ile BIST’te en yüksek halka açıklık oranına sahip holding şirketleri olan Sabancı
+Holding’in depo sertifikaları ise SEAQ International ve Portal’da kotedir.
+Sabancı Holding 65.000’nin üzerinde çalışanı ile enerji, üre(cid:80)m, perakende ve sigorta, çimento, bankacılık iş birimleri ile hizmet
+vermektedir.
+SabancıDX, Ekim 1975’te elektronik kontrol cihazları ve bilgisayar işlemleri hizmetlerini, altyapıdan müşteri deneyimine kadar
+tüm iş yapış şekillerini dijital platformlara taşımıştır. SabancıDX'in iş alanları;
+-SAP,
+-Donanım ve Yazılım,
+-Pratis,
+-Uygulama geliştirme,
+-Veri merkezi,
+-HR-Web,
+-Edoksis.
+SabancıDX, Türkiye’de kurumların dijitalleşmesine öncülük etmektedir, 3 farklı lokasyonda 700 üstünde referans ile 2 veri
+merkezi ve 20 farklı sektörde faaliyet göstermektedir.
+SabancıDX, 1995 yılında Türkiye’deki ilk SAP danışmanlık destek merkezini kurmuştur. SAP alanında sunduğu çözümler;
+Sayfa 6 / 74
+-ABAP Geliş(cid:80)rme Hizmetleri, -SAP canlı geçiş sonrası destek uygulamaları, SAP HANA pla(cid:93)ormu çözümleri, SAP kurumsal
+uygulamaları, SAP Hybris danışmanlığı, İş zekası danışmanlığı’dır.
+SabancıDX, birbirinden farklı geliş(cid:80)rme ortamlarında kazandığı deneyimi kullanarak müşterilerine özel, uçta uca ve ih(cid:80)yaca
+yönelik çözümler üretmektedir. Uygulama geliş(cid:80)rme alanlarında Sharepoint, Kurumsal içerik yöne(cid:80)mi, Web içeriği yöne(cid:80)mi,
+Doküman Yöne(cid:80)mi, Arama (gelişmiş arama, kişi arama vb.) Sosyal ağlar, Formlar ve İş akışları gibi çözüm içerikleri, mobil
+çözümler alanında ise Native ve Hybrid uygulama analizleri ile IOS ve Android cihazlar için uygulama geliştirme yapmaktadır.
+1975 yılında Sabancı Holding bünyesinde kurulan SabancıDX, 40 yılı aşkın deneyime sahip(cid:80)r. Türkiye’nin önde gelen bilgi
+teknolojisi şirketlerindendir. Orta ve büyük ölçekli şirketlerin; uygulama ve iş danışmanlığından kuruma özel uygulamalara,
+işletimden teknik hizmetlere, donanımdan yazılıma kadar tüm bilişim ihtiyaçlarını karşılamak üzere faaliyet göstermektedir.
+SabancıDX; üre(cid:80)m, finans, insan kaynakları, tedarik zinciri yöne(cid:80)mi, endüstriyel otomasyon yazılımı, müşteri ilişkileri yöne(cid:80)mi,
+ürün ömrü yöne(cid:80)mi, iş zekası, portal yöne(cid:80)mi ve karar destek sistemleri konularında, çok çeşitli donanım ve yazılım
+pla(cid:93)ormlarında uygulamalar geliş(cid:80)rmekte ve uyarlamaktadır. Teknolojinin sağladığı faydaları şirketlerin iş süreçlerine entegre
+ederken hem zaman hem de maliyet avantajı yaratacak şekilde üretmektedir. E-fatura, e-arşiv ve e-de(cid:94)er entegrasyonu
+sağlayan Edoksis, elektronik sa(cid:88)n alma pla(cid:93)ormu Pra(cid:80)s ve insan kaynakları ve bordro yöne(cid:80)mi pla(cid:93)ormu HR-Web yazılımlarını
+bulut tabanlı teknolojiler ile sunmaktadır. SabancıDX, “İş çözümlerinde güvenilir iş ortağı olmak” misyonu ile iş teknolojileri
+alanında müşterilerinin ihtiyaçlarını karşılamaya odaklanmıştır.
+Bilgi teknolojileri konusundaki 40 yıllık deneyimi ve bilgi birikimi ile müşterilerinin ih(cid:80)yaçlarına uygun çözümler sunan
+SabancıDX, müşteri odaklı servis ve hizmetleri ile iş ortakları tara(cid:82)ndan geç(cid:80)ğimiz yıllarda çeşitli alanlarda ödüllere layık
+görüldü. Bunlardan bazıları ise; 2013 Euro Cloud Awards ödülü ile en iyi (cid:80)cari sektör vakası 2.lik ödülü, 2012 IBM yılın projesi
+ödülü, 2008 Oracle üstün başarı ödülü, 2007 Interpro en çok danışmanlık cirosu elde eden şirket 3.lük ödülü almıştır.
+1.1.1. İşletmenin Bağlı Olduğu Holding/ Grup Bilgileri
+Holding / Grup Unvanı H.ÖMER SABANCI HOLDiNG A.Ş.
+Adres SABANCI CENTER. 4.LEVENT İSTANBUL
+Menşei Türkiye
+Kuruluş Tarihi 1.10.1967
+Sayfa 7 / 74
+1.1.2. İşletme Bilgileri
+İşletme Unvanı Sabancı Dijital Teknoloji Hizmetleri A.ş.
+Faaliyet Kodu 63.11.08 -- Veri işleme, barındırma ve ilgili faaliyetler (veri girişi, verinin işlenmesi, özel
+raporların oluşturulması, depolanması, vb.)
+Adres RÜZGARLIBAHÇE MAH. CUMHURİYET CAD. ACARLAR İŞ MERKEZİ. D BLOK. NO:14 KAT:4-5
+34805 KAVACIK- BEYKOZ
+İl İstanbul
+Telefon 0216 425 10 50
+E-posta Adresi Elif.Ates@sabancidx.com
+Yerli/Yabancı Ortaklı Yerli
+Kuruluş Tarihi 1.10.1975
+Ticaret Sicil Gazetesinde 20.10.1975
+Yayımlanma Tarihi
+Sanayi / Ticaret Sicil No 135009/82382
+Kayıtlı Olduğu Sanayi / İSTANBUL TİCARET SİCİLİ
+Ticaret Odası
+Vergi Dairesi / No BOĞAZİÇİ KURUMLAR / 465 000 5258
+SGK İşyeri Sicil No 262020707110109003404-08
+Kuruluş Sermayesi 5.000,00
+Mevcut Sermaye 400.000,00
+KOBİ mi? Hayır
+MERSİS No? 0465-0005-2580-0016
+Sayfa 8 / 74
+1.2. İşletme Organizasyon Şeması
+Sayfa 9 / 74
+1.3. Faaliyet Dönemi Sonu İşletmenin Eğitim Durumuna Göre Personel Dağılımı
+Birim Doktora Üstü Doktora Yüksek Lisans Lisans Ön Lisans Lise ve Diğer TOPLAM
+İdari 0 0 3 5 0 1 9
+Mali 0 0 8 12 1 7 28
+Teknik 0 2 31 85 18 1 137
+TOPLAM 0 2 42 102 19 9 174
+1.4. Son 3 Yıl İtibariyle İşletmenin Mali ve Finansal Bilgileri
+2018 2017 2016
+Net Satışlar (TL) 185.826.335,34 154.056.197,49 136.034.418,02
+Toplam Bilanço (Aktifler Toplamı) (TL) 85.988.183,08 73.152.212,39 48.960.614,57
+Kısa Vadeli Borçlar (TL) 59.262.028,31 52.405.507,04 37.784.110,49
+Uzun Vadeli Borçlar (TL) 1.550.326,18 4.330.526,03 2.565.855,60
+Yurt İçi Satışlar (TL) 185.826.335,34 154.056.197,49 136.034.418,02
+Yurt Dışı Satışlar (TL) 0,00 0,00 0,00
+Toplam Ciro (Brüt Satışlar) (TL) 192.681.637,07 165.071.228,78 147.634.760,88
+Ar-Ge Harcaması (TL) 2.071.906,72 0,00 0,00
+Ar-Ge Sonucu Ortaya Çıkan Yeni Ürünlerden Elde Edilen Ciro (TL) 0,00 0,00 0,00
+1.5. İşletme Sermayesinin %10 Veya Daha Fazlasına Sahip Ortaklar
+Ortak Adı / Unvanı Uyruğu Pay (%) Pay Tutarı (TL)
+H.ÖMER SABANCI HOLDiNG A.Ş Türkiye 100 400.000,00
+Sayfa 10 / 74
+1.6. İşletmenin Kısa, Orta ve Uzun Vadede Ar-Ge / Tasarım Stratejileri
+Firmamız, bağlı olduğu şirketler topluluğundaki pozisyonu ve iş sahası i(cid:80)bariyle çok farklı konularda proje talepleriyle
+karşılaşmaktadır. Taleplerdeki bu çeşitlilik önemli bir iş potansiyeli yaratmasının dışında, proje ekiplerindeki kaynak
+çeşitliliklerinin ar(cid:99)rılması zorunluluğunu gündeme ge(cid:80)rmektedir. Firmamız geçmiş dönemlerde kendi ar-ge personellerine ek
+olarak yoğun bir şekilde dış kaynakları kullanarak gerekli kaynak çeşitliliğini sağlama yoluna gitmiş(cid:80)r. Ancak dış kaynak
+kullanımının yara(cid:99)ğı teknolojik bağımlılıklar ve teknolojilerin içselleş(cid:80)rilmesinde ki güçlükler sebebiyle 2017 yılıından i(cid:80)baren
+dış kaynak kullanımının kademeli olarak azal(cid:88)lması ve firmamızın bünyesindeki ar-ge ekibinin güçlendirilmesine karar
+verilmiş(cid:80)r. Firmamız kısa vade de mevcut ar-ge departmanını tüm iş süreçleriyle kurumsallaş(cid:88)rarak dış kaynak kullanımını
+minimuma indirgemeyi hedeflemiştir.
+2017 yılı içerisinde Holding seviyesinde alınan bir ön kararla Holdingin farklı şirketlerinin ih(cid:80)yaç duyduğu, özellikle büyük veri
+işleme ve anali(cid:80)k çözümlerin geliş(cid:80)rilmesi konusunda SabancıDX'de merkezi bir ar-ge yapısının oluşturulması kararlaş(cid:88)rılmış(cid:88)r.
+Bu kapsamda holdinge bağlı işletmelerin veri madenciliği teknolojileri alanına giren ar-ge çalışmaları SabancıDX ar-ge
+biriminde gerçekleş(cid:80)rilebilecek(cid:80)r. Bu kararın alınmasındaki en önemli sebep SabancıDX'in bu sistemleri geliş(cid:80)rmesi sonrasında
+paket çözümlere dönüştürerek, kazanılan know-how’ı uluslararası alandaki farklı işletmelerde de (cid:80)carileş(cid:80)rme potansiyelinin
+olmasıdır. Bu hedefin gerçekleş(cid:80)rilebilmesi için mevcut ar-ge ekibinin yüksek nitelikli personellerle zenginleş(cid:80)rilmesi
+gerekmektedir.
+Firmamızın ar-ge biriminin kurumsallaşması ve projelerindeki ar-ge derinliklerinin artmasına paralel olarak, mevcut yapımızın
+akademik çalışmalarla desteklenmesi gereksinimi ağırlık kazanmış(cid:88)r. Bu çerçevede özellikle Sabancı Üniversitesi TTO
+aracılığıyla ortak projelerin gerçekleş(cid:80)rilmesi, araş(cid:88)rmacı is(cid:80)hdamı ve danışmanlık konularında kapsamlı bir mutabakata
+varılmış(cid:88)r. Bu yönde planlamalar gerçekleş(cid:80)rilmiş(cid:80)r. Kısa orta vadede bu işbirliklerimizin etkisiyle firmamızın akademi düzeyde
+çıktılar üretebilmesi hedeflenmiştir. Bu süreç şüphesiz mevcut personellerimizin akademik ilerlemelerini destekleyecektir.
+Firmamızın daimi hedefi bütün iş ortakları için onların gereksinimlerini kusursuz karşılayabilecek, fonksiyonel, esnek ve
+ulaşılabilir çözümleri, güncel teknolojilere uygun olarak geliş(cid:80)rmek(cid:80)r. Bu aşamada uluslararası alandaki müşterilerimiz de
+dikkate alındığında müşteri taleplerindeki özelleşmeler ciddi orada büyüyebilmektedir. Bunun için geliş(cid:80)rilen çözümlerde
+teknolojinin gerisinde kalmayan, öncü teknolojilere sahip çık(cid:88)lara ulaşılması hedeflenmektedir. Bu kapsamda ulusal ve
+uluslararası konferanslara ka(cid:88)lımlar, kurum içi ve dışı eği(cid:80)mlerle proje ekiplerinin güncel gelişmelerin odağında olası
+sağlanacaktır.
+Sayfa 11 / 74
+2. AR-GE MERKEZİ GENEL BİLGİLERİ
+2.1. Ar-Ge Merkezi Bilgileri
+Unvanı Sabancı Dijital Teknoloji Hizmetleri A.ş.
+Adres KENTSA ALİKAHYA FATİH MAH. SANAYİ CAD. NO:96/2
+Lokasyon
+İl Kocaeli
+Telefon 0262 364 70 10
+E-Posta Elif.Ates@sabancidx.com
+SGK İşyeri Sicil No 262030101004747804113-57
+Ofis Alanı (m2) 1.100
+Laboratuvar, Test, Prototip, Atölyesi vb. Bölümlerin Alanı (m2) 0
+Toplam Alanı (m2) 1.100
+Sayfa 12 / 74
+2.2. Ar-Ge Merkezi'nin İşletme Binası Ya da Yerleşke İçindeki Yer / Yerlerini Gösteren Şema
+Sayfa 13 / 74
+Sayfa 14 / 74
+2.3. Ar-Ge Merkezi Vaziyet Planı
+Sayfa 15 / 74
+2.4. Ar-Ge Merkezi Organizasyon Şeması
+Sayfa 16 / 74
+2.5. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezi Çalışan Personel Listesi
+Sıra T.C. / Adı Uyruğu Eğitim Mezun Görevi SGK Sicil No Ar-Ge
+No Yabancı Soyadı Durumu Olduğu Okul / (Araştırmacı, Biriminde
+Kimlik No Bölümü Teknisyen, İşe
+Destek Başladığı
+Personeli) Tarih
+1 49444587296 Ufuk Türkiye Lisans KOCAELİ Araştırmacı 4101199910435 1.8.2002
+Yumlu ÜNİVERSİTESİ
+/ Bilgisayar
+Bilimleri
+Mühendisliği
+2 43897590230 Oğuz Türkiye Yüksek Lisans GEBZE TEKNİK Araştırmacı 3402200020472 11.5.2009
+Haydar ÜNİVERSİTESİ
+Akbaba / Bilgisayar
+Mühendisliği
+3 12547939774 Necmi Türkiye Lisans ANADOLU Araştırmacı 3407200556003 26.3.2012
+Kayıkçı ÜNİVERSİTESİ
+/ İşletme
+4 50737360854 İlkay Türkiye Lisans KOCAELİ Araştırmacı 4101200620079 1.12.2012
+Erkör ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+5 37037267656 Ferda Türkiye Yüksek Lisans BEYKENT Araştırmacı 3407200322499 20.3.2013
+Sevim ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+6 39796740296 Mehmet Türkiye Lisans KOCAELİ Araştırmacı 4101201007083 1.10.2013
+Dağdelen ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+7 21584062840 Özer Türkiye Lisans GİRNE Araştırmacı 4102201004973 5.5.2014
+Kaya AMERİKAN
+ÜNİVERSİTESİ
+/ Yönetim
+Bilişim
+Sistemleri
+(Fakülte)
+8 24883422834 Akif Türkiye Lisans LEFKE AVRUPA Araştırmacı 5401200806532 1.10.2014
+Beyhan ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+Sayfa 17 / 74
+9 43850004330 Yusuf Türkiye Lisans YILDIZ TEKNİK Araştırmacı 4101200826859 8.10.2014
+Bahadır ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+10 43840171592 Özkan Türkiye Lisans KOCAELİ Araştırmacı 0701200873232 25.12.2014
+Özbaş ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+11 47116345472 Murat Türkiye Yüksek Lisans YEDİTEPE Araştırmacı 3402199927812 6.4.2015
+Erentürk ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+12 17876457678 Ahmet Türkiye Lisans GİRNE Araştırmacı 4101201003716 1.2.2016
+Koç AMERİKAN
+ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+13 36061059404 Eyüp Türkiye Lisans KOCAELİ Araştırmacı 701200764766 1.2.2016
+Altındal ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+14 22577153798 Serhat Türkiye Yüksek Lisans SAKARYA Araştırmacı 4101200614299 1.2.2016
+Köksal ÜNİVERSİTESİ
+/ Yönetim
+Bilişim
+Sistemleri
+(Fakülte)
+15 46879334532 Kaan Has Türkiye Lisans SAKARYA Araştırmacı 5401201407515 1.11.2016
+ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+16 11339615032 Erkan Türkiye Lisans ULUSLARARASI Araştırmacı 3401200656244 13.6.2017
+Arslan KIBRIS
+ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+17 45208546554 Sevban Türkiye Lisans SAKARYA Araştırmacı 5401201606460 9.4.2018
+Bayrak ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+18 35365936640 Mehmet Türkiye Lisans KOCAELİ Araştırmacı 0602200928450 9.4.2018
+Yılmaz ÜNİVERSİTESİ
+/ Bilgisayar
+Sayfa 18 / 74
+Mühendisliği
+19 14522499792 Resul Türkiye Yüksek GAZİ Araştırmacı 7401200900651 11.6.2018
+Kaan Lisans(Öğrenci) ÜNİVERSİTESİ
+Karakoç / Bilgisayar
+Mühendisliği
+20 17504787818 Onur Türkiye Lisans ANADOLU Araştırmacı 3406200202674 8.6.2018
+Sağıroğlu ÜNİVERSİTESİ
+/ İşletme
+21 52855290242 Hakkı Türkiye Ön Lisans ANADOLU Destek 4101200101232 1.12.2005
+Yıldırım ÜNİVERSİTESİ Personeli
+/ Bilgisayar
+Programcılığı
+22 48166446874 Gökhan Türkiye Yüksek Lisans SAKARYA Destek 3402200900085 6.6.2012
+Pala ÜNİVERSİTESİ Personeli
+/ İşletme
+23 24554421838 Alper Türkiye Lisans ULUSLARARASI Araştırmacı 3407201049923 29.5.2018
+Akbulak KIBRIS
+ÜNİVERSİTESİ
+/ Bilgisayar
+Mühendisliği
+**(1.1.2018 - 31.12.2018) Faaliyet Döneminde Çalışan Personellere ilişkin.
+Sayfa 19 / 74
+2.6. Ar-Ge Merkezi Personelinin Görev ve Eğitim Durumları
+Görev Nitelik Sayı
+Doktora Üstü 0
+Doktora 0
+Doktora Öğrenci 0
+Araştırmacı
+Yüksek Lisans 4
+Yüksek Lisans Öğrenci 1
+Lisans 16
+Teknisyen Meslek Yüksekokulu 0
+Meslek Lisesi 0
+Destek Personeli Yönetici, Laboratuvar, Teknik Eleman, Sekreter, İşçi vb. 2
+TOPLAM 23
+**(1.1.2018 - 31.12.2018) Faaliyet Döneminde Çalışan Personellere ilişkin.
+**Bu alanda eği(cid:80)m durumu 'Lisans' ve üstü olan Teknisyen tablodaki hesaplamaya dahil edilmemektedir. Faaliyet döneminde
+çalışan personel listesi 2.5. başlığı altında yer almaktadır.
+2.7. Ar-Ge Merkezi Personel Değişim Gösterim Tablosu
+Görev Nitelik Başlayan Sayısı Ayrılan Sayısı
+Doktora Üstü 0 0
+Doktora 0 0
+Araştırmacı
+Yüksek Lisans 0 0
+Lisans 5 1
+Teknisyen Meslek Yüksekokulu 0 0
+Meslek Lisesi 0 0
+Destek Personeli Yönetici, Laboratuvar, Teknik Eleman, Sekreter, İşçi vb. 0 0
+TOPLAM 5 1
+Personel Devir Oranı (Yıllık)
+Sayfa 20 / 74
+**(1.1.2018 - 31.12.2018) Faaliyet Döneminde Çalışan Personellere ilişkin.
+**Bu alanda eği(cid:80)m durumu 'Lisans' ve üstü olan Teknisyen tablodaki hesaplamaya dahil edilmemektedir. Faaliyet döneminde
+çalışan personel listesi 2.5. başlığı altında yer almaktadır.
+Sayfa 21 / 74
+2.8. Ar-Ge Merkezinin Ulusal Ve Uluslararası İşbirlikleri
+İşbirliği İşbirliği Yapılan Kurum/Kişi Ülkesi İşbirliği Türü/Şekli
+Yapılan
+Üniversiteler Sabancı Üniversitesi- Dr. H. Sait ÖLMEZ Türkiye Akademik Danışmanlık
+Üniversiteler Sabancı Üniversitesi Türkiye Teknoloji Transfer Ofisi
+Üniversiteler İstanbul Üniversitesi- Yrd. Doç. Dr. Tolga Türkiye Akademik Danışmanlık
+ENSARİ
+Ar-Ge / Akbank Ar-Ge Merkezi Türkiye Ortak Proje Geliştirme
+Tasarım
+Merkezleri
+Ar-Ge / Kordsa Ar-Ge Merkezi Türkiye Ortak Proje Geliştirme
+Tasarım
+Merkezleri
+Diğer / Kurum, İleri Veri Analitiği Akademisi Türkiye İleri veri analitiği konusunda eğitim alındı ve Sabancı
+Kuruluş, Vakıf Üniversitesi Veri Analitiği Yüksek Lisans Programı
+ve Fonlar hocaları program dahilinde ders verildi.
+Üniversiteler Assoc.Prof Selim Balcısoy (Sabancı Türkiye Akademik Danışmanlık Hizmeti
+Üniversitesi Mühendislik ve Doğa Bilimleri
+Fakültesi Dekan Yardımcısı)
+Üniversiteler Sabancı Üniversitesi Türkiye Ortak proje geliştirme
+Sayfa 22 / 74
+2.9. Ar-Ge/Tasarım Faaliyetlerinin Özendirilmesi, Performans Değerlendirme ve Ödül Sistemi
+Ar-Ge faaliyetlerinin özendirilmesi noktasında performans kriterlerinin de dikkate alındığı bir ödül sistemi uygulanmaktadır.
+Sabancı Dx personelinin şirkete katkı sağlayan önemli düzeydeki başarılarını ve etkinliklerini belirlemek, sürekli iyileş(cid:80)rme
+çalışmalarına katılımını cesaretlendirmek, girişimciliklerini güçlendirmek için belirli ödüller uygulanmaktadır.
+Ar-Ge Merkezi çalışanlarımızın Ar-Ge süreçlerine katılımını ve Ar-Ge fikirlerinin projelendirilmesini desteklemeyi amaçlar.
+Bu prosedürdeki uygulamalar, AR-GE Merkezinde belirsiz süreli sözleşme kapsamında çalışmakta olan kişileri kapsar.
+Prosedürün uygulanmasından SabancıDx Ar-Ge Kurulu sorumludur. Ar-Ge kurulu, Genel Müdür tara(cid:82)ndan atanan kişilerden
+oluşur.
+Ar-Ge Kurulu Proje Fikri Değerlendirme Kriterleri (Ek1 Proje Değerlendirme Şablonunda) ile belir(cid:80)len puanlama kriterleri
+doğrultusunda, projenin Sanayi ve Teknoloji Bakanlığı Ar-Ge ya da TÜBİTAK TEYDEB/SADE kapsamınan göre uygunluk arar.
+Proje başvuru ve değerlendirme süreci aşağıdaki adımlardan oluşmaktadır:
+i. Fikir sahibi Ar-Ge Projesi fikrini, “Amaç, kapsam, gerekçe ve Ar-Ge niteliği” tanımlamalarını yaparak, Ar-Ge kuruluna ait
+eposta adresine gönderir.
+ii. Başvurusu alınan proje fikri “Ek1 Proje Değerlendirme Şablonunda” belir(cid:80)len kriterlere göre Ar-Ge kurulu tara(cid:82)ndan
+değerlendirilmek üzere işleme alınır. Fikir sahibine, değerlendirme aşamasında olduğuna dair mail ile geri bildirimde bulunulur.
+iii. Kurul tara(cid:82)ndan yapılan değerlendirme sonucu ilgili fikir sahibine eposta ile bildirilir. Fikrin başvuruya uygun görülmesi
+durumunda, proje kapsamı doğrultusunda, aşağıdaki maddelere göre ödül/teşvik sistemi uygulanır.
+-Ar-Ge kurulunca, Sanayi ve Teknoloji Bakanlığı Ar-Ge Projesi olma adayı kabul edilen fikirler için çalışan ödül/teşvik kriterleri.
+i. Ön değerlendirmede kabul gören proje fikri sahibi çalışana 250 puan ödül verilir.
+ii. Fikrin projeye dönüşmesi sonrasında Sanayi ve Teknoloji Bakanlığı dene(cid:80)m onayı alarak tamamlanmasını takiben, proje fikir
+sahibine 1.000 puan ödül verilir. Ar-Ge çalışanlarından oluşan proje ekibindeki her bir üyeye 500 puan ödül verilir.
+iii. Aynı proje ile TÜBİTAK başvurusu yapılması ve onaylanması durumunda, ek olarak 3.4 maddesindeki kurallar geçerlidir
+-Ar-Ge kurulunca, TEYDEB/SADE Ar-Ge Projesi olma adayı kabul edilen projeler için çalışan ödül/teşvik kriterleri.
+i. TÜBİTAK tarafından değerlendirmede kabul gören proje fikri sahibi çalışana 500 puan ödül verilir.
+ii. TÜBİTAK tara(cid:82)ndan projenin başarı ile tamamlanmasının onaylanması durumunda, proje fikir sahibine 2.000 puan ödül
+verilir. Ar-Ge çalışanlarından oluşan proje ekibindeki her bir üyeye 2.000 puan ödül verilir.
+iii. TÜBİTAK tara(cid:82)ndan onaylanan proje için Uluslarası desteklerden yararlanılması durumunda, proje fikir sahibine 5.000 puan
+ödül verilir.
+1 puanın karşılığı olan tutar, her yılın Ocak ayı sonunda İnsan Kaynakları tarafından yayınlanır.
+AR-GE Merkezi çalışanlarımızın yüksek lisans/doktora eği(cid:80)mi almalarını ve akademik/bilimsel çalışma yapmalarını
+desteklemeyi amaçlar.
+Çalışanların, akademik eği(cid:80)mlerini sürdürmeleri, yeni teknolojiler konusunda güncel ve derinlemesine bilgi sahibi olabilmeleri,
+çalışanların kariyerleri açısından çok önemlidir. Bu sebeple çalışanların yüksek lisans ve doktora programlarına devam etmeleri
+desteklenmekte, çalışma saat ve öncelikleri, olanaklar ölçüsünde onların eğitimlerini aksatmayacak şekilde düzenlenmektedir.
+Kurumun anlaşmalı olduğu üniversiteler ve yüksek lisans programları indirim oranları, İnsan Kaynakları tarafından paylaşılır.
+Sayfa 23 / 74
+Tezsiz yüksek lisans olması durumunda yalnızca Fen Bilimleri Ens(cid:80)tüsü ya da muadilleri olmak zorundadır. Tezsiz Yüksek
+Lisansa başlama ve bitirme durumunda aşağıdaki ödül ve teşvik sistemi devreye girmektedir:
+i) Yüksek Lisans başlama teşvik ödeneği 1000 puandır.
+ii) Yıllık izinden düşülmemek kaydıyla haftada 1 gün ders izni verilir.
+iii) Yüksek Lisans mezuniyet başarı ödülü ise 2.000 puandır.
+Tezli Yüksek Lisansa başlama ve bitirme durumunda aşağıdaki ödül ve teşvik sistemi devreye girmektedir:
+i) Yüksek Lisans başlama teşvik ödeneği 1000 puandır.
+ii) Yıllık izinden düşülmemek kaydıyla haftada 1 gün ders izni verilir.
+iii) Yüksek Lisans mezuniyet başarı ödülü ise 2.000 puandır.
+iv) Tez çalışmasının Ar-Ge Merkezi Projeleri kapsamında gerçekleş(cid:80)rilmesi ve ilgili projenin başarı ile tamamlanması
+durumunda mezuniyet başarı ödülü 4.000 puandır.
+Doktoraya başlama ve bitirme durumunuzda aşağıdaki ödül ve teşvik sistemi devreye girmektedir.
+i) Doktorada tüm bölümler kabul edilmektedir.
+ii) Doktoraya başlama teşvik ödeneği 2.000 puandır.
+iii) Yıllık izinden düşmemek kaydıyla haftada 1 gün ders ve tez çalışma izni verilir.
+iv) Tez çalışmasından bağımsız olarak Doktora programından mezuniyet başarı ödülü 4.000 puandır.
+v) Üs(cid:101)eki maddeye ek olarak; Doktora tez çalışmasının Ar-Ge Merkezi Projeleri kapsamında gerçekleş(cid:80)rilmesi ve ilgili projenin
+başarı ile tamamlanması durumunda ek olarak başarı ödülüne 6.000 puan daha eklenir.
+Seminer, Konferans, Sempozyum teşvikleri aşağıdaki gibidir;
+i) Akademik çalışma yapacağınız yayının Ar-Ge Merkezi Projeleri ile ilişkilendirilmesi gerekmektedir.
+ii) Çalışmanın bilgilendirme bölümünde yapacağınız yayının, SabancıDX Ar-Ge Merkezi projeleri kapsamında yapıldığının beyanı
+gerekmektedir. (Örnek: “Yapılan bu çalışma, SabancıDx . Ar-Ge Merkezinde Yürütülen ‘……’ Projesi Kapsamında
+Gerçekleştirilmiştir.”)
+iii) Ulusal bir konferansa özet bildiri ya da poster sunulursa 300 puandır.
+iv) Ulusal bir konferansa tam metin sunulursa 750 puandır.
+v) Uluslararası bir konferansa özet bildiri ya da poster sunulursa 450 puandır.
+vi) Uluslararası bir konferansa tam metin sunulursa 1.000 puandır.
+vii) Katılım durumlarında masraflar (katılım, konaklama, ulaşım) şirket tarafından karşılanır.
+Makale destek teşviği ise aşağıdaki gibidir;
+i) Akademik çalışma yapacağınız yayının Ar-Ge Merkezi Projeleri ile ilişkilendirilmesi gerekmektedir.
+ii) Çalışmanın bilgilendirme bölümünde yapacağınız yayının, SabancıDX Ar-Ge Merkezi projeleri kapsamında yapıldığının beyanı
+gerekmektedir. (Örnek: “Yapılan bu çalışma, SabancıDx . Ar-Ge Merkezinde Yürütülen ‘……’ Projesi Kapsamında
+Gerçekleştirilmiştir.”)
+iii) Ulusal hakemli dergilerde makale yayınlandığında 1.500 puandır.
+iv) Uluslararası hakemli dergilerde makale yayınlandığında 2.000 puandır.
+v) SCI, SCI-E tarafından indekslenen dergilerde makale yayınlandığında 5.000 puan yayın teşvik ödeneği verilir.
+Sayfa 24 / 74
+vi) AR-GE Teşvik tablosunda Akademi ve Bakanlık projeleri için teşviklere yer verilmiştir.
+vii) Yazar sayısı 1 kişiden fazla olduğu durumda çalışanlar için; 1. isim teşvik ödeneğinin 0.8 ka(cid:88), sonraki yazarlar 0.5 ka(cid:88)
+oranında teşvik alırlar. Aynı makale için yalnızca ilk üç yazara ödeme yapılır.
+1 puanın karşılığı olan tutar, her yılın Ocak ayı sonunda İnsan Kaynakları tarafından yayınlanır.
+Sayfa 25 / 74
+2.10. Ar-Ge Merkezi Proje Yönetim Süreci
+Sayfa 26 / 74
+2.11. Ar-Ge Merkezi Kontrol Mekanizması (Giriş-Çıkışlar)
+Kontrol Mekanizması Var / Yok Sayısı
+Turnike sayısı Var 1
+RFID sayısı Var 1
+Personel giriş kartı sayısı Var 25
+Yüz tanıma, parmak İzi, vb. sayısı Yok 0
+Kamera ve kayıtları sayısı Var 3
+Puantaj için gerekli donanım ve proje yönetimi ve muhasebe ile entegre yazılım sayısı Var 1
+Sayfa 27 / 74
+3. AR-GE MERKEZİ DETAYLANDIRILMIŞ MALİ BİLGİLER
+3.1. Belge Tarihi İtibariyle Ar-Ge İndirimine Konu Olan Ar-Ge ve Yenilik Harcamalarının Kapsamı
+Faaliyet İlk Madde ve Malzeme Amortisman Net Personel Genel Dışarıdan Sağlanan Fayda
+Dönemi Giderleri Tutarı Giderleri Toplamı Giderler ve Hizmetler
+2018 0,00 988,65 1.578.249,27 401.597,37 91.071,43
+Faaliyet Vergi, Ar-Ge ve / Sağlanan Ar-Ge ve Tasarım Ar-Ge/Tasarım İndirimi Kapsamında
+Dönemi Resim ve veya Tasarım Nakit İndirimine Tabi Yararlanılan / Yararlanılacak Kurumlar
+Harçlar Harcaması Destekler Harcamalar Toplamı Vergisi İstisnası
+2018 0,00 2.071.906,72 0,00 2.071.906,72 455.819,48
+Sayfa 28 / 74
+3.2. Belge Tarihi İtibariyle 5746 Sayılı Kanun Kapsamında Yararlanılan İndirim, İstisna, Muafiyet vb. Teşvik
+Tutarı
+Faaliyet Ar-Ge ve Tasarım İndirimi Kapsamında Yararlanılan Gelir Vergisi Sigorta Damga Gümrük
+Dönemi / Yaralanılacak Kurumları Vergisi İstisnası Stopaj Primi Vergisi Vergisi
+Teşviği Desteği İstisnası İstisnası
+2018 455.819,48 218.868,12 69.505,15 9.917,90 0,00
+Faaliyet Yararlanılan İndirim, İstisna, Ar-Ge İndirimine Tabi Yıllık Toplam Toplam
+Dönemi Muafiyeti vb. Teşvik Tutarı Harcamalar Toplamı Ciro Harcamanın Ciroya
+Oranı
+2018 754.110,65 2.071.906,72 192.681.637,07 2.071.906,72 /
+192.681.637,07
+Sayfa 29 / 74
+4. Ar-Ge MerkeziNİN BİLGİ KAYNAKLARI
+4.1. Ar-Ge Merkezinin Üye Olduğu Ulusal / Uluslararası Bilimsel Kütüphaneler ve Veri Tabanları
+Kuruluşumuzun hali hazırda uluslararası bilimsel kütüphane ve veritabanlarına doğrudan üyeliği bulunmamaktadır. Bu konuda
+mevcut patent araş(cid:88)rmalarımız doğrudan üyelik olmaksızın WIPO(World Intellectual Property Organiza(cid:80)on), EPO (European
+Patent Office) ve TPE (Türk Patent Ens(cid:80)tüsü) açık veri tabanları üzerinden ve Google Patents Search üzerinden
+yapılabilmektedir. Bunların dışında , Ar-Ge faaliyetlerine yönelik teknik araş(cid:88)rmalar ise üyelik gerek(cid:80)rmeyen Pluralsight,
+Udemy, Gartner Research, Idc platformları üzerinden gerçekleştirilmektedir.
+4.2. Faaliyet Dönemi İçinde Katılım Sağlanan Sempozyum, Kongre, Konferanslar
+Sıra Türü Katılım Sağlanan Konferans, Sempozyum, vb. Bilimsel Yurt İçi / Yurt Katılım Tarihi Kişi
+No Etkinlik Dışı Aralığı Sayısı
+Listelenecek herhangi bir katılım sağlanan sempozyum, kongre, konferans bilgisi bulunamadı.
+4.3. Son İki Faaliyet Dönemine İlişkin Fikri ve Sınai Mülkiyet Hakları Genel Durumu
+Fikri ve Sınai Mülkiyet ve Yayın Durumu 2017 2018
+Başvurusu Yapılan Patent Sayısı 0 0
+Tescil Edilen Ulusal veya Uluslararası Patent Sayısı 0 0
+Başvurusu Yapılan Tasarım Sayısı 0 0
+Tescillenen Tasarım Sayısı 0 0
+Tescillenen Marka Sayısı 0 0
+Yayın, Makale, Bildiri Sayısı 0 0
+Tescil Edilmiş Faydalı Model Sayısı 0 0
+Tescil Edilmiş Endüstriyel Tasarım Sayısı 0 0
+Tescil Edilmiş Yazılım Tescil Sayısı 0 0
+Tescil Edilmiş Triadik Patent Sayısı 0 0
+Ulusal Yayın Sayısı 0 0
+Uluslararası Yayın Sayısı 0 0
+Sayfa 30 / 74
+5. Ar-Ge MerkeziNİN İNSAN KAYNAKLARI YÖNETİMİ VE GELİŞTİRİLMESİ
+5.1. Faaliyet Döneminde Ar-Ge/Tasarım Personeline Aldırılan Mesleki Gelişim / Yetkinlik Geliştirme Amaçlı
+Eğitimler ve Sertifika Programları
+Sıra No Eğitimin Adı Yurt İçi / Yurt Dışı Katılımın Tarihi Kişi Sayısı
+1 İŞ ANALİSTİ EĞİTİMİ Yurt İçi 11.10.2018 - 13.10.2018 1
+2 ITIL FOUNDATION V3 EĞİTİM Yurt İçi 30.11.2018 - 1.12.2018 3
+3 AZURE FUNDAMENTALS AND ARCHITECTING Yurt İçi 1.6.2018 - 31.12.2018 1
+4 Kick-off Yurt İçi 23.7.2018 - 23.7.2018 1
+5 Foundation BootcampGroupI Yurt İçi 23.7.2018 - 26.7.2018 1
+6 Foundation BootcampGroupIII Yurt İçi 24.7.2018 - 27.7.2018 1
+7 Foundation Bootcamp Group III Yurt İçi 25.7.2018 - 28.7.2018 1
+8 Pre-PythonCrashCourse Yurt İçi 30.7.2018 - 8.8.2018 1
+9 TranslatorModule1 Yurt İçi 6.8.2018 - 10.8.2018 1
+10 TranslatorModule2–Site Visit Yurt İçi 3.9.2018 - 7.9.2018 1
+11 TranslatorModule3 Yurt İçi 18.9.2018 - 19.9.2018 1
+12 Data ScientistModule1 Yurt İçi 9.8.2018 - 10.8.2018 1
+13 Data ScientistModule2 Yurt İçi 13.8.2018 - 17.8.2018 1
+14 Data ScientistModule3–Site Visit Yurt İçi 3.9.2018 - 7.9.2018 1
+15 Data Scientist Module 4 Yurt İçi 10.9.2018 - 14.9.2018 1
+16 Data ScientistModule5–Site Visit Yurt İçi 17.9.2018 - 24.9.2018 1
+17 Data EngineersModule1–Site Visit Yurt İçi 14.8.2018 - 17.8.2018 1
+18 Data EngineersModule2–Site Visit Yurt İçi 3.9.2018 - 6.9.2018 1
+19 Data EngineersModule3 Yurt İçi 10.9.2018 - 14.9.2018 1
+20 Hackathon Yurt İçi 30.9.2018 - 2.10.2018 1
+Sayfa 31 / 74
+6. AR-GE MERKEZİ CİHAZ VE EKİPMAN ALTYAPISI
+6.1. Faaliyet Dönemi Sonu İtibariyle Ar-Ge Merkezi Mevcut Cihaz ve Ekipman Listesi
+Sıra No Cihaz / Ekipman Adı Adet
+1 Uygulama Sunucusu 6
+2 DB Sunucusu 6
+3 Web Sunucusu 1
+4 Yetki Sunucusu 1
+5 Dosya Sunucusu 1
+6 App Server 5
+7 Windows Service Server 1
+8 File Server 2
+9 E-Invoice Master DB Server 1
+10 E-Invoice Archive DB Server 1
+11 E-Archive DB Server 2
+12 E-Invoice DB Server 1
+13 Laptop 18
+Sayfa 32 / 74
+6.2. Ar-Ge/Tasarım Amaçlı Kullanılan Bilgi Teknolojileri Cihazları ve Lisanslı Yazılımların Listesi
+Sıra No Cihaz / Yazılım Adı Adet
+1 Jira 21
+2 Confluence 20
+3 IBM WAS 7.0 1
+4 MS SQL Enterprise Edition 3
+5 MS project 2
+6 Eclipse 6
+7 Visual Studio 9
+8 SonarQube 1
+9 Slack 20
+10 Jenkins 1
+11 Advanced Query Tool 3
+12 Codesmith Generator 3
+13 AWS Tools 3
+14 GCP Tools 3
+15 JetBrains ToolBox 10
+16 Jrebel 10
+17 Desktop 2
+Sayfa 33 / 74
+7. Ar-Ge Merkezi PROJELERİ
+7.1. Faaliyet Döneminde Tamamlanan Projeler Listesi
+Sıra Proje Proje Özkaynakla Destek Ulusal Destek Uluslararası Destek Toplam Proje
+No Kodu Adı Karşılanan Tutar Tutarı Programının Adı Programının Adı Bütçesi
+Listelenecek herhangi bir tamamlanan proje bilgisi bulunamadı.
+Sayfa 34 / 74
+7.2. Faaliyet Döneminde Devam Eden Projeler Listesi
+Sıra Proje Proje Adı Özkaynakla Destek Ulusal Destek Uluslararası Toplam
+No Kodu Karşılanan Tutarı Programının Destek Proje
+Tutar Adı Programının Adı Bütçesi
+1 P2 E-defter Denetim 610.000,00 0 610.000,00
+2 P7 Pratis.Net Büyük Veri Analizi 600.000,00 0 600.000,00
+ve Otomasyon Projesi
+3 P8 Pratis.Net İhale verilerinin 400.000,00 0 400.000,00
+otomatik olarak
+sınıflandırılması
+4 P4 Fatura faktöring - Firmaların 610.000,00 0 610.000,00
+nakit akışı risklerinin
+ölçümlenmesi
+5 P5 GRC – RİSK Yönetim 900.000,00 0 900.000,00
+Otomasyonu
+6 P9 Proje Bazlı, Kaynak Planlama 850.000,00 0 850.000,00
+ve Risk Yönetim Sistemi
+7 P10 Dijital İnsan Kaynakları 1.850.000,00 0 1.850.000,00
+Yönetim Sistemi
+8 P11 e-Satınalma ve teklif yönetim 1.450.000,00 0 1.450.000,00
+sistemi platformu
+Sayfa 35 / 74
+7.3. Faaliyet Döneminde Devam Eden Proje Detayları
+Proje Kodu P2
+Proje Adı E-defter Denetim
+Proje 1.11.2017
+Başlama
+Tarihi
+Proje Bitiş 30.6.2019
+Tarihi
+Projede 3
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 21
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 610.000,00
+Proje
+Bütçesi (TL)
+Öz 610.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Sayfa 36 / 74
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Projenin ana noktasında bulunan e-defter projesi Şekil hükümlerinden bağımsız olarak Vergi Usul Kanununa
+Konusunu ve/veya Türk Ticaret Kanununa göre tutulması zorunlu olan defterlerde yer alması gereken bilgileri kapsayan
+Belirleyen elektronik kayıtlar bütünü olarak açıklanabilir. Her e-devlet projesinde olduğu gibi e-defter projesini de kritik
+İhtiyaçlar bir aralık içerisine sokan en önemli ayrıntı devlet kontrolünü ve standartlarını daha optimal seviyelere
+ulaştırma isteğidir. Bu projeyi devlet açısından önemli kılan diğer bir madde ise ortak bir format standardı
+oluşturulması olarak gösterilebilir. Ortak bir format standardı kamu ve özel sektör tabanındaki bilgi raporlama
+ve denetim süreçlerinde büyük bir kolaylık ve tutarlılık sağlaması düşünülerek kurgulanmıştır. Belirtiğimiz
+tanımlar ve ihtiyaçlar doğrultusunda mükelleflere ve bu proje dahilinde destek verecek olan birimlere çok
+büyük sorumluluklar yüklenmiş bulunmaktadır. Bu sorumlulukları bir çok madde yazarak sıralayabiliriz ama
+devlet ve denetleyici kurumlar açısından en önemli olanı ERP ‘ler üzerinden aktarılan girdilerin tümüyle
+muhasebe şartlarına ve ilkelerine uygun şekilde kurgulanarak elektronik defter formatına dönüşmesini
+sağlama süreci olarak gösterilebiliriz. Yukarıda belirtilen zorunluluklar kapsamında kurumların ERP’leri
+tarafında oluşturulan defter datalarını muhasebe ilkeleri ve kuralları paralelinde öğretilmiş bir kurgu
+içerisinde analiz edecek, hatalı ve eksik olan noktaları bularak yönlendirmesini yaparak defterin en sağlıklı
+haliyle GİB’e gönderilmesini sağlayan bir kurguya ihtiyaç duyulmaktadır. E-defterlerin denetimi belli kurallar
+çerçevesinde olmakla beraber farklı iş kollarındaki işletmelerde faaliyet alanı gereği doğal farklılaşmalar
+olduğu gibi farklı işletmelerin ya da denetim şirketlerinin denetim süreçlerindeki metrik setleri de birbirinden
+farklı olabilmektedir. Bu sebeple standart bir e-defter denetim çözümünün olduğu gibi bütün işletmelerde
+kullanılması mümkün değildir. Projemiz ile e-defter denetim süreçlerinde firmaların kendi kural setlerini
+oluşturabilecekleri, belli rasyoları basit matematiksel ifadelerle ya da daha karmaşık modeller kurarak
+inceleyebilecekleri bir sistem geliştirilecektir. Hali hazırda öngörülen sistemin bir örneği tespit edilememiştir.
+Bu sebeple nedenle gerçekleştirilecek detaylı analizlerle, kavramsal tasarım sürecinden başlayan kapsamlı bir
+ar-ge alışmasının yapılmasını gerektirmektedir.
+Proje Bu proje kapsamında kurgulanacak sistemin hangi verileri kontrol etmesi gerektiği, veriler içerisinde
+Kapsamında gönderilen tutarların değerlendirilmesi, hesap bakiyelerinin doğruluğunun araştırılması gibi major nitelikli
+Yapılacak kurguların uygulanması uzman kadro ve danışmanlık firmaları ile ortak çalışma ortamı oluşturularak
+Faaliyetler planlanacaktır. Şuanki yapı içerisinde SabancıDX bünyesinden servis edilen e-defter sistemi ERP bağımsız
+olarak kurgulanmış bir yapıya sahip olup, gönderilecek verileri muhasebesel akış içerisindeki belli kurallar
+dizilerine göre sorgulayabilecek bir altyapıya sahip değildir. Gelir İdaresi Başkanlığının belirlediği format ve
+standartlara uygun biçimde elektronik dosya biçiminde hazırlanması, bastırılmaksızın kaydedilmesi,
+değişmezliğinin, bütünlüğünün ve kaynağının doğruluğunun garanti altına alınması ve ilgililer nezdinde ispat
+aracı olarak kullanılabilmesi için hukuki ve teknik düzenlemelere uyulması gerekir. Bu proje kapsamında
+belirtilen kurallar dizilerinin kurgulanması ve hatalı bir defter üretmenin risklerinden kurtulmak ve berat
+iptalinin zorlukları ile uğraşmamak için, defterlerin hatasız bir şekilde oluşturulması sağlanacaktır. Planlanan
+diğer önemli bir faliyet ise kurgulanacak yapının günümüz finansal ve muhasebesel süreçleri tabanında
+Sayfa 37 / 74
+oluşacak olan değişikliklere hızlı şekilde adapte olma esnekliğine sahip olacak şekilde tasarlanacak olmasıdır.
+Kontrol edilmesi gereken kurallar, geliştirilecek ekranlar üzerinden parametrik olarak girilecektir. Varsayılan
+verileri ilk olarak SabancıDX standartlara uygun olarak oluşturacak ve kullanıcılar bu standartlara uymak kaydı
+ile kendi muhasebesel şartlarına göre bu kuralları kendilerine uyarlayabileceklerdir. Entegrasyon tarafında
+firmanın ham defter bilgileri ERP sistemlerinden portale ERP bağımsız şekilde yüklenir. Firmalar kendi
+muhasebel ve finansal süreçlerine göre portal üzerinde kurallarını oluşturur. Sonrasında firmanın defter
+bilgileri incelenerek kayıtlar analiz edilir. Oluşturmuş olduğu kurallar kapsamında defter bilgileri düzeltilerek
+ilgili raporlar üreritilip berat alınması için GIB’e göndermeye hazır hale getirilir. Uygulama geliştirme
+aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte
+olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir.
+Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için gerekli teknik altyapı
+oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory çalışan sistemler
+geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili metrikler daha da
+görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır. Geliştirme aşamasında
+işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların
+saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. Operasyonel Uygulama kullanılacak
+yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net Framework 4.5, MVC
+Framework, -Veri tabanı: SQL Server -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft
+Visual Studio 2013 -Yazılım Yaşam Döngüsü Araçları: Microsoft Team Foundation Server, GIT . E-doksis e-
+Analiz hizmeti, e-Defter'in standart şematron kontrolleri dışında, mali analiz kontrolleri gibi daha detaylı
+finansal ve muhasebesel kontrollerini yaparak, e-Defter'i GİB'e beyan etmeden önce olası tüm finansal
+riskleri ortadan kaldırılması için ilgili raporlamaları sağlar. E-analiz uygulaması; • Defter datalarını muhasebe
+ilkeleri ve kuralları paralelinde analiz etmek, • Hatalı/eskik noktaları bularak yönlendirip verinin GIB’e
+eksik/hatalı gitmesini engellemek, • Hatalı defter üretimi, berat iptali vb zorluklarla karşılaşmadan işlemlerin
+hatasız yapılmasını sağlamaktır. Özellikler; • Detaylı fiş inceleme, • Hesap aralıklarına göre raporlanabilen
+aylık mizan raporları, • Karşılaştırmalı mizan raporları, • Muavin defter, • Gün veya ay sonu ters bakiye veren
+kayıtların kontrolü, hareket kontrolü, • Gelir ve gider hesaplarını kapatmaya gerek kalmadan, satılan
+malın/hizmetin maliyetinin manuel girilerek Gelir Tablosu oluşturma, • Defter kayıtları üzerinden, Likitide
+Oranı, Finansal Yapı Oranları, ve Faaliyet Oranlarını hesaplama ve analizini sağlar. Projemizin 30 Haziranda
+bitmesi öngörülmektedir.
+Projenin E-Defter'in standart kontrollerinin dışında ( şematron kontrolü, mali analiz kontrolleri vs.) daha detaylı bir
+Yenilikçi şekilde finansal ve muhasebesel kontrol yapmak ve e-Defter'i GİB'e beyan etmeden önce olası tüm finansal
+Yönü ve Ar- riskleri ortadan kaldırmak adına geliştirilecektir. Bu projenin gerçekleşmesi halinde tüm muhasebesel denetim
+Ge Niteliği süreçlerine adapte olabilecek dinamik bir kontrol sistemi oluşturulabilecektir. Oluşturulması planlanan bu
+yapıda bir çok parametreler kullanılarak firma özelindeki muhasebesel süreçlere ve bizden istenecek olan
+muhasebesel kurgulara tümüyle uyum sağlanabilecek bir pakete dönüştürülerek müşteri özelinde bir satış
+stratejisi uygulanabilecektir. Bu proje ile firma defterlerini genel muhasebesel kurallar çerçevesinde
+standartlara uygun şekilde oluşturabilecektir.
+Projenin Projenin beklenen en büyük faydalarından biri devlete ait servislere gidecek olan defterlerin tümüyle
+Beklenen muhasebesel şartlara uygun şekilde oluşturulmasını sağlayacak destek mekanizmasının geliştirilecek
+Çıktıları ve olmasıdır. Ek olarak firma oluşturulacak yapı içerisinden muhasebesel detaydaki tüm ilişkisel raporlara ve
+Faydaları çıktılara ulaşabilecek, en sağlıklı şekilde muhasebesel süreçlerini devam ettirebilecektir. Geliştirilecek sistem
+ile denetimin sürekliliği sağlanacak işletmelerin hatalı işlem kaynaklı riskleri azaltılabilecektir. Bunlara ek
+olarak çok somut bir şekilde denetim firmalarının denetim sürelerinin minimum %50 kısalmasına olanak
+sağlanacaktır.
+Sayfa 38 / 74
+Proje Kodu P7
+Proje Adı Pratis.Net Büyük Veri Analizi ve Otomasyon Projesi
+Proje 1.1.2018
+Başlama
+Tarihi
+Proje Bitiş 31.12.2019
+Tarihi
+Projede 6
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 40
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 600.000,00
+Proje
+Bütçesi (TL)
+Öz 600.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 39 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Pratis.Net Elektronik Satınalma Platformu alıcı ve tedarikçi arasındaki satınalma süreçlerini destekleyen,
+Konusunu ticari bir süreç sunan bir B2B platformudur. Bünyesinde yaklaşık 100 büyük-orta ölçekli alıcı ile yaklaşık 23000
+Belirleyen tedarikçi satınalma ilişkilerini yürütümektedir. Platform üzerinde; talep, ihale, teklif toplama, fiyat
+İhtiyaçlar değerlendirme, katalogtan alım, sipariş, teslimat süreçleri sürdürülmekte ve bununla ilgili veriler süreçlerin
+devamında kaydedilmektedir. Mevcut Pratis.Net topolojisi, operasyonel ortamı sağlıklı bir şekilde
+destekleyen, standart tipteki raporlar için veri analizlerinde başarılı bir yapıdadır. Ancak mevcut sistemlerimiz
+firmaların karar süreçlerini etkileyecek kapsamlı raporlar planlayarak oluşturabilmelerini desteklememektedir.
+Sisteme, kullanıcılar tarafından esnek raporların oluşturulabileceği bir yapı kazandırılabilmesi için 2 boyutlu
+bir çalışmanın yapılması gerekmektedir. Bunlardan ilki sistem üzerinden yapılan işlemlerde oluşan verilerin
+anlamlandırılması sınıflandırılması ve kullanıcıya raporlanabilir bir veri tabanına dönüştürülmesi, ikincisi ise
+sistemin altyapı ve ilgili servislerinin geliştirilmesidir. Platform üzerinde biriken veriler, ilgili anlık süreçler için
+iki tarafın ihtiyacı olan verileri iletmekte kullanılmaktadır. Süreç tamamlandıktan sonra (alıcı firmaların bazı
+dönemler aldıkları raporlar dışında) atıl olarak sistemde tutulmaktadır. Elle sistem üzerinde yoğunluk yaratan
+veriler belli zamanlarda arşive alınmıştır. Veri örneklemeleri; - 58 bini 2017 de olmak üzere 315000 ayrı
+pazarlık oluşturulmuştur. Her yıl 10 bin adet daha fazla pazarlık açılma trendi vardır. - Bu pazarlıklarda; 260
+bini 2017 yılında olmak üzere 1milyon 400 bin kalem ihtiyaç satınalma süreçleri tarafında platform üzerinde
+süreçlere sokulmuştur. - 160 bin katalog kalemi sisteme yüklenmiş ve alıcıların alımlarına sunulmuştur. - Bu
+süreçler sonucunda 45 bini 2017 yılında olmak üzere 240 bin satınalma siparişi tedarikçilere iletilmiş, 660 bin
+kalem malzeme tedarik ettirilmiştir. Bu rakam 2017 de şu ana kadar 20 bin kalem artış göstermiş ve ileriki
+yıllarda da daha da artması öngörülmektedir. Bu veriler alıcı firmaların isteği doğrultusunda bir kaç statik
+boyutta analize sunulmaktadır. Bu veri yığınının içinde değişen ihtiyaçlara göre rapor metriklerinin bilinmesi,
+tahmin edilmesi gittikçe zorlaşmaktadır. Bunun yerine, yığındaki verilerin esnek veri analizi yapacak araçlara
+uygun şekilde, gerçek zamanlı olarak gönderilmesi ve bu araçların uyarlanarak profile göre uygun
+raporlamanın sunulması ihtiyacı vardır. Gönderilen bu verilerin üzerinde çalışacak akıllı kontrollerin devreye
+girerek, kullanıcılara çeşitli önerme, öngörü, uyarı mekanizmaları olarak geri gelmesi sağlanmalıdır. Örneğin;
+teklif verilen bir ihale için aynı kategorideki önceki ihalelerde ki davranış tarzına göre tedarikçinin ihaleyi
+alıp/alamayacağı ile ilgili belli doğruluk rakamı ile bir öngörü sunulabilir. Bu veri yığını içindeki alım
+profillerine göre aynı alımı daha kısa şekilde gerçekleştirebilecekleri diğer platform imkanlarının önerilmesi
+satınalma personelinin hızını arttıracak ve maliyet kazancı sağlayacaktır.
+Proje - Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel
+Kapsamında teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a
+Yapılacak geçilmesi hedeflenmektedir. Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için
+Faaliyetler gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory
+çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili
+metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır.
+Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan
+dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. - Büyük veri analizinin -
+muhtemel raporlama formatları ve alım analizi ve diğer proje çıktısı olarak beklenen otonom sistemleri
+Sayfa 40 / 74
+sağlayacak şekilde- yapılması ve değerli verilerin neler olabileceğinin çıkartılması. - Operasyonel verinin,
+analiz yapılabilecek ya da raporlanabilecek veri yığını haline getirilecek modelin oluşturulması. Bu veri
+akışının gerçek zamanlı olacak şekilde tasarlanması. - Bu veri yığını ilişkisel veri tabanı konseptinin yeterli
+olmayacağı öngörüldüğü taktirde, analiz işleri için kullanılabilen yatayda otomatik büyüyebilen veri
+kaynaklarına dönüştürülmesi gerçekleştirilecektir. Örneğin Google Cloud Platform’da çalışan BigQuery gibi.
+Bu tip bir veri kümesine bu verileri sürekli olarak beslemek için yine Google’ın Dataflow ürünü gibi bir ara
+birim yardımı ile gerçek zamanlı veri akışı, seçilmesi, değiştirilmesi ve saklanması süreci işletilecektir. Bu
+yöntemlere uygun algoritmalar yazılacaktır. - Analitik ile ilgili statik ya da dinamik algoritmaların
+araştırılması, uygunluklarının belirlenmesi ve geliştirilmesi. Bu algoritmalar sonucunda elde edilebilecek veri
+benzerlikleri ya da farklılıklarının tekrar nasıl girdi olarak kullanılabileceğinin araştırılması. Bu konular ile ilgili
+akademik/profesyonel destek alınması. - Alım profiline göre sistem içinde uygun yönlendirmelerin yapılması,
+örneğin sık yapılan alımlara uygun reklamların ya da alımına etki edecek uygun diğer yöntemlerin alıcılarla
+buluşturulması sağlanacaktır. - Operasyonel süreçlerde kullanıcının atacağı adımlara yönlendirmede
+bulunmak. Örneğin; “ilk verdiğiniz teklif bu seviyede olduğunda girdiğiniz ihaleleri 78% oranında
+kazanamadınız!!” gibi öngörüler sunmak. - Bu tip önerme, öngörü, uyarı tarzı mesajlar uygulama dışında
+sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en yakın olabilecek performansta
+tekrar uygulamaya gönderilecektir. Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen
+sistemler oluşturulmalıdır. Bunun için AWS ya da GCP gibi public bulut sistemleri kullanılacaktır. - Olası proje
+ekibi .Net yetkinliği daha çok olan kişiler olduğu için belli bir kısım .Net geliştirilebilir. Ancak, kullanılacak big
+data ile ilgili teknolojilere en yakın diller referans edilebilecektir. Örneğin Java. - Geliştirme sürecinde
+kullanılacak araçlar, izlenecek yöntemlerle ilgili proje ekibinin bilinçlenmesini sağlayacak eğitimler
+aldırılacaktır. Projemiz kapsamında 2018 yılı içerisinde yapılan faaliyetler: Veri temizleme, sınıflandırma ve
+büyük veri analizi için gerekli olan uygulamalar public cloud sağlayıcılar üzerinde incelenmiş ve öncelikle
+uygulamanın bulut uyumlu bir hale getirilmesi, bulut servislerine göre uyarlanması ve proje konularında
+ilerleme sağlayacak bulut servislerinin kullanımına olanak verecek şekilde taşınması, yapısının değiştirilmesi
+ve uygulama geliştirme çalışmalarının uygulanması, projelendirilmesi ve yürütülmesi işlemleri
+gerçekleştirilmiştir. Veri temizleme ve sınıflandırma ile ilgili veri hazırlama, temizleme, dil çevrimi işlemleri ile
+ilgili araştırmalar ve baz geliştirmeler yapılmış, sınıflandırma algoritmaları ile çalışan araçlar çalıştırılmıştır.
+Projenin - Pratis.Net dahil benzer platformlarda veri analizi sonucunda çıkabilecek modellerin yine aynı süreçlere farklı
+Yenilikçi otomasyonlar sağlayacak şekilde girdi olarak kullanılması örneği, satınalma dünyasında karar vermede öncü
+Yönü ve Ar- bir yöntem olacaktır. - Ürünün raporlama altyapısını tamamen değiştirerek teknik bağımlılıktan kurtulmuş bir
+Ge Niteliği raporlama altyapısı kullanılacaktır.
+Projenin Beklenen çıktılar ve faydaları, - Bu projeler silsilesi sırasında elde edilecek teknik ve işsel tecrübe, diğer
+Beklenen ürünler ya da diğer yazılım projelerinde kullanılmak üzere orta/üst düzey tecrübe edinilmesini sağlanması, -
+Çıktıları ve Pratis.Net platformu bu çalışma sonucunda raporlama altyapısı ile ilgili sorunlarının giderilmesi, - Tahmini
+Faydaları piyasa fiyatları ve ulaşılabilir alım fiyatlarının çıkartılması, - Para birimlerinin bağımlılıklarının hesaplanması, -
+Şirket tasarruf etki analizi: Hangi koşullar altında tedarikçi çalışmayı bırakır,Hizmet alımlarında riskler oluşur,
+Ürün kalitesi düşer vs. ) - Ürün/Hizmet ve kazanma oranları üzerinden optimum tedarikçi önerisi, - Ürünler için
+optimum dönem ve fiyat önerisidir.
+Sayfa 41 / 74
+Proje Kodu P8
+Proje Adı Pratis.Net İhale verilerinin otomatik olarak sınıflandırılması
+Proje 1.10.2017
+Başlama
+Tarihi
+Proje Bitiş 31.10.2019
+Tarihi
+Projede 3
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 25
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 400.000,00
+Proje
+Bütçesi (TL)
+Öz 400.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 42 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Pratis.Net Elektronik Satınalma Platformu alıcı ve tedarikçi arasındaki satınalma süreçlerini destekleyen, ticari
+Konusunu bir süreç sunan bir B2B platformudur. Bünyesinde yaklaşık 100 büyük-orta ölçekli alıcı ile yaklaşık 23000
+Belirleyen tedarikçi satınalma ilişkilerini yürütmektedir. Platform üzerinde; talep, ihale, teklif toplama, fiyat
+İhtiyaçlar değerlendirme, katalogtan alım, sipariş, teslimat süreçleri sürdürülmekte ve bununla ilgili veriler süreçlerin
+devamında kaydedilmektedir. Pratis sisteminde, - 58 bini 2017 de olmak üzere 315000 ayrı pazarlık
+oluşturulmuştur. Her yıl 10 bin adet daha fazla pazarlık açılma trendi vardır. - Bu pazarlıklarda; 260 bini 2017
+yılında olmak üzere 1milyon 400 bin kalem ihtiyaç, satınalma süreçleri tarafında platform üzerinde süreçlere
+sokulmuştur. - 160 bin katalog kalemi sisteme yüklenmiş ve alıcıların alımlarına sunulmuştur. - Bu süreçler
+sonucunda 45 bini 2017 yılında olmak üzere 240 bin satınalma siparişi tedarikçilere iletilmiş, 660 bin kalem
+malzeme tedarik ettirilmiştir. Bu rakam 2017 de şu ana kadar 20 bin kalem artış göstermiş ve ileriki yıllarda da
+daha da artması öngörülmektedir. Pratis.net sisteminin hem müşteri hem de tedarikçi tarafında büyük önemi
+olan, yüksek katmadeğerli servislerin geliştirilebilmesi için sistem üzerinde oluşan ihalelerin içeriklerinin
+anlamlandırılması, sınıflandırılması ve farklı kullanıcı taleplerine göre raporlanabilir bir veri tabanına
+dönüştürülmesi gerekmektedir. Hali hazırda ihalelere ilişkin raporlamalar lokasyon, firma büyüklüğü, sektör
+gibi temel kırılımlarlarda yapılabilmektedir. Ancak fiyat tahmini, tedarikçi önerme vb. servislerin
+geliştirilebilmesi için bunların ötesinde ihalenin içeriğinin analiz edilmesi ve içeriklerin birbiriyle
+ilişkilendirilebilmesi gerekmektedir. Projemizde bu sebeple ihale verilerini sınıflandıran bir sistemin
+geliştirilmesi hedeflenmiştir. İhale verilerinin sınıflandırılması kendi içerisinde birçok teknik belirsizlik
+barındırmaktadır. Bunların başında da ürün tanımlamalarının birbirinden farklı olmasına karşın aslında aynı
+olan ürünlerin yüksek bir güven aralığında tespit edilebilmesi gelmektedir. Bu sınıflandırmanın yapılabilmesi
+için firmaların benzerlik durumları, geçmiş ihaleler, ihalelerin büyüklükleri, teklif veren tedarikçileri, müşteri
+ve tedarikçinin büyüklükleri, aynı ürünün konu edildiği farklı ihaleler, ürün açıklamalarının benzerlik oranları
+gibi çok boyutlu bir değerlendirmenin yapılması gerekmektedir. Bu projenin başarıyla tamamlanması
+sonrasında oluşturulan veri tabanı, bir diğer projemiz olan Pratis.Net raporlama aracı vasıtasıyla farklı
+raporlar ve karar destek araçlarına dönüştürülebilecektir.
+Proje - Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel
+Kapsamında teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a
+Yapılacak geçilmesi hedeflenmektedir. Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için
+Faaliyetler gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory
+çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili
+metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır.
+Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan
+dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. - Sınıflandırmayı yaparken
+metin olarak girilmiş ihale adı, ihale içinde kullanılan malzemelerin kısa metinleri ve hatta yararlı olabileceği
+düşünülürse ihale kapsamında alıcı ve tedarikçi arasında geçen mesajlaşmalar, ihaleye doküman olarak
+eklenen dokümanların tipleri kullanılabilecektir. - Bu veri alanlarında kullanılan kelimelerin, anlamlı veya işe
+yarar kelimeler olup olmadığı çeşitli algoritma ya da hazır API ler kullanılarak değerlendirilecektir. Örneğin
+kelime, ardarda aynı harfi içermiyorsa, belli oranda harf/rakam karışıklığı içeriyorsa, ingilizceye çevrilme ve
+Sayfa 43 / 74
+ingilizceden geri çevrildiğinde aynı kelimenin bulunabilmesi başarısı belli bir oranın üzerindeyse anlamlı
+kullanılabilecek bir kelime olarak varsayılabilir gibi örneklemeler araştırılarak ortaya çıkartılacaktır. Burada
+dilbilimi açısından destek alınabilir ya da hazır doğal dil işleme API leri kullanılabilir. - Bu kelimeler
+benzerliklerine göre varsayılan olarak belli sınıflara bağlanacaktır. İlk etapta elle yapılacak müdahale ile bu
+varsayımlar düzeltilecektir. - Sistem bundan sonraki yeni ihale verilerinde, mevcut sınıflandırılmış verileri de
+göz önünde bulundurarak olması gereken sınıflandırmayı yeni kelimeler için sağlayacaktır. - Bundan sonraki
+adımda daha önce sınıflandırılmamış kelimeler Naive Bayes gibi olasılık hesaplayan algoritmalarla, birlikte
+kullanıldıkları daha önceden sınıflandırılmış kelimelerle en yakın olasılığı kullanarak aynı sınıflandırmaya tabi
+tutulacaklar. - Sistem buradaki kendi başarı oranını hesaplayarak, kullanıcılardan bazen destek isteyecektir.
+Örneğin, sınıflandırılmış kelimelerle birlikte kullanılan kelimeler aynı yoğunlukta kullanılmıyorsa –belli oran
+altında ise- kullanıcıdan teyit isteyebilecektir. Örneğin; mukavva kelimesi, Ambalaj ile mi ilgilidir,
+Kağıt/Selüloz ile mi, yoksa ikisi içinde mi? - Kelime yoğunluklarının ya da bilgi açısından değerlerinin
+belirlenebilmesi için kullanılabilecek yöntemler ile alakalı akademik ya da profesyonel destek alınacaktır. - Bu
+karar mekanizmasının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır. Kararsız kalındığı noktada,
+kullanıcıdan geri dönüş hızlıca alınabilmelidir. - Bu hızı sağlayabilmek için sürekli girdi çıktı sağlayan hızlı bir
+teknik altyapı oluşturulacaktır. Sınıflandırma işleminin ara adımlarında ortaya çıkan ve takip edilmesi gereken
+veriler ilişkisel veri tabanı(Şu anda SQL Server) hızı yeterli olmadığı durumda NoSQL tipteki(MongoDB, AWS
+Dynamo vb.) veri tabanlarında barındırılacaktır. Aynı şekilde hızın yeterli olmadığı durumlarda analizlerin
+paralel yapılabilmesi için MapReduce tarzı hızlı işlem imkanı veren teknikler kullanılacaktır. Bunun kararı ve
+ne seviyede kullanılacağı belli bir aşamaya gelindikten sonra verilecektir. - Yüksek oranda sınıflandırması
+doğru yapıldığı düşünülen girdiler(ihale adı, malzeme adı gibi) Elastic Search ortamlarına sokularak
+kullanıcının daha en baştan sınıflandırılmış veri ile girdi yapmasını sağlayacaktır. Bu sayede sistemin gitgide
+daha az sınıflandırma yapması hedeflenecektir. - Mevcut Pratis.Net web uygulaması büyük ölçüde aynı
+kalacak, sınıflandırma sorularına yanıt, elasticsearch kullanımı, sınıflandırma motoru ile aralarındaki
+entegrasyon sağlanacaktır. - Sınıflandırma algoritmaları ihtiyaç halinde açılıp kapanabilen, yatay/dikey
+büyüyüp küçülebilen işlem gücü ortamlarında çalıştırılacaktır. - Olası proje ekibinin yetkin olduğu alanlar
+Microsoft teknolojileri olduğu için geliştirme ortamları yine .Net ve C# dili olarak öngörülebilir. Tüm bileşenler
+Amazon AWS public bulut ortamında çalıştırılması planlanmaktadır. - Proje kaynaklarına yeni teknik
+ekipmanların ya da akademik çalışmaların sonucunda edinilecek yeni bakış açılarına göre gerekli eğitimlerin
+aldırılması sağlanacaktır. Projemiz kapsamında 2018 yılı içerisinde yapılan faaliyetler: Veri temizleme,
+sınıflandırma ve büyük veri analizi için gerekli olan uygulamalar public cloud sağlayıcılar üzerinde incelenmiş
+ve öncelikle uygulamanın bulut uyumlu bir hale getirilmesi, bulut servislerine göre uyarlanması ve proje
+konularında ilerleme sağlayacak bulut servislerinin kullanımına olanak verecek şekilde taşınması, yapısının
+değiştirilmesi ve uygulama geliştirme çalışmalarının uygulanması, projelendirilmesi ve yürütülmesi işlemleri
+gerçekleştirilmiştir. Veri temizleme ve sınıflandırma ile ilgili veri hazırlama, temizleme, dil çevrimi işlemleri ile
+ilgili araştırmalar ve baz geliştirmeler yapılmış, sınıflandırma algoritmaları ile çalışan araçlar çalıştırılmıştır.
+Projenin - Pratis.Net’in otomasyon ve karar destek sistemlerine sahip olması için gerekli altyapı hazırlanmış olacaktır. -
+Yenilikçi Firmaların satınalma ve ihale işlemlerine yönelik işlevsel bir veri tabanı oluşturulacaktır. - Farklı içeriklerle
+Yönü ve Ar- tanımlanmış olan ürünlerin aynı ya da benzer olma olasılıkları yüksek güven aralığında tespit edilebilecektir.
+Ge Niteliği
+Projenin - Firmaların ihaleye çıkma ve ürünlerin ihaleye konu edilme yoğunluklarına göre değişmekle beraber ürün
+Beklenen eşleştirme performansının %90’ın üzerine çıkarılması hedeflenmiştir. - Bir ihale için mevcut raporlanabilir bilgi
+Çıktıları ve büyüklüğünün %40 arttırılması sağlanabilecektir. - Bu projeden elde edilen kazanımların, firmamızda yeni ar-
+Faydaları ge projelerini tetikleyeceği ve mevcut ar-ge projelerinin de derinliklerini arttırabileceği öngörülmektedir.
+Sayfa 44 / 74
+Proje Kodu P4
+Proje Adı Fatura faktöring - Firmaların nakit akışı risklerinin ölçümlenmesi
+Proje 1.1.2018
+Başlama
+Tarihi
+Proje Bitiş 31.12.2019
+Tarihi
+Projede 3
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 40
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 610.000,00
+Proje
+Bütçesi (TL)
+Öz 610.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 45 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Projenin başarıyla tamamlanması sonrasında e- dönüşümünü tamamlamış firmalara yönelik yenilikçi bir
+Konusunu factoring enstrümanının sunulabilmesi hedeflenmiştir. Bu çerçevede firmamızın servislerini kullanan e-
+Belirleyen dönüşümünü tamamlamış firmalara, mevcut sistemlerimiz üzerinden, belli faturalar için factoring yapma
+İhtiyaçlar olanağı sağlanacaktır. Bu aşamada 3 paydaşlı bir sistem kurgulanmaktadır. Bunlar müşteri, SabancıDX ve
+sisteme dahil olacak muhtelif finans kuruluşlarıdır. Firmamız, müşterinin factoringe konu etmek istediği
+faturayı sisteme tanıtması sonrasında finans kuruluşları ve Findex’ten aldığı risk puanlarını dikkate alarak
+farklı müşterilere farklı faktöring teklifleri üretebilecektir. Ya da doğrudan o firma için finans kuruluşundan
+aldığı teklife kendi marjını ekleyerek müşteriye sunacaktır. Finansman kuruluşları ya da risk değerlendirme
+kuruluşlarından alınan risk puanları, işletmelerin geçmiş dönem performanslarına, mevcut finansal borçları,
+mevduatları ve gayri nakdi varlıklarına göre hesaplanmaktadır. Ancak bu kuruluşlar şirketin ticari alacakları,
+kısa vadedeki tedarikçi borçları ya da ticari borçlarını görememektedirler. Bu sebeple bir firmanın mevcut
+pozisyonu oluşturulan risk puanından pozitif ya da negatif yönde sapmaya eğilim göstermiş olabilmektedir. Bu
+kapsamda firmaların e- defter verileri, mevcut borçlanma trendi , belli bir gelecek için nakit akış dengelerini
+dikkate alarak ikinci bir rasyonun üretilebilmesi ve bu oran doğrultusunda regüle edilmiş teklifin müşteriye
+sunulması gerekmektedir. Burada firmamız faktöringi yapan kuruluş konumunda değildir. Temelde kendi
+sistemi üzerinden finansman kuruluşlarının müşterilerimize faktöring / kredi vermesi sağlanmaktadır.
+Projemizin başarıya ulaşabilmesi için en kritik konu firma bazında prediktif nakit akış verilerinin üretilerek
+bunları yorumlayabilen bir sitemin geliştirilmesidir. Projemize bu teknik ihtiyaçlar doğrultusunda başlanmıştır.
+Herkes tarafından bilindiği gibi bankacılık sektörü ve finansal piyasalarda doğru ve etkin kredi kararı
+verebilme, kredi geri ödemesi yapmamaya meyilli müşterileri belirleme, risk derecelendirme, finansal
+işlemlerde sahtekârlığa yönelik eğilimleri izleme, ekonomik ve finansal yatırımları kararlaştırma, iflas ya da
+başarısızlık tahmini gibi süreçlerde doğru analiz yapabilmek adına güvenilir verilere ihtiyaç duyulmaktadır.
+Şuanki süreçte bankacılık banka ve finans kuruluşlarından kullandığınız bireysel nitelikli tüm kredili ürünlerin
+limit, risk, ödenme performansı, kullanım yoğunluğu gibi bilgiler Findex üzerinden hesaplanan bir referans
+notu üzerinden sunulmaktadır. Bankacılık sektöründe işletme riskini azaltacak, riski derecelendirecek ve
+kârlılık analizi yapılmasını sağlayacak olan verinin fazla miktarda bulunmaması ve eldeki yöntemler içerisinde
+çok zor elde edilebilmesi ve bu konuda sadece kredibilite bilgisinin alınabilmesi belirli alanlarda yetersiz
+kalmaktadır.
+Proje Bu kapsamda kredibilite bilgisinin yanında firma onayı ile ilgili analizler yapılarak güvenilir değişken oranı
+Kapsamında hesaplanacaktır. E-defter süreçlerindeki tüm finansal hareketler izlenip findexten alınan kredibilite ile birlikte
+Yapılacak bu oran hesaplanacaktır. E-defter tarafındaki bakılacak finansal muhasebesel parametreler kapsamında
+Faaliyetler buradan alacağımız güven oranı, yapacağımız araştırmalar ve konu ile ilgili danışmanlık hizmetleri sonrasında
+şekillenecektir. Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve
+güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private
+Cloud’a geçilmesi hedeflenmektedir. Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi
+için gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-
+memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması
+ile ilgili metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak
+Sayfa 46 / 74
+raporlanacaktır. Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları
+sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır.
+Operasyonel Uygulama kullanılması planlanan yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili:
+C# -Uygulama Çatısı:.Net Framework 4.5, MVC Framework, -Veri tabanı: SQL Server -Uygulama Sunucu:
+Microsoft IIS Server 7.5 -Yazılım Araçları: Microsoft Visual Studio 2013 -Yazılım Yaşam Döngüsü Araçları:
+Microsoft Team Foundation Server, GIT .
+Projenin Öncelikle e-fatura portal üzerinde firmaların faturalarını ödeyemedikleri durumda bankadan (anlaşmalı) kredi
+Yenilikçi isteme talebi gerçekleştirilecektir. Bu talebi gerçekleştirdiklerinde arka tarafta firma risk analizi yapılarak
+Yönü ve Ar- bankaya (anlaşmalı) sunulacak ve bu kapsamda firmaya dönüş yapılacaktır. Findexin bize sunduğu firma
+Ge Niteliği bazındaki risk oranı tekil olarak değerlendirilmeyip firmanın onayı alınarak e-defter süreçlerindeki finansal
+süreçlerindeki parametrelerin değerlendirilmesi ile ortaya yeni bir değişken oran sunulacaktır. Bu oran firma
+lehine olabileceği gibi aleyhine de olabilecektir. Burada sadece e-defter süreçlerine bakılarak bu oran
+belirlenmeyecektir. Findexteki parametreler ile birlikte bu oran hesaplanacaktır. Günün sonunda bu orana
+bakılarak firmaya kredi kullandırıp kullandırmama tamamen bankalara bağlıdır.
+Projenin Proje neticesinde firmaların faturaları üzerinden faktöring yapması büyük oranda kolaylaşacaktır. Sistemin
+Beklenen devreye alınması sonrasında fatura faktöringi pazarının minimum %5 büyütülebilmesi hedeflenmiştir. Sistemin
+Çıktıları ve çok sayıda anlaşmalı banka ile çalışacak olması sebebiyle tek bir sistem üzerinden farklı teklifler alınarak
+Faydaları müşterinin finansmana erişimi kolaylaştırılabilecektir.
+Sayfa 47 / 74
+Proje Kodu P5
+Proje Adı GRC – RİSK Yönetim Otomasyonu
+Proje 1.10.2017
+Başlama
+Tarihi
+Proje Bitiş 30.9.2019
+Tarihi
+Projede 4
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 60
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 900.000,00
+Proje
+Bütçesi (TL)
+Öz 900.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 48 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Günümüzün hızlı değişen iş dünyasında her firmanın stratejik ve operasyonel risklerini, kurum iç kontrollerini
+Konusunu ve mevzuat gereksinimlerine uyumluluğunu yönetmesi ihtiyaç halini almıştır. Bu ihtiyaçları etkin bir şekilde
+Belirleyen gidermek risk yönetimi ve uyumluluk, iç kontrol ve iç teftiş araçları kullanmadan mümkün olmamaktadır.
+İhtiyaçlar Günümüzde risklerini kontrol edebilme yeteneğine sahip bir kurum olmak, her zamankinden daha fazla
+önemlidir. Daha fazla şey riske atılmakta ve daha zarar verici kayıplar yaşanabilmektedir. Paydaşlar ve
+düzenleyiciler üst yönetimlerin ve yönetim kurulu üyelerinin daha fazla kontrole sahip olmalarını ve strateji,
+operasyon, raporlama ve uyumu da içeren tüm iş operasyonlarını etkileyen riskleri anlamalarını istemektedir.
+Yönetimlerin karşılaştığı kritik sorunlardan birisi de, iş süreçlerinde kontrollerin etkinliğini artırırken bu
+kontrolleri izleme maliyetinin de azaltılmasını sağlamaktır. Yönetimler, riskleri azaltmak amacıyla etkin bir
+şekilde işletilen kontrolleri uygularken, iş hedeflerini ve uyum gereksinimlerini karşılamaya da ihtiyaç
+duymaktadır. GRC teknolojileri bir yandan iş süreçlerindeki kontrollerin etkinliğini artırmayı hedeflerken, iş ve
+uyum gereksinimlerini de karşılamaya yardımcı olabilmektedir. Yönetimler, kurumun her birimini etkileyen
+riskleri ve uyum kontrollerini ortak bir platformdan takip edebilmek, mevzuat değişklikleri sonucunda oluşan
+yeni risk ve uyum girdilerini kontrol altında tutmalarını sağlayacak bir çözüm talep etmektedirler. Şu anda Risk
+ve Uyum Yönetimi uygulayan kurumlar, verileri dağıtık ortamlarda toplamakta, sonrasında ise konsolide
+etmektedir. Yine aynı kurumların hukuk birimleri, mevzuattaki değişiklikleri farklı kaynaklardan takip etmekte,
+risk ve uyum takibini yapan ekipleri bilgilendirmektedir. Bu bilgilendirme ile birlikte risk ve uyum takibini
+sağlayan ekipler, ilgili mevzuat değişikliklerinin takip edilen risk ve uyumlar ile ilgisi olup olmadığını tesbit
+etmekte ve riskin giderilmesi/uyumun sağlanabilmesi amacıyla hangi aksiyonları alacaklarını risk/uyum ile
+ilgili birimler yardımıyla belirlemektedirler. Sonrasında yine dağıtık kaynaklardan (aksiyon alması gereken her
+birimden) bilgileri toplamakta ve aksiyon durumlarını, dolayısıyla risk/uyum statülerini belirleyip
+raporlamaktadırlar. Buradaki temel ihtiyaç, dağıtık olarak bilgi toplayan/veri girişi yapan tüm birimlerin, olası
+otomasyon ve entegrasyonlar yapılarak, tek bir platform üzerinde veri girişi, takip ve raporlama
+yapabilmeleridir.
+Proje Proje kapsamında öncelikli olarak kuruluşumuzun mevcut faaliyetleri, benzer uygulamalar ve müşteri talepleri
+Kapsamında de dikkate alınarak mevcut sistem ve veri yapıları hakkında bilgiler toplanacaktır.Proje kapsamında yer alacak
+Yapılacak olan modüller ve özetle fonksiyonaliteleri aşağıdaki gibi olacaktır; - Uyum Evreni Modülü Kurumun, mevcut
+Faaliyetler mevzuata olan uyumunun kontrol edildiği modüldür. Modül içinde uyumun temel bilgi girişleri,
+kategorizasyonu, etkilendiği mevzuat(lar) girilebilecektir. Her bir uyum girdisinin sahibi ve sorumluları olacak,
+veri girişlerini ilgili kullanıcılar yapacaktır.Detayı “Mevzuat Entegrasyonu” modülünde de açıklanacağı gibi
+uyumun günlük olarak mevzuat değişikliklerinden/eklemelerinden etkilenip etkilenmediği kontrol edilecek ve
+olası bir etkilenme durumunda tüm ilgililer “Bildirimler Modülü” içinde detaylandırılacağı gibi
+bilgilendirileceklerdir. İlgili her mevzuat değişikliği durumunda, ilgili uyumda aksiyonlar oluşturulacak ve
+mevzuata uyumun sağlanabilmesi için bu aksiyonun tamamlanması beklenecektir.Uyumun durumu, istenen
+periyodda belirlenebilecek, periyodik bilgi girişi yapılabilmesi sağlanacaktır. Aynı şekilde uyumsuzluk
+durumundaki olası etkiler belirlenebilecek ve etki seviyesine bağlı olarak bilgilendirme ve takipleri
+sağlanabilecektir. - Risk Modülü Kurumun mevcut risklerinin kontrol/takip edildiği modüldür. Modül içinde
+riskin temel bilgi girişleri, kök nedenleri, sonuçları, etki-olasılık değerleri ve sonucunda hesaplanmış risk
+Sayfa 49 / 74
+seviyesi, varsa maddi etkileri girilebilecektir. Her bir riskin sahibi ve sorumluları olacak, veri girişlerini ilgili
+kullanıcılar yapacaktır. Her bir risk için sınırsız sayıda “Anahtar Risk Göstergesi - ARG” girilebilecek, tolerans
+limitleri ile beraber risk içindeki ağırlıkları da belirlenebilecektir. ARG değerleri periyodik olarak, risk
+sorumluları tarafından güncellenecek ve gösterge bazında riskin eğilimi (trendi) belirlenerek
+raporlanabilecektir. Her bir ARG güncelleme periyodunda risk trendleri yeniden hesaplanarak “Bilgilendirme”
+modülü ile, risk sahibi ve diğer ilgililerin bilgilendirilmesi sağlanarak riskin kontrol altında tutulması
+sağlanacaktır. - Onaylar Modülü Risk ve Uyum girdileri için iş akışları belirlenebilecek, bu akışlar çerçevesinde
+veri girişleri bir onay akışından geçirilerek verinin doğruluğu daha güvenilir hale getirilebilecektir. Risk ve
+Uyum girdilerindeki tüm aksiyon ve ARG periyodik güncellemeleri benzer iş akışlarına tabi tutulabilecek ve
+girilen bilgilerin tutarlı olduğu onaylandıktan sonra raporlanması sağlanabilecektir.Onaya gönderilen tüm
+girdiler ile ilgili uyarılar, “Bilgilendirme” modülü ile onaycılara iletilecek ve aksiyon almaları sağlanacaktır. -
+Mevzuat Entegrasyonu Modülü Sistem, mevzuatların anlık olarak yayımlandığı bir mevzuat güncelleme
+sistemine bu modül ile entegre olacaktır. Entegrasyon sonucunda, değişen ve yeni eklenen mevzuata erişim
+sağlanabilecektir. Risk ve Uyum girdilerinin bağlı bulundukları mevzuat ile ilgili tüm değişiklikler, entegrasyon
+modülü ile saptanacak, “Bilgilendirme” modülü ile tüm ilgililerin uyarılması sağlanacaktır. Bu modül ile
+kullanıcılar, ilgilendikleri tüm mevzuat detayına erişebilecekler, gerekiyorsa yine istedikleri tüm
+mevzuatlardaki değişikliklerden anlık olarak haberdar olacaklardır. - Raporlar Modülü Sistem içindeki tüm
+bilgilerden derlenecek olan raporlar bu modül içeriğinde yer alacaktır. - Takvim Modülü Risk ve Uyum
+girdilerindeki tüm aksiyon/ARG ile ilgili yapılması gereken periyodik girişlere bu modül ile erişim
+sağlanabilecektir. Aksiyon ve ARG sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgilerin
+takvimi ile ilgili planlamayı bu modül üzerinden takip edeceklerdir. - Bildirimler Modül Sistem içindeki tüm
+olaylar (mevzuat değişikliği, günü gelen/geçen veri girişleri, genel bilgilendirmeler vb) ile ilgili bilgilendirme
+ve uyarılar, bu modül üzerinden yapılabilecektir. Bilgilendirme yazılım içinde gösterilecek uyarılar, e-posta,
+SMS gibi yollar ile yapılabilecektir. - Pano Modülü Her bir kullanıcı, sisteme giriş yaptığında, yetkisi
+çerçevesinde görebileceği genel bilgilere (Bugün Yapılması Gerekenler, Günü Geçen İşlerim vb) pano yoluyla
+erişebilecektir.Pano kişiselleştirilebilecek, kullanıcılar sadece kendi istedikleri verilere kısa yoldan
+erişebileceklerdir. Yönetici yetkisine sahip kullanıcılar dilerlerse panoya genel durumu gösteren grafikler
+(ARG Durumları, Aksiyon Durumları, Günü Geçen Aksiyonlar vb) ekleyebileceklerdir. Operasyonel Uygulama
+kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: C# -Uygulama Çatısı:.Net
+Framework 4.5, MVC Framework, -Veri tabanı: MySQL 5 -Uygulama Sunucu: Microsoft IIS Server 7.5 -Yazılım
+Araçları: Microsoft Team Foundation Server. Projemizin hedefi, şirketlerin yasal yükümlülüklere tam uyumlu
+olmalarını sağlamaktır. Bu kapsamda geliştirilen projemizin gelişimi aşağıda açıklanmıştır. 1- Uyum veri
+tabanı oluşturulmuştur. Uyum Veri tabanı, şirketlerin uyması gereken, yasal mevzuat, anlaşmalar, iç politika
+ve yönetmelikler gibi tanımlı düzenlemeleri listeleyen, bu düzenlemelere uyulmayan faaliyetler yürütülmesi
+halinde maruz kalınabilecek yaptırımları ve güncel uyum durumunu içeren veri bütünüdür. 2- Uyum riskleri
+tanımlanmıştır. Uyum riski şirketlerin, yürürlükteki kanunlara, düzenlemelere, etik kurallara, iç politika ve
+yönetmelikler gibi tanımlı kurallara uyulmayan faaliyetler yürütmesi halinde maruz kalabileceği yasal, itibar,
+maddi vb. kayıplara yönelik unsurları ifade etmektedir. 3- Uyum raporu geliştirilmiştir. Bu raporla, şirketlerin
+uyması beklenen düzenlemelere uyum durumlarının, uymaması durumunda maruz kalabilecekleri
+yaptırımların, uyum için gerekli aksiyon planının ve sorumlulukların ilgili şirket yöneticilerine, bölümlerine ve
+üst yönetime sunulması sağlanmıştır. 4- Uyum risk raporu geliştirilmiştir. Bu raporla kapsam dâhilindeki
+şirketlerdeki uyum risklerinin, riski yönetmek için uygulanan yöntemlerin ve risklerle ilgili güncel gelişmelerin,
+ilgili şirket yöneticilerine ve üst yönetime sunulması sağlanmıştır. 5- Bir onay akışı tasarlanmıştır. Bu akış, risk
+ve uyum girdileri için iş akışları belirlenebilmesi, bu akışlar çerçevesinde veri girişleri bir onay akışından
+geçirilerek verinin doğruluğu daha güvenilir hale getirilebilmesini sağlamıştır. 6- Mevzuatlar için entegrasyon
+yapılmıştır. Bu entegrasyonla, mevzuatların anlık olarak yayımlandığı bir mevzuat güncelleme sistemine bağlı
+olarak değişen ve yeni eklenen mevzuata erişim sağlanmıştır. 7- Takvim modülü oluşturulmuştur. Aksiyon ve
+AR-GE sorumluları, almaları gereken aksiyon ve girmeleri gereken bilgileri, takvim ile gerçekleştireceklerdir.
+8- Projemiz yaşarken, içinde hangi aksiyonların gerçekleştiğini kullanıcılarımıza bildirmek üzere bir bildirim
+sistemi tasarlanmıştır.
+Sayfa 50 / 74
+Projenin Mevcut verilerimiz ve GRC dinamiklerine yönelik bilgi birikimimiz doğrultusunda özgün bir yazılım
+Yenilikçi geliştirilmesine karar verilmiş ve proje çıktımız bu doğrultuda küresel pazarlarda da diğer Risk ve Uyum takibi
+Yönü ve Ar- yapan kuruluşların da kullanabileceği bir sistem olarak planlanmıştır. Projenin yenilikçi yönlerinden biri,
+Ge Niteliği yayımlanan tüm mevzuatı, entegre olduğu online sistemlerden güncelleyerek kullanıcının hizmetine
+sunabilmesidir. Bu noktada, mevzuata bağlı Uyum ve Risk girdileri konusunda özel takipler ve bilgilendirmeler
+yapılabilecektir, istendiği noktada mevzuat detaylarına erişim sağlanabilecektir. Bu özellik ile mevzuata bağlı
+oluşan uyum ve risklerin takibi otomatik olarak yapılabilecek ve konuyla ilgili kişiler, hiçbir manuel işlem
+gerekmeden bilgilendirilebilecektir. Özetle, mevzuat ve GRC sistemi entegrasyonu yapılabilecek ve aradaki
+birden fazla ekibin dahil olduğu operasyonlar kaldırılabilecektir. Yaptığımız araştırmalarda ulusal piyasada bu
+kapsamda ticarileştirilen bir sistem bulunmamaktadır. Projede ayrıca, ARG ve aksiyonlar bazında panolar ve
+takvimler oluşturulabilmekte ve yapılması gereken işlemlere kısa yoldan erişim ve bilgilendirme
+sağlanmaktadır. Yani tüm bir GRC sistemi tek bir “Bilgilendirme” sistemi ile entegre edilip, aynı kanaldan
+sorumlular bilgilendirilecek, dolayısıyla her bir işlem tek bir tümleşik sistem üzerinde yürütülebilecektir. Proje
+sadece bir kuruluşun değil, varsa gruba bağlı birden fazla kuruluşun takibini yapabilecek, gerektiğinde grup
+bazında konsolide veriler üretebilecektir. Yani her bir kuruluş ayrı ayrı raporlanabileceği gibi, tek bir raporda,
+birden fazla kuruluşun bilgisine erişilebilecektir. Projedeki yetkilendirmeler, bu yapı dikkate alınarak
+hazırlanacak, her bir firma sadece kendi bilgilerine erişebilecek, bunun yanında yönetici olarak atanan
+kullanıcılar konsolide verilere erişebileceklerdir.
+Projenin Projemiz sonucunda elde edilecek kazanımlar aşağıdaki gibi olması beklenmektedir: -GRC takibi tek bir
+Beklenen sisteme toplanacağı için daha az efor ve daha kaliteli bir takip sağlanabilecektir, -Mevzuat değişikliklerine
+Çıktıları ve tam entegrasyon sağlanacağından, olası mevzuat değişiklik/eklemelerinin ilgili risk/uyum girdilerine olan
+Faydaları etkileri rahatlıkla saptanabilecektir. -Dağıtık ve farklı biçemlerde toplanan veriler, tek bir sistemde ve daha
+stabil olacak, bunun sonucunda da kuruluşların aldıkları riskler azalacak ve uyum süreleri/eforları azalacaktır.
+-Mevzuat entegrasyonu ile birden fazla ekibin yürüttüğü bir çalışma otomatize edilerek hem hata oranı
+azalacak, farkındalık oranı artacaktır. Bu durum kuruluşun aldığı risklerin daha hızlı giderilmesini ve uyum için
+yapılan planlamaların daha efektif olmasını sağlayacaktır.
+Sayfa 51 / 74
+Proje Kodu P9
+Proje Adı Proje Bazlı, Kaynak Planlama ve Risk Yönetim Sistemi
+Proje 1.11.2017
+Başlama
+Tarihi
+Proje Bitiş 30.6.2019
+Tarihi
+Projede 4
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 55
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 850.000,00
+Proje
+Bütçesi (TL)
+Öz 850.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 52 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Bu proje ile öncelikle kapı giriş çıkış bilgileri, puantaj kayıtları, izin verileri ve gerçekleşen iş gücü
+Konusunu maliyetlerinin proje bazlı dağıtımlarının raporlanabilmesi sağlanacaktır. Ayrıca firmalardaki mevcut insan
+Belirleyen kaynağının yetkinlik, deneyim gibi ana kriterler göz önüne alınarak yeni gelen proje bazlı çalışmalara göre
+İhtiyaçlar sistem tarafından otomatik olarak dağıtılması amaçlanmaktadır. Özellikle proje bazlı çalışan firmalarda
+kaynak planlamasının mevcut çalışan yetkinlikleri ve deneyimlerinin birleştirilerek doğru proje eforlarının
+hesaplanabilmesi son derece önemlidir. Mevcutta kullanılan sistemlerde giriş çıkış bilgileri ”A yazılımı”,
+puantaj kayıtları ve izin verileri “B yazılımı”, çalışan proje dağılımları ”C yazılımı” ve proje kaynak planlaması
+“D yazılımı” ile sağlanmakta ve bu sistemler tarafından sağlanan verilerin birleştirilmesi farklı sistemlerin
+birbirleriyle entegrasyonunu gerektirmektedir. Bu entegrasyonlar teknik olarak gerçekleştirilse bile, veri
+uyuşmazlıkları, entegrasyon kaynaklı sorunların tespiti, gelen verilerin doğruluğunun test edilmesindeki
+güçlükler hedeflenen sonuçların alınmasında sorunlara sebep olabilmektedir. Bunun yanı sıra örneğin “D
+yazılımı” kaynak planlamasını yaparken sadece giriş yapılan yetkinlik ve deneyim kriterlerini dikkate almakta,
+mevcut IK uygulamalarında yer alan çalışana ait organizasyon, pozisyon, ücret, yan haklar ve izin gibi kişi
+özelinde son derece değerli ve maliyete etkisi olan bilgilerin farklı gerekliliklere göre birleştirilmesini
+sağlayamamaktadır. Ayrıca mevcut kaynakların yetersiz olduğu durumlarda işe alım süreçlerine entegre
+olarak uygun adayların belirlenmesi sağlanamamaktadır. Yukarıda belirlenen hedefe ulaşılması durumunda
+proje kaynak planlaması, kapı giriş çıkış bilgileri, puantaj kayıtları, izin verileri ve gerçekleşen proje eforlarının
+tek bir yazılım üzerinde veri girişi, hesaplama ve raporlama amacıyla birleştirilmesi sağlanacaktır. Bu sayede
+birçok operasyonun kolaylaşması, otomatikleşmesinin yanında proje yürütücüleri, projelerinin öngörülen
+tamamlanma süreleri ve maliyetlerindeki sapma riskleri kolaylıkla görebilecek ve kaynak değişimine yönelik
+simülasyonların bu risklere etkilerini inceleyebilecektir.
+Proje Proje kapsamında teknik ve fonksiyonel olarak yapılacak geliştirmeler; 1. Kapı giriş çıkış sistemlerinden gelen
+Kapsamında verinin HR-WEB sistemine aktarılması Kapı giriş çıkış sistemlerinden gelen metin dosyalarının okunarak
+Yapılacak çalışan bazında günlük çalışma saatlerinin HR-WEB sisteminde tutulması sağlanacaktır. Bu veriler ile proje
+Faaliyetler bazında çalışma saatlerinin belirlenmesi de mümkün olacaktır. Bununla birlikte devam kontrol sistemlerinin
+yaptığı şekilde bordrosal verilerin oluşturulması sağlanacak, belirli parametreler ile çalışma saatleri, fazla
+mesailer ve eksik çalışmaların da belirlenmesi amacıyla kullanılacaktır. Çalışma sürelerinin hesaplanmasında
+izin modülünde oluşturulan bir kayıt (günlük, saatlik izin, hastalık, eğitim vb.) varsa bu kaydın çalışmama
+nedeni olarak hareket verileri ile birleştirilmesi sağlanacaktır. 2. Proje tanımlama ve proje detaylarının
+belirlenmesi Her yeni proje için kaynak planlaması yapılabilmesi amacıyla belirli verilerin sisteme
+tanımlanması gerekmektedir. Bu amaçla mevcut uygulamaya ek bir fonksiyonalite eklenecek olup proje
+süresi, hedeflenen başlangıç ve bitiş tarihi, personel sayısı, personel yetkinlik ve deneyim süreleri ile projenin
+alt çalışma bileşenleri de tanımlanabilecektir. Proje bazında detaylandırılan işlerin planlanan başlangıç ve
+bitiş tarihleri, çalışma süreleri ve birbirleriyle olan etkileşimleri dikkate alınarak sistem üzerinde tanımlanması
+sağlanacaktır. Analiz ve geliştirme süreçlerinde proje süresini etkileyecek olumsuzlukların yaşanması
+durumunda, bu etkenlerin sisteme tanımlanabilmesi de sağlanacaktır. 3. Proje kaynak planlaması Sisteme
+tanımlanan yeni projeler, mevcut çalışanların deneyim, yetkinlik, izin süreleri ve mevcut sicil özlük bilgileri ile
+karşılaştırılacak ve en uygun adayların sistem tarafından belirlenmesi sağlanacaktır. Projede belirtilen tarihler
+Sayfa 53 / 74
+arasında uygun adaylar belirlenemezse, en uygun başlangıç/bitiş tarihleri sistem tarafından önerilecektir.
+Projenin zamanında teslimi için mevcut kaynakların yetersiz kalması durumunda, işe alım modülü ile
+entegrasyon sağlanarak aday havuzundaki maliyeti ve nitelikleri uygun adayların da belirlenebilmesi
+sağlanacaktır. Önerilen adaylar içerisinde daha önce başka projelerde çalışan kişiler varsa, bu adayların
+geçmiş projelerdeki başarı durumları da göz önüne alınarak, proje risk değerlendirmesi sistem tarafından
+yapılabilecektir. 4. Gerçekleşen proje sürelerinin takip edilmesi Kapı giriş çıkış sisteminden alınan çalışma
+süreleri kullanılarak, proje bazında gerçekleşen çalışma sürelerinin tanımlanabilmesi geliştirilecek yeni bir
+fonksiyon aracılığı ile sağlanacaktır. Jira gibi bir proje takip uygulamasının kullanılması durumunda, bu
+sistemden gelen proje çalışma verileri yazılacak Restful servisleri ile okunacaktır. Bu veriler okunduktan sonra
+MongoDb gibi NoSQL veri tabanlarında tutulacak ve kapı giriş çıkış sisteminden alınan çalışma süreleri ile
+karşılaştırılabilecektir. 5. Proje teslimlerinin takibi Devam eden projelerin zamanında teslim edilip
+edilemeyeceğinin anlık olarak analizinin yapılabilmesi yeni bir fonksiyon aracılığı ile sağlanacaktır. Toplam
+proje süresi, harcanan süre ve backlogtaki işler bu analizde kullanılabileceği gibi, aynı zamanda geçmiş proje
+risk değerlendirme sonuçları da bu analizin yapılmasında dikkate alınacaktır. 6. Proje maliyet takibi Mevcut
+HR-WEB sisteminde aylık bazda çalışanların proje dağılımları orantısal olarak tanımlanabilmekte, bu
+tanımlama yapılırken gerçek dağılım oranları saptanamadığı için belirli kabullerden hareket edilmektedir.
+Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel
+teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a
+geçilmesi hedeflenmektedir. Süreç işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için
+gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory
+çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre kullanılabilecektir. Sistemin çalışması ile ilgili
+metrikler daha da görünür hale getirilebilmesi için, esnek veri analiz araçları kullanılarak raporlanacaktır.
+Geliştirme aşamasında işlerin düzgün olarak takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan
+dokümanların saklanması için Jira ve Confluence uygulama araçları kullanılacaktır. Operasyonel Uygulama
+kullanılacak yazılım araçları, yazılım dilleri ve teknolojiler ise; -Yazılım Dili: Java -Uygulama Çatısı: Java 1.7 /
+1.8, MVC Framework, -Veri tabanı: SQL Server, MongoDB -Uygulama Sunucu: IBM WebSphere Application
+Server -Yazılım Araçları: Eclipse. Projemiz kapsamında, insan kaynağınızı etkin bir biçimde değerlendirmenizi
+sağlar. Uygulama alanı geniştir. Çünkü proje temelli çalışan birçok kurum projelerini parçalara bölerek yönetir.
+Bu parçalar P9 için projeyi geliştirenlere atanan görevleri ifade eder. Genellikle projelerde görev(iş) atama
+uygulaması ilgili iş parçası hakkında yetkin kişilerce yapılır. Bu kişiler, işi atayacağı personelin ilgili göreve
+uygunluğunu ölçmek için bir takım parametreler kullanır. Bu parametrelere ulaşmak için bir takım sorular
+sorulur: 1- Personelin bu iş ile ilgili geçmiş tecrübesi var mıdır? 2- İş, yeni bir öğrenme alanı içerir mi? Eğer
+içeriyorsa hangi personelin bu konuya ilgisi veya yatkınlığı vardır? 3- Personel iş süresince zamansal olarak
+uygun mudur? 4- Personelin bu iş için maliyeti nedir? 5- İş ne kadar karmaşıktır? Diğer işlere etkisi nedir? 6-
+Acaba yetkin bir kişi tarafından ne kadar sürede tamamlanabilir? Projemizde bu sorulara çözüm bulmayı
+hedefleyen teknik geliştirmeler yapılmaktadır. Geliştirme süreci zarfında: 1- Personel devam kontrol
+sisteminden (PDKS) gelen kayıtlar tek tek işlenmek suretiyle projemiz kapsamında geliştirilen uygulamamızın
+veri tabanına yazılmıştır. Böylelikle personelin ofis lokasyonundaki fiziksel varlığı garanti edilmiştir. 2- HRWEB
+uygulamızda hali hazırda bulunan insan kaynağımızın aktif ve etkin kullanılması amaçlanmıştır. Bu bağlamda
+her bir personele beceriler tanımlanmış ve bu beceriler puanlandırılmıştır. 3- Personelin saatlik maliyeti
+hesaplanmıştır. 4- Personelin tüm izinleri, tatilleri hesaplanmıştır. 5- Proje kapsamında bir görev modülü
+oluşturulmuştur. Görev modülünde, bir personelin iş yerinde yapmakla yükümlü olduğu görevlerin yöneticisi
+tarafından oluşturulması ve bu personele atanması yapılmıştır. Bu, atama işlemi kritiktir. Çünkü projemizin
+asıl amacı olan tanımlanan görevlere gerçekten başarabilecek personelin makine tarfından önerilmesi işi,
+atamanın merkezine oturur. Bunu başarabilmek için algoritmalar geliştirilip, doğruluğu test edilmiştir. 6-
+Birçok parametre kullanılarak personelin, görev performansı ölçülmüştür. Tamamlanan her görevde
+tanımlanan becerilere, ilgili personel için bir puan atanmıştır. Böylece personele ait gelişim gözlenebilecektir.
+7- Proje maliyetlerinin kontrol altında tutulması önemlidir. Bu maliyetin büyük bir kısmını insan kaynağı
+oluşturmaktadır. İşte projemizde planlanan insan kaynağı ile gerçekleşen iş kıyaslamaları yapılmış, insan
+kaynağı maliyet takibine olanak sunulmuştur.
+Sayfa 54 / 74
+Projenin Bu proje ile birlikte; • Optimum kaynak planlamasının mevcut çalışan deneyim, yetkinlik, izin ve sicil özlük
+Yenilikçi bilgileri kullanılarak maliyet analizi ile birlikte yazılım tarafından yapılabilmesi, • Mevcut kaynakların yetersiz
+Yönü ve Ar- kaldığı durumlarda işe alım süreçlerine entegre olarak beklenen yetkinlik ve deneyim kriterlere uygun
+Ge Niteliği adayların belirlenmesi, • Kaynak planlaması sonucunda projelerin tahmini teslim sürelerinin ve/veya
+başlangıç zamanlarının belirlenmesi, • Devam eden projelerin zamanında ve öngörülen bütçede teslim edilip
+edilmeyeceğinin anlık olarak analizi, • Yukarıdaki maddelere ilave olarak tek bir yazılım üzerinden kapı giriş
+çıkış bilgileri, puantaj kayıtları, izin verileri ve gerçekleşen iş gücü maliyetlerinin proje bazlı dağıtımlarının
+raporlanabilmesi sağlanacaktır. Yaptığımız ulusal piyasa araştırmalarında devam kontrol ve izin takip sistemi,
+bordro hesaplama uygulamaları, proje efor takibi, proje kaynak planlama ile maliyet hesaplaması ve takibini
+ayrı ayrı sağlayan farklı yazılımlar bulunduğu tespit edilmiştir. Ancak tek bir platform üzerinde, farklı
+sistemlerle entegrasyona ihtiyaç kalmaksızın bu operasyonel işlemlerin yapılabilmesini sağlayan bir sistem
+bulunmamaktadır.
+Projenin Projemiz sonucunda elde edilecek kazanımların aşağıdaki gibi olması beklenmektedir. - Proje bazlı çalışan
+Beklenen firmalardaki (örneğin Arge ve Teknokent firmaları) insan kaynakları ihtiyacının yetkinlik ve deneyim gibi proje
+Çıktıları ve eforlarını direkt etkileyen kırılımlara göre belirlenmesi ve gerçekleşen maliyetlerin aylık bazlı projelere göre
+Faydaları dağıtılarak raporlanması sağlanacaktır. - Tek bir yazılım üzerinden sicil, yetkinlik, deneyim, izin, işe alım, proje
+gereksinimleri ve gerçekleşen işçilik maliyetleri ile aylık bordro sonuçlarının birleştirilmesi mümkün
+olabilecektir. - Özellikle Arge ve Teknokent firmaları için çalışılan süre bazında yasal prosedürlere uygun
+olarak proje maliyetlerinin yazılım üzerinden farklı bir operasyonel işleme gerek kalmaksızın hesaplanabilmesi
+sağlanacaktır. Bu sayede operasyonel işlemler için harcanan zamanlar kısalarak işgücü tasarrufu
+yapılabilecektir.
+Sayfa 55 / 74
+Proje Kodu P10
+Proje Adı Dijital İnsan Kaynakları Yönetim Sistemi
+Proje 1.12.2018
+Başlama
+Tarihi
+Proje Bitiş 30.11.2020
+Tarihi
+Projede 8
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 135
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 1.850.000,00
+Proje
+Bütçesi (TL)
+Öz 1.850.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 56 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Dijitalleşen dünyada; hem insan kaynakları süreçlerini, hem çalışan zaman yönetimini, hem de proje bazlı
+Konusunu çalışmayı bir arada yönetebilecek kapsamda İnsan Kaynakları uygulamaları bulunmamaktadır. Hedeflenen
+Belirleyen projede, tamamen yerli ve milli olarak, tüm süreçleri kapsayan bir yazılımın geliştirilmesi ve bunun Türkiye’de
+İhtiyaçlar ve global pazarda satılabilmesi hedeflenmektedir. Rekabet gücünü arttırmak için, şirketin en değerli kaynağı
+olan, kalifiye insan kaynağına ulaşmak ve onu elde tutabilmek adına yapılan çalışmalar, her geçen gün
+şirketlerin insan kaynakları uygulamalarına ilgisini arttırmaktadır. İnsan Kaynakları departmanlarının bu
+ihtiyacı ancak; entegre çalışma yapabilen, detaylı, kapsamlı, esnek raporların yapılabildiği, yasal mevzuata
+uygun, çalışanların katılımcı olarak erişebildiği ve anlık olarak verilerini takip edebildiği, dijital bir insan
+kaynakları ürünü ve mobil uygulamanın desteği ile mümkündür. 2017 yılı içerisinde, Türkiye’de, insan
+kaynakları teknolojilerindeki olgunluk seviyesinin, %51 seviyelerinde olduğu görülmüştür . Dünya çapında ise
+bu seviyeler, %70’lere yaklaşmaktadır. Bu veriler göz önüne alındığında, ülkemizin, insan kaynakları
+teknolojileri konusunda, ilerlemeye ihtiyacı olduğu görülmektedir. Piyasadaki uçtan uca İK ve zaman yönetimi
+bütünlüğündeki eksikliği kapatarak, global pazardaki rakiplerinin önüne geçebilir. İnsan kaynakları sürecinin
+dijitalleşme olgunluğu, bu alanda geliştirilecek analitik projelerinin de olgunluklarını doğrudan etkilemektedir.
+Çalışanların toplam bir ‘çalışan süreç yolculuğu’ nun tekil bir sistemden yönetilememesi, grup şirketler ve
+holdinglerde farklı iştiraklerle grif halde yönetilen süreçlerin ilişkilerinin İ.K. sistemleri üzerinde
+kurulamaması, analitik çalışmalarda kıymetli olan birçok verinin toplanamaması ve bunlar arasındaki
+ilişkilerin anlamlandırılamaması sonucunu doğurmaktadır. Çalışan süreç yolculuğunun tek bir sistem
+üzerinden yönetilmesinin sağlanarak İK süreçlerindeki 3 ana hususta yüksek performanslı bir karar destek
+sisteminin geliştirilmesi hedeflenmiştir. - Alternatif personel kümeleri içerisinden, kişinin iş deneyimleri, proje
+deneyimleri, performans değerlendirmeleri gibi çok boyutlu kriterler üzerinden işe uygun personelin
+önerilmesi, - Şirket hedefleri ve pozisyonun gereklilikleri doğrultunda alternatif personeller içerisinden terfi
+ettirilmesi uygun personellerin rasyonel olarak önceliklendirilmesi, - Şirket içi genel ücret zammı
+dönemlerinde, şirketin politikaları doğrultusunda ücret zamlarının rasyonel kriterler doğrultusunda personel
+bazında önerilmesi. Yukarıda belirtilmiş olan ana amaçlarımıza ulaşılabilmesi için mevcut İnsan Kaynakları
+Uygulamamızda (HR-Web) bulunmayan süreçlerimiz ve teknik eksikliklerimiz aşağıdaki gibidir; - Holding ve
+çoklu şirket yapıları yönetilememektedir. - İnsan Kaynakları süreçlerini kapsayacak tüm modüller arasında
+verisel akış sağlanamamaktadır. - Veriler tarihsel bazlı izlenememektedir. - Ücret, vb verilerde, dinamik veri
+şifreleme yapılamamaktadır. - Değer listeleri ve fonksiyonlar bazında yetkilendirme işlemleri
+yapılamamaktadır. - İş akışı mekanizması bulunmamaktadır, süreçler izlenememektedir. - Pozisyon ve
+organizasyon hiyerarşileri pozisyon değil kişi bazlı yapılmaktadır. - İş zekası çözümleri bulunmamaktadır,
+raporlamalar modüllerin içerisinden dinamik sorgulamalar yada özel statik raporlamalar bulunmaktadır.
+Amacımız yukarıda yer alan eksikliklerin giderileceği, kapsamlı iş zekası çözümleri sunan yenilikçi bir ürünün
+geliştirilmesidir. Bu ürün ile kazandırılacak ana fonksiyonların listesi şu şekilde belirlenmiştir: - Konektör
+yapısı (plug and play yapısı) - Zaman tarihçeli kayıt yapısı (time series veritabanları) - Dinamik iş akışı
+uygulaması - Yazılım robot altyapıları Analitik ve esnek raporlama altyapısı ile makine öğrenmesi
+algoritmaları kullanılarak akıllı ücretlendirme ve yedekleme çözümleri - Data encryption - Organizasyon Ağacı
+(Diagrammer) - Çalışan Süreç Yolculuğu Altyapısı
+Sayfa 57 / 74
+Proje Geliştirilecek bilgi sistemi uygulaması, uygulama geliştirme metodolojisine uygun olarak; ihtiyaç analiz,
+Kapsamında fonksiyonel tasarım, programlama ve birim test, sistem testi aşamalarından geçilerek gerçekleştirilecektir.
+Yapılacak Geliştirilen uygulama pilot olarak seçilecek müşterilerde uyarlanacak hedeflenen faydayı sağladığı
+Faaliyetler gözlenecek ve daha sonra pazara sürülecektir. Ek olarak Uygulama uygulama geliştirme metodolojisine uygun
+olarak dokümante edilecektir. Uygulama tamamlandığında İhtiyaç Analiz, Fonksiyonel ve Teknik Tasarım
+dokümanları oluşacaktır. Aşağıda proje geliştirme sürecinde yapılacak çalışmalar belirtilmiştir. - Scrum
+metodolojisi kullanılarak çevik proje gerçekleştirimi sağlanacaktır. - Uygulama geliştirme aşamasında
+kullanılacak araçların hızlı bir şekilde değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi
+için yüksek ölçüde otomasyonlaştırılmış Public/Private Cloud’a geçilmesi hedeflenmektedir. - Geliştirme
+aşamasında işlerin takip edilebilmesi ve analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması
+için Jira ve Confluence uygulama araçları kullanılacaktır. - Geliştirme sürecinde kullanılacak araçlar, izlenecek
+yöntemlerle ilgili proje ekibinin bilinçlenmesini sağlayacak eğitimler aldırılacaktır. - Olası proje ekipleri
+yetkinliğine bağlı olarak açık kaynak kodlaması tercih edilecektir(.Net Core, Java, Groovy, Go vs.). - Süreç
+işleme aşamalarındaki karar mekanizmalarının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır.
+Bu amaçla, ilişkisel veri tabanları yerine obje veri tabanları, in-memory çalışan sistemler geliştirme esnasında
+çıkan ihtiyaçlara göre kullanılabilecektir. - Uygulama geliştirme mimarisi olarak mikro servis / sunucusuz
+fonksiyonlarla geliştirme opsiyonları tercih edilecektir. - İş akışlarının ön yüzden dinamik bir şekilde
+kullanıcının oluşturabilmesi için dünyaca standart olarak kabul edilen BPMN formatına uygun motor
+geliştirilecek ve ön yüzden kontrol edilebilecektir. - İhtiyaç duyulan fonksiyonlar için önerme, öngörü, uyarı
+tarzı mesajlar uygulama dışında sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en
+yakın olabilecek performansta tekrar uygulamaya gönderilecektir. Bunun için; çalışma yüküne göre kendini
+dinamik olarak büyütebilen sistemler oluşturulmalıdır. - Veri değişmezlik (immutable) özelliği içeren
+veritabanı özellikleri ile çalışılacaktır. Hiçbir veri üzerinde güncelleme olmadan zaman damgalı bir şekilde
+veriler tutulacaktır. Geçmişe yönelik her hangi bir zamandaki verilere anlık olarak ulaşılabilinecektir. -
+Konektor yapısı ile her fonksiyonun tek başına çalışabilirliği sağlanacak olup, oluşturulacak API’lar ile
+uygulama içine modüller(plug-and-play) eklenebilecektir. - Test otomasyonu süreçleri kullanılacak. Birim,
+fonksiyonel ve entegrasyon testleri bilgisayarlara yaptırılacaktır. - CI/CD süreçleri tasarlanarak uygulama
+özelliklerinin kullanıcıya ulaştırılma süresi kısaltılacaktır. - Graph algoritmalarından (BFS, DFS, KNN vs.) uygun
+olanı araştırılarak pozisyon - organizasyon bilgilerine göre karmaşık hierarşiler oluşturularak personel ve diğer
+süreçlerdeki iş akışı, yedekleme vs. süreçlerinin işletilmesi sağlanılacaktır. Projemiz kapsamında, çalışan
+süreç yolculuğunun tek bir sistem üzerinden yönetilmesinin sağlanarak İK süreçlerindeki 3 ana hususta
+yüksek performanslı bir karar destek sisteminin geliştirilmesi hedeflenmiştir. • Alternatif personel kümeleri
+içerisinden, kişinin iş deneyimleri, proje deneyimleri, performans değerlendirmeleri gibi çok boyutlu kriterler
+üzerinden işe uygun personelin önerilmesi • Personellerin çok boyutlu özgeçmiş kriterleri üzerinden
+benzerlikleri collaborative filtering veya singular value decomposition kullanılarak hesaplanacak, pozisyon
+açılan ilgili ekipte yer alan örnek personele benzerliği belirlenen oranın üzerinde olan personeller
+önerilecektir. • Şirket hedefleri ve pozisyonun gereklilikleri doğrultusunda alternatif personeller içerisinden
+terfi ettirilmesi uygun personellerin rasyonel olarak önceliklendirilmesi • Şirketin geçmiş yıllarda terfi kararı
+verme datası ve çok boyutlu özgeçmiş kriterleri üzerinden personelin güncellenen bilgilerine göre mevcut
+dönemde terfi etme olasılıkları makine öğrenmesiyle (logistic regression vb.) tahmin edilecek. Belirli bir
+olasılığın üzerinde kalan personeller terfi için önerilecektir. • Şirket içi genel ücret zammı dönemlerinde,
+şirketin politikaları doğrultusunda ücret zamlarının rasyonel kriterler doğrultusunda personel bazında
+önerilmesi • Şirketin geçmiş yıllarda personele verdiği ücret zammı kararları / ücret zammı bandı ve çok
+boyutlu özgeçmiş kriterleri üzerinden personelin güncellenen bilgilerine göre mevcut dönemde alacağı ücret
+zammı / segment edileceği ücret zammı bandı makine öğrenmesiyle (regression, decision tree vb. )tahmin
+edilecek.
+Projenin Projede yer alacak fonksiyonlardan, Veri Analitiği yapısı, Çalışan Süreç Yolculuğu Yapısı, Konektör yapısı, İş
+Yenilikçi Akışı Süreçleri, Analitik tabanlı esnek raporlamalar AR-GE kapsamında ele alınacaktır. Uygulamanın
+Yönü ve Ar- gerçekleştirilebilmesi için insan kaynakları teknolojileri konusunda uzman; iş süreç danışmanları, Bilgi Sistemi
+Ge Niteliği geliştirme tecrübesi olan analistler, programcılar ve uygulamanın teknolojik gelişmelere ve mevzuata
+Sayfa 58 / 74
+uygunluğunu kontrol edecek bilim danışmanlarının görev alması gerekecektir. Ulusal uluslararası alandaki
+büyük firmaların ( çalışan sayısı +2000), İ.K. sistemlerine yönelik beklentileri ve bu beklentilerini farklı
+ürünlerle karşılayabilme düzeyleri araştırılmıştır. Bu kapsamda özellikle aşağıda belirtilen özellikleri
+bakımından geliştirilecek sistem ulusal ve uluslararası alanda yenilikçi bir sistem olarak planlanmıştır. - İşe
+uygun personel öneri sistemi, - Terfi edecek personel öneri sistemi - Ücret artış seviyesi öneri sistemi
+Yukarıdaki öneri mekanizmalarının geliştirilebilmesi bütünleşik ve kapsamlı bir İK sistemi projemiz
+kapsamında geliştirilecektir.
+Projenin Proje, işe alınacak adayların, adaylık sürecinden başlayarak, çalıştıkları süre boyunca, işe alım ve işe alıştırma,
+Beklenen bordro, proje bazlı zaman ve izin yönetimi, kariyer ve performans gelişimi, eğitim yönetimi süreçlerinden işten
+Çıktıları ve çıkışına kadar, tüm insan kaynakları döngüsünün elektronik ortamda gerçekleştirilmesi sağlanacaktır. Proje
+Faydaları sonunda oluşturulacak bilgi sistemi, insan kaynakları departmanının, tüm çalışan bilgilerini yönetmelerini
+sağlayacaktır. Ayrıca, global pazara açılarak ve ihracat gelirini arttırarak, ülke gelirine katkı sağlayacaktır.
+Projenin en önemli faydası İ.K süreçlerinin tekilleştirilmesidir. Bu sayede hali hazırda kişisel değerlendirmeler
+ya da statik raporlar üzerinden yapılan birçok değerlendirme ve bunlara ilişkin karar süreçlerinin analitik
+sistemlerden çok boyutlu bir şekilde yapılabilmesini sağlayacaktır. Projemizin tamamlanmasıyla birlikte bu
+projede elde edilen kazanımlar ve sonuçlar doğrultusunda birçok yeni ar-ge projesine başlanabilecektir.
+Bunların başında da tekilleştirilmiş personel verileri üzerinden yapılacak analitik projeler gelmektedir. Başarı
+Kriterleri: • 8000’den fazla personeli olan firmalarda bir çalışan için çalışan süreç yolculuğunun sistem
+tarafından raporlanma süresi max. 3 sn., • Geliştirilen karar destek sistemlerinin başarı performansının min.
+%85 olması, • Paket olarak geliştirilecek sistemin müşteriye özel İş akışı oluşturma sürecinin, müşteri
+tarafından, danışman desteği ile herhangi bir kod geliştirmesi gerektirmeden yaklaşık 3 gün içinde
+yapılabilmesi ve devreye alabilmesidir.
+Sayfa 59 / 74
+Proje Kodu P11
+Proje Adı e-Satınalma ve teklif yönetim sistemi platformu
+Proje 1.12.2018
+Başlama
+Tarihi
+Proje Bitiş 31.12.2020
+Tarihi
+Projede 6
+Görev Alan
+Personel
+Sayısı
+Proje Süresi 110
+(Adam Ay)
+Ulusal
+Destek
+Programı
+Uluslararası
+Destek
+Programı
+Toplam 1.450.000,00
+Proje
+Bütçesi (TL)
+Öz 1.450.000,00
+Kaynaklarca
+Karşılanan
+Tutar (TL)
+Destek 0
+Tutarı (TL)
+Hizmet Alım
+Konusu
+Hizmet
+Alımı
+(Yurtiçi /
+Yurtdışı)
+Toplam 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Sayfa 60 / 74
+Yurt İçi 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Yurt Dışı 0,00
+Hizmet
+Alımı Tutarı
+(TL)
+Proje Elektronik satın alma, özel ya da kamu her türlü kurumun satın alma sürecini elektronik ortama taşıyarak,
+Konusunu tedarikçileri üzerinden bu ortamda iş yapar hale gelmesi dünyadaki gelişmeye paralel Türkiye’de de
+Belirleyen konuşulmaya başlanmıştır ve ileride oldukça yaygın bir iş yapış yöntemi haline gelecektir. Gelecek 20 yılda
+İhtiyaçlar ticaretin yüzde 80’inin elektronik ortamda gerçekleşeceği tahmin edilmektedir. e-satınalma konusunda en
+tecrübeli ülke olan ABD'de her yıl milyarlarca dolarlık ihale elektronik ortamda gerçekleştirmektedir. Fortune
+100 şirketlerinin hemen hepsi şirket içi satınalma operasyonlarında e-satınalma uygulamalarını
+kullanmaktadır. statista.com adlı araştırma şirketinin yaptığı tahminlere göre, Dünyadaki online satın alma
+yapan kişi sayısı 2016 yılında 1,66 Milyar iken 2021 yılında 2.14 Milyar kişiye ulaşacaktır. Türkiye’de ise e-
+satınalma uygulamaları kullanım oranı geldiğimiz noktada çok düşüktür. Ancak şirketler global piyasalarda yer
+almak ve rekabet gücünü artırabilmek için yaptıkları iyileştirme çalışmaları ışığında her geçen gün şirketlerin
+e-satın almaya olan ilgisi daha da artmaktadır. 2019 yılı için şirketlerin (özel sektör) sadece endirekt ürün ve
+hizmetlere yapacakları harcamalar toplamının 35 Milyar Dolar olacağı tahmin edilmektedir. Bu satın alma
+hacmine hammadde alımlarını da eklediğinizde ortaya çıkan satın alma hacmi çok büyük rakamlara
+ulaşmaktadır. Şu anda Türkiye’de şirketlerin ihtiyaçları doğrultusunda geliştirilmiş e-satınalma’nın bazı
+fonksiyonlarını içeren uygulamalara rastlamak mümkündür, ancak diğer sistemlerle entegre çalışabilen
+komple bir e-satınalma uygulaması halen piyasada ciddi bir açık oluşturmaktadır. Ayrıca bu uygulamalar
+şirketlerin ihtiyaçları doğrultusunda geliştirildiğinden mevzuata ve kabul edilen e-satınalma normlarına uygun
+geliştirilmemiştir. Geliştirilmesi planlanan uygulamada bir kullanıcı mevcut tüm satınalma işlemlerini ve
+tedarikçileriyle olan ilişkilerini elektronik ortama aktarabilecektir. Kullanıcı kurum içerisinde oluşan talep için
+teklif toplayabilecek, topladığı teklifleri analiz edebilecek, bu teklifler üzerinden pazarlık süreçlerini
+başlatabilecek, pazarlık sonucunu uzun vadeli kataloglara çevirebilecek ve katalog üzerinden siparişini verip
+sipariş süreç ve statilerini takip edebilecektir. Diğer bir deyişle geliştirilmek istenen uygulama müşterilere
+satın almak istedikleri mal ve hizmetler için ilk piyasa araştırmalarının yapılmasından en son siparişin
+verilmesine kadar geçen süre içindeki bütün aşamaları elektronik ortama taşıyan ve mevzuata ve e-satın alma
+normlarına uygun bir e-satınalma çözümü olacaktır. Proje satın alma sürecinin ihtiyaçtan başlayarak,
+sonuçlandırması aşamasına kadar ilgili tüm birimlerin ihtiyaç sahibi, ihtiyaç hakkında karar verecek yönetim
+birimleri, ihtiyacın uygunluğu hakkında teknik bilgi verecek birimler, satın almayı gerçekleştirecek birimler,
+tedarikçiler, teslimatı kontrol eden birimler, ödeme yapan birimler ve denetleme yapan birimler tarafından
+kullanılacak tüm süreçle ilgili verilerin elektronik ortamda izlenmesine olanak tanıyan niteliktedir. Bu
+özelliklere sahip kurumsal bilgi sistemleriyle entegre çalışacak yurt içinde gerçekleştirilmiş bir bilgi sistemi
+uygulaması bulunmamaktadır, söz konusu hedeflerle ilgili yurt dışı kaynaklı SAP Ariba, Coupa, Ivalua ve
+benzeri uygulamalar bulunmaktadır, söz konusu uygulamaların lisans bedelleri pahalı ve uyarlama süreleri
+oldukça uzundur aynı zamanda lokalizasyon ve Türkçe destek süreçlerinde sıkıntıları bulunmaktadır. E-
+satınalma ve teklif yönetimi sisteminin bir bütün olarak geliştirilmesi sonrasında satın alma sürecini
+kolaylaştıran yenilikçi karar destek sistemlerinin de geliştirilmesi hedeflenmiştir. Bu sistemler aşağıda
+belirtilmiştir. Tedarikçilerin, geçmiş dönem performansları doğrultusunda farklı siparişlere yönelik muhtemel
+uygunluklarının değerlendirilerek derecelendirilmesi sağlanacaktır. Bu sayede satın alma sürecinde tedarikçi
+seçiminin daha objektif ve performans odaklı olması sağlanabilecektir. Bu kapsamda işin öngörülen
+kapsamının tam sağlanabilmesi ve öngörülen riskler varsa bunların yönetilebilmesi için tedarikçi önerisi,
+Sayfa 61 / 74
+ihaleye davet, işin birden fazla tedarikçiye bölünme önerileri sunabilecektir.
+Proje Geliştirilecek bilgi sistemi uygulaması, uygulama geliştirme metodolojilerine uygun olarak ihtiyaç analiz,
+Kapsamında fonksiyonel tasarım, programlama ve birim test, sistem testi aşamalarından geçilerek gerçekleştirilecektir.
+Yapılacak Uygulamanın temelinde veri analitiği özellikleri konumlandırılacaktır. Geliştirilen uygulama pilot olarak
+Faaliyetler seçilecek müşterilerde uyarlanacak hedeflenen faydayı sağladığı gözlenecek ve daha sonra pazara
+sürülecektir. Uygulama tamamlandığında İhtiyaç Analiz, Fonksiyonel ve Teknik Tasarım dokümanları
+oluşacaktır. Projemizde iki farklı uzmanlık alanından akademik danışmanlık alınması öngörülmüştür. Bunlardan
+ilki satınalma bilgi alanı konusunda uzman iş süreç danışmanı, ikincisi ise veri analitiği, büyük veri ve veri
+işleme alanlarında uzman akademik danışmandır. .Bu danışmanlardan aşağıdaki hususlarda destek
+alınacaktır. -Sistem tasarımı, sistemlerin dış sistemlerle entegrasyonu konusunda akademik ve metodolojik
+yaklaşımların modüler tasarımı, -Elektronik pazar yerleri konusunda ticari ve akademik bilgi birikiminin
+araştırılması, iyi çalışma modellerinin ve bulguların tasarım ekibine aktarılması, - Veri yapılarının analizi ve
+geliştirilen modellerin performanslarının optimize edilmesi, -Ürünün farklı iş modellerinde (Örneğin ürün
+birden fazla alıcı ve satıcıyı biraraya getiren public bir pazar yeri çözümü olarak kullanılabileceği gibi tek alıcı
+birden fazla tedarikçiyi biraraya getiren private bir pazar yeri çözümü olabilir. İleride sektörel bazlı pazar
+yerlerinin genişlemesi ve yaygınlaşması durumunda sektörel bazlı pazar yerlerinin entegrasyonu ile bir pazar
+yerine üye olan bir kurumun birden fazla pazar yeriyle temas içinde olması sağlanabilir. Birileriyle entegre
+olarak çalışan pazaryerlerinden oluşan bir hub oluşturulabilir.) kullanımına yönelik entegrasyon kabiliyetlerinin
+süreç ve teknolojik açıdan tasarımı -Ürün üzerindeki tüm fonksiyonalitenin Türkiye içindeki
+ticaret/ithalat/ihracat mevzuatına uygunluğunun sağlanmasıdır. Proje geliştirme sürecimizde aşağıdaki
+faaliyetlerin gerçekleştirilmesi planlanmıştır: • Takım/İş Yönetimi - Scrum metodolojisi kullanılarak çevik proje
+gerçekleştirimi sağlanacaktır. - Uygulama geliştirme aşamasında kullanılacak araçların hızlı bir şekilde
+değiştirilebilmesi ve güncel teknolojilere hızlıca adapte olunabilmesi için yüksek ölçüde otomasyonlaştırılmış
+Public/Private Cloud’a geçilmesi hedeflenmektedir. - Geliştirme aşamasında işlerin takip edilebilmesi ve
+analiz çalışmaları sonucunda ortaya çıkan dokümanların saklanması için Jira ve Confluence uygulama araçları
+kullanılacaktır. - Geliştirme sürecinde kullanılacak araçlar, izlenecek yöntemlerle ilgili proje ekibinin
+bilinçlenmesini sağlayacak eğitimler aldırılacaktır. - Olası proje ekipleri yetkinliğine bağlı olarak açık kaynak
+kodlaması tercih edilecektir(.Net Core, Java, Groovy, Go vs.). • Mimari Altyapı - Süreç işleme aşamalarındaki
+karar mekanizmalarının hızlı çalışabilmesi için gerekli teknik altyapı oluşturulmalıdır. Bu amaçla, ilişkisel veri
+tabanları yerine obje veri tabanları, in-memory çalışan sistemler geliştirme esnasında çıkan ihtiyaçlara göre
+kullanılabilecektir. - Uygulama geliştirme mimarisi olarak mikro servis / sunucusuz fonksiyonlarla geliştirme
+opsiyonları tercih edilecektir. - İş akışlarının ön yüzden dinamik bir şekilde kullanıcının oluşturabilmesi için
+dünyaca standart olarak kabul edilen BPMN formatına uygun motor geliştirilecek ve ön yüzden kontrol
+edilebilecektir. - İhtiyaç duyulan fonksiyonlar için önerme, öngörü, uyarı tarzı mesajlar uygulama dışında
+sürekli çalışacak olan bir motor tarafından analiz edilip gerçek zamana en yakın olabilecek performansta
+tekrar uygulamaya gönderilecektir. Bunun için; çalışma yüküne göre kendini dinamik olarak büyütebilen
+sistemler oluşturulmalıdır. - Test otomasyonu süreçleri kullanılacak. Birim, fonksiyonel ve entegrasyon testleri
+bilgisayarlara yaptırılacaktır. - CI/CD süreçleri tasarlanarak uygulama özelliklerinin kullanıcıya ulaştırılma
+süresi kısaltılacaktır. • Veri Analitiği - Yapılan ticaretin içeriğine göre içerik analizi yapılarak (makine
+öğrenmesi algoritmaları) kullanıcıya en uygun gösterge panel ve grafikleri oluşturulacaktır. - Tüm
+kullanıcıların teklif verebileceği bir altyapı kurgulanarak akıllı sıralama (page-rank vs) algoritmaları ile alıcıya
+yarar sağlayacak ve zaman kaybetmeyecek sıralama yapılacaktır. - Benzer ihalelerdeki kazanımların analizleri
+ile tüm alıcı ve vericilere önerme algoritmaları kullanılarak ihale şekil önerileri verilebilecektir. • Yapılan
+ticaretin içeriğine göre içerik analizi yapılarak (makine öğrenmesi algoritmaları) kullanıcıya en uygun
+gösterge panel ve grafikleri oluşturulacaktır. • Tedarikçi / alıcı geçmişte aldıkları aksiyonlara, bilgilerine ve
+ticaretin içeriğine göre seçilecek “supervised / unsupervised classification” (gözetimli / gözetimsiz
+sınıflandırma) yöntemiyle sınıflandırılacak / segmente edilecek • Müşteriye segmentasyonuna göre seçilen
+(kişiselleştirilen) panel ve grafiklerin gösterilmesini sağlayan bir altyapı geliştirilecek • Tüm kullanıcıların
+teklif verebileceği bir altyapı kurgulanarak akıllı sıralama (page-rank vs) algoritmaları ile alıcıya yarar
+sağlayacak ve zaman kaybetmeyecek sıralama yapılacaktır. • Müşterilerin geçmiş hareketlerine göre (alış /
+Sayfa 62 / 74
+satış) bir sonraki periyodda ( 1/2/3/4 hafta) her bir ürün kategorisinden satın alım yapma olasılığı makine
+öğrenmesiyle (logistic regression vb.) tahmin edilecek. • Geçmiş verilerden birlikte veya aynı periyotta en çok
+alınan ürünler ve ürün kategorileri association rule mining (birliktelik kural çıkarımı) yöntemleriyle
+belirlenecek. • Müşteriler ve tedarikçilerin kendi gruplarında benzerlikleri geçmişte aldıkları aksiyonlara göre
+collaborative filtering, singular value decomposition veya graph analysis yöntemleriyle belirlenecektir. Alıcıya
+seçtiklerine benzer tedarikçiler veya tedarikçiye teklif yaptığı benzer alıcılar önerilebilecektir. • Yukarıdaki
+analizlerin sonucunda çıkacak benzerlik dereceleri, müşterilerin seçtiği kritere göre (benzer tedarikçiler,
+benzer ürünler, birlikte alınan ürünler, geçmişte aldığım ürünler vb.) hızlı bir şekilde sıralama yapılmasını
+sağlayacaktır. • Benzer ihalelerdeki kazanımların analizleri ile tüm alıcı ve vericilere önerme algoritmaları
+kullanılarak ihale şekil önerileri verilebilecektir. • İhaleler benzerliklerine göre “supervised / unsupervised
+classification” (gözetimli / gözetimsiz sınıflandırma) yöntemiyle sınıflandırılacak / segmente edilecektir. •
+Tedarikçilerin geçmiş aksiyonları, bilgileri, ve teklif sundukları / kazandıkları ihalelere göre yeni açılan / teklif
+sundukları ihaleyi kazanma olasılıkları makine öğrenmesiyle (logistic regression vb.) tahmin edilecektir. •
+İlgili ihaleyi kazanma olasılığı yüksek olan tedarikçiler alıcıya önerilecektir, aynı zamanda tedarikçilere de
+teklif sunmaları için öneri yapılacaktır.
+Projenin Projemizde ele alındığı kapsamda, bütünleşik bir esatınalma ve teklif yönetim sistemi, yerli bir çözüm olarak
+Yenilikçi bulunmamaktadır. Bu sebeple geliştirilecek sistemin ulusal anlamda en gelişmiş sistem olacağı
+Yönü ve Ar- öngörülmüştür. Uluslararası alandaki sistemler incelendiğinde ise yüksek kapasiteli ve bütünleşik sistemlerin
+Ge Niteliği bulunduğu bilinmektedir. Bu sistemlerin Türkiye’de kullanımının önünde yüksek lisans ücretleri ve e-dönüşüm
+entegrasyonları konularında problemler ortaya çıkmaktadır. Bu sebeple bu sistemler Türkiye’de
+yaygınlaşamamıştır. Buna ek olarak analitik özellikleri bakımından yurt dışındaki ürünlerin de tedarikçi
+sıralama gibi özellikleri ve gelişmiş raporlama fonksiyonları olsa da ( Geliştirilecek sistem bunları kapsıyor
+olacak) tedarikçilerin geçmiş dönem performanslarına göre iş bazlı risk analizi yaparak bunu yöneten bir
+sistem tespit edilememiştir. Belirtilen özellikleri bakımından geliştirilecek sistem hem ulusal hem de
+uluslararası alanda yenilikçi özelliklere sahiptir. Geliştirilecek sistem, tüm satın alma sürecinin ihtiyaçtan
+başlayarak, sonuçlandırması aşamasına kadar, ilgili tüm birimlerin, ihtiyaç sahibi, ihtiyaç hakkında karar
+verecek yönetim birimleri, ihtiyacın uygunluğu hakkında teknik bilgi verecek birimler, satın almayı
+gerçekleştirecek birimler, tedarikçiler, teslimatı kontrol eden birimler, ödeme yapan birimler ve denetleme
+yapan birimler tarafından kullanılacak bir platform sağlaması özelliğiyle ülkemiz için bir ilk olma özelliğinde
+olacaktır. Geliştirilecek uygulama özellikle malzeme ihtiyaç planlama süreciyle ile entegre çalışma özelliği
+sayesinde ihtiyaçların zamanında karşılanmasına hizmet edecektir. Her iş ya da ürünün satın alma, tedarik
+süreleri ve bunlara ilişkin riskler farklılık gösterebilmektedir. Geliştirilecek sistem her iş – sipariş için değişen
+risklerin zaman planına etkisini değerlendirerek bununla ilgili uyarı ve alarmlar üretecektir. Sistemde birim
+fiyat sözleşmelerinden faydalanılarak malzeme ihtiyaç planlaması süreci veya iş akış sistemleri tarafından
+onaylanan talepler otomatik olarak siparişe dönüştürülerek satın alma sürecinde otomasyon sağlanacaktır.
+Projenin Proje ihtiyaçtan başlayarak, tüm satın alma sürecinin şeffaf bir şekilde elektronik ortamda gerçekleştirmeye
+Beklenen hizmet edecek bilgi sistemi geliştirme projesidir. Proje sonunda oluşturulacak bilgi sistemi kamu ve özel
+Çıktıları ve sektör kuruluşları elektronik satın alma süreçlerini yönetmeyi sağlayacaktır. Planlanan uygulama üzerinde
+Faydaları Yıllık ortalama 500.000 Pazarlık ( İhale,teklif toplama,teklif vs. ) , 5.000.000 Adet pazarlık kalemi , 600.000
+Sipariş, Günlük ortalama 10.000.000 İşlem sayısı ( tetiklenen her bir fonksiyon ortalaması tüm kapsam için )
+,toplam 100.000 Tedarikçi firma, 500 Alıcı firma ve 300.000 kullanıcıyı destekleyecek seviyede altyapıda
+çalışması planlanmıştır. Ek olarak raporlama altyapısı için modüler , görsel olarak ekleme yapılabilir, Sistem
+yöneticisi tarafından dizayn edilen ana şablonlar üzerinden kullanıcılara atanabilen anlık hızlı raporlama
+altyapısına sahip olacaktır. Geliştirilecek sistemin max. 3 sn içerisinde oluşturulan satın alma talebiyle ilgili
+sistemde kayıtlı tedarikçileri önceliklendirerek sıralayabilmesi hedeflenmiştir.
+Sayfa 63 / 74
+8. DIŞARIDA GEÇİRİLEN SÜRELERE İLİŞKİN BİLGİLER
+8.1. Faaliyet Kapsamında Doktora/Yüksek Lisans Eğitimi İçin Dışarıda Geçirilen Sürelere İlişkin Bilgiler
+Sıra No Personelin Adı Lisansüstü Eğitim Türü Üniversitesi Üniversitede Geçirilen Süre
+Sayfa 64 / 74
+8.2. Faaliyet Kapsamında Dışarda Geçirilen Sürelere İlişkin Bilgiler
+Sıra Personelin Adı Dışarıda Geçirilen Projenin Adı Dışarıda
+No Faaliyetin Türü Geçirilen Süre
+1 Alper Akbulak Analiz GRC – RİSK Yönetim Otomasyonu (P5) 2
+2 Akif Beyhan Analiz E-defter Denetim (P2) 2
+3 Mehmet Analiz Akıllı Üretim Sistemleri (P1) 2
+Dağdelen
+4 Özer Kaya Analiz Akıllı Üretim Sistemleri (P1) 3
+5 Sevban Bayrak Analiz E-defter Denetim (P2) 2
+6 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 3
+7 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+8 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+9 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+10 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+11 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+12 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+13 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+14 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+15 Ferda Sevim Analiz Pratis.Net İhale verilerinin otomatik olarak 8
+sınıflandırılması (P8)
+16 Ufuk Yumlu Analiz Pratis.Net İhale verilerinin otomatik olarak 8
+sınıflandırılması (P8)
+17 Ufuk Yumlu Analiz Pratis.Net İhale verilerinin otomatik olarak 8
+sınıflandırılması (P8)
+18 Özer Kaya Analiz Akıllı Üretim Sistemleri (P1) 8
+19 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+20 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sayfa 65 / 74
+Sistemi (P9)
+21 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+22 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+23 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+24 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+25 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+26 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+27 Ufuk Yumlu Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+28 Ferda Sevim Analiz Pratis.Net İhale verilerinin otomatik olarak 8
+sınıflandırılması (P8)
+29 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+30 Ufuk Yumlu Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+31 Ufuk Yumlu Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+32 Ufuk Yumlu Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+33 İlkay Erkör Analiz Pratis.Net İhale verilerinin otomatik olarak 8
+sınıflandırılması (P8)
+34 Oğuz Haydar Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+Akbaba
+35 Eyüp Altındal Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+36 Eyüp Altındal Analiz GRC – RİSK Yönetim Otomasyonu (P5) 9
+37 Ferda Sevim Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+38 Ferda Sevim Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+39 Ferda Sevim Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+40 Özkan Özbaş Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+Sayfa 66 / 74
+41 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+42 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+43 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+44 Ahmet Koç Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+45 Akif Beyhan Analiz E-defter Denetim (P2) 8
+46 Eyüp Altındal Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+47 Ferda Sevim Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+48 Ferda Sevim Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+49 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+50 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+51 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+52 Mehmet Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Dağdelen Sistemi (P9)
+53 Mehmet Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Dağdelen Sistemi (P9)
+54 Necmi Kayıkçı Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+55 Necmi Kayıkçı Test ve Deney Çalışmaları Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+56 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+57 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+58 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+59 Özkan Özbaş Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+60 Özkan Özbaş Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sayfa 67 / 74
+Sistemi (P9)
+61 Sevban Bayrak Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+62 Mehmet Yılmaz Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+63 Alper Akbulak Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+64 Resul Kaan Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+Karakoç
+65 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+66 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+67 Özer Kaya Analiz E-defter Denetim (P2) 8
+68 Mehmet Analiz E-defter Denetim (P2) 8
+Dağdelen
+69 Ferda Sevim Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+70 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+71 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+72 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+73 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+74 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+75 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+76 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+77 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+78 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+79 Resul Kaan Analiz GRC – RİSK Yönetim Otomasyonu (P5) 4
+Karakoç
+80 Resul Kaan Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+Karakoç
+81 Sevban Bayrak Analiz E-defter Denetim (P2) 8
+Sayfa 68 / 74
+82 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+83 Alper Akbulak Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+84 Ferda Sevim Analiz E-defter Denetim (P2) 8
+85 Ferda Sevim Analiz E-defter Denetim (P2) 8
+86 Ferda Sevim Analiz E-defter Denetim (P2) 8
+87 Ferda Sevim Analiz E-defter Denetim (P2) 8
+88 Ferda Sevim Analiz E-defter Denetim (P2) 8
+89 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+90 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+91 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+92 İlkay Erkör Analiz Pratis.Net Büyük Veri Analizi ve Otomasyon 8
+Projesi (P7)
+93 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+94 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+95 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+96 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+97 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+98 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+99 Özer Kaya Analiz E-defter Denetim (P2) 8
+100 Özer Kaya Analiz E-defter Denetim (P2) 8
+101 Resul Kaan Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Karakoç Sistemi (P9)
+102 Sevban Bayrak Analiz E-defter Denetim (P2) 8
+Sayfa 69 / 74
+103 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+104 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+105 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+106 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+107 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+108 Onur Sağıroğlu Test ve Deney Çalışmaları Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+109 Necmi Kayıkçı Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+110 Oğuz Haydar Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Akbaba Sistemi (P9)
+111 Özkan Özbaş Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+112 Özkan Özbaş Analiz Proje Bazlı, Kaynak Planlama ve Risk Yönetim 8
+Sistemi (P9)
+113 Yusuf Bahadır Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+114 Yusuf Bahadır Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+115 Mehmet Analiz E-defter Denetim (P2) 8
+Dağdelen
+116 Ufuk Yumlu Analiz GRC – RİSK Yönetim Otomasyonu (P5) 8
+Sayfa 70 / 74
+9. BİR ÖNCEKİ FAALİYET DEĞERLENDİRME TOPLANTISINDA ALINAN KARARLARA İLİŞKİN YAPILAN
+ÇALIŞMALAR
+BİMSA ULUSLARARASI İŞ BİLGİ VE YÖNETİM SİSTEMLERİ A.Ş Ar-Ge Merkezi Başvuru Değerlendirme Komisyonu
+(21.2.2018)
+Faaliyet 1. Ar-Ge niteliği yüksek ulusal/uluslararası destekli proje başvurularının yapılması
+Değerlendirme 2. Ar-Ge Merkezinde görev yapan personelin yüksek lisans ve doktora eğitimine teşvik edilmesi
+Toplantısında 3. Ar-Ge personeline yönelik teşvik ve ödül sisteminin çeşitlendirilip somutlaştırılması
+Alınan 4. Üniversitelerle proje işbirliklerinin kurulması ve çeşitlendirilmesi
+Kararlar 5. Temel bilimler alanında personel istihdam edilmesi
+6. Fikri ve sınai mülkiyet hakları konusunda personel görevlendirilmesi ve görevlendirilecek personelin
+bu konuda eğitilmesi
+7. Ar-Ge Merkezi faaliyetleri ile ilgili bilimsel faaliyetlere katılımların arttırılması
+Faaliyet 1-2018 yılında şirketimizin kurumsal yapılanması ile ilgili olarak birtakım değişiklikler yaşanmıştır bu
+Değerlendirme çerçevede Ar-Ge merkezi yöneticisi değişmiş ve Ar-Ge ekibine dahil edilmesi öngörülen 10’un üzerindeki
+Toplantısında personelin istihdamı 2019 yılına ötelenmiştir. Bu sebeple, 2018 yılı içerisinde TÜBİTAK-TEYDEB
+Alınan programlarına başvuru gerçekleştirilememiştir ancak hali hazırda bir projemiz için proje dokümanları
+Kararlara hazırlanmıştır ve başvuru aşamasındadır. İkinci projemizin ise hazırlıkları devam etmektedir.
+İlişkin Yapılan
+Çalışmalar 2-Ekibimize 25.02.2019 tarihinde İstanbul Bilgi Üniversitesi İşletme bölümü yüksek lisans mezunu olan
+Ahmet Özgür Çırağıloğlu, 11.06.2018 tarihinde Kocaeli Üniversitesi Bilgisayar Mühendisliği yüksek lisans
+3.dönemde okumakta olan Resul Kaan Karakoç kişilerin katılımı gerçekleşmiştir. Çalışma konusu
+projelerimiz ile paralel olması konusuna ayrıca dikkat edilmekte ve çalışmalarımız devam etmektedir.
+Şirketimizin Ar-Ge merkezi Kocaeli adresinde bulunmaktadır. Bu sebeple personel istihdamında bazı
+güçlükler yaşanmıştır. Şirketimiz, ekibine dahil etmeyi öngördüğü personelleri belirlemiş ve bunları
+istihdam etmiştir ancak bu kişiler 2018 yılında Ar-Ge merkezi lokasyonunda çalışmadığı için Ar-Ge merkezi
+personeli olarak beyan edilememiştir. Bu personeller (Nilgün Mirasyedi, Caner Gündüz, Çağla Aksoy, Ali
+Aydın Koç, Savaş Birdal, Nogay Deniz Ünsal, Pınar Yalçın) sayısında beklenen artış sağlanmış olacaktır.
+2019 yılında 30 Haziran tarihine kadar gerekli organizasyonel değişiklikler yapılarak bu personellerin Ar-Ge
+merkezine geçişi sağlanacaktır.
+3-Teşvik ve ödül sistemi ile ilgili olarak ilgili çalışmalar tamamlanmış olup “Faaliyetlerinin özendirilmesi,
+performans değerlendirme ve ödül sistemi” belirlenmiş ve hem şirket hem de Holding onayları alınarak
+yayınlanmıştır.
+4- Sabancı Üniversitesi ile Sanayi İşbirliği Programı dahilinde Sabancı Üniversitesi Endüstri Mühendisliği
+Bölümü son sınıfta okuyan 4 öğrenci ile bitirme projelerini üzerinde çalıştığımız “Digital Twinning”
+projesinin bir kolu üzerinde, SabancıDX ekibinin yönlendirmeleri ve veri paylaşımları ile yaptılar. “Towards
+Composite Digital Twin” konulu poster çalışması hazırladılar. Assoc. Prof. Selim Balcısoy bu konuda
+koordinasyonu sağladı.
+İleri Veri Analitiği Akademisi: Sabancı Grup Şirketleri’ndeki çalışanlar yaptıkları iş ve belirlenen kriterlere
+göre seçilerek 2 aylık bir sürede veri analitiği konusunda temel dersler ve uzmanlık dersleri (translators
+program, data scientist program, data engineer program) alınmıştır. Sabancı Üniversitesi Veri Analitiği
+Yüksek Lisans Programı hocaları program dahilinde ders verildi ve Programın ilki 2018 yılında yapıldı,
+ikincisi de farklı bir formatta bu yıl yapılması planlanmaktadır.
+Akademi tarafından Selim Balcısoy’dan (Sabancı Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi
+Sayfa 71 / 74
+Dekan Yardımcısı) destek alınmaktadır.
+5-2018 yılında İK departmanımız temel bilimler mezunu personelleri işe alım sürecinde özellikle göz önünde
+bulundurarak birçok görüşme gerçekleştirmiştir ancak hem uygun adayların belirlenememesi hem de 2018
+yılında istihdam artışına gidilememesi sebebiyle tem bilimlerden mezun personel alımı sağlanamamıştır.
+Buna karşın 2019 yılı içerisinde bu konu ile ilgili olarak 15.05.2019 tarihinde Eskişehir Osmangazi
+Üniversitesi Matematik Bölümü mezunu Mustafa Sadedil ekibimize katılmıştır.
+6-Konuyla ilgili bir kişi görevlendirilmiş olup, iki farklı eğitim almıştır. Şirketimiz aynı zamanda bir patent
+firması ile de çalışmalarını sürdürmektedir. Bu kapsamda hem şirket içerisinde bir birim olarak fikri haklar
+birimi oluşturulmuştur hem de ilgili mevzuatlar konusunda daha doğru hareket edebilmek için konunun
+hukuki süreçlerine yönelik olarak da danışmanlık alımı sağlanmıştır. Patent süreçleri hem de ideal fikri
+haklar stratejisinin çerçevesinde olması gereken noktalar konusunda bilgilendirilmiştir. Aynı zamanda
+patent politikası tespit edilme çalışmaları gerçekleştirilmiştir. Şirketin fikri haklar politikası bu kapsamda
+oluşturulmaya başlanmıştır ve bunun üzerine yeni proje üretme ve bunların başvurularında bu politikaya
+uygun hareket edilmesi kararlaştırılmıştır. Organizasyon şemasında ilgili değişiklikler revize edilerek
+güncellenmiştir.
+7-Şirketimiz bilimsel faaliyetler ile ilgili etkinliğini artırabilmek için öncelikle farklı akademisyenlerden
+teknik süreçlere ilişkin kabiliyetlerini arttırabilmek açısından bir seri eğitim alınmasının daha faydalı
+olacağını değerlendirmiştir. Bu kapsamda personelin bu yapılan eğitimler ile birlikte bu konudaki yetkinliği
+arttırıldı. Pratis.Net Büyük Veri Analizi ve Otomasyon Projesi ve Pratis.Net İhale verilerinin otomatik olarak
+sınıflandırılması projesi çalışmalarından da iki adet yayın çalışması konusunda faaliyetlere başlanmıştır.
+Sayfa 72 / 74
+10. Ar-Ge Merkezi PERFORMANS KRİTERLERİNE İLİŞKİN BİLGİLER
+Kriterler 2017 2018 Değerlendirme
+Ar-Ge harcamasının toplam ciro içindeki 0 0,01075
+payı
+Tescil edilen ulusal veya uluslararası 0 0
+patent sayısı
+Uluslararası destekli proje sayısı 0 0
+Lisansüstü dereceli araştırmacı sayısının Bu alanın hesaplaması yapılmayacaktır, 4 / 21
+toplam Ar-Ge personeli sayısına oranı eğer varsa bir önceki rapordan elde
+edilecektir.
+Toplam araştırmacı sayısının toplam Ar-Ge Bu alanın hesaplaması yapılmayacaktır, 21 / 21
+personeli sayısına oranı eğer varsa bir önceki rapordan elde
+edilecektir.
+Ar-Ge sonucu ortaya çıkan yeni ürünlerden 0,00 / 165.071.228,78 0,00 /
+elde edilen cironun toplam ciroya oranı 192.681.637,07
+(TL)
+Sayfa 73 / 74
+İşbu Faaliyet Raporunda yer alan tüm verilerin;
+Doğru ve eksiksiz olarak tarafımdan girildiğini,
+Sanayi ve Teknoloji Bakanlığı tarafından gerçekleştirilecek olan Performans Endeksi çalışmasında kullanılacağı hakkında
+bilgilendirildiğimi,
+Yıl içerisinde herhangi bir zamanda yapılacak olan Performans Endeksi çalışması için herhangi bir ilave ya da değişiklik
+talebinde bulunmayacağımı,
+Sanayi ve Teknoloji Bakanlığı tarafından doğrulama ya da eksiklik giderme amaçlı olarak veri ya da bilgi talep
+edilebileceğini
+kabul, beyan ve taahhüt ederim.
+Sayfa 74 / 74

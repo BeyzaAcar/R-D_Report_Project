@@ -1,3 +1,8 @@
+'''
+This code snippet is designed to vectorize text chunks from JSON files stored in a Google Drive folder using the SentenceTransformer model. It processes each category of reports, generates embeddings for the text chunks, and saves the FAISS index and metadata in a specified output directory.
+'''
+
+
 import os, json
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer

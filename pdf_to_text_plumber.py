@@ -1,3 +1,8 @@
+'''
+This code snippet is designed to convert PDF files into text files using the pdfplumber library. It reads each PDF file in a specified folder, extracts the text from each page, and saves the combined text into a new text file in an output folder. The code handles errors gracefully and provides feedback on the processing status of each PDF file.
+'''
+
+
 import os
 import pdfplumber
 
