@@ -29,7 +29,7 @@ def normalize(text: str) -> str:
 def clean_text(text: str) -> str:
     return re.sub(r"\s+", " ", text.replace("\n", " ")).strip()
 
-def expand_chunk(chunk_text: str, full_text: str, extra_chars: int) -> str:
+def expand_text_snippet(chunk_text: str, full_text: str, extra_chars: int) -> str:
     norm_chunk = normalize(chunk_text)
     norm_full  = normalize(full_text)
 
@@ -64,6 +64,8 @@ def expand_chunk(workspace_dir):
     for category, extra in EXPANSION_SIZE.items():
         in_dir  = os.path.join(TOP10_DIR, category)
         out_dir = os.path.join(EXPAND_DIR, category)
+        os.makedirs(out_dir, exist_ok=True)
+
         if not os.path.exists(in_dir):
             print(f"⚠️ Klasör bulunamadı, atlanıyor: {in_dir}")
             continue
@@ -88,7 +90,7 @@ def expand_chunk(workspace_dir):
                 with open(report_path, encoding="utf-8") as rf:
                     full_text = rf.read()
 
-                chunk["expanded_text"] = expand_chunk_text(chunk["chunk_text"], full_text, extra)
+                chunk["expanded_text"] = expand_text_snippet(chunk["chunk_text"], full_text, extra)
 
             with open(os.path.join(out_dir, filename), "w", encoding="utf-8") as wf:
                 json.dump(chunks, wf, ensure_ascii=False, indent=2)

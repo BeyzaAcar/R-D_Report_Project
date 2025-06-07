@@ -2,9 +2,7 @@
 This project provides a complete pipeline for extracting, cleaning, chunking, embedding, searching, and expanding text from R&D Center reports (PDF format). The system is designed to work modularly and supports multi-question semantic retrieval over categorized document chunks.
 
 📂 Folder Structure
-bash
-Copy
-Edit
+
 workspace/
 └── <report_id>/                  # Unique folder per uploaded report
     ├── raw_txt/                  # Raw text extracted from PDF
@@ -68,6 +66,29 @@ Output: One soru{ID}_top10.json per dataset (in top10/<category>/)
 6. expand_top10_chunks.py
 Purpose: Expands each top-10 chunk by locating it in the original report and including ±N characters of surrounding context.
 
+7. soru_yordam_embedder.py  
+Purpose: Default `QUESTIONS/default_questions_and_yordams.txt` dosyasını okuyup, soru + yordam çiftlerini gömmer ve FAISS indeksine ekler.  
+Output: `workspace/<report_id>/faiss/metadata_soru_yordam.json`
+
+8. run_pipeline.pyPurpose: Main orchestrator script. Runs the entire pipeline end-to-end from PDF to final GPT-ready prompt.
+Usage:
+"python run_pipeline.py <report_id> <pdf_path> <question_id>"
+
+Example:
+python run_pipeline.py rapor2023 uploads/rapor2023.pdf 3
+
+THIS RUN THE FOLLOWING:
+
+1. Initializes workspace folder structure
+2. Extracts text from the given PDF
+3. Cleans CID characters
+4. Creates chunks (genel, ozel, mevzuat)
+5. Embeds chunks using SentenceTransformer
+6. Embeds default questions and yordams
+7. Searches for top-10 chunks for each question
+8. Expands retrieved chunks for context
+9. Generates GPT prompt for specified question
+
 Expansion size per category:
 
 genel: ±750
@@ -89,13 +110,15 @@ chunk_creator.py → Create sentence chunks by category
 
 faiss_creator.py → Build FAISS indexes
 
+soru_yordam_embedder.py → Vectorize questions + yordams
+
 top10_retriever.py → Find top-10 chunks per question
 
 expand_top10_chunks.py → Expand those chunks for richer context
 
 (Optional) Send expanded chunks to GPT API for answer generation.
 
-🧠 Model Used
+🧠 Model Used (SentenceTransformer modeli parametre ile verilir.  )
 intfloat/multilingual-e5-large: used for both chunk embedding and query embedding.
 
 Sentence embeddings are L2-normalized and FAISS uses IndexFlatIP (cosine similarity).

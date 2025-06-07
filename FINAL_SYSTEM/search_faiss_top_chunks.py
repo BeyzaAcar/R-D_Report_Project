@@ -51,8 +51,8 @@ def ask_all(workspace_dir: str,
         sorular = json.load(f)
 
     def search_faiss(query: str, faiss_index, k: int):
-        emb, _ = model.encode([query], convert_to_numpy=True,
-                              normalize_embeddings=True, return_attention_mask=False)
+        emb = model.encode([query], convert_to_numpy=True,
+                              normalize_embeddings=True)
         _, idxs = faiss_index.search(emb, k)
         return idxs[0]
 

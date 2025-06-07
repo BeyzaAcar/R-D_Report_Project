@@ -23,8 +23,7 @@ comment to activate in production.
 # ---------------------------------------------------------------------------
 # Configuration — adjust paths for your environment
 # ---------------------------------------------------------------------------
-QUESTION_METADATA = Path("workspace/<report_id>/metadata_soru_yordam.json")
-CHUNK_BASE        = Path("workspace/<report_id>/expanded")
+
 DATASETS          = ["genel", "ozel", "mevzuat"]  # search folders
 MIN_CHUNK_CHARS   = 30   # ignore very short/noisy snippets
 MAX_TOTAL_CHUNKS  = 30   # hard cap in final prompt
@@ -39,9 +38,9 @@ def _load_questions(meta_path: Path):
         return {item["id"]: item for item in json.load(f)}
 
 
-def _load_chunks(dataset: str, question_id: int):
+def _load_chunks(dataset: str, question_id: int, chunk_base: Path):
+    fname = chunk_base / dataset / f"soru{question_id}_top10.json"
     """Load expanded top‑10 file for a dataset/question and filter decent snippets."""
-    fname = CHUNK_BASE / dataset / f"soru{question_id}_top10.json"
     if not fname.exists():
         return []
     with fname.open("r", encoding="utf-8") as f:
@@ -60,11 +59,13 @@ def _load_chunks(dataset: str, question_id: int):
     return good
 
 
-def generate_prompt(question_id: int, total_chunks: int = MAX_TOTAL_CHUNKS) -> str:
+def generate_prompt(question_id: int, workspace_dir: str, total_chunks: int = MAX_TOTAL_CHUNKS) -> str:
+    question_path = Path(workspace_dir) / "faiss" / "metadata_soru_yordam.json"
+    chunk_base    = Path(workspace_dir) / "expanded"
     """Return the complete evaluation prompt for the given *question_id*."""
 
     # --- fetch soru & yordam ------------------------------------------------
-    questions = _load_questions(QUESTION_METADATA)
+    questions = _load_questions(question_path)
     if question_id not in questions:
         raise ValueError(f"Question id {question_id} not found in metadata")
 
@@ -75,7 +76,7 @@ def generate_prompt(question_id: int, total_chunks: int = MAX_TOTAL_CHUNKS) -> s
     # --- gather chunks from all datasets ------------------------------------
     chunks = []
     for ds in DATASETS:
-        chunks.extend(_load_chunks(ds, question_id))
+        chunks.extend(_load_chunks(ds, question_id, chunk_base))
 
     # cap (preserve original order – no global ranking available)
     chunks = chunks[:total_chunks]

@@ -35,7 +35,7 @@ def main(pdf_path: str, question_id: int):
     
     print(f"📄 PDF: {pdf_path}")
     # 1) Workspace
-    init_workspace.init_workspace(ws)
+    init_workspace.init_workspace(ROOT, REPORT_ID)
 
     # 1.5) Soruları FAISS'e embedle
     txt_path = "QUESTIONS/default_questions_and_yordams.txt"
