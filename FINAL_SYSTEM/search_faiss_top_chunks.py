@@ -1,83 +1,107 @@
 """
-top10_chunk_retriever.py
-────────────────────────
-Her soru için FAISS indekslerinde arama yapar ve en alakalı 10 chunk'ı
-(genel, mevzuat, ozel kategorilerinden) çıkarır. Sonuçları ayrı JSON dosyalarına kaydeder.
+Belirtilen workspace’teki FAISS indekslerinde arama yapar ve her soru için
+en alakalı top-k chunk’ı üretir.  ask_all() fonksiyonu diğer script’lerden
+çağrılabilir; istersek CLI ile de hâlâ çalıştırabiliriz.
 """
 
+from __future__ import annotations
 import os, json, faiss, numpy as np
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 
-# 📁 Giriş / Çıkış dizinleri
-RAPOR_ID  = "rapor2023"
-WORKSPACE = f"workspace/{RAPOR_ID}"
+# ---------------------------------------------
+#  Ortak model‐yükleyici (.env → EMBED_MODEL)
+# ---------------------------------------------
+def _load_model(model_name: str | None = None) -> SentenceTransformer:
+    if model_name is None:
+        model_name = os.getenv("EMBED_MODEL",
+                               "sentence-transformers/all-MiniLM-L6-v2")
+    return SentenceTransformer(model_name)
 
-FAISS_DIR = os.path.join(WORKSPACE, "faiss")
-TOPK_DIR  = os.path.join(WORKSPACE, "top10")
-os.makedirs(TOPK_DIR, exist_ok=True)
 
-# 🔧 FAISS eşlemeleri
 DATASETS = {
     "genel":   {"index": "faiss_genel.index",   "meta": "metadata_genel.json"},
     "mevzuat": {"index": "faiss_mevzuat.index", "meta": "metadata_mevzuat.json"},
     "ozel":    {"index": "faiss_ozel.index",    "meta": "metadata_ozel.json"},
 }
 
-TOP_K = 10
-model = SentenceTransformer("intfloat/multilingual-e5-large")
 
-# ❓ Soru-Yordam
-soru_path = os.path.join(FAISS_DIR, "metadata_soru_yordam.json")
-with open(soru_path, encoding="utf-8") as f:
-    sorular = json.load(f)
+# ------------------------------------------------------------------
+#  Ana fonksiyon – pipeline içinden çağırmak için
+# ------------------------------------------------------------------
+def ask_all(workspace_dir: str,
+            top_k: int = 10,
+            model_name: str | None = None) -> None:
+    """
+    workspace_dir :  workspace/raporXXXX
+    top_k         :  her soru için döndürülecek chunk sayısı
+    model_name    :  Sentence-Transformers model adı (opsiyonel)
+    """
+    faiss_dir = os.path.join(workspace_dir, "faiss")
+    topk_dir  = os.path.join(workspace_dir, "top10")
+    os.makedirs(topk_dir, exist_ok=True)
 
-def ensure_dir(p): os.makedirs(p, exist_ok=True)
+    model = _load_model(model_name)
 
-def search_faiss(query, faiss_index, k):
-    embedding = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)
-    _, top_indices = faiss_index.search(embedding, k)
-    return top_indices[0]
+    print(f"\n🔍  FAISS indeksleri arama için yükleniyor …")
 
-# 🔄 Dataset bazlı döngü
-for ds, files in DATASETS.items():
-    print(f"\n🔍 Dataset: {ds.upper()}")
-    out_dir = os.path.join(TOPK_DIR, ds)
-    ensure_dir(out_dir)
+    # ❓ Soru-Yordam dosyası
+    soru_path = os.path.join(faiss_dir, "metadata_soru_yordam.json")
+    with open(soru_path, encoding="utf-8") as f:
+        sorular = json.load(f)
 
-    # 🔧 FAISS + metadata
-    idx_path  = os.path.join(FAISS_DIR, files["index"])
-    meta_path = os.path.join(FAISS_DIR, files["meta"])
+    def search_faiss(query: str, faiss_index, k: int):
+        emb, _ = model.encode([query], convert_to_numpy=True,
+                              normalize_embeddings=True, return_attention_mask=False)
+        _, idxs = faiss_index.search(emb, k)
+        return idxs[0]
 
-    index = faiss.read_index(idx_path)
-    with open(meta_path, encoding="utf-8") as f:
-        metadata = json.load(f)
+    # 🔄 dataset bazlı döngü
+    for ds, files in DATASETS.items():
+        print(f"\n🔍  DATASET  →  {ds.upper()}")
+        out_dir = os.path.join(topk_dir, ds)
+        os.makedirs(out_dir, exist_ok=True)
 
-    # 🔁 Her soru için top-k chunk seç
-    for soru in tqdm(sorular, desc=f"{ds} sorular"):
-        qid   = soru["id"]
-        qtext = soru["text"]
+        index   = faiss.read_index(os.path.join(faiss_dir, files["index"]))
+        with open(os.path.join(faiss_dir, files["meta"]), encoding="utf-8") as f:
+            metadata = json.load(f)
 
-        top_idxs = search_faiss(qtext, index, TOP_K)
+        for soru in tqdm(sorular, desc=f"{ds} sorular"):
+            qid, qtext = soru["id"], soru["text"]
+            top_idxs   = search_faiss(qtext, index, top_k)
 
-        results = []
-        for rank, idx in enumerate(top_idxs, 1):
-            entry = metadata[idx]
-            results.append({
-                "rank":           rank,
-                "index":          int(idx),
-                "chunk_text":     entry["chunk_text"],
-                "source_file":    entry.get("source_file"),
-                "char_len":       int(entry.get("char_len", 0)),
-                "sentence_count": int(entry.get("sentence_count", 0)),
-            })
+            results = []
+            for rank, idx in enumerate(top_idxs, 1):
+                entry = metadata[idx]
+                results.append({
+                    "rank":           rank,
+                    "index":          int(idx),
+                    "chunk_text":     entry["chunk_text"],
+                    "source_file":    entry.get("source_file"),
+                    "char_len":       int(entry.get("char_len", 0)),
+                    "sentence_count": int(entry.get("sentence_count", 0)),
+                })
 
-        # ✅ Kaydet
-        out_file = os.path.join(out_dir, f"soru{qid}_top10.json")
-        with open(out_file, "w", encoding="utf-8") as jf:
-            json.dump(results, jf, ensure_ascii=False, indent=2)
+            # ✅ Kaydet
+            with open(os.path.join(out_dir, f"soru{qid}_top{top_k}.json"),
+                      "w", encoding="utf-8") as jf:
+                json.dump(results, jf, ensure_ascii=False, indent=2)
 
-        if qid == 1:
-            print(f"  • soru{qid}: ilk chunk → {results[0]['chunk_text'][:100]}…")
+            if qid == 1:                          # küçük örnek çıktı
+                print(f"   • soru{qid}: {results[0]['chunk_text'][:100]}…")
 
-print("\n✅ Tüm sorular için top-10 sonuçlar kaydedildi.")
+    print("\n✅  Tüm sorular için top-k sonuçlar kaydedildi.")
+
+
+# ------------------------------------------------------------------
+#  Stand-alone CLI
+# ------------------------------------------------------------------
+if __name__ == "__main__":
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("workspace", help="workspace/raporXXXX")
+    ap.add_argument("--k", type=int, default=10, help="top-k")
+    ap.add_argument("--model", default=None,
+                    help="Sentence-Transformers model adı")
+    args = ap.parse_args()
+    ask_all(args.workspace, top_k=args.k, model_name=args.model)

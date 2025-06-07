@@ -14,10 +14,6 @@ from tqdm import tqdm
 # 📁 PATH AYARLARI
 RAPOR_ID     = "rapor2023"
 WORKSPACE    = f"workspace/{RAPOR_ID}"
-TXT_DIR      = os.path.join(WORKSPACE, "clean_txt")
-TOP10_DIR    = os.path.join(WORKSPACE, "top10")
-EXPAND_DIR   = os.path.join(WORKSPACE, "expanded")
-os.makedirs(EXPAND_DIR, exist_ok=True)
 
 # 🔧 HER KATEGORİYE ÖZEL GENİŞLETME MİKTARI
 EXPANSION_SIZE = {
@@ -59,34 +55,48 @@ def expand_chunk(chunk_text: str, full_text: str, extra_chars: int) -> str:
     end   = min(len(full_text), raw_idx + len(chunk_text) + extra_chars)
     return clean_text(full_text[start:end])
 
-# 🔁 HER KATEGORİ İÇİN GİRDİ → ÇIKTI
-for category, extra in EXPANSION_SIZE.items():
-    in_dir  = os.path.join(TOP10_DIR, category)
-    out_dir = os.path.join(EXPAND_DIR, category)
-    os.makedirs(out_dir, exist_ok=True)
 
-    for filename in tqdm(os.listdir(in_dir), desc=f"{category} expanding"):
-        if not filename.endswith(".json"):
+def expand_chunk(workspace_dir):
+    TXT_DIR    = os.path.join(workspace_dir, "clean_txt")
+    TOP10_DIR  = os.path.join(workspace_dir, "top10")
+    EXPAND_DIR = os.path.join(workspace_dir, "expanded")
+
+    for category, extra in EXPANSION_SIZE.items():
+        in_dir  = os.path.join(TOP10_DIR, category)
+        out_dir = os.path.join(EXPAND_DIR, category)
+        if not os.path.exists(in_dir):
+            print(f"⚠️ Klasör bulunamadı, atlanıyor: {in_dir}")
             continue
 
-        with open(os.path.join(in_dir, filename), encoding="utf-8") as f:
-            chunks = json.load(f)
 
-        for chunk in chunks:
-            source_txt = chunk.get("source_file")
-            report_path = os.path.join(TXT_DIR, source_txt)
-
-            if not os.path.isfile(report_path):
-                print(f"❌ Kaynak metin yok: {source_txt}")
-                chunk["expanded_text"] = clean_text(chunk["chunk_text"])
+        for filename in tqdm(os.listdir(in_dir), desc=f"{category} expanding"):
+            if not filename.endswith(".json"):
                 continue
 
-            with open(report_path, encoding="utf-8") as rf:
-                full_text = rf.read()
+            with open(os.path.join(in_dir, filename), encoding="utf-8") as f:
+                chunks = json.load(f)
 
-            chunk["expanded_text"] = expand_chunk(chunk["chunk_text"], full_text, extra)
+            for chunk in chunks:
+                source_txt = chunk.get("source_file")
+                report_path = os.path.join(TXT_DIR, source_txt)
 
-        with open(os.path.join(out_dir, filename), "w", encoding="utf-8") as wf:
-            json.dump(chunks, wf, ensure_ascii=False, indent=2)
+                if not os.path.isfile(report_path):
+                    print(f"❌ Kaynak metin yok: {source_txt}")
+                    chunk["expanded_text"] = clean_text(chunk["chunk_text"])
+                    continue
 
-print("\n✅ Tüm genişletilmiş top-10 sonuçlar kaydedildi → workspace/{rapor_id}/expanded/")
+                with open(report_path, encoding="utf-8") as rf:
+                    full_text = rf.read()
+
+                chunk["expanded_text"] = expand_chunk_text(chunk["chunk_text"], full_text, extra)
+
+            with open(os.path.join(out_dir, filename), "w", encoding="utf-8") as wf:
+                json.dump(chunks, wf, ensure_ascii=False, indent=2)
+
+    print(f"\n✅ Tüm genişletilmiş top-10 sonuçlar kaydedildi → {EXPAND_DIR}")
+
+
+if __name__ == "__main__":
+    expand_chunk(WORKSPACE)
+    # Örnek kullanım: expand_chunk("workspace/rapor2023")
+    # Bu fonksiyon, rapor2023 klasöründeki top10 sonuçlarını genişletir.

@@ -13,50 +13,70 @@ Raporu adım adım işler:
 #         raw_text = f.read()
 '''
 
-import os, sys, argparse
+import os, argparse
 from pathlib import Path
-from dotenv import load_dotenv
+from dotenv import load_dotenv; load_dotenv() # .env dosyasını yükledik burada
 
-# 1) Ortam değişkenlerini yükle
-load_dotenv()
-ROOT       = Path(os.getenv("WORKSPACE_ROOT", "workspace"))
-REPORT_ID  = os.getenv("REPORT_ID", "demo")
-ws         = ROOT / REPORT_ID               # workspace/rapor123
+# burada .env dosyasından değişkenleri okuyoruz mesela root degiskenine env dosyasından gelen WORKSPACE_ROOT değerini atıyoruz
+ROOT        = Path(os.getenv("WORKSPACE_ROOT", "workspace")) # eger .env yoksa varsayılan "workspace"
+EMBED_MODEL = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2") # varsayılan model
+TOPK       = int(os.getenv("TOPK", 10)) # varsayılan top-k sayısı
 
-# 2) Proje modüllerini içe aktar
+
+# ---- modüller ----
 import init_workspace, pdf_to_text, cid_cleaner
-import chunk_creator, faiss_creator, search_faiss_top_chunks
-import expand_top10_chunks, gpt_amacalismiyor
+import chunk_creator, faiss_creator, soru_yordam_embedder
+import search_faiss_top_chunks, expand_top10_chunks
+import gpt_amacalismiyor       # hâlâ “stub” durumda
 
-def main(pdf_path:str, question_id:int):
-    # A. klasörleri aç
-    init_workspace.prepare_workspace(ws)      # fonksiyon isimleri örnek
+def main(pdf_path: str, question_id: int):
+    print("BASLİYORUMMMMM")
+
     
-    # B. PDF -> RAW TEXT
-    raw_txt = pdf_to_text.convert(pdf_path, ws)
-    
-    # C. CID temizle
-    clean_txt = cid_cleaner.clean(raw_txt, ws)
-    
-    # D. Chunk’la & metadata
-    chunk_creator.make_chunks(clean_txt, ws)
-    
-    # E. FAISS
-    faiss_creator.build_indexes(ws)
-    
-    # F. Soru sor – top-k chunk
-    search_faiss_top_chunks.ask_all(ws)
-    
-    # G. Chunk genişlet
-    expand_top10_chunks.expand(ws)
-    
-    # H. GPT ile nihai cevap
-    answer = gpt_amacalismiyor.answer(question_id, ws)
-    print("\n---- FINAL ANSWER ----\n", answer)
+    print(f"📄 PDF: {pdf_path}")
+    # 1) Workspace
+    init_workspace.init_workspace(ws)
+
+    # 1.5) Soruları FAISS'e embedle
+    txt_path = "QUESTIONS/default_questions_and_yordams.txt"
+    soru_yordam_embedder.vectorize_soru_yordam(txt_path, str(ws), EMBED_MODEL)
+
+    print(f"📂 Workspace: {ws}")
+    # 2) OCR / PDF to text
+    raw_txt = pdf_to_text.pdf_to_txt(pdf_path, ws)
+
+    print(f"📄 Raw text extracted: {len(raw_txt)} characters")
+    # 3) CID temizle
+    clean_txt = cid_cleaner.clean_txt(raw_txt, ws)
+
+    print(f"📄 Cleaned text: {len(clean_txt)} characters")
+    # 4) Chunk
+    chunk_creator.create_chunks(clean_txt, ws)
+
+    print(f"📂 Chunks created: {len(os.listdir(ws / 'chunks'))} files")
+    # 5) FAISS
+    faiss_creator.create_faiss_for_chunks(ws, model_name=EMBED_MODEL)
+
+    print("🔍 FAISS index created")
+    # 6) Top-k
+    search_faiss_top_chunks.ask_all(ws, top_k=TOPK, model_name=EMBED_MODEL)
+
+    print(f"🔟 Top-10 chunks found for question ID {question_id}")
+    # 7) Genişlet
+    expand_top10_chunks.expand_chunk(ws)
+
+    print("📈 Expanded top-10 chunks saved")
+    # 8) LLM cevap (placeholder)
+    answer = gpt_amacalismiyor.generate_prompt(question_id, ws)
+    print("\n🟢 FINAL ANSWER\n", answer)
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("pdf",        help="path/to/report.pdf")
-    ap.add_argument("questionid", help="metadata_soru_yordam içindeki sıra", type=int)
+    ap.add_argument("report_id", help="Örn: rapor2023")
+    ap.add_argument("pdf", help="PDF dosyasının yolu")
+    ap.add_argument("qid", type=int, help="Soru ID’si (örn: 1)")
     args = ap.parse_args()
-    main(args.pdf, args.questionid)
+
+    REPORT_ID = args.report_id
+    ws = ROOT / REPORT_ID
+    main(args.pdf, args.qid)
